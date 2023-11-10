@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Landing
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Welcome to the documentation page for **Us Who Remain**, a tabletop role-playing game (TTRPG) centered around small animals thriving in a post-human world.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. FUBAR ahead
 
 Contents
 --------
