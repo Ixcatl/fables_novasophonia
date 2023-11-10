@@ -10,6 +10,7 @@ Most core rules are derived from `the Unofficial Hollow Knight RPG <https://driv
    This project is under active development. FUBAR ahead
 
 .. toctree::
+   :maxdepth: 1
    :hidden:
 
    index
