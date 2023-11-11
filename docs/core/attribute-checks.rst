@@ -11,7 +11,7 @@ Direct checks are usually rolled when a character takes an action that carries s
 
 The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, and adds a :term:`die bonus` equal to their highest rank in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
 
-.. note::
+.. Important::
 
    If an Attribute has half a point, ending in .5, the Attribute is rounded down to the nearest whole number and a :term:`reroll` is granted to the check instead.
 
@@ -22,7 +22,7 @@ Opposed Checks
 
 A character resisting or disrupting the effects of another character's actions may need to roll an opposed check. These are made similarly to direct checks, except each success negates one from the other character's check.
 
-.. note::
+.. Tip::
 
    If two opposed checks roll evenly, the character *reacting to the action made* wins by default.
 
