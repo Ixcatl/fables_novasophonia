@@ -20,3 +20,4 @@ Most core rules are derived from `the Unofficial Hollow Knight RPG <https://driv
 
    core/rolls
    core/attribute-checks
+   core/attributes
