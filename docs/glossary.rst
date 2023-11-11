@@ -6,6 +6,12 @@ For the convenience of players and GMs alike, this page includes a number of com
 
 .. glossary::
 
+   die bonus
+      Adds a number of extra dice to the associated roll before it is made.
+
+   die penalty
+      Removes a number of existing dice from the associated roll before it is made. Most rolls cannot be reduced to less than 1 die.
+
    favor
       Any roll with favor has its succeeding threshold altered by a corresponding amount; 1 favor will drop the threshold from 5+ to 4+ for success.
 
