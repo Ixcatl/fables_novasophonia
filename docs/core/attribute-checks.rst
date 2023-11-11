@@ -11,7 +11,9 @@ Direct checks are usually rolled when a character takes an action that carries s
 
 The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, and adds extra dice equal to their highest rank in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
 
-If an Attribute has half a point, ending in .5, the Attribute is rounded down to the nearest whole number and a :term:`reroll` is granted to the check instead.
+.. note::
+
+   If an Attribute has half a point, ending in .5, the Attribute is rounded down to the nearest whole number and a :term:`reroll` is granted to the check instead.
 
 For example: Ser Laurenz attempts to swim to the bottom of a lake, and the GM calls for a Brawn roll. The player asks if his "Athletics" skill is relevant, and the GM agrees, granting the roll extra dice equal to Laurenz's rank in "Knight", the proficiency that grants him this skill. Highly specific skills may add bonus rerolls: for example, having a "Swimming" skill may add one; a "Diving" skill may add two instead.
 
