@@ -30,7 +30,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_title = 'Us Who Remain TTRPG Handbook'
+html_title = 'Us Who Remain TTRPG handbook'
+html_theme_options = {
+    'display_version': False
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
