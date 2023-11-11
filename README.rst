@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Documentation for the Us Who Remain TTRPG
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Read it here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://mouse-ttrpg.readthedocs.io/en/latest/
