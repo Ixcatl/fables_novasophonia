@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Us Who Remain TTRPG'
+project = 'Us Who Remain: TTRPG Rulebook'
 copyright = '2023, Ixcatl'
 author = 'Ixcatl'
 
@@ -30,7 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_title = 'Us Who Remain TTRPG handbook'
+html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     'display_version': False
 }
