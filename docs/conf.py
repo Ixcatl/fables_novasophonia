@@ -63,17 +63,13 @@ html_theme_options = {
 favicons = [
    {
       "sizes": "16x16",
-      "href": "favicon-16x16.png",  # use a local file in _static
-   },
-   {
-      "sizes": "32x32",
-      "href": "favicon-32x32.png",
+      "href": "favicon-16x16.ico",  # use a local file in _static
    },
    {
       "rel": "apple-touch-icon",
       "sizes": "180x180",
-      "href": "favicon-180x180.png",
-   },
+      "href": "favicon-180x180.ico",
+   }
 ]
 
 # -- Options for EPUB output
