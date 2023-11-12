@@ -2,12 +2,14 @@
 Character Attributes & Stats
 ****************************
 
-Whether sapient like common mice and titanic cats, or feral like lowly bugs and fish, every living being met in this world features the same basic character statistics.
+Whether sapient like common mice and titanic cats or feral like lowly bugs and fish, every living being met in this world features the same basic character statistics.
 
 Primary and Secondary Attributes
 ================================
 
 agga
+
+--------
 
 Brawn
 =====
@@ -24,6 +26,8 @@ Light Items
 
 agga
 
+--------
+
 Grace
 =====
 
@@ -33,6 +37,8 @@ Footwork
 --------
 
 agga
+
+--------
 
 Mettle
 ======
@@ -44,6 +50,8 @@ Belt Size
 
 agga
 
+--------
+
 Savvy
 =====
 
@@ -53,6 +61,8 @@ Technique Slots
 ---------------
 
 agga
+
+--------
 
 Other Attributes
 ================
