@@ -58,6 +58,7 @@ html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     'display_version': False
 }
+html_favicon = 'favicon.ico'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
