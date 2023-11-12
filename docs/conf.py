@@ -19,7 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'hoverxref.extension',
     'sphinx_tabs.tabs',
-    'sphinx-favicon'
+    'sphinx_favicon'
 ]
 
 hoverxref_auto_ref = True
