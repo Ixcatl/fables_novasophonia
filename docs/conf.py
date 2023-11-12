@@ -41,6 +41,8 @@ hoverxref_role_types = {
     "term": "tooltip",  # for glossaries
 }
 
+sphinx_tabs_disable_tab_closing = True
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
