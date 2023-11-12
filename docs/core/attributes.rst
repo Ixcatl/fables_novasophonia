@@ -4,39 +4,45 @@ Character Attributes & Stats
 
 Whether sapient like common mice and titanic cats or feral like lowly bugs and fish, every living being met in this world features the same basic character statistics.
 
+--------
+
 Primary and Secondary Attributes
 ================================
 
 agga
 
---------
+.. tabs::
 
-Brawn
-=====
+   .. tab:: Brawn
 
-agga
+      Brawn
+      =====
+      
+      agga
+      
+      Load
+      ----
+      
+      agga
+      
+      Light Items
+      -----------
+      
+      agga
 
-Load
-----
+   .. tab:: |org_brand|
+      
+      Grace
+      =====
+      
+      agga
+      
+      Footwork
+      --------
+      
+      agga
 
-agga
 
-Light Items
------------
-
-agga
-
---------
-
-Grace
-=====
-
-agga
-
-Footwork
---------
-
-agga
 
 --------
 
