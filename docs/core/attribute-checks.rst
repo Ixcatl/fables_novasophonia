@@ -9,7 +9,7 @@ Direct Checks
 
 Direct checks are usually rolled when a character takes an action that carries some risk of failure, and doesn't oppose any other characters.
 
-The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, and adds a :term:`die bonus` equal to their highest rank in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
+The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, adding a :term:`die bonus` equal to their highest rank in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
 
 .. Important::
 
