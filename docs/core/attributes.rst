@@ -15,22 +15,11 @@ agga
 
    .. tab:: Brawn
 
-      Brawn
-      =====
-      
-      agga
-      
-      Load
-      ----
-      
-      agga
-      
-      Light Items
-      -----------
-      
-      agga
+      Test
+         Test 2
+            Test 3
 
-   .. tab:: |org_brand|
+   .. tab:: Grace
       
       Grace
       =====
