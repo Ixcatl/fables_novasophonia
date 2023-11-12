@@ -17,8 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'hoverxref.extension',
     'sphinx_tabs.tabs',
-    'hoverxref.extension'
+    'sphinx-favicon'
 ]
 
 hoverxref_auto_ref = True
@@ -58,7 +59,22 @@ html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     'display_version': False
 }
-html_favicon = 'favicon.ico'
+
+favicons = [
+   {
+      "sizes": "16x16",
+      "href": "favicon-16x16.png",  # use a local file in _static
+   },
+   {
+      "sizes": "32x32",
+      "href": "favicon-32x32.png",
+   },
+   {
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "favicon-180x180.png",
+   },
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
