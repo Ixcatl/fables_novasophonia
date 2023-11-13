@@ -165,6 +165,8 @@ Stash is only accessed when a Path or other source grants it, and the base maxim
 
 Given a character knows the recipe for an item or a category of items, Stash can be used to cobble them together on the spot. An item has a Stash cost of 1 per 100 value, rounded to the nearest hundred but never 0. Created items fall apart or become inert at the end of the scene, due to their improvised nature.
 
+--------
+
 Temporary Pools
 ===============
 Special abilities and effects can provide an additional temporary, or "temp", increase to a character's pools, tracked separately from the rest of the pool and not counting towards the pool's maximum. These additional points go away when they take a Rest, unless noted otherwise.
