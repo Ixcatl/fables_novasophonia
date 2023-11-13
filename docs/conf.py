@@ -54,8 +54,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# html_theme = 'sphinx_rtd_theme'
-html_theme = 'sphinx_book_theme'
+html_theme = 'sphinx_rtd_theme' # sphinx-rtd-theme==1.3.0rc1 sphinx==7.1.2
+# html_theme = 'sphinx_book_theme' # sphinx-book-theme==1.0.1 sphinx==6.2.1
 html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     'display_version': False
