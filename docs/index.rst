@@ -26,4 +26,5 @@ Most core rules are derived from `the Unofficial Hollow Knight RPG <https://driv
    :caption: Catalog
    :hidden:
 
+   catalog/species
    catalog/traits
