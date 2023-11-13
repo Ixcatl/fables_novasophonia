@@ -6,8 +6,8 @@
 }
 
 .fa-plus-square-o::before {
-  content: "";
+  content: "" !important;
 }
 .fa-minus-square-o::before {
-  content: "";
+  content: "" !important;
 }
