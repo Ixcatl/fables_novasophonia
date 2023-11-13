@@ -45,7 +45,7 @@ Mettle
 ======
 A measure of the thickness of a character's skin, metaphorical or otherwise, and the strength of their resolve.
 
-Whenever a physical attack successfully hits a character, they roll Mettle to soak that damage, ignoring damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
+Whenever a physical attack successfully hits a character, they may roll to Soak that damage, using Mettle to ignore damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
 
 Belt Slots
 ---------
@@ -66,7 +66,7 @@ Savvy is used for many aspects of occult magic, in addition to checks using keen
 
 Technique Slots
 ---------------
-A character's Technique slots are a staging ground for their Arts and Arcana, assigned similarly to keybinds in a video game for quick and easy use. Characters have Technique slots equal to their Insight rounded down.
+A character's Technique slots are a staging ground for their Arts and Arcana, assigned for quick and easy use. Characters have Technique slots equal to their Savvy rounded down.
 
 --------
 
@@ -155,12 +155,12 @@ A gauge of how much magical potential waxes and wanes within a character.
 
 All spells and some actions cost Magic. It may be restored by resting, and through certain other means.
 
-This Pool is normally unlocked once a character takes a rank in a mystic Path. Magic has a base maximum value equal to half of the character's Insight rounded up, and each additional rank taken in a mystic Path increases this maximum by 1.
+This Pool is normally unlocked once a character takes a rank in a mystic Path. Magic has a base maximum value equal to half of the character's Savvy rounded up, and each additional rank taken in a mystic Path increases this maximum by 1.
 
 Stash
 -----
-The amount of materials a particularly inventive critter has on them to jury-rig items with.
+The amount of materials a particularly inventive critter has to jury-rig items with.
 
-Stash is only accessed when a Path or other source grants it, and the base maximum Stash is equal to half of the character's Insight rounded up.
+Stash is only accessed when a Path or other source grants it, and the base maximum Stash is equal to half of the character's Savvy rounded up.
 
 Given a character knows the recipe for an item or a category of items, Stash can be used to cobble them together on the spot. An item has a Stash cost of 1 per 100 value, rounded to the nearest hundred but never 0. Created items fall apart or become inert at the end of the scene, due to their improvised nature.
