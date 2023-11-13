@@ -39,14 +39,14 @@ hoverxref_role_types = {
     "class": "tooltip",  # for Python Sphinx Domain
     "ref": "tooltip",  # for hoverxref_auto_ref config
     "confval": "tooltip",  # for custom object
-    "term": "tooltip",  # for glossaries
+    "term": "tooltip"  # for glossaries
 }
 
 sphinx_tabs_disable_tab_closing = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'sphinx': ('https://www.sphinx-doc.org/en/master/', None)
 }
 intersphinx_disabled_domains = ['std']
 
@@ -60,7 +60,7 @@ html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     "use_download_button": False,
     "use_fullscreen_button": False,
-    "show_toc_level": 2,
+    "show_toc_level": 2
 }
 
 favicons = [
@@ -71,7 +71,7 @@ favicons = [
    {
       "rel": "apple-touch-icon",
       "sizes": "180x180",
-      "href": "favicon-180x180.ico",
+      "href": "favicon-180x180.ico"
    }
 ]
 
