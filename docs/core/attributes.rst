@@ -79,25 +79,25 @@ Hunger affects how much food a character must eat, while Belly is determined by 
 
 Every rest, a character loses Belly equal to their Hunger or 10, whichever is higher, and this loss may lower Belly into negative values. Various effects accumulate as Belly decreases further, as detailed on the following table.
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Belly Value | Effects                                                                                                                                                                                         |
-+=============+=================================================================================================================================================================================================+
-| 0 or Above  | Taking a Sleep with 0 or higher Belly fully replenishes a character's Magic, and restores 1 extra Vitality                                                                                      |
-|             | for each Sleep camp action. They also recover from 1 Attribute damage per Attribute.                                                                                                            |
-|             |                                                                                                                                                                                                 |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| -50 to -1   | A character with this much Belly gains half as much Magic, rounded up, from rest.                                                                                                               |
-|             |                                                                                                                                                                                                 |
-|             |                                                                                                                                                                                                 |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| -100 to -51 | In addition to the effect above, a character with this much Belly suffers -1 to all primary Attributes,                                                                                         |
-|             | but may roll to spot food twice and take the better result.                                                                                                                                     |
-|             |                                                                                                                                                                                                 |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Below -100  | The character is dead, having succumbed to starvation.                                                                                                                                          |
-|             |                                                                                                                                                                                                 |
-|             |                                                                                                                                                                                                 |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------------+
+| Belly Value | Effects                                                                                                    |
++=============+============================================================================================================+
+| 0 or Above  | Taking a Sleep with 0 or higher Belly fully replenishes a character's Magic, and restores 1 extra Vitality |
+|             | for each Sleep camp action. They also recover from 1 Attribute damage per Attribute.                       |
+|             |                                                                                                            |
++-------------+------------------------------------------------------------------------------------------------------------+
+| -50 to -1   | A character with this much Belly gains half as much Magic, rounded up, from rest.                          |
+|             |                                                                                                            |
+|             |                                                                                                            |
++-------------+------------------------------------------------------------------------------------------------------------+
+| -100 to -51 | In addition to the effect above, a character with this much Belly suffers -1 to all primary Attributes,    |
+|             | but may roll to spot food twice and take the better result.                                                |
+|             |                                                                                                            |
++-------------+------------------------------------------------------------------------------------------------------------+
+| Below -100  | The character is dead, having succumbed to starvation.                                                     |
+|             |                                                                                                            |
+|             |                                                                                                            |
++-------------+------------------------------------------------------------------------------------------------------------+
 
 Cool, Cute, and Creep
 --------------
@@ -113,7 +113,7 @@ Bulk is how much the character *themselves* weighs, should another wish to carry
 
 Trinket Slots
 -------
-A character has a base of 2 Trinket slots plus their Path ranks. These are used for equipping Trinkets, curious objects found in the world which may grant unique effects.
+A character has a base of 2 Trinket slots plus their total Path ranks. These are used for equipping Trinkets, curious objects found in the world which may grant unique effects.
 
 Absorption
 ----------
@@ -124,3 +124,43 @@ Size
 Every character has a size, varying from Small, Average, or Large, as determined from their species. Small and Average characters occupy a single square of space, while Large ones occupy a space that is two squares wide in all dimensions.
 
 Even larger characters exist, known as Huge, and their sizes can vary heavily. Huge characters are often immune to effects such as grapples and stuns.
+
+--------
+
+Pools
+=====
+Unlike Attributes, which usually remain static beyond debuffs, Pools are active resources which fluctuate regularly as actions are taken and consequences endured. Only Vitality and Stamina are common between all characters; several others are available to those with the corresponding playstyles, or certain species.
+
+--------
+
+Vitality
+--------
+The amount of damage a character is able to take before dying.
+
+Taking damage reduces Vitality, and a character reduced to 0 Vitality dies. Particularly driven characters or those controlled by players may enter Death's Door when reduced to 0 Vitality instead.
+
+Stamina
+-------
+How much one can push themselves in a round of combat.
+
+Most actions taken during combat cost at least 1 Stamina, and additional Stamina can be dedicated to attack and defense rolls. A character's Stamina replenishes each round at the beginning of their turn.
+
+Each rank taken in a martial Path increases maximum Stamina by 1.
+
+--------
+
+Magic
+-----
+A gauge of how much magical potential waxes and wanes within a character.
+
+All spells and some actions cost Magic. It may be restored by resting, and through certain other means.
+
+This Pool is normally unlocked once a character takes a rank in a mystic Path. Magic has a base maximum value equal to half of the character's Insight rounded up, and each additional rank taken in a mystic Path increases this maximum by 1.
+
+Stash
+-----
+The amount of materials a particularly inventive critter has on them to jury-rig items with.
+
+Stash is only accessed when a Path or other source grants it, and the base maximum Stash is equal to half of the character's Insight rounded up.
+
+Given a character knows the recipe for an item or a category of items, Stash can be used to cobble them together on the spot. An item has a Stash cost of 1 per 100 value, rounded to the nearest hundred but never 0. Created items fall apart or become inert at the end of the scene, due to their improvised nature.
