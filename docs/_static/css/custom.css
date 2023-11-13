@@ -4,3 +4,10 @@
 .wy-table-responsive table td {
     white-space: normal !important;
 }
+
+.fa-plus-square-o::before {
+  content: "";
+}
+.fa-minus-square-o::before {
+  content: "";
+}
