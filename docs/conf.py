@@ -58,7 +58,8 @@ html_theme = 'sphinx_rtd_theme' # sphinx-rtd-theme==1.3.0rc1 sphinx==7.1.2
 # html_theme = 'sphinx_book_theme' # sphinx-book-theme==1.0.1 sphinx==6.2.1
 html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
-    'display_version': False
+    'display_version': False,
+    'collapse_nagivation': True
     # "use_download_button": False,
     # "use_fullscreen_button": False,
     # "show_toc_level": 2
