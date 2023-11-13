@@ -58,7 +58,9 @@ templates_path = ['_templates']
 html_theme = 'sphinx_book_theme'
 html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
-    'display_version': False
+    "use_download_button": False,
+    "use_fullscreen_button": False,
+    "show_toc_level": 2,
 }
 
 favicons = [
