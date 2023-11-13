@@ -10,14 +10,14 @@ Most core rules are derived from `the Unofficial Hollow Knight RPG <https://driv
    This project is under active development. FUBAR ahead
 
 .. toctree::
-   :maxdepth: 0
    :hidden:
 
-   index
+   glossary
 
 .. toctree::
-   :caption: Test Caption
+   :caption: Core Mechanics
    :hidden:
 
-   usage
-   api
+   core/rolls
+   core/attribute-checks
+   core/attributes
