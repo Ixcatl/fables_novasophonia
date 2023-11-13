@@ -60,7 +60,8 @@ html_title = 'Us Who Remain: TTRPG Rulebook'
 html_theme_options = {
     'display_version': False,
     'collapse_navigation': False,
-    'sticky_navigation': False
+    'sticky_navigation': False,
+    'prev_next_buttons_location': 'None'
     # "use_download_button": False,
     # "use_fullscreen_button": False,
     # "show_toc_level": 2
