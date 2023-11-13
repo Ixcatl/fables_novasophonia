@@ -83,14 +83,21 @@ Every rest, a character loses Belly equal to their Hunger or 10, whichever is hi
 | Belly Value | Effects                                                                                                                                                                                         |
 +=============+=================================================================================================================================================================================================+
 | 0 or Above  | Taking a Sleep with 0 or higher Belly fully replenishes a character's Magic, and restores 1 extra Vitality for each Sleep camp action. They also recover from 1 Attribute damage per Attribute. |
++             +                                                                                                                                                                                                 +
+|             |                                                                                                                                                                                                 |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | -50 to -1   | A character with this much Belly gains half as much Magic, rounded up, from rest.                                                                                                               |
++             +                                                                                                                                                                                                 +
+|             |                                                                                                                                                                                                 |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | -100 to -51 | In addition to the effect above, a character with this much Belly suffers -1 to all primary Attributes, but may roll to spot food twice and take the better result.                             |
++             +                                                                                                                                                                                                 +
+|             |                                                                                                                                                                                                 |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Below -100  | The character is dead, having succumbed to starvation.                                                                                                                                          |
++             +                                                                                                                                                                                                 +
+|             |                                                                                                                                                                                                 |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
 
 Cool, Cute, and Creep
 --------------
