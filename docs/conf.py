@@ -42,7 +42,6 @@ hoverxref_role_types = {
     "term": "tooltip",  # for glossaries
 }
 
-sphinx_tabs_disable_css_loading = True
 sphinx_tabs_disable_tab_closing = True
 
 intersphinx_mapping = {
