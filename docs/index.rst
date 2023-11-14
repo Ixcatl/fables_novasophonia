@@ -22,6 +22,12 @@ Personal distribution and modification of this rulebook is encouraged. Any comme
    core/attributes
 
 .. toctree::
+   :caption: Guide
+   :hidden:
+
+   guide/character
+
+.. toctree::
    :caption: Catalog
    :hidden:
 
