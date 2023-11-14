@@ -28,3 +28,8 @@ Most core rules are derived from `the Unofficial Hollow Knight RPG <https://driv
 
    catalog/species
    catalog/traits
+   catalog/paths
+   catalog/arts-arcana
+   catalog/trinkets
+   catalog/equipment
+   catalog/items
