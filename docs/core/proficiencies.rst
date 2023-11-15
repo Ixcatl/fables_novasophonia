@@ -15,7 +15,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
     +-----------------------------------------------------------------+
     | Example Proficiencies                                           |
     +================================+================================+
-    | Proficiency                    | Skills                         |
+    | **Proficiency**                | **Skills**                     |
     +================================+================================+
     | Knight                         | Equipment Maintenance          |
     |                                +--------------------------------+
