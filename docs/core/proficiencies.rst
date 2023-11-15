@@ -16,7 +16,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         | Example Proficiencies                                           |
         +================================+================================+
         | **Proficiency**                | **Skills**                     |
-        +================================+================================+
+        +--------------------------------+--------------------------------+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
         |                                | Athletics                      |
@@ -80,7 +80,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         | Example Skill Uses                                              |
         +================================+================================+
         | **Skill**                      | **Use Case**                   |
-        +================================+================================+
+        +--------------------------------+--------------------------------+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
         |                                | Athletics                      |
@@ -144,7 +144,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         | Example Masteries                                               |
         +================================+================================+
         | **Skill**                      | **Mastery**                    |
-        +================================+================================+
+        +--------------------------------+--------------------------------+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
         |                                | Athletics                      |
