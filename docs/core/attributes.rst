@@ -107,17 +107,17 @@ Speed
 -----
 Speed affects how quickly a character can move about. They may move a number of spaces each turn equal to their Speed value.
 
-Bulk
-----
-Bulk is how much the character *themselves* weighs, should another wish to carry them. Bulk may vary considerably between species. If one carries more Bulk than they weigh, they are treated as the greater of the two.
-
 Trinket Slots
 -------
-A character has a base of 2 Trinket slots plus their total Path ranks. These are used for equipping Trinkets, curious objects found in the world which may grant unique effects.
+A character has a base of 2 Trinket slots plus their total Path ranks. These are allocated towards equipping Trinkets, magical objects which may bestow unusual effects.
 
 Absorption
 ----------
 Some characters have an Absorption score. After all DR has reduced the damage risked, and Soak has reduced the damage taken, Absorption applies. Absorption reduces the damage taken to 1, plus 1 for every time the damage meets the score. Absorption even reduces unusual sources, such as DoT effects or unsoakable damage.
+
+Bulk
+----
+Bulk is how much the character *themselves* weighs, should another wish to carry them. Bulk may vary considerably between species. If one carries more Bulk than they weigh, they are treated as the greater of the two.
 
 Size
 ----
