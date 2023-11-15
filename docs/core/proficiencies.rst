@@ -55,9 +55,9 @@ Example Proficiencies
    - **HEADER2**
    - **HEADER3**
  * - TEXT 1
-   - | MULTILINE 
+   - MULTILINE 
      | TEXT
-   - | MULTILINE
+   - MULTILINE
      | TEXT 2
 
 Example Skill Uses
