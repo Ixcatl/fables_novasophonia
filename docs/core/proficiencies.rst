@@ -11,7 +11,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 Example Proficiencies
 ---------------------
 
-.. container::
+.. container:: twocol
 
   .. container:: leftside
 
