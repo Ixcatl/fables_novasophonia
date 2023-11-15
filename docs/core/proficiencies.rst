@@ -75,7 +75,7 @@ Example Proficiencies
     |                                | Lore (Crime)                   |
     +--------------------------------+--------------------------------+
 
-    .. container:: rightside
+  .. container:: rightside
 
       test (:
 
