@@ -8,6 +8,8 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 .. Tip::
   If you have multiple Proficiencies that share a skill, that skill has dice equal to the combined rank of those Proficiencies - but never more than three.
 
+Remember that these are **merely suggestions** - GM and player are able to come up with their own unique skills, professions, uses, and Masteries. Get creative!
+
 .. grid:: 1 2 3 3
   :gutter: 4
 
