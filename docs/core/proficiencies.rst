@@ -12,11 +12,10 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        Example Proficiencies
-        ---------------------
-
+        +-----------------------------------------------------------------+
+        | **Example Proficiencies**                                       |
         +--------------------------------+--------------------------------+
-        | Example Proficiency            | Example Skills                 |
+        | Proficiency                    | Skills                         |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
@@ -77,11 +76,10 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        Example agga
-        ---------------------
-
+        +-----------------------------------------------------------------+
+        | **Example Skill Uses**                                          |
         +--------------------------------+--------------------------------+
-        | Example Proficiency            | Example Skills                 |
+        | Skill                          | Use Case                       |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
@@ -142,11 +140,10 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        Example agga2
-        ---------------------
-
+        +-----------------------------------------------------------------+
+        | **Example Masteries**                                           |
         +--------------------------------+--------------------------------+
-        | Example Proficiency            | Example Skills                 |
+        | Skill                          | Mastery                        |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
