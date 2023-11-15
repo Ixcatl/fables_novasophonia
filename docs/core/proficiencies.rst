@@ -12,7 +12,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +-----------------------------------------------------------------+
+        +================================+================================+
         | **Example Proficiencies**                                       |
         +--------------------------------+--------------------------------+
         | Proficiency                    | Skills                         |
@@ -76,7 +76,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +-----------------------------------------------------------------+
+        +================================+================================+
         | **Example Skill Uses**                                          |
         +--------------------------------+--------------------------------+
         | Skill                          | Use Case                       |
@@ -140,7 +140,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +-----------------------------------------------------------------+
+        +================================+================================+
         | **Example Masteries**                                           |
         +--------------------------------+--------------------------------+
         | Skill                          | Mastery                        |
@@ -201,12 +201,6 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         |                                +--------------------------------+
         |                                | Lore (Crime)                   |
         +--------------------------------+--------------------------------+
-
-Example Skill Uses
-------------------
-
-Example Masteries
------------------
 
 Researching Arcana & Practicing Arts
 ====================================
