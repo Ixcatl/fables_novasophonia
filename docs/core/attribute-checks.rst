@@ -1,7 +1,6 @@
 ****************
 Attribute Checks
 ****************
-
 When a character is faced with a particularly troublesome task, one where success isn't guaranteed, the GM may require them to roll an Attribute check. These will usually be called by their associated Attribute, i.e. a "Grace check" or "Grace roll" drawing from that character's Grace Attribute.
 
 .. Important::
@@ -10,7 +9,6 @@ When a character is faced with a particularly troublesome task, one where succes
 
 Direct Checks
 =============
-
 Direct checks are usually rolled when a character takes an action that carries some risk of failure, and doesn't oppose any other characters.
 
 The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, adding a :term:`die bonus` equal to their cumulative ranks in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
@@ -34,7 +32,6 @@ For example: Ser Laurenz attempts to swim to the bottom of a lake, and the GM ca
 
 Opposed Checks
 ===============
-
 A character resisting or disrupting the effects of another character's actions may need to roll an opposed check. These are made similarly to direct checks, except each success negates one from the other character's check.
 
 .. Tip::
