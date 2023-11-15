@@ -12,9 +12,9 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +================================+================================+
-        | **Example Proficiencies**                                       |
         +--------------------------------+--------------------------------+
+        | Example Proficiencies                                           |
+        +================================+================================+
         | Proficiency                    | Skills                         |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
@@ -76,9 +76,9 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +================================+================================+
-        | **Example Skill Uses**                                          |
         +--------------------------------+--------------------------------+
+        | Example Skill Uses                                              |
+        +================================+================================+
         | Skill                          | Use Case                       |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
@@ -140,9 +140,9 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 
     .. grid-item::
 
-        +================================+================================+
-        | **Example Masteries**                                           |
         +--------------------------------+--------------------------------+
+        | Example Masteries                                               |
+        +================================+================================+
         | Skill                          | Mastery                        |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
