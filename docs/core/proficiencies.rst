@@ -15,7 +15,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         +-----------------------------------------------------------------+
         | Example Proficiencies                                           |
         +================================+================================+
-        | Proficiency                    | Skills                         |
+        | **Proficiency**                | **Skills**                     |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
@@ -79,7 +79,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         +-----------------------------------------------------------------+
         | Example Skill Uses                                              |
         +================================+================================+
-        | Skill                          | Use Case                       |
+        | **Skill**                      | **Use Case**                   |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
@@ -143,7 +143,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
         +-----------------------------------------------------------------+
         | Example Masteries                                               |
         +================================+================================+
-        | Skill                          | Mastery                        |
+        | **Skill**                      | **Mastery**                    |
         +================================+================================+
         | Knight                         | Equipment Maintenance          |
         |                                +--------------------------------+
