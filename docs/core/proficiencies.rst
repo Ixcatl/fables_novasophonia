@@ -14,7 +14,7 @@ Example Proficiencies
 .. container:: twocol
 
   .. container:: leftside
-
+  
     +--------------------------------+--------------------------------+
     | Example Proficiency            | Example Skills                 |
     +================================+================================+
@@ -74,10 +74,10 @@ Example Proficiencies
     |                                +--------------------------------+
     |                                | Lore (Crime)                   |
     +--------------------------------+--------------------------------+
-
+  
   .. container:: rightside
-
-      test (:
+  
+    test (:
 
 Example Skill Uses
 ------------------
