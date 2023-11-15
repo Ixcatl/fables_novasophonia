@@ -9,6 +9,7 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
   If you have multiple Proficiencies that share a skill, that skill has dice equal to the combined rank of those Proficiencies - but never more than three.
 
 .. grid:: 1 2 3 3
+  :gutter: 4
 
   .. grid-item::
   
