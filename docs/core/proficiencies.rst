@@ -8,15 +8,15 @@ Each Proficiency covers four different skills. For every rank in a Proficiency, 
 .. Tip::
   If you have multiple Proficiencies that share a skill, that skill has dice equal to the combined rank of those Proficiencies - but never more than three.
 
-.. grid:: 1 2 3
+.. grid:: 1 3 3 3
 
   .. grid-item::
   
     +-----------------------------------------------------------------+
     | Example Proficiencies                                           |
     +================================+================================+
-    | **Proficiency**                | **Skills**                     |
-    +--------------------------------+--------------------------------+
+    | Proficiency                    | Skills                         |
+    +================================+================================+
     | Knight                         | Equipment Maintenance          |
     |                                +--------------------------------+
     |                                | Athletics                      |
