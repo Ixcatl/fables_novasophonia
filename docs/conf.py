@@ -18,8 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'hoverxref.extension',
-    'sphinx_tabs.tabs',
-    'sphinx_favicon'
+    'sphinx_favicon',
+    'sphinx_design'
 ]
 
 hoverxref_auto_ref = True
