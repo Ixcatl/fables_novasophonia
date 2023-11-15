@@ -13,41 +13,52 @@ Example Proficiencies
 +--------------------------------+--------------------------------+
 | Example Proficiency            | Example Skills                 |
 +================================+================================+
-| Knight                         | Equipment Maintenance          |
+| Knight                         | | Equipment Maintenance        |
 |                                | | Athletics                    |
 |                                | | Tactics                      |
 |                                | | Lore (War)                   |
 +--------------------------------+--------------------------------+
-| Theurgist                      | Medicine                       |
+| Theurgist                      | | Medicine                     |
 |                                | | Persuasion                   |
 |                                | | Ritualcraft                  |
 |                                | | Lore (Theology)              |
 +--------------------------------+--------------------------------+
-| Noble                          | Etiquette                      |
+| Noble                          | | Etiquette                    |
 |                                | | Deception                    |
 |                                | | Kenning                      |
 |                                | | Lore (Politics)              |
 +--------------------------------+--------------------------------+
-| Farmer                         | Endurance                      |
+| Farmer                         | | Endurance                    |
 |                                | | Equipment Maintenance        |
 |                                | | Barter                       |
 |                                | | Lore (Local)                 |
 +--------------------------------+--------------------------------+
-| Hunter                         | Survival                       |
+| Hunter                         | | Survival                     |
 |                                | | Perception                   |
 |                                | | Stealth                      |
 |                                | | Lore (Nature)                |
 +--------------------------------+--------------------------------+
-| Magician                       | Perform (Tricks)               |
+| Magician                       | | Perform (Tricks)             |
 |                                | | Perception                   |
 |                                | | Deception                    |
 |                                | | Lore (Magic)                 |
 +--------------------------------+--------------------------------+
-| Bandit                         | Survival                       |
+| Bandit                         | | Survival                     |
 |                                | | Stealth                      |
 |                                | | Bullying                     |
 |                                | | Lore (Crime)                 |
 +--------------------------------+--------------------------------+
+
+.. list-table::
+
+ * - **HEADER1**
+   - **HEADER2**
+   - **HEADER3**
+ * - TEXT 1
+   - | MULTILINE 
+     | TEXT
+   - | MULTILINE
+     | TEXT 2
 
 Example Skill Uses
 ------------------
