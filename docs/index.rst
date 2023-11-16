@@ -23,6 +23,8 @@ Personal distribution and modification of this rulebook is encouraged. Any comme
    core/traits
    core/proficiencies
    core/advancement
+   core/weapon-arts
+   core/magic-arcana
 
 .. toctree::
    :caption: Guide
