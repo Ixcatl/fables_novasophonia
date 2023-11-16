@@ -1,5 +1,5 @@
 ********************
-Weapon Arts & Arcana
+Catalog: Weapon Arts & Arcana
 ********************
 
 --------
