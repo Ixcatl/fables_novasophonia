@@ -7,31 +7,46 @@ Catalog: Paths
 Martial Paths
 =============
 
-Nail
+Knight (sword)
 ----
+**Rank 1 - Squire**
+**Rank 2 - Knight**
+**Rank 3 - Templar**
 
-Needle
+Duelist (spear)
 ------
+**Rank 1 - Rogue**
+**Rank 2 - Duelist**
+**Rank 3 - Swashbuckler**
 
-Tusk
+Warrior (mallet)
 ----
+**Rank 1 - Bruiser**
+**Rank 2 - Warrior**
+**Rank 3 - Marauder**
 
-Hook
+Scoundrel (hook)
 ----
+**Rank 1 - Knave**
+**Rank 2 - Scoundrel**
+**Rank 3 - Hellion**
 
-Maw
+Claw (natural)
 ---
 
-Shell
+Defender (armor)
 -----
+**Rank 1 - Rodent-at-Arms**
+**Rank 2 - Defender**
+**Rank 3 - Champion**
 
-Bow
+Archer (bow)
 ---
 
-Sling
+Sling (sling)
 -----
 
-Flask
+Alchemist (flask)
 -----
 
 --------
