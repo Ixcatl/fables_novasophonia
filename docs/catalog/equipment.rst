@@ -1,5 +1,5 @@
 *********
-Equipment
+Catalog: Equipment
 *********
 
 --------
