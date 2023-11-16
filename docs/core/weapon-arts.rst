@@ -3,9 +3,6 @@ Weapon Arts
 ***********
 Weapon Arts represent the techniques of great warriors, passed down throughout the generations and perfected into a recognizable form.
 
-.. Attention::
-  For a list of Weapon Arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
-
 Preparing Arts
 ==============
 A character readies their Arts for use by assigning them to Technique slots, which may be done freely during any Rest. Any Art assigned to a Technique slot may be used at any time without incurring any additional penalties.
@@ -22,6 +19,9 @@ Using a Weapon Art costs the Stamina listed for the Art, while some Arts may hav
 
 Types of Weapon Arts
 ====================
+
+.. Attention::
+  For a list of Weapon Arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
 
 Normal Arts
 -----------
