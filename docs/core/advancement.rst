@@ -29,7 +29,7 @@ These represent a character's approach to combat, and the backbone of their play
 
 When a character gains a rank in a Mystic Path, they also learn a single :doc:`Arcana <catalog/arts-arcana>` associated with that Path.
 
-.. Important::
+.. Attention::
   For a list of Paths to draw from, see :doc:`Catalog: Paths </catalog/paths>`.
 
 Minor Advancements
