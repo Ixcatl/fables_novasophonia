@@ -1,5 +1,5 @@
 *****
-Paths
+Catalog: Paths
 *****
 
 --------
