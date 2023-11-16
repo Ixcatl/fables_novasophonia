@@ -1,5 +1,5 @@
 ******
-Traits
+Catalog: Traits
 ******
 
 --------
