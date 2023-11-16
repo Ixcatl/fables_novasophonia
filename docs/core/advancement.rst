@@ -5,7 +5,7 @@ Throughout your party's journey, their encounters and experiences will temper th
 
 For new groups, Level 3 is a recommended place to start, as it allows your party to experiment with a bit more creative freedom and explore how their different Paths and features may interact. It's also recommended for each player to begin with one Art or Arcana of their choice, in addition to any they might purchase with Proficiency ranks.
 
-Here is a table suggesting the order in which a GM should hand out Level bonuses, for NPCs and players alike:
+Here is a table suggesting the order in which a GM should hand out Level bonuses, for NPCs and players alike, though it is not necessarily static:
 
 +-------+------------+--------------------+-------------------+
 | Level | Path Ranks | Minor Advancements | Proficiency Ranks |
@@ -20,19 +20,27 @@ Here is a table suggesting the order in which a GM should hand out Level bonuses
 +-------+------------+--------------------+-------------------+
 | 5     | +1         |                    | +1                |
 +-------+------------+--------------------+-------------------+
-| ...   | The pattern continues.                              |
+| ...   | et cetera                                           |
 +-------+------------+--------------------+-------------------+
 
-Mystic Ranks & Arcana
-=====================
-When a character gains a rank in a Mystic Path, they also learn a single :doc:`Arcana <catalog/arts-arcana>` from that Path.
+Paths
+=====
+These represent a character's approach to combat, and the backbone of their playstyle. Each Path may advance up to a maximum of 3 ranks, wherein the character has mastered that particular Path.
+
+When a character gains a rank in a Mystic Path, they also learn a single :doc:`Arcana <catalog/arts-arcana>` associated with that Path.
+
+.. Important::
+  For a list of Paths to draw from, see :doc:`Catalog: Paths </catalog/paths>`.
 
 Minor Advancements
 ==================
-These serve as small buffs to a character, shoring up stats for a particular build. Minor Advancements can be used to do the following:
+These serve as small buffs to a character, allowing them to better specialize. Minor Advancements can be used to do the following:
 
 * Add +.5 to one Primary Attribute.
 * Add +1 to Speed, up to a maximum of 7.
 * Add +1 to maximum Load.
 * Add 1 new Technique slot.
 * Add +1 to the number of times this character can use one of their scene limited Traits or Mastery abilities, such as uses of a recovery flask effect, per scene.
+
+.. Tip::
+  When gaining a Path rank, if a character would go over the maximum value for their Path's linked pool (Stamina for Martial and Magic for Mystic), they may instead gain one Minor Advancement in its place. They could even forfeit their pool increase for a Minor Advancement anyways if they so choose, regardless of being at maximum value.
