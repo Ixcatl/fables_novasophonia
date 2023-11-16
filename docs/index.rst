@@ -20,6 +20,7 @@ Personal distribution and modification of this rulebook is encouraged. Any comme
    core/rolls
    core/attribute-checks
    core/attributes
+   core/traits
    core/proficiencies
    core/advancement
 
