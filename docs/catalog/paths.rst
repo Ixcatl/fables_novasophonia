@@ -12,7 +12,7 @@ Martial Paths
 
 Knight (sword)
 ------
-*Secondary Path prefix: "Noble"*
+Secondary Path prefix: "Noble"
 
 **Rank 1**
 
@@ -22,7 +22,7 @@ Knight (sword)
 
 Duelist (spear)
 ------
-*Secondary Path prefix: "Dashing"*
+Secondary Path prefix: "Dashing"
 
 **Rank 1**
 
@@ -32,7 +32,7 @@ Duelist (spear)
 
 Warrior (mallet)
 ------
-*Secondary Path prefix: "Unrelenting"*
+Secondary Path prefix: "Unrelenting"
 
 **Rank 1**
 
@@ -42,7 +42,7 @@ Warrior (mallet)
 
 Scoundrel (hook)
 ------
-*Secondary Path prefix: "Crooked"*
+Secondary Path prefix: "Crooked"
 
 **Rank 1**
 
@@ -52,7 +52,7 @@ Scoundrel (hook)
 
 Wastrel (natural)
 ------
-*Secondary Path prefix: "Desperate"*
+Secondary Path prefix: "Desperate"
 
 **Rank 1**
 
@@ -62,7 +62,7 @@ Wastrel (natural)
 
 Champion (armor)
 ------
-*Secondary Path prefix: "Stalwart"*
+Secondary Path prefix: "Stalwart"
 
 **Rank 1**
 
@@ -72,7 +72,7 @@ Champion (armor)
 
 Ranger (bow)
 ------
-*Secondary Path prefix: "Unerring"*
+Secondary Path prefix: "Unerring"
 
 **Rank 1**
 
@@ -85,7 +85,7 @@ Sling (sling)
 
 Alchemist (flask)
 ------
-*Secondary Path prefix: "Worldly"*
+Secondary Path prefix: "Worldly"
 
 **Rank 1**
 
@@ -95,7 +95,7 @@ Alchemist (flask)
 
 Artificer (crafting)
 ------
-*Secondary Path prefix: "Crafty"*
+Secondary Path prefix: "Crafty"
 
 **Rank 1**
 
@@ -108,21 +108,21 @@ Artificer (crafting)
 Mystic Paths
 ============
 
-Ascendant
+Path of the Ascendant
 -----
-*Secondary Path prefix: "Eminent"*
-
   *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
 
+Secondary Path prefix: "Eminent"
+
 **Rank 1**
 
 **Rank 2**
 
 **Rank 3**
 
-Cloak
+Path of the Cloak
 -----
-*Secondary Path prefix: ""*
+Secondary Path prefix: "Shrouded"
 
 **Rank 1**
 
@@ -130,9 +130,9 @@ Cloak
 
 **Rank 3**
 
-Dream
+Path of the Dreamer
 -----
-*Secondary Path prefix: ""*
+Secondary Path prefix: "Awakened"
 
 **Rank 1**
 
@@ -140,9 +140,9 @@ Dream
 
 **Rank 3**
 
-Nightmare
+Path of Flame
 ---------
-*Secondary Path prefix: ""*
+Secondary Path prefix: "Fiery"
 
 **Rank 1**
 
@@ -150,9 +150,9 @@ Nightmare
 
 **Rank 3**
 
-Bloom
+Path of Growth
 -----
-*Secondary Path prefix: ""*
+Secondary Path prefix: "Verdant"
 
 **Rank 1**
 
@@ -160,9 +160,9 @@ Bloom
 
 **Rank 3**
 
-Thorn
+Path of the Wild
 -----
-*Secondary Path prefix: ""*
+Secondary Path prefix: "Hedge"
 
 **Rank 1**
 
@@ -170,9 +170,9 @@ Thorn
 
 **Rank 3**
 
-Dust
-----
-*Secondary Path prefix: ""*
+Path of the Abyss
+-----
+Secondary Path prefix: "Ashen"
 
 **Rank 1**
 
