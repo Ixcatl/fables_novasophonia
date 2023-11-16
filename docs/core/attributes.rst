@@ -22,7 +22,7 @@ Brawn determines one's effectiveness at swinging a weapon or parrying incoming b
 
 Load
 ----
-A character's Load capacity is equal to their Brawn rounded down. They may carry Bulk up to or equal their Load without penalty. A character may carry over this limit, up to twice their Load, but will suffer a -1 :term:`die penalty` to all Brawn or Grace based rolls and must spend an additional 1 tax Stamina on any action costing Stamina. A character physically cannot carry more than twice their Load.
+A character's Load capacity is equal to their Brawn rounded down. They may carry Bulk up to or equal their Load without penalty. A character may carry over this limit, up to twice their Load, but will suffer a -1 :term:`die penalty` to all Brawn or Grace based rolls and must spend an additional 1 taxed Stamina on any action costing Stamina. A character physically cannot carry more than twice their Load.
 
 .. Tip::
       An item marked with Light or 'L' for its Bulk weighs nothing. As an optional rule for GMs who want to avoid players carrying around infinite tiny baubles, Light items can instead be counted as 1/3 of a point of Bulk, and simply count them against Load only every third item.
@@ -37,7 +37,7 @@ Grace determines one's effectiveness at using ranged weaponry or dodging incomin
 
 Footwork
 --------
-A character's Footwork is equal to half its Grace, rounded up. Each round, they may move a number of squares within enemy threat ranges equal to its Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack from the threatening character.
+A character's Footwork is equal to half their Grace, rounded up. Each round, they may move a number of squares within enemies' threat range equal to their Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack from the threatening character.
 
 --------
 
@@ -45,7 +45,7 @@ Mettle
 ======
 A measure of the thickness of a character's skin, metaphorical or otherwise, and the strength of their resolve.
 
-Whenever a physical attack successfully hits a character, they may roll to Soak that damage, using Mettle to ignore damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
+Whenever a physical attack successfully hits a character, they may roll to Soak that damage, using Mettle to ignore flat damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
 
 Belt Slots
 ---------
@@ -62,7 +62,7 @@ Savvy
 =====
 A measure of the perception, reasoning, and worldly knowledge of a character.
 
-Savvy is used for many aspects of occult magic, in addition to checks using keen senses, sharp intuition, or recalled lore.
+Savvy is used for aspects of occult magic and clever tinkering, in addition to checks using keen senses, sharp intuition, or recalled lore.
 
 Technique Slots
 ---------------
@@ -75,33 +75,27 @@ Other Attributes
 
 Hunger and Belly
 ----------------
-Hunger affects how much food a character must eat, while Belly is determined by Hunger and is a measure of how sated they are. One has maximum Belly equal to their Hunger value or 10, whichever is higher.
+Hunger affects how much food a character must eat, while Belly is determined by Hunger and is a measure of how sated they are. One has maximum Belly equal to their Hunger value.
 
-Every rest, a character loses Belly equal to their Hunger or 10, whichever is higher, and this loss may lower Belly into negative values. Various effects accumulate as Belly decreases further, as detailed on the following table.
+Every rest, a character loses Belly equal to their Hunger. This loss may lower Belly into negative values. Various effects accumulate as Belly decreases further, as detailed on the following table.
 
 +-------------+------------------------------------------------------------------------------------------------------------+
 | Belly Value | Effects                                                                                                    |
 +=============+============================================================================================================+
 | 0 or Above  | Taking a Sleep with 0 or higher Belly fully replenishes a character's Magic, and restores 1 extra Vitality |
 |             | for each Sleep camp action. They also recover from 1 Attribute damage per Attribute.                       |
-|             |                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------+
 | -50 to -1   | A character with this much Belly gains half as much Magic, rounded up, from rest.                          |
-|             |                                                                                                            |
-|             |                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------+
 | -100 to -51 | In addition to the effect above, a character with this much Belly suffers -1 to all primary Attributes,    |
 |             | but may roll to spot food twice and take the better result.                                                |
-|             |                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------+
 | Below -100  | The character is dead, having succumbed to starvation.                                                     |
-|             |                                                                                                            |
-|             |                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------+
 
 Cool, Cute, and Creep
 --------------
-These 3 Attributes affect how one interacts socially with other characters. They can represent a character's appearance, how they act, or even how they smell. Unlike most other secondary or miscellaneous Attributes, these are most often used in associated checks, and follow similar rules to primary Attributes.
+These 3 Attributes affect how one interacts socially with other characters. They can represent a character's appearance, how they act, or even how they smell. Unlike most other secondary or miscellaneous Attributes, these are most often used in associated checks, and follow similar rules to primary Attributes. See Social for more information.
 
 Speed
 -----
@@ -109,7 +103,7 @@ Speed affects how quickly a character can move about. They may move a number of 
 
 Trinket Slots
 -------
-A character has a base of 2 Trinket slots plus their total Path ranks. These are allocated towards equipping Trinkets, magical objects which may bestow unusual effects.
+A character has a base of 3 Trinket slots plus their total Path ranks. These are allocated towards equipping Trinkets, magical objects which may bestow unusual effects.
 
 Absorption
 ----------
@@ -129,7 +123,7 @@ Even larger characters exist, known as Huge, and their sizes can vary heavily. H
 
 Pools
 =====
-Unlike Attributes, which usually remain static beyond debuffs, Pools are active resources which fluctuate regularly as actions are taken and consequences endured. Only Vitality and Stamina are common between all characters; several others are available to those with the corresponding playstyles, or certain species.
+Unlike Attributes, which usually remain static beyond debuffs, Pools are active resources which fluctuate regularly as actions are taken and consequences endured. Only Vitality and Stamina are common between all characters; several others are available to those with the corresponding playstyles or certain species, and may not even be listed here.
 
 --------
 
@@ -153,9 +147,9 @@ Magic
 -----
 A gauge of how much magical potential waxes and wanes within a character.
 
-All spells and some actions cost Magic. It may be restored by resting, and through certain other means.
+All spells and some actions cost Magic. It is primarily restored by resting.
 
-This Pool is normally unlocked once a character takes a rank in a mystic Path. Magic has a base maximum value equal to half of the character's Savvy rounded up, and each additional rank taken in a mystic Path increases this maximum by 1.
+This pool is normally unlocked once a character takes a rank in any Mystic Path. Magic has a base maximum value equal to half of the character's Savvy rounded up, and each additional rank taken in a mystic Path increases this maximum by 1.
 
 Stash
 -----
@@ -163,7 +157,7 @@ The amount of materials a particularly inventive critter has to jury-rig items w
 
 Stash is only accessed when a Path or other source grants it, and the base maximum Stash is equal to half of the character's Savvy rounded up.
 
-Given a character knows the recipe for an item or a category of items, Stash can be used to cobble them together on the spot. An item has a Stash cost of 1 per 100 value, rounded to the nearest hundred but never 0. Created items fall apart or become inert at the end of the scene, due to their improvised nature.
+Given a character knows the recipe for an item or a category of items, Stash can be used to cobble them together on the spot. An item has a Stash cost of 1 for common, 2 for uncommon, and 3 for rare. Created items fall apart or become inert at the end of the scene, due to their improvised nature.
 
 --------
 
