@@ -80,22 +80,12 @@ Secondary Path prefix: "Unerring"
 
 **Rank 3**
 
-Sling (sling)
+Slinger (sling)
 ------
 
 Alchemist (flask)
 ------
 Secondary Path prefix: "Worldly"
-
-**Rank 1**
-
-**Rank 2**
-
-**Rank 3**
-
-Artificer (crafting)
-------
-Secondary Path prefix: "Crafty"
 
 **Rank 1**
 
