@@ -3,7 +3,7 @@ Weapon Arts
 ***********
 Weapon Arts represent the techniques of great warriors, passed down throughout the generations and perfected into a recognizable form.
 
-.. Important::
+.. Attention::
   For a list of Weapon Arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
 
 Preparing Arts
