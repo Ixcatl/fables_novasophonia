@@ -3,14 +3,14 @@ Proficiencies
 *************
 The world is a dangerous place, but how well one fights isn't everything. A Proficiency is similar to a job or a background, encompassing the practical skills and talents a character posesses. Unlike some other mechanics, Proficiencies have *nearly full creative freedom*, being able to represent just about anything under the sun.
 
-Each Proficiency covers four different skills. For every rank in a Proficiency, a character adds that many dice to checks they make which could reasonably fall under their skills. Once a Proficiency reaches Rank 3, it can't go any higher, but they get to choose one of the four associated skills to master, earning them a special bonus.
+Each Proficiency covers four different Skills. For every rank in a Proficiency, a character adds that many dice to checks they make which could reasonably fall under their Skills. Once a Proficiency reaches Rank 3, it can't go any higher, but they get to choose one of the four associated Skills to master, earning them a special bonus.
+
+Less broad, more specific Skills may be granted one or more bonus :term:`rerolls <reroll>` for their particular checks. For instance, while "Athletics" may not grant a bonus to climbing a wall, a "Climbing" Skill may add +1 reroll instead. This is ultimately the GM's decision.
 
 .. Tip::
-  If you have multiple Proficiencies that share a skill, that skill has dice equal to the combined rank of those Proficiencies - but never more than three.
+  If you have multiple Proficiencies that share a Skill, that Skill has dice equal to the combined rank of those Proficiencies - but never more than three.
 
-  Also remember that less broad, specialized skills may grant bonus rerolls depending on the circumstance.
-
-Please note that these are **merely suggestions** - GM and player are able to collaborate and come up with their own unique Proficiencies, skills, uses, and Masteries. Get creative!
+Please note that these are **merely suggestions** - GM and player are able to collaborate and come up with their own unique Proficiencies, Skills, uses, and Masteries. Get creative!
 
 .. grid:: 1 2 3 3
   :gutter: 4
