@@ -25,7 +25,7 @@ Types of Weapon Arts
 
 Normal Arts
 -----------
-These Weapon Arts are self-contained actions, which perform an ordinary attack with a weapon as part of their execution. They still benefit from the Quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from the user's current Stamina tax.
+These Weapon Arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the Quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from the user's current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
 
 If used with a heavy weapon, the Art still inflicts a stack of Off-Balance for each attack performed as part of the Art.
 
@@ -37,7 +37,7 @@ If the Art still requires a specific type of weapon to use, its attack roll bene
 
 Augmentation Arts
 -----------------
-Certain Arts augment the user's next attack. These only augment attacks made with valid weapons. When the user activates one of these Arts, add its Stamina cost to the Stamina cost of the weapon that delivers it. This Stamina does not count as being dedicated, but additional Stamina can be dedicated normally. The attack is augmented or changed as described in the Art.
+Certain Arts augment the user's next attack. These only augment attacks made with valid weapons. When the user attacks after activating one of these Arts, subtract its Stamina cost from the dedicated Stamina of the attack that delivers it. This reduced Stamina does not count as being dedicated for the purposes of adding dice, but additional Stamina can be dedicated normally. The attack is augmented or changed as described in the Art.
 
 The user may instead choose to wait before making the attack. While holding an Augmentation Art, the user suffers a -2 :term:`die penalty` on all checks but Soak checks. If the user starts a turn while holding an Augmentation Art, they are still considered to have used a Weapon Art during the new turn.
 
