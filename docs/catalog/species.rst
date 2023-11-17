@@ -27,6 +27,7 @@ Lumens
   .. grid-item::
 
     ::
+
       Brawn:  1
       Grace:  4
       Mettle: 2
@@ -37,6 +38,7 @@ Lumens
   .. grid-item::
 
     ::
+
       Cute:  2
       Creep: 1
       Bonus Cute/Creep: 1
