@@ -19,19 +19,26 @@ Others
 Aberrations
 ===========
 
+| :Brawn: 1
+| :Grace: 4
+| :Mettle: 2
+| :Savvy: 4
+|
+| :Vitality: 5
+
 Lumens
 ------
-.. grid:: 2 2 3 3
+.. grid:: auto
   :gutter: 4
   
   .. grid-item::
 
-    :Brawn: 1
-    :Grace: 4
-    :Mettle: 2
-    :Savvy: 4
+    | :Brawn: 1
+    | :Grace: 4
+    | :Mettle: 2
+    | :Savvy: 4
     |
-    :Vitality: 5
+    | :Vitality: 5
 
   .. grid-item::
 
