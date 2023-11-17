@@ -14,71 +14,92 @@ Knight (sword)
 ------
 Secondary Path prefix: "Noble"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Duelist (spear)
 ------
 Secondary Path prefix: "Dashing"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Warrior (mallet)
 ------
 Secondary Path prefix: "Unrelenting"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Scoundrel (hook)
 ------
 Secondary Path prefix: "Crooked"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Wastrel (natural)
 ------
 Secondary Path prefix: "Desperate"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Champion (armor)
 ------
 Secondary Path prefix: "Stalwart"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Ranger (bow)
 ------
 Secondary Path prefix: "Unerring"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Slinger (sling)
 ------
@@ -87,11 +108,14 @@ Alchemist (flask)
 ------
 Secondary Path prefix: "Worldly"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 --------
 
@@ -104,68 +128,89 @@ Path of the Ascendant
 
 Secondary Path prefix: "Eminent"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of the Cloak
 -----
 Secondary Path prefix: "Shrouded"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of the Dreamer
 -----
 Secondary Path prefix: "Awakened"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of Flame
 ---------
 Secondary Path prefix: "Fiery"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of Growth
 -----
 Secondary Path prefix: "Verdant"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of the Wild
 -----
 Secondary Path prefix: "Hedge"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
 
 Path of the Abyss
 -----
 Secondary Path prefix: "Ashen"
 
-**Rank 1**
+Rank 1
+~~~~~~
 
-**Rank 2**
+Rank 2
+~~~~~~
 
-**Rank 3**
+Rank 3
+~~~~~~
