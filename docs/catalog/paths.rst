@@ -122,7 +122,7 @@ Rank 3
 Mystic Paths
 ============
 
-Path of the Ascendant
+Ascendant
 -----
   *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
 
@@ -130,12 +130,27 @@ Secondary Path prefix: "Eminent"
 
 Rank 1
 ~~~~~~
+| **Soul Totem**
+| agga
+|
+| **Arcane Casting**
+| agga
 
 Rank 2
 ~~~~~~
+| **Will Made Manifest**
+| When the Ascendant makes an opposed Insight check as part of an Arcana or ability, or to resist an Arcana or ability, they may dedicate Magic dice to that check.
+|
+| **Unnatural Selection**
+| When the Ascendant damages one or more enemies with an Arcana, the Ascendant gains 1 Magic.
 
 Rank 3
 ~~~~~~
+| **Spell Splicing**
+| agga
+|
+| **Thin the Walls**
+| agga
 
 Path of the Cloak
 -----
