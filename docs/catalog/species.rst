@@ -21,7 +21,7 @@ Aberrations
 
 Lumens
 ------
-.. grid:: 1 2 3 3
+.. grid:: 2 2 3 3
   :gutter: 4
   
   .. grid-item::
@@ -30,7 +30,7 @@ Lumens
     :Grace: 4
     :Mettle: 2
     :Savvy: 4
-
+    |
     :Vitality: 5
 
   .. grid-item::
@@ -38,6 +38,6 @@ Lumens
     :Cute: 2
     :Creep: 1
     :Bonus Cute/Creep: 1
-
+    |
     :Speed: 7
     :Hunger: 15
