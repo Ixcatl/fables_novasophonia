@@ -130,27 +130,27 @@ Secondary Path prefix: "Eminent"
 
 Rank 1
 ~~~~~~
-| **Soul Totem**
-| agga
+| **Astral Conduit**
+| The Ascendant may pour some of their Magic into an ordinary object, transforming it into an Astral Conduit. The Conduit can store a maximum amount of Magic points equal to its creator's Ascendant rank. They may have only one Astral Conduit, and creating a new one destroys the old one. While holding a Conduit or carrying it on the Belt, the Ascendant or another character with Ascendant ranks may spend 1 Stamina to draw any amount of Magic from it. As a Focus action, the Ascendant can either deposit any amount of Magic into their existing Conduit, or create a new one.
 |
-| **Arcane Casting**
-| agga
+| **Sorcerous Casting**
+| The Ascendant may treat all arcane foci as weapons with the Sorcerous modifier. Talismans instead make the Ascendant's unarmed strikes and grapples Sorcerous.
 
 Rank 2
 ~~~~~~
-| **Will Made Manifest**
-| When the Ascendant makes an opposed Insight check as part of an Arcana or ability, or to resist an Arcana or ability, they may dedicate Magic dice to that check.
+| **Mind Made Manifest**
+| When the Ascendant makes an opposed Insight check either as part of an Arcana or ability, or to resist an Arcana or ability, they may dedicate Magic dice to that check.
 |
 | **Unnatural Selection**
-| When the Ascendant damages one or more enemies with an Arcana, the Ascendant gains 1 Magic.
+| When the Ascendant damages at least one character with an Arcana, the Ascendant gains 1 Magic.
 
 Rank 3
 ~~~~~~
 | **Spell Splicing**
 | agga
 |
-| **Thin the Walls**
-| agga
+| **Thin the Veil**
+| When the Ascendant casts an area of effect Arcana that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcana's range.
 
 Path of the Cloak
 -----
@@ -217,9 +217,9 @@ Rank 2
 Rank 3
 ~~~~~~
 
-Path of the Abyss
+Path of Ruin
 -----
-Secondary Path prefix: "Ashen"
+Secondary Path prefix: "Ruinous"
 
 Rank 1
 ~~~~~~
