@@ -19,9 +19,6 @@ Others
 Aberrations
 ===========
 
-:Test: This is a test field.
-:Ligma: Balls
-
 Lumens
 ------
 .. grid:: 1 2 3 3
@@ -29,9 +26,18 @@ Lumens
   
   .. grid-item::
 
-    :Test: This is a test field.
-    :Ligma: Balls
+    :Brawn: 1
+    :Grace: 4
+    :Mettle: 2
+    :Savvy: 4
+
+    :Vitality: 5
 
   .. grid-item::
 
-  .. grid-item::
+    :Cute: 2
+    :Creep: 1
+    :Bonus Cute/Creep: 1
+
+    :Speed: 7
+    :Hunger: 15
