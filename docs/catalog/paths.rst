@@ -158,6 +158,7 @@ Ascendant
 .. epigraph::
 
   All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?
+
   -- unknown
 
 Secondary Path prefix: "Eminent"
