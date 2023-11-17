@@ -10,6 +10,8 @@ Catalog: Paths
 Martial Paths
 =============
 
+--------
+
 Knight (sword)
 ------
 Secondary Path prefix: "Noble"
@@ -22,6 +24,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Duelist (spear)
 ------
@@ -36,6 +40,8 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Warrior (mallet)
 ------
 Secondary Path prefix: "Unrelenting"
@@ -48,6 +54,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Scoundrel (hook)
 ------
@@ -62,6 +70,8 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Wastrel (natural)
 ------
 Secondary Path prefix: "Desperate"
@@ -74,6 +84,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Champion (armor)
 ------
@@ -88,6 +100,8 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Ranger (bow)
 ------
 Secondary Path prefix: "Unerring"
@@ -101,8 +115,12 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Slinger (sling)
 ------
+
+--------
 
 Alchemist (flask)
 ------
@@ -121,6 +139,8 @@ Rank 3
 
 Mystic Paths
 ============
+
+--------
 
 Ascendant
 -----
@@ -152,6 +172,8 @@ Rank 3
 | **Thin the Veil**
 | When the Ascendant casts an area of effect Arcana that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcana's range.
 
+--------
+
 Path of the Cloak
 -----
 Secondary Path prefix: "Shrouded"
@@ -164,6 +186,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Path of the Dreamer
 -----
@@ -178,6 +202,8 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Path of Flame
 ---------
 Secondary Path prefix: "Fiery"
@@ -190,6 +216,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Path of Growth
 -----
@@ -204,6 +232,8 @@ Rank 2
 Rank 3
 ~~~~~~
 
+--------
+
 Path of the Wild
 -----
 Secondary Path prefix: "Hedge"
@@ -216,6 +246,8 @@ Rank 2
 
 Rank 3
 ~~~~~~
+
+--------
 
 Path of Ruin
 -----
