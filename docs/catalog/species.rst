@@ -51,7 +51,7 @@ Mouse
       Size: Average
       Bulk: 3
 
-**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
+**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
 Insects
 =======
