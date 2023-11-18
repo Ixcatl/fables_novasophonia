@@ -2,88 +2,88 @@
 
 # -- Project information
 
-project = 'Us Who Remain: TTRPG Rulebook'
-copyright = '2023, Ixcatl'
-author = 'Ixcatl'
+project = "Us Who Remain: TTRPG Rulebook"
+copyright = "2023, Ixcatl"
+author = "Ixcatl"
 
-release = '1.0'
-version = '1.0'
+release = "1.0"
+version = "1.0"
 
 # -- General configuration
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'hoverxref.extension',
-    'sphinx_favicon',
-    'sphinx_design'
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
+    "hoverxref.extension",
+    "sphinx_favicon",
+    "sphinx_design"
 ]
 
 hoverxref_auto_ref = False
 hoverxref_domains = [
-    'py',
-    'cite'
+    "py",
+    "cite"
 ]
 hoverxref_roles = [
-    'option',
+    "option",
     # Documentation pages
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
-    'doc',
+    "doc",
     # Glossary terms
-    'term',
-    'hoverxref'
+    "term",
+    "hoverxref"
 ]
 hoverxref_role_types = {
-    'hoverxref': 'tooltip',
-    'doc': 'modal',  # for whole docs
-    'ref': 'tooltip',  # for hoverxref_auto_ref config
-    'confval': 'tooltip',  # for custom object
-    'term': 'tooltip'  # for glossaries
+    "hoverxref": "tooltip",
+    "doc": "modal",  # for whole docs
+    "ref": "tooltip",  # for hoverxref_auto_ref config
+    "confval": "tooltip",  # for custom object
+    "term": "tooltip"  # for glossaries
 }
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None)
+    "python": ("https://docs.python.org/3/", None),
+    "sphinx": ("https://www.sphinx-doc.org/en/master/", None)
 }
-intersphinx_disabled_domains = ['std']
+intersphinx_disabled_domains = ["std"]
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme' # sphinx-rtd-theme==1.3.0rc1 sphinx==7.1.2
-# html_theme = 'sphinx_book_theme' # sphinx-book-theme==1.0.1 sphinx==6.2.1
-html_title = 'Us Who Remain: TTRPG Rulebook'
+html_theme = "sphinx_rtd_theme" # sphinx-rtd-theme==1.3.0rc1 sphinx==7.1.2
+# html_theme = "sphinx_book_theme" # sphinx-book-theme==1.0.1 sphinx==6.2.1
+html_title = "Us Who Remain: TTRPG Rulebook"
 html_theme_options = {
-    'display_version': False,
-    'collapse_navigation': False,
-    'sticky_navigation': False,
-    'navigation_depth': -1,
-    'prev_next_buttons_location': 'None'
-    # 'use_download_button': False,
-    # 'use_fullscreen_button': False,
-    # 'show_toc_level': 2
+    "display_version": False,
+    "collapse_navigation": False,
+    "sticky_navigation": False,
+    "navigation_depth": -1,
+    "prev_next_buttons_location": "None"
+    # "use_download_button": False,
+    # "use_fullscreen_button": False,
+    # "show_toc_level": 2
 }
 
-html_static_path = ['_static']
+html_static_path = ["_static"]
 html_css_files = [
-    'css/custom.css'
+    "css/custom.css"
 ]
 
 favicons = [
    {
-      'sizes': '16x16',
-      'href': 'favicon-16x16.ico',  # use a local file in _static
+      "sizes": "16x16",
+      "href": "favicon-16x16.ico",  # use a local file in _static
    },
    {
-      'rel': 'apple-touch-icon',
-      'sizes': '180x180',
-      'href': 'favicon-180x180.ico'
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "favicon-180x180.ico"
    }
 ]
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+epub_show_urls = "footnote"
