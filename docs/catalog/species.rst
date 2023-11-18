@@ -40,7 +40,7 @@ Lumen
 
 .. grid:: auto
   :gutter: 4
-  :class-container: sd-mb-0
+  :margin: 0 0 auto auto
   
   .. grid-item::
 
