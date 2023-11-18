@@ -22,28 +22,48 @@ extensions = [
     'sphinx_design'
 ]
 
+#hoverxref_auto_ref = True
+#hoverxref_domains = [
+#    'py'
+#]
+#hoverxref_roles = [
+#    'option',
+#    # Documentation pages
+#    # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
+#    'doc',
+#    # Glossary terms
+#    'term',
+#    'hoverxref'
+#]
+#hoverxref_role_types = {
+#    'hoverxref': 'tooltip',
+#    'mod': 'modal',  # for Python Sphinx Domain
+#    'doc': 'modal',  # for whole docs
+#    'class': 'tooltip',  # for Python Sphinx Domain
+#    'ref': 'tooltip',  # for hoverxref_auto_ref config
+#    'confval': 'tooltip',  # for custom object
+#    'term': 'tooltip'  # for glossaries
+#}
+
+hoverxref_tooltip_maxwidth = 650
 hoverxref_auto_ref = True
-hoverxref_domains = [
-    'py'
-]
 hoverxref_roles = [
-    'option',
-    # Documentation pages
-    # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
-    'doc',
-    # Glossary terms
+    'confval',
     'term',
-    'hoverxref'
 ]
+
 hoverxref_role_types = {
     'hoverxref': 'tooltip',
-    'mod': 'modal',  # for Python Sphinx Domain
-    'doc': 'modal',  # for whole docs
-    'class': 'tooltip',  # for Python Sphinx Domain
-    'ref': 'tooltip',  # for hoverxref_auto_ref config
-    'confval': 'tooltip',  # for custom object
-    'term': 'tooltip'  # for glossaries
+    'ref': 'modal',
+    'confval': 'tooltip',
+    'mod': 'modal',
+    'class': 'modal',
+    'obj': 'tooltip',
 }
+hoverxref_domains = [
+    'py',
+    'cite',
+]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
