@@ -19,13 +19,13 @@ extensions = [
     'sphinx.ext.intersphinx',
     'hoverxref.extension',
     'sphinx_favicon',
-    'sphinx_design'
+    'sphinx_design',
 ]
 
 hoverxref_auto_ref = True
 hoverxref_domains = [
     'py',
-    'cite'
+    'cite',
 ]
 hoverxref_roles = [
     'option',
@@ -33,7 +33,7 @@ hoverxref_roles = [
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
     'doc',
     # Glossary terms
-    'term'
+    'term',
 ]
 hoverxref_role_types = {
     'mod': 'modal',  # for Python Sphinx Domain
@@ -41,12 +41,12 @@ hoverxref_role_types = {
     'class': 'tooltip',  # for Python Sphinx Domain
     'ref': 'tooltip',  # for hoverxref_auto_ref config
     'confval': 'tooltip',  # for custom object
-    'term': 'tooltip'  # for glossaries
+    'term': 'tooltip',  # for glossaries
 }
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None)
+    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
 
@@ -62,7 +62,7 @@ html_theme_options = {
     'collapse_navigation': False,
     'sticky_navigation': False,
     'navigation_depth': -1,
-    'prev_next_buttons_location': 'None'
+    'prev_next_buttons_location': 'None',
     # "use_download_button": False,
     # "use_fullscreen_button": False,
     # "show_toc_level": 2
@@ -81,7 +81,7 @@ favicons = [
    {
       "rel": "apple-touch-icon",
       "sizes": "180x180",
-      "href": "favicon-180x180.ico"
+      "href": "favicon-180x180.ico",
    }
 ]
 
