@@ -156,10 +156,8 @@ Ascendant
 ---------
 
 .. card::
-  :sd-shadow-none:
-  :sd-rounded-3:
-  :sd-px-1: 
-  :sd-py-1:
+  :shadow: none
+  :class-card: sd-rounded-3 sd-border-5
 
   *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
 
