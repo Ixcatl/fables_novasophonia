@@ -155,11 +155,9 @@ Mystic Paths
 Ascendant
 ---------
 
-.. card::
+.. card:: sd-shadow-none sd-rounded-3 sd-px-1 sd-py-1
 
-  .. epigraph::
-
-    *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
+  *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
 
 Secondary Path prefix: "Eminent"
 
