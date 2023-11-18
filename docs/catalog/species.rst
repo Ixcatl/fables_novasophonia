@@ -70,4 +70,4 @@ Lumen
       Size: Small
       Bulk: 2
 
-**Traits:** :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:lumen fluff`
+**Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`, :ref:`catalog/traits:extra arms`
