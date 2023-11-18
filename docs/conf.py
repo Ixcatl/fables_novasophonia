@@ -23,7 +23,6 @@ extensions = [
 ]
 
 hoverxref_auto_ref = True
-hoverxref_sphinxtabs = True
 hoverxref_domains = ["py"]
 hoverxref_roles = [
     "option",
@@ -41,8 +40,6 @@ hoverxref_role_types = {
     "confval": "tooltip",  # for custom object
     "term": "tooltip"  # for glossaries
 }
-
-sphinx_tabs_disable_tab_closing = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
