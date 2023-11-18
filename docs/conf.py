@@ -25,8 +25,7 @@ extensions = [
 
 hoverxref_auto_ref = True
 hoverxref_domains = [
-    'py',
-    'cite'
+    'py'
 ]
 hoverxref_roles = [
     'option',
