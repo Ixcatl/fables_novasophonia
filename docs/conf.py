@@ -22,22 +22,17 @@ extensions = [
     'sphinx_design'
 ]
 
-hoverxref_auto_ref = False
-hoverxref_domains = [
-    "py",
-    "cite"
-]
+hoverxref_auto_ref = True
+hoverxref_domains = ["py"]
 hoverxref_roles = [
     "option",
     # Documentation pages
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
     "doc",
     # Glossary terms
-    "term",
-    "hoverxref"
+    "term"
 ]
 hoverxref_role_types = {
-    "hoverxref": "tooltip",
     "mod": "modal",  # for Python Sphinx Domain
     "doc": "modal",  # for whole docs
     "class": "tooltip",  # for Python Sphinx Domain
