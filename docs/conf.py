@@ -22,23 +22,26 @@ extensions = [
     'sphinx_design'
 ]
 
-hoverxref_auto_ref = True
-hoverxref_domains = ["py"]
+hoverxref_auto_ref = False
+hoverxref_domains = [
+    'py',
+    'cite'
+]
 hoverxref_roles = [
-    "option",
+    'option',
     # Documentation pages
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
-    "doc",
+    'doc',
     # Glossary terms
-    "term"
+    'term',
+    'hoverxref'
 ]
 hoverxref_role_types = {
-    "mod": "modal",  # for Python Sphinx Domain
-    "doc": "modal",  # for whole docs
-    "class": "tooltip",  # for Python Sphinx Domain
-    "ref": "tooltip",  # for hoverxref_auto_ref config
-    "confval": "tooltip",  # for custom object
-    "term": "tooltip"  # for glossaries
+    'hoverxref': 'tooltip',
+    'doc': 'modal',  # for whole docs
+    'ref': 'tooltip',  # for hoverxref_auto_ref config
+    'confval': 'tooltip',  # for custom object
+    'term': 'tooltip'  # for glossaries
 }
 
 intersphinx_mapping = {
@@ -60,9 +63,9 @@ html_theme_options = {
     'sticky_navigation': False,
     'navigation_depth': -1,
     'prev_next_buttons_location': 'None'
-    # "use_download_button": False,
-    # "use_fullscreen_button": False,
-    # "show_toc_level": 2
+    # 'use_download_button': False,
+    # 'use_fullscreen_button': False,
+    # 'show_toc_level': 2
 }
 
 html_static_path = ['_static']
@@ -72,13 +75,13 @@ html_css_files = [
 
 favicons = [
    {
-      "sizes": "16x16",
-      "href": "favicon-16x16.ico",  # use a local file in _static
+      'sizes': '16x16',
+      'href': 'favicon-16x16.ico',  # use a local file in _static
    },
    {
-      "rel": "apple-touch-icon",
-      "sizes": "180x180",
-      "href": "favicon-180x180.ico"
+      'rel': 'apple-touch-icon',
+      'sizes': '180x180',
+      'href': 'favicon-180x180.ico'
    }
 ]
 
