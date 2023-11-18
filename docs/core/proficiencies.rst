@@ -12,7 +12,7 @@ Less broad, more specific Skills may be granted one or more bonus :term:`rerolls
 
 Please note that these are **merely suggestions** - GM and player are able to collaborate and come up with their own unique Proficiencies, Skills, uses, and Masteries. Get creative!
 
-.. grid:: auto
+.. grid:: 1 2 3 3
   :gutter: 4
 
   .. grid-item::
