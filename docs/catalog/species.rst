@@ -70,6 +70,6 @@ Lumen
       Size: Small
       Bulk: 2
 
-:hoverxref:`Extra Arms <traits>`
+:hoverxref:`Extra Arms <traits:traits>`
 
 Lumen Fluff
