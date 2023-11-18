@@ -29,8 +29,15 @@ Aberrations
 
 --------
 
-Lumens
+Lumen
 ------
+.. card::
+  :shadow: none
+  :class-card: sd-rounded-3
+  :class-body: sd-py-2
+
+  <blurb pending>
+
 .. grid:: auto
   :gutter: 4
   
@@ -62,3 +69,7 @@ Lumens
 
       Size: Small
       Bulk: 2
+
+Extra Arms
+
+Lumen Fluff
