@@ -159,7 +159,8 @@ Secondary Path prefix: "Eminent"
 
 .. card::
   :shadow: none
-  :class-card: sd-mx-4 sd-mb-1 sd-text-muted sd-font-italic
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
 
   All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?
 
