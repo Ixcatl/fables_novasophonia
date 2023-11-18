@@ -55,3 +55,10 @@ Lumens
       
       Speed:  7
       Hunger: 15
+
+  .. grid-item::
+
+    ::
+
+      Size: Small
+      Bulk: 2
