@@ -37,6 +37,10 @@ Mystical Traits
 Body Traits
 ===========
 
+Extra Arms
+----------
+This character has an additional pair of arms equally as functional as their others.
+
 --------
 
 Movement Traits
