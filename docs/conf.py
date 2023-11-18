@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.autosectionlabel',
     'hoverxref.extension',
     'sphinx_favicon',
     'sphinx_design'
@@ -24,7 +25,8 @@ extensions = [
 
 hoverxref_auto_ref = True
 hoverxref_domains = [
-    'py'
+    'py',
+    'cite'
 ]
 hoverxref_roles = [
     'option',
@@ -32,8 +34,7 @@ hoverxref_roles = [
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
     'doc',
     # Glossary terms
-    'term',
-    'hoverxref'
+    'term'
 ]
 hoverxref_role_types = {
     'hoverxref': 'tooltip',
