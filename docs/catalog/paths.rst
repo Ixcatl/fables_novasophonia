@@ -155,12 +155,13 @@ Mystic Paths
 Ascendant
 ---------
 
+Secondary Path prefix: "Eminent"
+
 .. card::
-  :class-card: sd-rounded-3 sd-shadow-none
+  :shadow: none
+  :class-card: sd-ml-4 sd-mr-4 sd-text-muted
 
   *All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?*
-
-Secondary Path prefix: "Eminent"
 
 Rank 1
 ~~~~~~
