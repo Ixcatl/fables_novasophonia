@@ -32,9 +32,11 @@ hoverxref_roles = [
     # Not supported yet: https://github.com/readthedocs/sphinx-hoverxref/issues/18
     'doc',
     # Glossary terms
-    'term'
+    'term',
+    'hoverxref'
 ]
 hoverxref_role_types = {
+    'hoverxref': 'tooltip',
     'mod': 'modal',  # for Python Sphinx Domain
     'doc': 'modal',  # for whole docs
     'class': 'tooltip',  # for Python Sphinx Domain
