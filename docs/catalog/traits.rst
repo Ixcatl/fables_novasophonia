@@ -7,6 +7,14 @@ Catalog: Traits
 Natural Weapons
 ===============
 
+Sharp Claws
+-----------
+This character's extremities end in claws, with 1 base damage.
+
+On hands, the claws apply no penalty to dextrous actions, but require a free hand to use. They can be paired with any weapon, and when a sharp claw strikes as a paired attack, its base damage increases by 1.
+
+On feet, the claws may be used as long as no footwear obstructs them, but they cannot be paired.
+
 --------
 
 Attribute Traits
@@ -49,9 +57,17 @@ This character always knows when they are in the presence of aberrations or powe
 Body Traits
 ===========
 
+Keen Ears
+---------
+This character has two reasonably large, sensitive ears.
+
+Slender Tail
+------------
+This character possesses a long, thin tail. While it is essential for regulating body temperature and providing balance, it provides no outstanding benefits.
+
 Extra Arms
 ----------
-This character has an additional pair of arms equally as functional as their others.
+This character has an additional pair of arms, with equal function as any others.
 
 --------
 
@@ -64,3 +80,10 @@ Natural Defense Traits
 ======================
 
 --------
+
+Scars
+=====
+
+Lost Tail
+---------
+Once owning a tail, this character is now bereft of it. They suffer a -1 :term:`die penalty` on any Grace checks involving acrobatics or similar.
