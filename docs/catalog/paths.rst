@@ -46,6 +46,19 @@ Warrior (club)
 -------
 Secondary Path prefix: "Unrelenting"
 
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  .. div:: sd-mb-1
+
+    Placeholder
+
+  .. div:: sd-text-right
+
+    -- placeholder person
+
 Rank 1
 ~~~~~~
 
@@ -165,10 +178,6 @@ Secondary Path prefix: "Eminent"
   .. div:: sd-mb-1
 
     All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?
-
-  .. div:: sd-text-right
-
-    -- unknown
 
 Rank 1
 ~~~~~~
