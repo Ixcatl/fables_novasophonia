@@ -9,6 +9,50 @@ Rodents
 
 --------
 
+Mouse
+------
+.. card::
+  :shadow: none
+  :class-card: sd-rounded-3
+  :class-body: sd-py-2
+
+  The humble mouse: a mainstay of this new world.
+
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Brawn:  3
+      Grace:  3
+      Mettle: 3
+      Savvy:  3
+      
+      Vitality: 7
+
+  .. grid-item::
+
+    ::
+
+      Cute:  1.5
+      Creep: 1
+      Bonus Cute/Creep: 1
+      
+      Speed:  6
+      Hunger: 9
+
+  .. grid-item::
+
+    ::
+
+      Size: Average
+      Bulk: 3
+
+**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
+
 Insects
 =======
 
