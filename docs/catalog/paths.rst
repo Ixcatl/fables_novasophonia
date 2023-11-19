@@ -199,7 +199,7 @@ Rank 3
 | When attuning Arcana, the Ascendant may splice two Arcana together into one, merging their Difficulty. The second Arcanum's effect is additionally carried by the first, in a way determined by the GM if needed. If the delivery Arcanum is an AoE, the total Difficulty increases by 1. The triggered Arcanum's Path is counted as the delivery Arcanum's Path. Two AoE Arcana cannot be spliced together.
 |
 | **Thin the Veil**
-| When the Ascendant casts an area of effect Arcanum that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcanum's range. Arcana cast this way retain the same direction in which they were cast originally.
+| When the Ascendant casts an area of effect Arcanum that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcanum's ordinary range. Arcana cast this way retain the same direction in which they were cast originally.
 
 --------
 
@@ -233,7 +233,7 @@ Rank 3
 
 --------
 
-Path of Flame
+Arsonist
 ---------
 Secondary Path prefix: "Fiery"
 
@@ -263,7 +263,7 @@ Rank 3
 
 --------
 
-Path of the Wild
+Thaumaturge (wild?)
 -----
 Secondary Path prefix: "Hedge"
 
@@ -278,7 +278,7 @@ Rank 3
 
 --------
 
-Path of Ruin
+Heretic
 -----
 Secondary Path prefix: "Ruinous"
 
