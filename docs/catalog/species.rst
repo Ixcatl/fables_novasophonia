@@ -49,7 +49,8 @@ Mouse
       Size: Average
       Bulk: 3
 
-**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
+| **Traits:**
+| **Traits, common:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
 
 Rat
 ------
@@ -93,7 +94,8 @@ Rat
       Size: Average
       Bulk: 5
 
-**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
+| **Traits:**
+| **Traits, common:**  :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
 Insects
 =======
@@ -155,4 +157,5 @@ Lumen
       Size: Small
       Bulk: 2
 
-**Traits:** :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
+| **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
+| **Traits, common:** :ref:`catalog/traits:extra arms`
