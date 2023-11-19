@@ -7,8 +7,6 @@ Catalog: Species
 Rodents
 =======
 
---------
-
 Mouse
 ------
 .. card::
@@ -16,7 +14,51 @@ Mouse
   :class-card: sd-rounded-3
   :class-body: sd-py-2
 
-  The humble mouse: a mainstay of this new world.
+  The humble mouse: ubiquitous in this strange world.
+
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Brawn:  2.5
+      Grace:  3.5
+      Mettle: 3
+      Savvy:  3
+      
+      Vitality: 7
+
+  .. grid-item::
+
+    ::
+
+      Cute:  1.5
+      Creep: 1
+      Bonus Cute/Creep: 1
+      
+      Speed:  7
+      Hunger: 9
+
+  .. grid-item::
+
+    ::
+
+      Size: Average
+      Bulk: 3
+
+**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
+
+Rat
+------
+.. card::
+  :shadow: none
+  :class-card: sd-rounded-3
+  :class-body: sd-py-2
+
+  <blurb>
 
 .. grid:: auto
   :gutter: 4
@@ -31,25 +73,25 @@ Mouse
       Mettle: 3
       Savvy:  3
       
-      Vitality: 7
+      Vitality: 8
 
   .. grid-item::
 
     ::
 
-      Cute:  1.5
+      Cute:  1
       Creep: 1
       Bonus Cute/Creep: 1
       
       Speed:  6
-      Hunger: 9
+      Hunger: 13
 
   .. grid-item::
 
     ::
 
       Size: Average
-      Bulk: 3
+      Bulk: 5
 
 **Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
@@ -70,8 +112,6 @@ Others
 
 Aberrations
 ===========
-
---------
 
 Lumen
 ------
