@@ -50,7 +50,7 @@ Mouse
       Bulk: 3
 
 | **Traits:**
-| **Traits, common:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
+| **Traits (common):** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
 
 Rat
 ------
@@ -95,7 +95,7 @@ Rat
       Bulk: 5
 
 | **Traits:**
-| **Traits, common:**  :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
+| **Traits (common):**  :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
 Insects
 =======
@@ -158,4 +158,4 @@ Lumen
       Bulk: 2
 
 | **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
-| **Traits, common:** :ref:`catalog/traits:extra arms`
+| **Traits (common):** :ref:`catalog/traits:extra arms`
