@@ -6,6 +6,9 @@ For the convenience of players and GMs alike, this page includes a number of com
 
 .. glossary::
 
+   damage type: true
+      Damage which cannot be negated by any means, passing straight to Vitality (or Stamina if at Death's Door).
+
    die bonus
       Adds a number of extra dice to the associated roll before it is made.
 
@@ -17,3 +20,6 @@ For the convenience of players and GMs alike, this page includes a number of com
 
    reroll
       Any roll qualifying for a number of rerolls may immediately take an equal amount of failing dice and reroll them, taking the better outcome(s).
+
+   rough terrain
+      Characters crossing over squares of rough terrain take twice the usual amount of Speed or Footwork to do so.
