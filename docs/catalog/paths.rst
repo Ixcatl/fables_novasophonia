@@ -160,10 +160,10 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Withstand**
-| Whenever the Champion takes damage, they gain an additional 1 Soak die against further damage that round. This effect stacks for up to 3 additional dice.
+| Whenever the Champion takes damage, they gain an additional 1 Soak die against further damage that round. This effect stacks indefinitely until the round ends.
 | 
-| **Force of Will** (wip)
-| The Champion may use a Focus action to roll their base Mettle score, repairing their armor by 1 point for each success.
+| **Force of Will**
+| When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of their Vitality.
 | In addition, while taking any Focus action, the Champion increases their Mettle score by 2 until the start of their next turn.
 
 Rank 3
