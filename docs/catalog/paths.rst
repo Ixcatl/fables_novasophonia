@@ -18,12 +18,18 @@ Secondary Path prefix: "Noble"
 
 Rank 1
 ~~~~~~
+| **Guard Breaker**
+| The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged gain +1 :term:`favor`.
 
 Rank 2
 ~~~~~~
+| **Battle Stance**
+| When an enemy enters a square adjacent to the Duelist from a square not adjacent to them, they provoke an automatic attack of opportunity.
 
 Rank 3
 ~~~~~~
+| **Martial Master**
+| The Duelist may perform an additional Weapon Art per turn.
 
 --------
 
@@ -33,12 +39,22 @@ Secondary Path prefix: "Dashing"
 
 Rank 1
 ~~~~~~
+| **Swift Strikes**
+| The Rogue may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons. Spear-type weapons are an exception to this limit.
+| 
+| **Sharp Lunge**
+| The Rogue may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
 
 Rank 2
 ~~~~~~
+| **Battle Dance**
+| During combat, when the Rogue takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Rogue may dedicate Momentum as if it were additional Stamina.
+| Momentum can be stored up to a maximum of the Rogue's rank, and points fade at the end of the Rogue's following turn after they are gained.
 
 Rank 3
 ~~~~~~
+| **Untouchable**
+| 6s the Rogue rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
 
 --------
 
@@ -61,12 +77,21 @@ Secondary Path prefix: "Unrelenting"
 
 Rank 1
 ~~~~~~
+| **Power Attack**
+| Any time the Warrior dedicates at least 3 Stamina to an attack or Art, it deals an additional 1 point of base damage. This damage is increased to 2 if the attack is made with a heavy weapon or club weapon. If performing an Art with an area of effect or multiple attacks, the Warrior must spend an additional 1 taxed Stamina to make it a Power Attack.
 
 Rank 2
 ~~~~~~
+| **Second Wind**
+| Whenever the Warrior ends their turn with 0 Stamina, they regain 1 Stamina.
+| 
+| **Uproot**
+| The Warrior may attack empty squares at 1 Stamina cost, creating rough terrain which takes twice as much Speed to move through. Characters burrowed within the terrain take 2 damage and are forced to surface.
 
 Rank 3
 ~~~~~~
+| **Law of Conservation**
+| The Warrior treats taxed Stamina in an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to the Warrior's next attack.
 
 --------
 
