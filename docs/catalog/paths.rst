@@ -3,7 +3,7 @@ Catalog: Paths
 *****
 
 .. Note::
-  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor. Design a Noble Duelist, or a Crooked Champion!
+  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor. Design a Noble Rogue, or a Ruinous Champion!
 
 --------
 
@@ -12,7 +12,7 @@ Martial Paths
 
 --------
 
-Knight (sword)
+Duelist (sword)
 ------
 Secondary Path prefix: "Noble"
 
@@ -27,7 +27,7 @@ Rank 3
 
 --------
 
-Duelist (spear)
+Rogue (spear)
 -------
 Secondary Path prefix: "Dashing"
 
@@ -70,7 +70,7 @@ Rank 3
 
 --------
 
-Scoundrel (hook)
+Hellion (hook)
 ---------
 Secondary Path prefix: "Crooked"
 
