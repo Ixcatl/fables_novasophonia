@@ -131,7 +131,7 @@ Secondary Path prefix: "Desperate"
 Rank 1
 ~~~~~~
 | **Frenzy**
-| After the Wastrel makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Wastrel rank. If they do, a d6 is rolled. If the result is less than the Wastrel's current Vitality, they suffer 2 :term:`true damage`.
+| After the Wastrel makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Wastrel rank. If they do, a d6 is rolled. If the result is less than the Wastrel's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
 
 Rank 2
 ~~~~~~
