@@ -22,4 +22,4 @@ For the convenience of players and GMs alike, this page includes a number of com
       Any roll qualifying for a number of rerolls may immediately take an equal amount of failing dice and reroll them, taking the better outcome(s).
 
    rough terrain
-      Characters crossing over squares of rough terrain take twice the usual amount of Speed or Footwork to do so.
+      Characters crossing over squares of rough terrain take twice the usual amount of Speed (and Footwork if applicable) to do so.
