@@ -19,7 +19,7 @@ Secondary Path prefix: "Noble"
 Rank 1
 ~~~~~~
 | **Guard Breaker**
-| The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged gain +1 :term:`favor`.
+| The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged have +1 :term:`favor`.
 
 Rank 2
 ~~~~~~
@@ -40,7 +40,7 @@ Secondary Path prefix: "Dashing"
 Rank 1
 ~~~~~~
 | **Swift Strikes**
-| The Rogue may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons. Spear-type weapons are an exception to this limit.
+| The Rogue may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons. Spear-type weapons are an exception to this rule.
 | 
 | **Sharp Lunge**
 | The Rogue may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
@@ -49,7 +49,7 @@ Rank 2
 ~~~~~~
 | **Battle Dance**
 | During combat, when the Rogue takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Rogue may dedicate Momentum as if it were additional Stamina.
-| Momentum can be stored up to a maximum of the Rogue's rank, and points fade at the end of the Rogue's following turn after they are gained.
+| Momentum can be stored up to a maximum of the Rogue's rank, and points fade at the end of the Rogue's next turn after they are gained.
 
 Rank 3
 ~~~~~~
@@ -86,7 +86,7 @@ Rank 2
 | Whenever the Warrior ends their turn with 0 Stamina, they regain 1 Stamina.
 | 
 | **Uproot**
-| The Warrior may attack empty squares at 1 Stamina cost, creating rough terrain which takes twice as much Speed to move through. Characters burrowed within the terrain take 2 damage and are forced to surface.
+| The Warrior may attack empty squares at 1 Stamina cost, creating :term:`rough terrain`. Characters burrowed within the terrain take 2 damage and are forced to surface.
 
 Rank 3
 ~~~~~~
@@ -101,12 +101,26 @@ Secondary Path prefix: "Crooked"
 
 Rank 1
 ~~~~~~
+| **Slice of Hand**
+| The Hellion may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons.
+| 
+| **Push and Pull**
+| When the Hellion successfully risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
+| 
+| **Bag of Tricks**
+| The Hellion gains access to a Stash pool, which increases by 1, and learns two trap recipes of common or uncommon rarity.
 
 Rank 2
 ~~~~~~
+| **Clever Tricks**
+| The Hellion may deploy traps at a range of 3. When they set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the character that triggered it, while ones which affect an area will originate from its original position.
+| The Hellion's maximum Stash also increases by 1, and they learn a new common or uncommon trap recipe.
 
 Rank 3
 ~~~~~~
+| **Cheat to Win**
+| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Hellion may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the Hellion's next turn.
+| The Hellion's maximum Stash also increases by 1, and they learn a new trap recipe of any rarity.
 
 --------
 
@@ -116,12 +130,18 @@ Secondary Path prefix: "Desperate"
 
 Rank 1
 ~~~~~~
+| **Frenzy**
+| After the Wastrel makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Wastrel rank. If they do, a d6 is rolled. If the result is less than the Wastrel's current Vitality, they suffer 2 :term:`true damage`.
 
 Rank 2
 ~~~~~~
+| **Burnout**
+| When making an attack, parrying, or dodging, the Wastrel may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
 
 Rank 3
 ~~~~~~
+| **Bloodlust**
+| Slaying an enemy restores 1 Vitality to the Wastrel. If the attack was made using a natural weapon, 2 Vitality is restored instead.
 
 --------
 
@@ -131,12 +151,28 @@ Secondary Path prefix: "Stalwart"
 
 Rank 1
 ~~~~~~
+| **Glancing Blows**
+| If an attack that the Champion attempts to parry still risks damage after the attempt, their Soak dice have +1 :term:`favor`.
+| 
+| **Watchful Eye**
+| The first attack of opportunity a Champion makes each round costs no Stamina to initiate.
 
 Rank 2
 ~~~~~~
+| **Withstand**
+| Whenever the Champion takes damage, they gain an additional 1 Soak die against further damage that round. This effect stacks for up to 3 additional dice.
+| 
+| **Force of Will** (wip)
+| The Champion may use a Focus action to roll their base Mettle score, repairing their armor by 1 point for each success.
+| In addition, while taking any Focus action, the Champion increases their Mettle score by 2 until the start of their next turn.
 
 Rank 3
 ~~~~~~
+| **Impassable**
+| Squares adjacent to the Champion count as :term:`rough terrain` for their foes. Flying or Leaping enemies crossing over those squares are forced to land, though this does not end their turn.
+| 
+| **Martial Defense**
+| The Champion may use Normal Weapon Arts as attacks of opportunity, or activate an Augmentation Art during an attack of opportunity, bypassing the Arts per turn limit.
 
 --------
 
