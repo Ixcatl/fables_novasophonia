@@ -40,14 +40,14 @@ Secondary Path prefix: "Dashing"
 Rank 1
 ~~~~~~
 | **Swift Strikes**
-| The Rogue may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons. Spear-type weapons are an exception to this rule.
+| The Rogue may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons. Spear weapons are an exception to this rule.
 | 
 | **Sharp Lunge**
 | The Rogue may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
 
 Rank 2
 ~~~~~~
-| **Battle Dance**
+| **Battle Rhythm**
 | During combat, when the Rogue takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Rogue may dedicate Momentum as if it were additional Stamina.
 | Momentum can be stored up to a maximum of the Rogue's rank, and points fade at the end of the Rogue's next turn after they are gained.
 
@@ -91,7 +91,7 @@ Rank 2
 Rank 3
 ~~~~~~
 | **Law of Conservation**
-| The Warrior treats taxed Stamina in an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to the Warrior's next attack.
+| The Warrior treats taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to the Warrior's next attack.
 
 --------
 
@@ -102,10 +102,10 @@ Secondary Path prefix: "Crooked"
 Rank 1
 ~~~~~~
 | **Slice of Hand**
-| The Hellion may attack using Grace instead of Brawn to hit with melee weapons, but not with heavy weapons.
+| The Hellion may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons.
 | 
 | **Push and Pull**
-| When the Hellion successfully risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
+| When the Hellion succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
 | 
 | **Bag of Tricks**
 | The Hellion gains access to a Stash pool, which increases by 1, and learns two trap recipes of common or uncommon rarity.
@@ -124,24 +124,24 @@ Rank 3
 
 --------
 
-Wastrel (natural)
+Predator (natural)
 -------
-Secondary Path prefix: "Desperate"
+Secondary Path prefix: "Lunatic"
 
 Rank 1
 ~~~~~~
 | **Frenzy**
-| After the Wastrel makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Wastrel rank. If they do, a d6 is rolled. If the result is less than the Wastrel's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
+| After the Predator makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Predator rank. If they do, a d6 is rolled. If the result is less than the Predator's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
 
 Rank 2
 ~~~~~~
 | **Burnout**
-| When making an attack, parrying, or dodging, the Wastrel may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
+| When making an attack, parrying, or dodging, the Predator may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
 
 Rank 3
 ~~~~~~
 | **Bloodlust**
-| Slaying an enemy restores 1 Vitality to the Wastrel. If the attack was made using a natural weapon, 2 Vitality is restored instead.
+| Slaying an enemy restores 1 Vitality to the Predator. If the attack was made using a natural weapon, 2 Vitality is restored instead.
 
 --------
 
@@ -152,7 +152,7 @@ Secondary Path prefix: "Stalwart"
 Rank 1
 ~~~~~~
 | **Glancing Blows**
-| If an attack that the Champion attempts to parry still risks damage after the attempt, their Soak dice have +1 :term:`favor`.
+| If an attack the Champion attempts to parry still risks damage after the attempt, their Soak dice have +1 :term:`favor`.
 | 
 | **Watchful Eye**
 | The first attack of opportunity a Champion makes each round costs no Stamina to initiate.
@@ -160,11 +160,11 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Withstand**
-| Whenever the Champion takes damage, they gain an additional 1 Soak die against further damage that round. This effect stacks indefinitely until the round ends.
+| Whenever the Champion takes damage during a round, they gain an additional 1 Soak die against further damage. This effect stacks until the start of the Champion's next turn.
 | 
 | **Force of Will**
-| When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of their Vitality.
-| In addition, while taking any Focus action, the Champion increases their Mettle score by 2 until the start of their next turn.
+| When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of Vitality.
+| In addition, while taking any Focus action, the Champion increases their effective Mettle score by 2 until the start of their next turn.
 
 Rank 3
 ~~~~~~
@@ -172,11 +172,11 @@ Rank 3
 | Squares adjacent to the Champion count as :term:`rough terrain` for their foes. Flying or Leaping enemies crossing over those squares are forced to land, though this does not end their turn.
 | 
 | **Martial Defense**
-| The Champion may use Normal Weapon Arts as attacks of opportunity, or activate an Augmentation Art during an attack of opportunity, bypassing the Arts per turn limit.
+| The Champion may use Normal Weapon Arts as attacks of opportunity or activate an Augmentation Art during an attack of opportunity, bypassing the Arts per turn limit.
 
 --------
 
-Ranger (bow)
+Ranger (light ranged)
 ------
 Secondary Path prefix: "Unerring"
 
@@ -191,9 +191,9 @@ Rank 3
 
 --------
 
-Arbalest (sling)
+Arbalest (heavy ranged)
 --------
-Secondary Path prefix: "Strongarm"
+Secondary Path prefix: "Deadeye"
 
 Rank 1
 ~~~~~~
@@ -324,7 +324,7 @@ Rank 3
 
 --------
 
-Thaumaturge (wild?)
+Witch / Warlock
 -----
 Secondary Path prefix: "Hedge"
 
