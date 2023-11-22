@@ -185,6 +185,8 @@ Rank 1
 
 Rank 2
 ~~~~~~
+| **Rebound**
+| Once per round, should the Ranger's ranged attack be dodged or parried, it can ricochet at a target adjacent to the first. The ricochet attack inherits the same number of successes as the original. If the original target was adjacent to the wall, the ricochet may instead target it a second time. An attack cannot ricochet more than once.
 
 Rank 3
 ~~~~~~
@@ -197,12 +199,21 @@ Secondary Path prefix: "Deadeye"
 
 Rank 1
 ~~~~~~
+| **Good Arm**
+| The Arbalest may attack with ranged weapons using Brawn to hit instead of Grace.
+| 
+| **Long Shot**
+| When an Arbalest makes a ranged attack or Arcanum, its range can be increased by up to twice its original range. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
 
 Rank 2
 ~~~~~~
+| **Line Up** (wip)
+| If the Arbalest does not move for one round, intentionally or otherwise, they receive a +1 die bonus to the first attack roll made on their following turn.
 
 Rank 3
 ~~~~~~
+| **Bullseye**
+| 6s rolled when the Arbalest makes a ranged attack are treated as 2 successes.
 
 --------
 
@@ -212,12 +223,24 @@ Secondary Path prefix: "Worldly"
 
 Rank 1
 ~~~~~~
+| **Easy Toss**
+| 
+| 
+| **Chemical Warfare**
+| 
 
 Rank 2
 ~~~~~~
+| **Controlled Burst**
+| 
+| 
+| **Efficient Reagents**
+| 
 
 Rank 3
 ~~~~~~
+| **Chemical Admixture**
+| 
 
 --------
 
