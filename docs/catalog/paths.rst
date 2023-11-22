@@ -224,23 +224,27 @@ Secondary Path prefix: "Worldly"
 Rank 1
 ~~~~~~
 | **Easy Toss**
-| 
+| When the Alchemist makes a thrown or natural ranged weapon attack that will not directly impact a living target or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. The Alchemist may also pair thrown flasks with any weapon.
 | 
 | **Chemical Warfare**
-| 
+| The Alchemist gains access to a Stash pool, which increases by 1, and learns three flask recipes of common or uncommon rarity.
 
 Rank 2
 ~~~~~~
 | **Controlled Burst**
-| 
+| When the Alchemist throws a flask, they may increase its terrain effect radius by one, and targeted flasks may be applied as a 3x3 AoE. Flasks thrown may ignore a number of allies or spaces within their effect radius up to the Alchemist's rank.
+| Areas of effect from natural ranged weapons or hand pumps may also be increased by one, or by one cone size, and ignore a number of allies or spaces up to the Alchemist's Rank.
 | 
 | **Efficient Reagents**
-| 
+| When creating a Stash item, the Alchemist rolls a d6. On a success, 1 Stash is refunded from the item's cost.
+| The Alchemist's maximum Stash also increases by 1, and they learn two new common or uncommon flask recipes.
 
 Rank 3
 ~~~~~~
 | **Chemical Admixture**
-| 
+| While in possession of two non-rare flasks, the Alchemist may combine them. Choose one flask to be the "Carrier" and another to be the "Payload". Natural ranged weapons may act as a Carrier.
+| Choose one of the Payload's Targeted or Terrain effects. If the effect is Targeted, it applies to all characters the Carrier's effects apply to. If the effect is Terrain, it affects all tiles the Carrier applies to, as well as the tiles of characters the Carrier affects.
+| The Alchemist's maximum Stash also increases by 1, and they learn two new flask recipes of any rarity.
 
 --------
 
