@@ -291,7 +291,7 @@ Rank 3
 
 --------
 
-Path of the Cloak
+Shade
 -----
 Secondary Path prefix: "Shrouded"
 
@@ -306,7 +306,7 @@ Rank 3
 
 --------
 
-Path of the Dreamer
+Evoker
 -----
 Secondary Path prefix: "Awakened"
 
@@ -321,9 +321,9 @@ Rank 3
 
 --------
 
-Arsonist
+Elementalist
 ---------
-Secondary Path prefix: "Fiery"
+Secondary Path prefix: "Ardent"
 
 Rank 1
 ~~~~~~
@@ -351,7 +351,7 @@ Rank 3
 
 --------
 
-Witch / Warlock
+Witch
 -----
 Secondary Path prefix: "Hedge"
 
@@ -366,7 +366,7 @@ Rank 3
 
 --------
 
-Heretic
+Harbinger
 -----
 Secondary Path prefix: "Ruinous"
 
