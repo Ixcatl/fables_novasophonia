@@ -160,7 +160,7 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Withstand**
-| Whenever the Champion takes damage during a round, they gain an additional 1 Soak die against further damage. This effect stacks until the start of the Champion's next turn.
+| Whenever the Champion takes damage during a round, they gain an additional 1 Soak die against further damage. This effect stacks indefinitely and lasts until the start of the Champion's next turn.
 | 
 | **Force of Will**
 | When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of Vitality.
