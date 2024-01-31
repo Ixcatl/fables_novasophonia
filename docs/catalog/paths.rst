@@ -3,7 +3,7 @@ Catalog: Paths
 *****
 
 .. Note::
-  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor. Design a Noble Rogue, or a Ruinous Champion!
+  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor if desired. Design a Noble Rogue, or a Ruinous Champion!
 
 --------
 
@@ -164,12 +164,12 @@ Rank 2
 | 
 | **Force of Will**
 | When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of Vitality.
-| In addition, while taking any Focus action, the Champion increases their effective Mettle score by 2 until the start of their next turn.
+| In addition, while taking any Focus action, the Champion increases their effective Mettle score by 2 until no longer Focusing.
 
 Rank 3
 ~~~~~~
 | **Impassable**
-| Squares adjacent to the Champion count as :term:`rough terrain` for their foes. Flying or Leaping enemies crossing over those squares are forced to land, though this does not end their turn.
+| Squares adjacent to the Champion count as :term:`rough terrain` against trespassers. Flying or Leaping enemies crossing over those squares are forced to land, though this does not end their turn.
 | 
 | **Martial Defense**
 | The Champion may use Normal Weapon Arts as attacks of opportunity or activate an Augmentation Art during an attack of opportunity, bypassing the Arts per turn limit.
@@ -193,7 +193,7 @@ Rank 3
 
 --------
 
-Arbalest (heavy ranged)
+Arbalist (heavy ranged)
 --------
 Secondary Path prefix: "Deadeye"
 
@@ -263,12 +263,12 @@ Secondary Path prefix: "Eminent"
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural, then, to seek the truest final Ascension, learning from the folly of those who came before?
+  All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural then, to seek the truest final Ascension, and surmount the folly of all those who came before?
 
 Rank 1
 ~~~~~~
 | **Astral Conduit**
-| The Ascendant may pour some of their Magic into an ordinary object, transforming it into an Astral Conduit. The Conduit can store a maximum amount of Magic points equal to its creator's Ascendant rank. They may have only one Astral Conduit, and creating a new one destroys the old one. While holding a Conduit or carrying it on the Belt, the Ascendant or another character with Ascendant ranks may spend 1 Stamina to draw any amount of Magic from it. As a Focus action, the Ascendant can either deposit any amount of Magic into their existing Conduit, or create a new one.
+| The Ascendant may pour some of their Magic into an ordinary object, transforming it into an Astral Conduit. The Conduit can store a maximum amount of Magic points equal to its creator's Ascendant rank. They may have only one Astral Conduit, and creating a new one destroys the old one. While holding a Conduit or carrying it on the Belt, the Ascendant (or another adjacent character with Ascendant ranks, and the Ascendant's permission) may spend 1 Stamina to draw any amount of Magic from it. As a Focus action, the Ascendant can either deposit any amount of Magic into their existing Conduit, or create a new one.
 |
 | **Sorcerous Casting**
 | The Ascendant may treat all arcane foci as weapons with the Sorcerous modifier. Talismans instead make the Ascendant's unarmed strikes and grapples Sorcerous.
@@ -278,13 +278,13 @@ Rank 2
 | **Mind Made Manifest**
 | When the Ascendant makes an opposed Insight check either as part of an Arcanum or ability, or to resist an Arcanum or ability, they may dedicate Magic to that check as additional dice.
 |
-| **Unnatural Selection**
+| **Natural Selection**
 | When the Ascendant successfully damages at least one character with an Arcanum, they gain 1 Magic.
 
 Rank 3
 ~~~~~~
-| **Spellcrafting**
-| When attuning Arcana, the Ascendant may splice two Arcana together into one, merging their Difficulty. The second Arcanum's effect is additionally carried by the first, in a way determined by the GM if needed. If the delivery Arcanum is an AoE, the total Difficulty increases by 1. The triggered Arcanum's Path is counted as the delivery Arcanum's Path. Two AoE Arcana cannot be spliced together.
+| **Spell Splicing**
+| When attuning Arcana, the Ascendant may splice two Arcana together into one, merging their Difficulty. The second Arcanum's effect is additionally carried by the first, in a way determined by the GM if needed. If the delivery Arcanum has an AoE, the total Difficulty increases by 1. The triggered Arcanum's Path is considered as the delivery Arcanum's Path. Two AoE Arcana cannot be spliced together.
 |
 | **Thin the Veil**
 | When the Ascendant casts an area of effect Arcanum that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcanum's ordinary range. Arcana cast this way retain the same direction in which they were cast originally.
@@ -306,7 +306,7 @@ Rank 3
 
 --------
 
-Evoker
+Reverie
 -----
 Secondary Path prefix: "Awakened"
 
@@ -321,7 +321,7 @@ Rank 3
 
 --------
 
-Elementalist
+Evoker
 ---------
 Secondary Path prefix: "Ardent"
 
@@ -336,7 +336,7 @@ Rank 3
 
 --------
 
-Path of Growth
+Sage
 -----
 Secondary Path prefix: "Verdant"
 
@@ -353,7 +353,7 @@ Rank 3
 
 Witch
 -----
-Secondary Path prefix: "Hedge"
+Secondary Path prefix: "Occult"
 
 Rank 1
 ~~~~~~
