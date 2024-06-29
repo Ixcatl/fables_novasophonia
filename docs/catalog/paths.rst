@@ -33,28 +33,28 @@ Rank 3
 
 --------
 
-Rogue (spear)
+Cavalier (spear)
 -------
 Secondary Path prefix: "Dashing"
 
 Rank 1
 ~~~~~~
 | **Swift Strikes**
-| The Rogue may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons. Spear weapons are an exception to this rule.
+| The Cavalier may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons. Spear weapons are an exception to this rule.
 | 
 | **Sharp Lunge**
-| The Rogue may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
+| The Cavalier may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
 
 Rank 2
 ~~~~~~
 | **Battle Rhythm**
-| During combat, when the Rogue takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Rogue may dedicate Momentum as if it were additional Stamina.
-| Momentum can be stored up to a maximum of the Rogue's rank, and points fade at the end of the Rogue's next turn after they are gained.
+| During combat, when the Cavalier takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Cavalier may dedicate Momentum as if it were additional Stamina.
+| Momentum can be stored up to a maximum of the Cavalier's rank, and points fade at the end of the Cavalier's next turn after they are gained.
 
 Rank 3
 ~~~~~~
 | **Untouchable**
-| 6s the Rogue rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
+| 6s the Cavalier rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
 
 --------
 
@@ -95,32 +95,32 @@ Rank 3
 
 --------
 
-Hellion (hook)
+Rogue (hook)
 ---------
 Secondary Path prefix: "Crooked"
 
 Rank 1
 ~~~~~~
-| **Slice of Hand**
-| The Hellion may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons.
+| **Sleight of Hand**
+| The Rogue may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons.
 | 
 | **Push and Pull**
-| When the Hellion succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
+| When the Rogue succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
 | 
 | **Bag of Tricks**
-| The Hellion gains access to a Stash pool, which increases by 1, and learns two trap recipes of common or uncommon rarity.
+| The Rogue gains access to a Stash pool, which increases by 1, and learns two trap recipes of common or uncommon rarity.
 
 Rank 2
 ~~~~~~
 | **Clever Tricks**
-| The Hellion may deploy traps at a range of 3. When they set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the character that triggered it, while ones which affect an area will originate from its original position.
-| The Hellion's maximum Stash also increases by 1, and they learn a new common or uncommon trap recipe.
+| The Rogue may deploy traps at a range of 3. When they set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the character that triggered it, while ones which affect an area will originate from its original position.
+| The Rogue's maximum Stash also increases by 1, and they learn a new common or uncommon trap recipe.
 
 Rank 3
 ~~~~~~
 | **Cheat to Win**
-| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Hellion may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the Hellion's next turn.
-| The Hellion's maximum Stash also increases by 1, and they learn a new trap recipe of any rarity.
+| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Rogue may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the Rogue's next turn.
+| The Rogue's maximum Stash also increases by 1, and they learn a new trap recipe of any rarity.
 
 --------
 
@@ -178,7 +178,7 @@ Rank 3
 
 Ranger (light ranged)
 ------
-Secondary Path prefix: "Unerring"
+Secondary Path prefix: "Deft"
 
 Rank 1
 ~~~~~~
