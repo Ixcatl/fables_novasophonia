@@ -7,7 +7,7 @@ Catalog: Species
 Sophonts
 =======
 
-Comprised of intelligent beings originating from the material plane, sophonts tend to be the main source of social interaction within most campaigns, be it fair or foul. 
+Intelligent beings originating from the material plane. Sophonts tend to be one's main source of social interaction, be it fair or foul. 
 
 --------
 
@@ -19,6 +19,10 @@ Rat
   :class-body: sd-py-2
 
   The common rat is perhaps one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
+
+.. dropdown:: More details...
+
+    <to be filled>
 
 .. grid:: auto
   :gutter: 4
@@ -66,6 +70,10 @@ Mouse
   :class-body: sd-py-2
 
   A close cousin to the much more common rat, mice are slightly smaller, exaggerated in proportions, and tend to rely on agility more than raw strength.
+
+.. dropdown:: More details...
+
+    <to be filled>
 
 .. grid:: auto
   :gutter: 4
