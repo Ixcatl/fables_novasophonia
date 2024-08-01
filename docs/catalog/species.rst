@@ -159,8 +159,3 @@ Lumen
 
 | **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
 | **Traits (common):** :ref:`catalog/traits:extra arms`
-
- .. toctree::
-    :maxdepth: 3
-
-    test/*
