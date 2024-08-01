@@ -7,6 +7,8 @@ Catalog: Species
 Rodents
 =======
 
+--------
+
 Mouse
 ------
 .. card::
@@ -51,6 +53,8 @@ Mouse
 
 | **Traits:**
 | **Traits (common):** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
+
+--------
 
 Rat
 ------
@@ -97,6 +101,8 @@ Rat
 | **Traits:**
 | **Traits (common):**  :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
+--------
+
 Insects
 =======
 
@@ -114,6 +120,8 @@ Others
 
 Aberrations
 ===========
+
+--------
 
 Lumen
 ------
