@@ -7,20 +7,16 @@ Catalog: Species
 Sophonts
 =======
 
-Intelligent beings originating from the material plane. Sophonts tend to be one's main source of social interaction, be it fair or foul. 
+Intelligent beings originating from the material plane. Sophonts tend to be one's chief source of social interaction.
 
 --------
 
 Rat
 ------
-.. card::
-  :shadow: none
-  :class-card: sd-rounded-3
-  :class-body: sd-py-2
 
-  The common rat is perhaps one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
+The common rat is perhaps one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
 
-.. dropdown:: More details...
+.. dropdown:: Details...
 
     <to be filled>
 
@@ -64,14 +60,10 @@ Rat
 
 Mouse
 ------
-.. card::
-  :shadow: none
-  :class-card: sd-rounded-3
-  :class-body: sd-py-2
 
-  A close cousin to the much more common rat, mice are slightly smaller, exaggerated in proportions, and tend to rely on agility more than raw strength.
+A close cousin to the much more common rat, mice are slightly smaller, exaggerated in proportions, and tend to rely on agility more than raw strength.
 
-.. dropdown:: More details...
+.. dropdown:: Details...
 
     <to be filled>
 
@@ -135,12 +127,12 @@ Aberrations
 
 Lumen
 ------
-.. card::
-  :shadow: none
-  :class-card: sd-rounded-3
-  :class-body: sd-py-2
 
-  <blurb pending>
+<blurb pending>
+
+.. dropdown:: Details...
+
+    <to be filled>
 
 .. grid:: auto
   :gutter: 4
