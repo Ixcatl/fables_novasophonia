@@ -36,7 +36,7 @@ As is with the UHKRPG, any commercial distribution to anyone under any circumsta
    :caption: Catalog
    :hidden:
 
-   catalog/species.rst
+   catalog/species
    catalog/traits
    catalog/paths
    catalog/arts-arcana
