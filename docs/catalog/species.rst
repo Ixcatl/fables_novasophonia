@@ -163,4 +163,4 @@ Lumen
  .. toctree::
     :maxdepth: 3
 
-    test/test.rst
+    test
