@@ -254,9 +254,8 @@ Mystic Paths
 --------
 
 Ascendant
----------
-
-Secondary Path prefix: "Eminent"
+-----
+Secondary Path prefix: "Arcane" (Arcadian caster)
 
 .. card::
   :shadow: none
@@ -264,6 +263,29 @@ Secondary Path prefix: "Eminent"
   :class-body: sd-py-2
 
   All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural then, to seek the truest final Ascension, and surmount the folly of all those who came before?
+
+Rank 1
+~~~~~~
+
+Rank 2
+~~~~~~
+
+Rank 3
+~~~~~~
+
+--------
+
+Thaumaturge
+---------
+
+Secondary Path prefix: "Arcane" (Pandemonium caster)
+
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  blurb
 
 Rank 1
 ~~~~~~
