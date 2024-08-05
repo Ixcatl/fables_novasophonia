@@ -7,7 +7,7 @@ Catalog: Species
 Sophonts
 =======
 
-Intelligent beings originating from the material plane. Sophonts tend to be one's chief source of social interaction.
+Intelligent beings originating from Nova Sophonia, the primordial plane. Sophonts tend to be one's chief (but not only) source of social interaction.
 
 --------
 
@@ -58,10 +58,10 @@ The common rat is perhaps one of the most adaptable sophonts in the known world.
 
 --------
 
-Mouse
+Ratling
 ------
 
-A close cousin to the much more common rat, mice are slightly smaller, exaggerated in proportions, and tend to rely on agility more than raw strength.
+A close cousin to the common rat - hence the name - ratlings are slightly smaller, more exaggerated in proportions, and tend to lean further towards agility.
 
 .. dropdown:: Details...
 
@@ -98,7 +98,7 @@ A close cousin to the much more common rat, mice are slightly smaller, exaggerat
     ::
 
       Size: Average
-      Bulk: 4
+      Bulk: 3
 
 | **Traits:**
 | **Traits (common):** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
