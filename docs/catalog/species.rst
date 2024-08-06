@@ -68,9 +68,9 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
     <to be filled>
 
     | **Race modifiers**
-    | **Poetic ratling**: ``+1 Savvy   -1 Mettle``
-    | **Shadow ratling**: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
-    | **Tunnel ratling**: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
+    | Poetic ratling: ``+1 Savvy   -1 Mettle``
+    | Gutter ratling: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
+    | Tunnel ratling: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
 
 .. grid:: auto
   :gutter: 4
