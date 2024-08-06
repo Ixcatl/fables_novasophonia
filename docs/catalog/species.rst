@@ -44,7 +44,7 @@ The common rat is perhaps one of the most adaptable sophonts in the known world.
       Bonus Cute/Creep: 1
       
       Speed:  6
-      Hunger: 13
+      Hunger: 10
 
   .. grid-item::
 
@@ -61,11 +61,16 @@ The common rat is perhaps one of the most adaptable sophonts in the known world.
 Ratling
 ------
 
-A close cousin to the rat - hence the name - ratlings are slightly smaller, more exaggerated in proportions, and tend to lean further towards agility.
+A close cousin to the rat - hence the name - ratlings are smaller and more exaggerated in both proportions and disposition.
 
 .. dropdown:: Details...
 
     <to be filled>
+
+    | **Race modifiers**
+    | **Poetic ratling**: ``+1 Savvy   -1 Mettle``
+    | **Shadow ratling**: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
+    | **Tunnel ratling**: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
 
 .. grid:: auto
   :gutter: 4
@@ -80,7 +85,7 @@ A close cousin to the rat - hence the name - ratlings are slightly smaller, more
       Mettle: 3
       Savvy:  3
       
-      Vitality: 7
+      Vitality: 6
 
   .. grid-item::
 
@@ -91,7 +96,7 @@ A close cousin to the rat - hence the name - ratlings are slightly smaller, more
       Bonus Cute/Creep: 1
       
       Speed:  6
-      Hunger: 9
+      Hunger: 8
 
   .. grid-item::
 
@@ -120,11 +125,6 @@ Lumen
 .. dropdown:: Details...
 
     <to be filled>
-
-    --------
-
-    Subspecies:
-    **Test:** ``test``
 
 .. grid:: auto
   :gutter: 4
