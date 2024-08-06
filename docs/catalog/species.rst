@@ -7,7 +7,7 @@ Catalog: Species
 Sophonts
 =======
 
-Intelligent beings originating from Nova Sophonia, the primordial plane. Sophonts tend to be one's chief (but not only) source of social interaction.
+Intelligent beings inhabiting Nova Sophonia, the world. Sophonts tend to be one's chief (but not only) source of social interaction.
 
 --------
 
@@ -61,7 +61,7 @@ The common rat is perhaps one of the most adaptable sophonts in the known world.
 Ratling
 ------
 
-A close cousin to the common rat - hence the name - ratlings are slightly smaller, more exaggerated in proportions, and tend to lean further towards agility.
+A close cousin to the rat - hence the name - ratlings are slightly smaller, more exaggerated in proportions, and tend to lean further towards agility.
 
 .. dropdown:: Details...
 
@@ -105,23 +105,10 @@ A close cousin to the common rat - hence the name - ratlings are slightly smalle
 
 --------
 
-Insects
-=======
-
---------
-
-Titans
-======
-
---------
-
-Others
-======
-
---------
-
-Aberrations
+Outlanders
 ===========
+
+Hailing from the planar realms beyond, outlanders can vastly differ from the sophonts of the primordial world, often possessing much stronger magical prowess.
 
 --------
 
@@ -133,6 +120,11 @@ Lumen
 .. dropdown:: Details...
 
     <to be filled>
+
+    --------
+
+    Subspecies:
+    **Test:** ``test``
 
 .. grid:: auto
   :gutter: 4
@@ -169,3 +161,16 @@ Lumen
 
 | **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
 | **Traits (common):** :ref:`catalog/traits:extra arms`
+
+--------
+
+Chimera
+------
+
+<blurb pending>
+
+.. dropdown:: Details...
+
+    <to be filled>
+
+**<stat block NYI>**
