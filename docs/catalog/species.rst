@@ -53,8 +53,7 @@ The common rat is perhaps one of the most adaptable sophonts in the known world.
       Size: Average
       Bulk: 4
 
-| **Traits:**
-| **Traits (common):**  :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
+**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail`
 
 --------
 
@@ -66,11 +65,6 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 .. dropdown:: Details...
 
     <to be filled>
-
-    | **Race modifiers**
-    | Poetic ratling: ``+1 Savvy   -1 Mettle``
-    | Gutter ratling: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
-    | Tunnel ratling: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
 
 .. grid:: auto
   :gutter: 4
@@ -105,8 +99,13 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
       Size: Average
       Bulk: 3
 
-| **Traits:**
-| **Traits (common):** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
+| **Races**
+| Common ratling: <no modifiers>
+| Poetic ratling: ``+1 Savvy   -1 Mettle``
+| Gutter ratling: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
+| Tunnel ratling: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
+
+**Traits:** :ref:`catalog/traits:sharp claws`, :ref:`catalog/traits:keen ears`, :ref:`catalog/traits:slender tail` 
 
 --------
 
@@ -159,8 +158,7 @@ Lumen
       Size: Average
       Bulk: 3
 
-| **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`
-| **Traits (common):** :ref:`catalog/traits:extra arms`
+**Traits:** **:ref:`catalog/traits:manapot`**, **:ref:`catalog/traits:wick magic`**, **:ref:`catalog/traits:ear to the wall`**, :ref:`catalog/traits:extra arms`
 
 --------
 
@@ -174,3 +172,10 @@ Chimera
     <to be filled>
 
 **<stat block NYI>**
+
+| **Races**
+| Stable chimera: <no modifiers>
+| Wizened chimera: ``?``
+| Hulking chimera: ``?``
+| Skulking chimera: ``?``
+
