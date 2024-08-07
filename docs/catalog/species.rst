@@ -53,13 +53,14 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
     ::
 
-      +1.5 either Charm/Fright
+      +1.5 Charm/Fright
 
 | **Races**
 | Common rat: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| Scholarly rat: ``TBD``
-| aaaaaaaa: ``TBD``
+| Coastal rat: ``+1 Brawn   -1 Grace``
+| Roving rat: ``+1 Grace   -1 Brawn``
+| Ashen rat: ``+1 Mettle   -1 Grace``
+| Fancy rat: ``+1 Savvy   +1 Charm   -0.5 Brawn   -1 Mettle``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
@@ -110,7 +111,7 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 | **Races**
 | Common ratling: ``no modifiers``
 | Poetic ratling: ``+1 Savvy   -1 Mettle``
-| Gutter ratling: ``+0.5 Grace   +0.5 Creep   -0.5 Mettle   -0.5 Cute``
+| Gutter ratling: ``+0.5 Grace   +0.5 Fright   -0.5 Mettle   -0.5 Charm``
 | Tunnel ratling: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
