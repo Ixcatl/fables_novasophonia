@@ -60,7 +60,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 | Coastal rat: ``+1 Brawn   -1 Grace``
 | Roving rat: ``+1 Grace   -1 Brawn``
 | Ashen rat: ``+1 Mettle   -1 Grace``
-| Fancy rat: ``+1 Savvy   -1 Brawn``
+| Fancy rat: ``+1 Savvy   -1 Mettle``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
@@ -83,36 +83,38 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 
     ::
 
-      Brawn:  2.5
-      Grace:  3.5
+      Brawn:  2
+      Grace:  4
       Mettle: 3
       Savvy:  3
       
       Vitality: 6
+      Stamina: 3
+      Anima: 3
 
   .. grid-item::
 
     ::
 
-      Cute:  1.5
-      Creep: 1
-      Bonus Cute/Creep: 1
+      Charm:  1.5
+      Fright: 1
       
-      Speed:  6
+      Speed:  7
       Hunger: 8
+      Size: Small
+      Bulk: 3
 
   .. grid-item::
 
     ::
 
-      Size: Average
-      Bulk: 3
+      +1 Charm/Fright
 
 | **Races**
 | Common ratling: ``no modifiers``
 | Poetic ratling: ``+1 Savvy   -1 Mettle``
 | Gutter ratling: ``+0.5 Grace   +0.5 Fright   -0.5 Mettle   -0.5 Charm``
-| Tunnel ratling: ``+1 Brawn   +0.5 Mettle   -0.5 Cute   -1 Grace``
+| Mountain ratling: ``+1 Brawn   +1 Mettle   -1 Speed   -1.5 Grace   +2 Hunger``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
@@ -121,7 +123,7 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 Oscine
 ------
 
-Tall and slender bird-people with a natural penchant for spellcraft, the reclusive oscines dwell far from civilization to practice their arts, but are no strangers to life elsewhere should it beckon.
+Tall and slender bird-people with a natural penchant for spellcraft, the reclusive oscines dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
 
 .. dropdown:: Details...
 
@@ -135,10 +137,10 @@ Tall and slender bird-people with a natural penchant for spellcraft, the reclusi
 
     ::
 
-      Brawn:  2.5
-      Grace:  3.5
-      Mettle: 2.5
-      Savvy:  3.5
+      Brawn:  2
+      Grace:  4
+      Mettle: 2
+      Savvy:  4
       
       Vitality: 7
 
@@ -146,25 +148,25 @@ Tall and slender bird-people with a natural penchant for spellcraft, the reclusi
 
     ::
 
-      Cute:  1
-      Creep: 1
-      Bonus Cute/Creep: 1
+      Charm:  1
+      Fright: 1
       
       Speed:  6
-      Hunger: 10
+      Hunger: 8
+      Size: Average
+      Bulk: 4
 
   .. grid-item::
 
     ::
 
-      Size: Average
-      Bulk: 4
+      +1 Charm/Fright
 
 | **Races**
 | Common oscine: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
+| Bayou oscine: ``+1 Mettle   -1 Savvy``
+| Oscine zenith: ``+0.5 Savvy   +0.5 Charm   -0.5 Grace``
+| Oscine nadir: ``+0.5 Grace   +0.5 Fright   -0.5 Savvy``
 
 **Traits:** TBD
 
@@ -173,7 +175,7 @@ Tall and slender bird-people with a natural penchant for spellcraft, the reclusi
 Raptor
 ------
 
-A burly, imposing, infamously hardheaded species of avian, raptors have also garnered a reputation for oft appearing alongside their smaller oscine compatriots, not to mention to their talents in many trades.
+A burly, imposing, infamously hardheaded species of avian, raptors have also garnered a reputation for oft appearing alongside their svelte oscine compatriots, not to mention their talents in many trades.
 
 .. dropdown:: Details...
 
@@ -187,10 +189,10 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 
     ::
 
-      Brawn:  3.5
-      Grace:  2.5
-      Mettle: 3.5
-      Savvy:  2.5
+      Brawn:  4
+      Grace:  2
+      Mettle: 4
+      Savvy:  2
       
       Vitality: 8
 
@@ -198,25 +200,25 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 
     ::
 
-      Cute:  1
-      Creep: 1.5
-      Bonus Cute/Creep: 1
+      Charm:  1
+      Fright: 1.5
       
       Speed:  6
       Hunger: 14
+      Size: Average
+      Bulk: 5
 
   .. grid-item::
 
     ::
 
-      Size: Average
-      Bulk: 5
+    +1 Charm/Fright
 
 | **Races**
 | Common raptor: ``no modifiers``
 | River raptor: ``+1 Grace   -1 Brawn``
-| Townie raptor: ``+1 Savvy   -0.5 Mettle   -0.5 Creep``
-| Giant raptor: ``TBD``
+| Townie raptor: ``+1 Savvy   +0.5 Charm   -1 Brawn   -0.5 Fright``
+| Giant raptor: ``+0.5 Brawn   +0.5 Fright   -0.5 Grace``
 
 **Traits:** TBD
 
@@ -231,13 +233,47 @@ Basilisk
 
     <TBD>
 
-**<stat block TBD>**
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Brawn:  3
+      Grace:  3
+      Mettle: 3
+      Savvy:  3
+      
+      Vitality: 7
+      Stamina: 3
+      Anima: 3
+
+  .. grid-item::
+
+    ::
+
+      Charm:  1
+      Fright: 1
+
+      Speed:  6
+      Hunger: 10
+      Size: Average
+      Bulk: 4
+
+  .. grid-item::
+
+    ::
+
+      +1.5 Charm/Fright
 
 | **Races**
-| aaaaaaaa: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
+| Common basilisk: ``no modifiers``
+| Highland basilisk: ``+1 Brawn   -1 Savvy``
+| Badland basilisk: ``+1 Grace   -1 Mettle``
+| Crag basilisk: ``+1 Mettle   -1 Savvy``
+| Dusk basilisk: ``+1 Savvy   -1 Mettle``
 
 **Traits:** TBD
 
@@ -309,7 +345,7 @@ Piscis
 Outlanders
 ===========
 
-Hailing from the planar realms beyond, outlanders can vastly differ from the sophonts of the primordial world, often possessing much stronger magical prowess.
+Hailing from the planar realms beyond, outlanders can vastly differ from the sophonts of the primordial world, not bound to conventional principles or locales.
 
 --------
 
@@ -343,17 +379,17 @@ Lumen
 
       Cute:  2
       Creep: 1
-      Bonus Cute/Creep: 1
       
       Speed:  7
       Hunger: 15
+      Size: Small
+      Bulk: 3
 
   .. grid-item::
 
     ::
 
-      Size: Average
-      Bulk: 3
+    +1 Charm/Fright
 
 **Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`, :ref:`catalog/traits:extra arms`
 
