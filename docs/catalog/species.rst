@@ -57,9 +57,9 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
 | **Races**
 | Common rat: ``no modifiers``
-| Coastal rat: ``+1 Brawn   -1 Grace``
-| Roving rat: ``+1 Grace   -1 Brawn``
-| Ashen rat: ``+1 Mettle   -1 Grace``
+| Coastal rat: ``+1 Brawn   -1 Savvy``
+| Roving rat: ``+1 Grace   -1 Mettle``
+| Ashen rat: ``+1 Mettle   -1 Savvy``
 | Fancy rat: ``+1 Savvy   -1 Mettle``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
@@ -227,7 +227,7 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 Basilisk
 ------
 
-<blurb TBD>
+A steadfast reptilian people known for inhabiting the less habitable places in Nova Sophonia. One must be tough to survive in the wastes - and the folk's many tight-knit clans and posses prove themselves in unique ways.
 
 .. dropdown:: Details...
 
@@ -258,7 +258,7 @@ Basilisk
       Fright: 1
 
       Speed:  6
-      Hunger: 10
+      Hunger: 12
       Size: Average
       Bulk: 4
 
@@ -269,11 +269,11 @@ Basilisk
       +1.5 Charm/Fright
 
 | **Races**
-| Common basilisk: ``no modifiers``
-| Highland basilisk: ``+1 Brawn   -1 Savvy``
-| Badland basilisk: ``+1 Grace   -1 Mettle``
-| Crag basilisk: ``+1 Mettle   -1 Savvy``
-| Dusk basilisk: ``+1 Savvy   -1 Mettle``
+| Hobnob basilisk: ``-2 hunger``   Resistance (+1 physical OR magic OR environmental)
+| Hill basilisk: ``+1 Brawn   -1 Grace``   Resistance (+4 cold)
+| Sand basilisk: ``+1 Grace   -1 Brawn``   Resistance (+4 heat)
+| Crag basilisk: ``+1 Mettle   -1 Grace``   Resistance (+4 poisons)
+| Dusk basilisk: ``+1 Savvy   -1 Brawn``   Resistance (+4 force???)
 
 **Traits:** TBD
 
