@@ -60,7 +60,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 | Coastal rat: ``+1 Brawn   -1 Grace``
 | Roving rat: ``+1 Grace   -1 Brawn``
 | Ashen rat: ``+1 Mettle   -1 Grace``
-| Fancy rat: ``+1 Savvy   +1 Charm   -0.5 Brawn   -1 Mettle``
+| Fancy rat: ``+1 Savvy   -1 Brawn``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
