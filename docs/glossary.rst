@@ -11,7 +11,7 @@ For the convenience of players and GMs alike, this page includes a number of com
 
    damage class: environmental
       | (shorthand: env.) Damage inflicted by the environment, nonmagical elements, status effects, or plain misadventure.
-      | Bypasses Soak rolls, but not DR or Absorption unless specified.
+      Bypasses Soak rolls, but not DR or Absorption unless specified.
 
    damage class: astral
       | (shorthand: ast.) Damage caused through the weaving of astral energy, such as spells or other conjury. 
