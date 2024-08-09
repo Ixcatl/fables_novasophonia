@@ -51,6 +51,10 @@ For the convenience of players and GMs alike, this page includes a number of com
       | Puncture wounds such as spikes, spines, arrows or spears cause pierce damage.
       | Pierce damage dealt counts as physical by default.
 
+   damage type: poison
+      | Poisons and venoms that pulse through the blood and flesh normally deal poison damage.
+      | Poison damage dealt counts as environmental by default. Uniquely, though, it does not fall under a specific damage set.
+
    damage type: psychic
       | A benign form of attack characterized by an assault of the senses themselves and the nerves binding them.
       | Psychic damage dealt counts as astral by default.
