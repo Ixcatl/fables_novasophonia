@@ -10,9 +10,8 @@ For the convenience of players and GMs alike, this page includes a number of com
       (shorthand: phys.) Damage dealt by conventional weapons. Not usually prefixed as a damage class.
 
    damage class: environmental
-      (shorthand: env.) Damage inflicted by the environment, nonmagical elements, status effects, or plain misadventure.
+      | (shorthand: env.) Damage inflicted by the environment, nonmagical elements, status effects, or plain misadventure.
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
-
    damage class: astral
       | (shorthand: ast.) Damage caused through the weaving of astral energy, such as spells or other conjury. 
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
