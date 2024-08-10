@@ -253,16 +253,16 @@ Mystic Paths
 
 --------
 
-Ascendant
+Arcanist
 -----
-Secondary Path prefix: "Arcane" (Arcadian caster)
+Secondary Path prefix: "Arcane"
 
 .. card::
   :shadow: none
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  All living things, willfully or not, are destined to rise above one another; thus is the way of nature. Is it not simply natural then, to seek the truest final Ascension, and surmount the folly of all those who came before?
+  <blurb>
 
 Rank 1
 ~~~~~~
@@ -278,14 +278,14 @@ Rank 3
 Thaumaturge
 ---------
 
-Secondary Path prefix: "Arcane" (Pandemonium caster)
+Secondary Path prefix: "Thaumetic"
 
 .. card::
   :shadow: none
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  blurb
+  Any astronomer worth their salt knows Pandemonium is one of the most potent sources of magic in the Corporeum, but harnessing the mutinous chaos without grave error is another matter of miracle-making entirely.
 
 Rank 1
 ~~~~~~
@@ -330,7 +330,7 @@ Rank 3
 
 Reverie
 -----
-Secondary Path prefix: "Awakened"
+Secondary Path prefix: "Fey"
 
 Rank 1
 ~~~~~~
@@ -390,7 +390,7 @@ Rank 3
 
 Harbinger
 -----
-Secondary Path prefix: "Ruinous"
+Secondary Path prefix: "Fell"
 
 Rank 1
 ~~~~~~
