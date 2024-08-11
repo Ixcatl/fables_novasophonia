@@ -124,14 +124,14 @@ Rank 3
 
 --------
 
-Predator (natural)
+Berserker (natural)
 -------
-Secondary Path prefix: "Lunatic"
+Secondary Path prefix: "Frenzied"
 
 Rank 1
 ~~~~~~
 | **Frenzy**
-| After the Predator makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Predator rank. If they do, a d6 is rolled. If the result is less than the Predator's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
+| After the Berserker makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Berserker rank. If they do, a d6 is rolled. If the result is less than the Predator's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
 
 Rank 2
 ~~~~~~
@@ -208,7 +208,7 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Line Up** (wip)
-| If the Arbalest does not move for one round, intentionally or otherwise, they receive a +1 die bonus to the first attack roll made on their following turn.
+| At the end of their turn, the Arbalist may declare a target to focus their attention on. If both the target and Arbalist remain in their respective spaces by the beginning of the Arbalist's next turn, the Arbalist gains a +2 die bonus to their first attack, as long as it is against the focused target. This bonus stacks up to 3 times.
 
 Rank 3
 ~~~~~~
