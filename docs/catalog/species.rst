@@ -123,7 +123,7 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 Oscine
 ------
 
-Tall and slender bird-people with a natural penchant for spellcraft, the reclusive oscines dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
+Tall and slender bird-people with a natural penchant for spellcraft, oscines dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
 
 .. dropdown:: Details...
 
@@ -269,11 +269,11 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
       +1.5 Charm/Fright
 
 | **Races**
-| Hobnob basilisk: ``-2 hunger``   Resistance (+1 physical OR magic OR environmental)
-| Hill basilisk: ``+1 Brawn   -1 Grace``   Resistance (+4 cold)
-| Sand basilisk: ``+1 Grace   -1 Brawn``   Resistance (+4 heat)
-| Crag basilisk: ``+1 Mettle   -1 Grace``   Resistance (+4 poisons)
-| Dusk basilisk: ``+1 Savvy   -1 Brawn``   Resistance (+4 force???)
+| Hobnob basilisk: ``-2 Hunger``   Resistance (+1 elemental)
+| Hill basilisk: ``+1 Brawn   -1 Grace``   Resistance (+3 cold)
+| Sand basilisk: ``+1 Grace   -1 Brawn``   Resistance (+3 heat)
+| Crag basilisk: ``+1 Mettle   -1 Grace``   Resistance (+3 poison)
+| Dusk basilisk: ``+1 Savvy   -1 Brawn``   Resistance (+3 shock)
 
 **Traits:** TBD
 
