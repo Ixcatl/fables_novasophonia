@@ -3,7 +3,7 @@ Catalog: Paths
 *****
 
 .. Note::
-  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor if desired. Design a Noble Rogue, or a Ruinous Champion!
+  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor if desired. Design a Noble Thaumaturge, or a Fell Champion!
 
 --------
 
@@ -39,7 +39,7 @@ Secondary Path prefix: "Dashing"
 
 Rank 1
 ~~~~~~
-| **Swift Strikes**
+| **Lancing Strikes**
 | The Cavalier may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons. Spear weapons are an exception to this rule.
 | 
 | **Sharp Lunge**
@@ -60,7 +60,7 @@ Rank 3
 
 Warrior (club)
 -------
-Secondary Path prefix: "Unrelenting"
+Secondary Path prefix: "Ruthless"
 
 .. card::
   :shadow: none
@@ -78,7 +78,7 @@ Secondary Path prefix: "Unrelenting"
 Rank 1
 ~~~~~~
 | **Power Attack**
-| Any time the Warrior dedicates at least 3 Stamina to an attack or Art, it deals an additional 1 point of base damage. This damage is increased to 2 if the attack is made with a heavy weapon or club weapon. If performing an Art with an area of effect or multiple attacks, the Warrior must spend an additional 1 taxed Stamina to make it a Power Attack.
+| Any time the Warrior dedicates at least 3 Stamina to an attack or Art, it deals an additional 1 point of base damage. This bonus is increased to 2 if the attack is made with a heavy weapon or club weapon. If performing an Art with an area of effect or multiple attacks, the Warrior must spend an additional 1 taxed Stamina to make it a Power Attack.
 
 Rank 2
 ~~~~~~
@@ -101,26 +101,26 @@ Secondary Path prefix: "Crooked"
 
 Rank 1
 ~~~~~~
-| **Sleight of Hand**
+| **Swift Strikes**
 | The Rogue may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons.
 | 
 | **Push and Pull**
 | When the Rogue succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
 | 
 | **Bag of Tricks**
-| The Rogue gains access to a Stash pool, which increases by 1, and learns two trap recipes of common or uncommon rarity.
+| The Rogue learns two trap blueprints of common or uncommon rarity.
 
 Rank 2
 ~~~~~~
-| **Clever Tricks**
+| **Hair Trigger**
 | The Rogue may deploy traps at a range of 3. When they set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the character that triggered it, while ones which affect an area will originate from its original position.
-| The Rogue's maximum Stash also increases by 1, and they learn a new common or uncommon trap recipe.
+| The Rogue also learns a new common or uncommon trap blueprint.
 
 Rank 3
 ~~~~~~
 | **Cheat to Win**
-| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Rogue may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the Rogue's next turn.
-| The Rogue's maximum Stash also increases by 1, and they learn a new trap recipe of any rarity.
+| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Rogue may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the beginning of the Rogue's next turn.
+| The Rogue also learns a new trap blueprint of any rarity.
 
 --------
 
@@ -186,7 +186,7 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Rebound**
-| Once per round, should the Ranger's ranged attack be dodged or parried, it can ricochet at a target adjacent to the first. The ricochet attack inherits the same number of successes as the original. If the original target was adjacent to the wall, the ricochet may instead target it a second time. An attack cannot ricochet more than once.
+| Once per round, should the Ranger's ranged attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricochet attack inherits the same number of successes as the original. If the original target was adjacent to a wall, the ricochet may instead target it a second time. An attack cannot ricochet more than once.
 
 Rank 3
 ~~~~~~
@@ -200,10 +200,10 @@ Secondary Path prefix: "Deadeye"
 Rank 1
 ~~~~~~
 | **Good Arm**
-| The Arbalest may attack with ranged weapons using Brawn to hit instead of Grace.
+| The Arbalist may attack with ranged weapons using Brawn to hit instead of Grace.
 | 
 | **Long Shot**
-| When an Arbalest makes a ranged attack or Arcanum, its range can be increased by up to twice its original range. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
+| When an Arbalist makes a ranged attack or Arcanum, its range can be increased by up to twice its original range. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
 
 Rank 2
 ~~~~~~
@@ -213,13 +213,13 @@ Rank 2
 Rank 3
 ~~~~~~
 | **Bullseye**
-| 6s rolled when the Arbalest makes a ranged attack are treated as 2 successes.
+| 6s rolled when the Arbalist makes a ranged attack are treated as 2 successes.
 
 --------
 
-Alchemist (flask)
+Bombardier (flask)
 ---------
-Secondary Path prefix: "Worldly"
+Secondary Path prefix: "Volatile"
 
 Rank 1
 ~~~~~~
@@ -227,7 +227,7 @@ Rank 1
 | When the Alchemist makes a thrown or natural ranged weapon attack that will not directly impact a living target or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. The Alchemist may also pair thrown flasks with any weapon.
 | 
 | **Chemical Warfare**
-| The Alchemist gains access to a Stash pool, which increases by 1, and learns three flask recipes of common or uncommon rarity.
+| The Alchemist learns three flask blueprints of common or uncommon rarity.
 
 Rank 2
 ~~~~~~
@@ -236,15 +236,15 @@ Rank 2
 | Areas of effect from natural ranged weapons or hand pumps may also be increased by one, or by one cone size, and ignore a number of allies or spaces up to the Alchemist's Rank.
 | 
 | **Efficient Reagents**
-| When creating a Stash item, the Alchemist rolls a d6. On a success, 1 Stash is refunded from the item's cost.
-| The Alchemist's maximum Stash also increases by 1, and they learn two new common or uncommon flask recipes.
+| When creating a Stash item, the Alchemist rolls a d6. On a success, 1 Stash is refunded from the item's cost. **(TO BE REDONE)**
+| The Alchemist also learns two new common or uncommon flask blueprints.
 
 Rank 3
 ~~~~~~
 | **Chemical Admixture**
 | While in possession of two non-rare flasks, the Alchemist may combine them. Choose one flask to be the "Carrier" and another to be the "Payload". Natural ranged weapons may act as a Carrier.
 | Choose one of the Payload's Targeted or Terrain effects. If the effect is Targeted, it applies to all characters the Carrier's effects apply to. If the effect is Terrain, it affects all tiles the Carrier applies to, as well as the tiles of characters the Carrier affects.
-| The Alchemist's maximum Stash also increases by 1, and they learn two new flask recipes of any rarity.
+| The Alchemist also learns two new flask blueprints of any rarity.
 
 --------
 
@@ -285,7 +285,7 @@ Secondary Path prefix: "Thaumetic"
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  Any astronomer worth their salt knows Pandemonium is one of the most potent sources of magic in the Corporeum, but harnessing the mutinous chaos without grave error is another matter of miracle-making entirely.
+  Any astronomer worth their salt knows Pandemonium is one of the most potent sources of magic in the Corporeum, but harnessing its mutinous chaos without grave error is another matter of miracle-making entirely.
 
 Rank 1
 ~~~~~~
