@@ -11,60 +11,58 @@ Intelligent beings found all throughout the world of Nova Sophonia. Sophonts ten
 
 --------
 
-.. dropdown:: Rat
+Rat
+------
 
-    Test
-    ------
+The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
 
-    The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
-    
-    .. dropdown:: Details...
-    
-        <TBD>
-    
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
+.. dropdown:: Details...
+
+    <TBD>
+
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Brawn:  3
+      Grace:  3
+      Mettle: 3
+      Savvy:  3
       
-      .. grid-item::
-    
-        ::
-    
-          Brawn:  3
-          Grace:  3
-          Mettle: 3
-          Savvy:  3
-          
-          Vitality: 7
-          Stamina: 3
-          Anima: 3
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Charm/Fright
-    
-    | **Races**
-    | Common rat: ``no modifiers``
-    | Coastal rat: ``+1 Brawn   -1 Savvy``
-    | Roving rat: ``+1 Grace   -1 Mettle``
-    | Ashen rat: ``+1 Mettle   -1 Savvy``
-    | Fancy rat: ``+1 Savvy   -1 Mettle``
-    
-    **Traits:** :ref:`catalog/traits:sharp claws`
+      Vitality: 7
+      Stamina: 3
+      Anima: 3
+
+  .. grid-item::
+
+    ::
+
+      Charm:  1
+      Fright: 1
+
+      Speed:  6
+      Hunger: 10
+      Size: Average
+      Bulk: 4
+
+  .. grid-item::
+
+    ::
+
+      +1.5 Charm/Fright
+
+| **Races**
+| Common rat: ``no modifiers``
+| Coastal rat: ``+1 Brawn   -1 Savvy``
+| Roving rat: ``+1 Grace   -1 Mettle``
+| Ashen rat: ``+1 Mettle   -1 Savvy``
+| Fancy rat: ``+1 Savvy   -1 Mettle``
+
+**Traits:** :ref:`catalog/traits:sharp claws`
 
 --------
 
