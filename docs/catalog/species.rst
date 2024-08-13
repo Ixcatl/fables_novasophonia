@@ -288,13 +288,46 @@ Ophidian
 
     <TBD>
 
-**<stat block TBD>**
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Brawn:  3.5
+      Grace:  3.5
+      Mettle: 3
+      Savvy:  2
+      
+      Vitality: 7
+      Stamina: 3
+      Anima: 3
+
+  .. grid-item::
+
+    ::
+
+      Charm:  1
+      Fright: 1
+
+      Speed:  6
+      Hunger: 13
+      Size: Average
+      Bulk: 5
+
+  .. grid-item::
+
+    ::
+
+      +1.5 Charm/Fright
 
 | **Races**
-| aaaaaaaa: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
+| Common ophidian: ``+0.5 Charm/Fright``
+| Ophidian sandwinder: ``+0.5 Grace   +0.5 Charm   -0.5 Brawn``
+| Ophidian bogstalker: ``+1 Mettle   +0.5 Fright   -0.5 Brawn   -0.5 Grace``
+| Naga: ``+2 Savvy   +0.5 Charm   -1 Brawn   -1 Mettle``
 
 **Traits:** TBD
 
