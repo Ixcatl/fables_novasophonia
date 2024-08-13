@@ -4,36 +4,31 @@ Catalog: Traits
 
 --------
 
+Character Traits
+================
+
+Foible
+--------
+| *Physical/Mental*
+| *Trait value:* ``+1``
+This pawn has a small defect, giving them a -1 :term:`die penalty` for a particular use of a skill or attribute, or some other minor drawback. Foible may be taken multiple times, and can count as either a *physical* or *mental* trait.
+
+.. Tip::
+  | If you are a player, speak with your GM about designing your own Foibles. Examples may include:
+  | **One-eyed**: *Physical.* -1 to checks relying on sight. +0.5 Fright.
+  | **Lost tail**: *Physical.* -1 to acrobatics checks.
+  | **Poor memory**: *Mental.* -1 to lore checks.
+
+--------
+
 Natural Weapons
 ===============
 
 Sharp Claws
 -----------
-This pawn's extremities end in claws, with 1 base damage.
-
-On hands, the claws apply no penalty to dextrous actions, but require a free hand to use. They can be paired with any other weapon, and when a sharp claw strikes as a paired attack, its base damage increases by 1.
-
-On feet, the claws may be used as long as no footwear obstructs them, but they cannot be paired.
-
---------
-
-Attribute Traits
-================
-
---------
-
-Mental Traits
-=============
-
---------
-
-Physiological Traits
-====================
-
---------
-
-Sense Traits
-============
+| This pawn's extremities end in claws, with 1 base damage.
+| On hands, the claws apply no penalty to dextrous actions, but require a free hand to use. They can be paired with any other weapon, and when a sharp claw strikes as a paired attack, its base damage increases by 1.
+| On feet, the claws may be used as long as no footwear obstructs them, but they cannot be paired.
 
 --------
 
@@ -64,22 +59,3 @@ This pawn's body is thin, bendy, or amorphous. They can squeeze into smaller spa
 Extra Arms
 ----------
 This pawn has an additional pair of arms, with equal function as any others.
-
---------
-
-Movement Traits
-===============
-
---------
-
-Natural Defense Traits
-======================
-
---------
-
-Scars
-=====
-
-Lost Tail
----------
-Once owning a tail, this pawn is now bereft of it. They suffer a -1 :term:`die penalty` on any Grace checks involving acrobatics or similar.
