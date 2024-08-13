@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Us Who Remain: TTRPG Rulebook'
-copyright = '2023, Ixcatl'
+copyright = '2023-2024, by Ixcatl & HKRPG Team'
 author = 'Ixcatl'
 
 release = '1.0'
