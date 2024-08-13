@@ -424,7 +424,7 @@ Lumen
 
     +1 Charm/Fright
 
-**Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:ear to the wall`, :ref:`catalog/traits:extra arms`
+**Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`
 
 --------
 
