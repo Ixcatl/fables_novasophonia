@@ -13,7 +13,6 @@ Intelligent beings found all throughout the world of Nova Sophonia. Sophonts ten
 
 Rat
 ------
-
 The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
 
 .. dropdown:: Details...
@@ -68,7 +67,6 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
 Ratling
 ------
-
 A close cousin to the rat - hence the name - ratlings are smaller and more exaggerated in both proportions and disposition.
 
 .. dropdown:: Details...
@@ -122,7 +120,6 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 
 Oscine
 ------
-
 Tall and slender bird-people with a natural penchant for spellcraft, oscines dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
 
 .. dropdown:: Details...
@@ -174,7 +171,6 @@ Tall and slender bird-people with a natural penchant for spellcraft, oscines dwe
 
 Raptor
 ------
-
 A burly, imposing, infamously hardheaded species of avian, raptors have also garnered a reputation for oft appearing alongside their svelte oscine compatriots, not to mention their talents in many trades.
 
 .. dropdown:: Details...
@@ -226,7 +222,6 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 
 Basilisk
 ------
-
 A steadfast reptilian people known for inhabiting the less habitable places in Nova Sophonia. One must be tough to survive in the wastes - and the folk's many tight-knit clans and posses prove themselves in unique ways.
 
 .. dropdown:: Details...
@@ -281,7 +276,6 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
 
 Ophidian
 ------
-
 <blurb TBD>
 
 .. dropdown:: Details...
@@ -335,7 +329,6 @@ Ophidian
 
 Poliwog
 ------
-
 <blurb TBD>
 
 .. dropdown:: Details...
@@ -356,7 +349,6 @@ Poliwog
 
 Piscis
 ------
-
 <blurb TBD>
 
 .. dropdown:: Details...
@@ -384,7 +376,6 @@ Hailing from the planar realms beyond, outlanders can vastly differ from the sop
 
 Lumen
 ------
-
 <blurb TBD>
 
 .. dropdown:: Details...
@@ -410,8 +401,8 @@ Lumen
 
     ::
 
-      Cute:  2
-      Creep: 1
+      Charm:  2
+      Fright: 1
       
       Speed:  7
       Hunger: 15
@@ -424,13 +415,12 @@ Lumen
 
     +1 Charm/Fright
 
-**Traits:** :ref:`catalog/traits:manapot`, :ref:`catalog/traits:wick magic`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`
+**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`
 
 --------
 
 Chimera
 ------
-
 <blurb TBD>
 
 .. dropdown:: Details...
