@@ -264,11 +264,11 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
       +1.5 Charm/Fright
 
 | **Races**
-| Hobnob basilisk: ``-2 Hunger``   Resistance (+1 elemental)
-| Hill basilisk: ``+1 Brawn   -1 Grace``   Resistance (+3 cold)
-| Sand basilisk: ``+1 Grace   -1 Brawn``   Resistance (+3 heat)
-| Crag basilisk: ``+1 Mettle   -1 Grace``   Resistance (+3 poison)
-| Dusk basilisk: ``+1 Savvy   -1 Brawn``   Resistance (+3 shock)
+| Hobnob basilisk: ``-2 Hunger``   :ref:`catalog/traits:resistance` (+1 :term:`elemental <damage set: elemental>`)
+| Hill basilisk: ``+1 Brawn   -1 Grace``   :ref:`catalog/traits:resistance` (+3 :term:`cold <damage type: cold>`)
+| Sand basilisk: ``+1 Grace   -1 Brawn``   :ref:`catalog/traits:resistance` (+3 :term:`heat <damage type: heat>`)
+| Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistance` (+3 :term:`poison <damage type: poison>`)
+| Dusk basilisk: ``+1 Savvy   -1 Brawn``   :ref:`catalog/traits:resistance` (+3 :term:`shock <damage type: shock>`)
 
 **Traits:** TBD
 
@@ -421,7 +421,7 @@ Lumen
 | aaaaaaaa: ``TBD``
 | aaaaaaaa: ``TBD``
 
-**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, :ref:`Resistance (+1 holy) <catalog/traits:extra arms>`
+**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:resistance` (+1 :term:`holy <damage type: holy>`)
 
 --------
 
