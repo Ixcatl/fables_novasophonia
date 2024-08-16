@@ -7,44 +7,63 @@ Catalog: Traits
 Character Traits
 ================
 
+Trained Sense
+----------
+| *Mental*
+| *Trait value:* ``-4``
+| Through discipline, instinct, or necessity, you have learned to use another sense beyond sight to its fullest potential. Choose Acute Scent or Tremorsense as a free subtrait.
+
 Desperado
 --------
 | *Mental*
 | *Trait value:* ``-3``
-| When at 1 Vitality or below, this unit's Speed increases by 2, and they gain +2 dice towards Soak rolls.
+| When at 1 Vitality or below, your Speed increases by 2, and you gain +2 dice towards Soak rolls.
 
-Soulmates
+Kindred
 --------
 | *Mental*
 | *Trait value:* ``-3``
 | *Must be taken by two characters simultaneously.*
-| These two units share very similar souls, for better or for worse, and are inextricably bound. The pair can draw from the Anima pools of one another at any time, though one may deny the other access. The Soulmates feel an instinctive pull in the direction of their counterpart.
+| You share a very similar soul with another individual, for better or worse, and are inextricably bound. You can draw from the Anima pools of one another at any time, though one may deny the other access.
+| Kindred souls always feel an instinctive pull in the direction of their counterpart, though it is difficult to explain in detail.
 
 Talent
 --------
 | *Mental*
 | *Trait value:* ``-2``
-| This unit has a natural penchant for a particular skill. When using that skill to add dice to a roll, one of those dice is an automatic success instead of being rolled.
+| You have a natural penchant for a particular skill. When using that skill to add dice to a roll, one of those dice is an automatic success instead of being rolled.
 | This trait may be taken multiple times, but never for the same skill.
 
 Team Tactics
 --------
 | *Mental*
 | *Trait value:* ``-2``
-| This unit gets +1 bonus die to hit a target that has been hit by an ally since their last turn.
-| Additionally, they gain +1 reroll to relevant rolls when crafting or performing a profession alongside another unit doing the same task.
+| You get +1 die to hit a target that has been hit by an ally since your last turn.
+| Additionally, you gain +1 reroll to relevant rolls when crafting or performing a profession alongside another doing the same task.
 
-Overweight
+Gaunt
+--------
+| *Physical*
+| *Trait value:* ``-1``
+| You are practically skin and bones. You have -1 Bulk and +1 Speed, but lose -1 Belt slot.
+
+Vocalist
+--------
+| *Physical*
+| *Trait value:* ``-1``
+| You've trained yourself to sing in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your singing style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current Scene.
+
+Heavyset
 --------
 | *Physical*
 | *Trait value:* ``0``
-| This unit is remarkably chubby. They have +1 Bulk and -1 Speed, but also gain +0.5 Mettle.
+| You are remarkably overweight. You have +1 Bulk and -1 Speed, but gain +1 Belt slot.
 
 Minor Flaw
 --------
 | *Physical/Mental*
 | *Trait value:* ``+1``
-| This unit has a small personal weakness, giving them a -1 :term:`die penalty` for a particular use of a skill or attribute. Minor Flaw may be taken multiple times (and can stack on itself up to a -3 penalty), and can count as either a *physical* or *mental* trait.
+| You have a small personal weakness, typically giving -1 die towards a particular use of a skill or attribute. Minor Flaw may be taken multiple times (and can stack on itself up to a -3 penalty), and can count as either a physical or mental trait.
 
 .. Tip::
   | This is an extremely malleable trait and is meant to be personal for each character. If you are a player, speak with your GM about designing your own flaws. Simple examples may include:
@@ -54,12 +73,34 @@ Minor Flaw
   | **Missing eye**: *Physical.* -1 to any checks relying on sight. +0.5 Fright.
   | **Compliant**: *Mental.* -1 to any check made against perceived authority. +0.5 Charm.
 
+One Arm
+--------
+| *Physical*
+| *Trait value:* ``+4``
+| You have one arm, and may only wield a single one-handed object.
+| If you already have the Extra Arms trait, One Arm becomes **Missing Arm** and only grants +2 trait points, though it can stack on itself an additional two times for a total of +6 trait points.
+| Cannot be taken with Armless.
+
 Phobia
 --------
 | *Mental*
 | *Trait value:* ``+4``
-| This unit has a debilitating fear of something in particular. When faces with their fear, they must make an Insight check. The difficulty of this check is determined by the GM based on how commonly the feared object or concept is encountered and the severity of the current exposure.
-| If the unit fails this check, they receive a -1 die penalty to all rolls other than Soak and may not willingly confront or approach the target of their fear. This lasts until they can no longer sense their fear and a number of rounds have passed equal to the number of successes by which they failed the Insight check.
+| You have a debilitating fear of something in particular. When faced with your fear, you must make an Insight check. The difficulty of this check is determined by the GM based on how commonly the feared object or concept is encountered and the severity of the current exposure.
+| If you fail this check, you receive a -1 die penalty to all rolls other than Soak and may not willingly confront or approach the target of your fear. This lasts until you can no longer sense your fear and a number of rounds have passed equal to the number of successes by which you failed the Insight check.
+
+Blind
+--------
+| *Physical*
+| *Trait value:* ``+5``
+| You completely lack the sense of sight, with all of the massive drawbacks that entails.
+| Trained Sense may be taken as a subtrait of Blind.
+
+Armless
+----------
+| *Physical*
+| *Trait value:* ``+10``
+| You have no arms, and so cannot wield anything.
+| Tasks relying on manual dexterity are immensely difficult for you. This difficulty can range from -1 to impossible, at GM discretion.
 
 --------
 
@@ -70,7 +111,7 @@ Sharp Claws
 -----------
 | *Physical*
 | *Trait value:* ``-1``
-| This unit's extremities end in claws, with 1 base damage.
+| Your extremities end in claws, with 1 base damage.
 | On hands, the claws apply no penalty to dextrous actions, but require a free hand to use. They can be paired with any other weapon, and when a sharp claw strikes as a paired attack, its base damage increases by 1.
 | On feet, the claws may be used as long as no footwear obstructs them, but they cannot be paired.
 
@@ -81,21 +122,39 @@ Mystical Traits
 
 Anima Shivers
 ---------
-This unit always knows when they are in the presence of powerful magic or forces of will. At GM discretion, they may have a vague idea of how powerful the source is on a successful Savvy check, but cannot pinpoint the source with this alone.
+| *Physical, magic*
+| *Trait value:* ``-1``
+| You are capable of sensing the shifting dynamic of Astra and Anima, and always know when you are in the presence of powerful magic or wills. At GM discretion, you may have a vague idea of how powerful the source is on a successful Savvy check, but cannot pinpoint the source with this alone.
 
 Manapot
 -------
-When taking a Rest and regaining Anima, this unit may store excess Anima points up to their Savvy score in a separate "pool". Using 1 Stamina, they may return all of these points to their Anima pool, losing any which exceed their maximum Anima.
+| *Physical, magic*
+| *Trait value:* ``-2``
+| When taking a Rest and regaining Anima, you may store excess Anima points up to your Savvy score in a temporary "pool". Using 1 Stamina, you may return all of these points to your Anima pool, losing any which exceed your maximum Anima.
 
 Shifting Guise
 -------------
-| *Mental*
+| *Physical, magic*
 | *Trait value:* ``-3``
-| This unit has innate access to a modified version of the Disguise spell. This spell does not need to be attuned, has a duration of Lifetime, and can be cast without cost, but can only be cast with a range of Self and does not benefit from its normal Essence feature.
+| You have innate access to a modified version of the Disguise spell. This spell does not need to be attuned, has a duration of Lifetime, and can be cast without cost, but can only be cast with a range of Self and does not benefit from its normal Essence feature.
 
 Wick Magic
 -------------
-This unit may spend one Anima when they are affected by an instance of astral damage to attempt a Soak roll against that damage. If they possess an Absorption score, they may use it instead of Mettle on the roll.
+| *Physical, magic*
+| *Trait value:* ``-4``
+| You may spend one Anima when you are affected by an instance of astral damage to attempt a Soak roll against that damage. If you possess an Absorption score, you may use it instead of Mettle on the roll.
+
+--------
+
+Planar Traits
+===============
+
+Fantasian Heredity
+-----------
+| *Physical, magic*
+| *Trait value:* ``-1``
+| You hail from the dreamlike world of Fantasia, featuring several of its innate qualities.
+| TBD?
 
 --------
 
@@ -104,8 +163,12 @@ Body Traits
 
 Contortionist
 -------------
-This unit's body is thin, bendy, or amorphous. They can squeeze into smaller spaces as usual without penalties, though they still block the movement of others.
+| *Physical*
+| *Trait value:* ``-1``
+| Your body is thin, bendy, or amorphous. You can squeeze into smaller spaces as usual without penalties, though you still block the movement of others.
 
 Extra Arms
 ----------
-This unit has an additional pair of arms, with equal function as any others.
+| *Physical*
+| *Trait value:* ``-4``
+| You have an additional pair of arms, with equal function as any others.
