@@ -421,7 +421,7 @@ Lumen
 | aaaaaaaa: ``TBD``
 | aaaaaaaa: ``TBD``
 
-**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, Resistance (+1 holy)
+**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, :ref:`Resistance (+1 holy) <catalog/traits:extra arms>`
 
 --------
 
