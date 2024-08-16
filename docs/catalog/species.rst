@@ -391,7 +391,7 @@ Lumen
     ::
 
       Brawn:  1
-      Grace:  4
+      Grace:  3
       Mettle: 2
       Savvy:  4
       
@@ -405,7 +405,7 @@ Lumen
       Fright: 1
       
       Speed:  7
-      Hunger: 15
+      Hunger: 16
       Size: Small
       Bulk: 3
 
@@ -415,7 +415,13 @@ Lumen
 
     +1 Charm/Fright
 
-**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`
+| **Races**
+| aaaaaaaa: ``no modifiers``
+| aaaaaaaa: ``TBD``
+| aaaaaaaa: ``TBD``
+| aaaaaaaa: ``TBD``
+
+**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, Resistance (+1 holy)
 
 --------
 
