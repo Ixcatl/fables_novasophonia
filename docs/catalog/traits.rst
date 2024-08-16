@@ -95,6 +95,13 @@ Blind
 | You completely lack the sense of sight, with all of the massive drawbacks that entails.
 | Trained Sense may be taken as a subtrait of Blind.
 
+Vulnerability
+----------
+| *Physical*
+| *Trait value:* ``+6``
+| You have a specific fatal flaw. Whenever you are dealt damage or otherwise affected by your vulnerability, you take 1 :term:`true damage <damage type: true>` immediately after.
+| Vulnerabilities should feature a particular damage type - such as :term:`heat <damage type: heat>`, :term:`poison <damage type: poison>`, or :term:`blunt <damage type: blunt>` - or a particular allergen or status, as adjudicated by the GM.
+
 Armless
 ----------
 | *Physical*
@@ -172,3 +179,12 @@ Extra Arms
 | *Physical*
 | *Trait value:* ``-4``
 | You have an additional pair of arms, with equal function as any others.
+
+Resistant
+----------
+| *Physical*
+| *Trait value:* ``+4``
+| You are quite resistant to a specific type of damage. 
+| Choose a damage type from the glossary, such as :term:`cold <damage type: cold>`, :term:`sharp <damage type: sharp>`, or :term:`holy <damage type: holy>`. Even if the damage is normally unsoakable, you receive +``x`` extra dice that may be used to Soak it.
+| If you suffer a negative status effect related to your resistance, you can roll ``x``d6 to resist the status effect pool or duration, reducing it by the successes.
+| If specified in a creature's rulebook entry, ``x`` is signified by the number given with the trait. Otherwise, ``x`` defaults to +4.
