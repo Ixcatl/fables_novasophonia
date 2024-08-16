@@ -267,7 +267,7 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
 | Hobnob basilisk: ``-2 Hunger``   :ref:`catalog/traits:resistant` (+1 :term:`elemental <damage set: elemental>`)
 | Hill basilisk: ``+1 Brawn   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`cold <damage type: cold>`)
 | Sand basilisk: ``+1 Grace   -1 Brawn``   :ref:`catalog/traits:resistant` (+3 :term:`heat <damage type: heat>`)
-| Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`poison <damage type: poison>`)
+| Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`acid <damage type: acid>`)
 | Dusk basilisk: ``+1 Savvy   -1 Brawn``   :ref:`catalog/traits:resistant` (+3 :term:`shock <damage type: shock>`)
 
 **Traits:** TBD
