@@ -41,23 +41,23 @@ Team Tactics
 | You get +1 die to hit a target that has been hit by an ally since your last turn.
 | Additionally, you gain +1 reroll to relevant rolls when crafting or performing a profession alongside another doing the same task.
 
-Gaunt
---------
-| *Physical*
-| *Trait value:* ``-1``
-| You are practically skin and bones. You have -1 Bulk and +1 Speed, but lose -1 Belt slot.
-
 Vocalist
 --------
 | *Physical*
 | *Trait value:* ``-1``
 | You've trained yourself to sing in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your singing style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current Scene.
 
+Gaunt
+--------
+| *Physical*
+| *Trait value:* ``0``
+| You are abnormally thin. You lose -1 Belt slot, but also -1 Bulk.
+
 Heavyset
 --------
 | *Physical*
 | *Trait value:* ``0``
-| You are remarkably overweight. You have +1 Bulk and -1 Speed, but gain +1 Belt slot.
+| You are exceptionally overweight. You have +1 Bulk and -1 Speed, but gain +1 Belt slot.
 
 Minor Flaw
 --------
