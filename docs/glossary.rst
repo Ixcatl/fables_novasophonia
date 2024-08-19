@@ -12,7 +12,7 @@ For the convenience of players and GMs alike, this page includes a number of com
       | (shorthand: env.) Damage inflicted by the environment, nonmagical elements, status effects, or plain misadventure.
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
    damage class: magical
-      | (shorthand: ast.) Damage caused through the weaving of astral energy, such as spells or other conjury. 
+      | (shorthand: mag.) Damage caused through the weaving of astral energy, such as spells or other conjury. 
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
 
    damage type: acid
