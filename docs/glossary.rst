@@ -11,13 +11,16 @@ For the convenience of players and GMs alike, this page includes a number of com
    damage class: environmental
       | (shorthand: env.) Damage inflicted by the environment, nonmagical elements, status effects, or plain misadventure.
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
-   damage class: astral
+   damage class: magical
       | (shorthand: ast.) Damage caused through the weaving of astral energy, such as spells or other conjury. 
       | Bypasses Soak rolls, but not DR or Absorption unless specified.
 
    damage type: acid
       | Dealt by various secretions or substances that corrode flesh and metal alike.
       | Acid damage dealt counts as environmental by default.
+   damage type: astral
+      | Raw unaspected astral damage, caused by simpler magicks or strange cosmic phenomena.
+      | Magic damage dealt counts as astral by default.
    damage type: blast
       | Concussive sound-based damage such as that from a shockwave, explosion, or thunderclap.
       | Blast damage dealt counts as environmental by default.
@@ -33,9 +36,6 @@ For the convenience of players and GMs alike, this page includes a number of com
    damage type: holy
       | Fueled by devotion and the influence of Anima, holy damage is often wielded by disciples of higher powers.
       | Holy damage dealt counts as astral by default.
-   damage type: magic
-      | Raw unaspected astral damage, caused by simpler magicks or strange cosmic phenomena.
-      | Magic damage dealt counts as astral by default.
    damage type: pierce
       | Puncture wounds such as spikes, spines, arrows or spears cause pierce damage.
       | Pierce damage dealt counts as physical by default.
@@ -59,7 +59,7 @@ For the convenience of players and GMs alike, this page includes a number of com
    damage set: elemental
       | Encompasses the damage types of acid, cold, heat, and shock. 
    damage set: mystic
-      | Encompasses the damage types of magic, holy, and psychic.
+      | Encompasses the damage types of astral, holy, and psychic.
 
    die bonus
       | Adds a number of extra dice to the associated roll before it is made.
