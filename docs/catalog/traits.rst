@@ -111,6 +111,47 @@ Armless
 
 --------
 
+Body Traits
+===========
+
+Contortionist
+-------------
+| *Physical*
+| *Trait value:* ``-1``
+| Your body is thin, bendy, or amorphous. You can squeeze into smaller spaces as usual without penalties, though you still block the movement of others.
+
+Extra Arms
+----------
+| *Physical*
+| *Trait value:* ``-4``
+| You have an additional pair of arms, with equal function as any others.
+
+Resistant
+----------
+| *Physical*
+| *Trait value:* ``-4``
+| You are quite resistant to a specific type of damage. 
+| Choose a damage type from the glossary, such as :term:`cold <damage type: cold>`, :term:`sharp <damage type: sharp>`, or :term:`holy <damage type: holy>`. Even if the damage is normally unsoakable, you receive + ``x`` extra dice that may be used to Soak it.
+| If you suffer a negative status effect related to your resistance, you can roll ``x`` d6 to resist the status effect pool or duration, reducing it by the successes.
+| If specified in a creature's rulebook entry, ``x`` is signified by the number given with the trait. Otherwise, ``x`` defaults to +4.
+
+--------
+
+Physiological Traits
+===============
+
+Firebox
+----------
+| *Physical, magic*
+| *Trait value:* ``-4``
+| You cannot subsist on any ordinary food; your diet is highly specialized and unusual.
+| You gain a unique Charge pool with a maximum of 100.
+| If this trait is *mystic*, your body is a machine that converts magical charge into metabolism.
+| If this trait is *lapidary*, you live off the raw magical potential of gemstones.
+| TBD TBD TBD
+
+--------
+
 Natural Weapons
 ===============
 
@@ -162,29 +203,3 @@ Fantasian Heredity
 | *Trait value:* ``-1``
 | You hail from the dreamlike world of Fantasia, featuring several of its innate qualities.
 | TBD?
-
---------
-
-Body Traits
-===========
-
-Contortionist
--------------
-| *Physical*
-| *Trait value:* ``-1``
-| Your body is thin, bendy, or amorphous. You can squeeze into smaller spaces as usual without penalties, though you still block the movement of others.
-
-Extra Arms
-----------
-| *Physical*
-| *Trait value:* ``-4``
-| You have an additional pair of arms, with equal function as any others.
-
-Resistant
-----------
-| *Physical*
-| *Trait value:* ``-4``
-| You are quite resistant to a specific type of damage. 
-| Choose a damage type from the glossary, such as :term:`cold <damage type: cold>`, :term:`sharp <damage type: sharp>`, or :term:`holy <damage type: holy>`. Even if the damage is normally unsoakable, you receive + ``x`` extra dice that may be used to Soak it.
-| If you suffer a negative status effect related to your resistance, you can roll ``x`` d6 to resist the status effect pool or duration, reducing it by the successes.
-| If specified in a creature's rulebook entry, ``x`` is signified by the number given with the trait. Otherwise, ``x`` defaults to +4.
