@@ -26,12 +26,12 @@ For new groups, Level 3 is a recommended place to start, since it allows your pa
 
 Paths
 =====
-These represent a pawn's approach to combat and the backbone of their playstyle. Each Path may advance up to a maximum of 3 ranks, but a pawn has no limit to the number of different Paths they can take.
+These represent a pawn's approach to combat and the backbone of their playstyle. Each Path may advance up to a maximum of 3 ranks, but a pawn has no limit to the number of different Paths they can take, leading to unique synergies among them.
 
 When a pawn gains a rank in a Mystic Path, they also learn a single :doc:`Arcanum <catalog/arts-arcana>` associated with that Path.
 
 .. Attention::
-  For the full list of Paths, see :doc:`/catalog/paths`.
+  For the full list of Paths, see :doc:`catalog/paths`.
 
 Minor Advancements
 ==================
