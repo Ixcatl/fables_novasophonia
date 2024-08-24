@@ -1,12 +1,12 @@
 ***********
 Advancement & Levels
 ***********
-Throughout your party's journey, their encounters and experiences will naturally temper their skills over time. By hitting major milestones in the campaign, your GM may choose to hand out Levels for your characters. You may have conquered a powerful foe, successfully pulled off a heist, or survived another plane of existence; it's entirely up to interpretation.
+Throughout your party's journey, their encounters and experiences will naturally temper their skills over time. By hitting major milestones in the campaign, the GM may choose to reward their players with a Level-up. You may have conquered a powerful foe, pulled off a big heist, or survived another plane of existence; it's entirely up to interpretation and will vary heavily from party to party.
 
-For new groups, Level 3 is a recommended place to start, as it allows your party to experiment with a bit more creative freedom and explore how their different Paths and features may interact. It's also recommended for each player to begin with one Art or Arcana of their choice, in addition to any they might purchase with Proficiency ranks.
+For new groups, Level 3 is a recommended place to start, since it allows your party to experiment with a bit more creative freedom and explore how their different Paths and features interact. It's also recommended for each player to begin with one Art or Arcanum of their choice, in addition to any they might purchase with Proficiency ranks.
 
 .. tip::
-  Here is a table suggesting the order in which a GM should grant Level bonuses, for NPCs and players alike, though much like the rest of this rulebook it is not necessarily static.
+  Here is a table suggesting the order in which a GM should grant Level bonuses, though much like the rest of the rulebook it's not necessarily static:
   
   +-------+------------+--------------------+-------------------+
   | Level | Path Ranks | Minor Advancements | Proficiency Ranks |
@@ -21,17 +21,17 @@ For new groups, Level 3 is a recommended place to start, as it allows your party
   +-------+------------+--------------------+-------------------+
   | 5     | +1         |                    | +1                |
   +-------+------------+--------------------+-------------------+
-  | ...   | et cetera                                           |
+  | ...   | ad infinitum                                        |
   +-------+------------+--------------------+-------------------+
 
 Paths
 =====
-These represent a character's approach to combat and the backbone of their playstyle. Each Path may advance up to a maximum of 3 ranks, wherein the character has mastered that particular Path.
+These represent a pawn's approach to combat and the backbone of their playstyle. Each Path may advance up to a maximum of 3 ranks, but a pawn has no limit to the number of different Paths they can take.
 
-When a character gains a rank in a Mystic Path, they also learn a single :doc:`Arcana <catalog/arts-arcana>` associated with that Path.
+When a pawn gains a rank in a Mystic Path, they also learn a single :doc:`Arcanum <catalog/arts-arcana>` associated with that Path.
 
 .. Attention::
-  For a list of Paths to draw from, see :doc:`Catalog: Paths </catalog/paths>`.
+  For the full list of Paths, see :doc:`/catalog/paths`.
 
 Minor Advancements
 ==================
