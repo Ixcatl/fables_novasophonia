@@ -2,7 +2,7 @@
 Landing
 *******
 
-Welcome to the documentation page for **Us Who Remain**, a tabletop role-playing game centered around animal people finding their way through a thriving but danger-fraught, post-apocalyptic Renaissance world.
+Welcome to the documentation page for **Us Who Remain**, a tabletop role-playing game centered around animal people finding their way through a thriving but danger-fraught Renaissance world.
 
 Most core rules are derived from `the Unofficial Hollow Knight RPG <https://hkrpg-team.itch.io/hollow-knight-rpg>`__ and the fantastic folks working on it. Please check it out as well!
 
