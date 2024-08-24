@@ -17,7 +17,7 @@ As is with HKRPG, any commercial distribution to anyone under any circumstances 
    :caption: Core Mechanics
    :hidden:
 
-   core/preface
+   core/basics
    core/attributes
    core/traits
    core/proficiencies
