@@ -1,6 +1,6 @@
-*******
-Preface
-*******
+******
+Basic Mechanics
+******
 AGGA
 
 Dice Rolls
