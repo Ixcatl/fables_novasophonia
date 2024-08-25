@@ -1,5 +1,5 @@
 ****************************
-Character Attributes & Stats
+Attributes & Pools
 ****************************
 Whether sapient like common mice and titanic cats or feral like lowly bugs and fish, every living being met in this world features the same basic character statistics.
 
