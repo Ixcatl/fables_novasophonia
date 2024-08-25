@@ -29,8 +29,8 @@ Direct Checks
 
 The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls dice equal to that Attribute, adding a number of :term:`bonus dice <die bonus>` equal to their ranks in one relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins the check.
 
-.. Tip::
-   Below is a table with example difficulties for direct checks, for a GM's perusal:
+.. tip::
+   Below is a table with example difficulties for direct checks:
 
    +--------------------------------------------+-----------------------------+
    | Example Action                             | Difficulty                  |
@@ -45,16 +45,22 @@ The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Sa
    +--------------------------------------------+-----------------------------+
 
 .. admonition:: Example...
-   :class: warning
+   :class: note
 
    A player character attempts to tiptoe their way along a narrow branch. The GM calls for a Grace check; the player asks if their "Acrobatics" skill is relevant, and the GM agrees, granting the roll a die bonus equal to their rank in "Burglar", the proficiency that grants them this skill. Highly specific skills can add bonus rerolls; in this particular example, using "Balance" might give +1 reroll, but "Tightroping" could give +2 rerolls.
 
 Opposed Checks
 --------------
-| A character resisting or disrupting the effects of another's actions may need to roll an *opposed* check. These are made similarly to direct checks, except each succeeding die negates one success from the check being opposed. Whichever still has successes left after this transaction is considered the winner; if the rolls have even successes, however, the second check *made as a reaction to the first* wins.
+A character resisting or disrupting the effects of another's actions may need to roll an *opposed* check. These are made similarly to direct checks, except each succeeding die negates one success from the check being opposed. Whichever still has successes left after this transaction is considered the winner; if the rolls have even successes, however, the second check *made as a reaction to the first* wins.
 
 Some opposed checks might be suggested by the GM, such as resisting an overt magical effect; others might not be so obvious, or are hidden from the players entirely, and would require a player to use their own perception to call the GM's bluff. Either way, an incoming opposed check that is not contested wins by default with its full number of successes.
 
-One example: an enemy makes an Attack action, making a swing at a player with their sword. They roll their check with Brawn as usual, coming up with an appropriate number of dice for their attack. The player character in question chooses to Dodge out of the way, an opposed action using Grace. If their dodge roll removes all of the attack's successes, the attack is nullified and the character takes no damage.
+.. admonition:: Example...
+   :class: note
 
-Another example: a player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Savvy check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
+   An enemy makes an Attack action, making a swing at a player with their sword. They roll their check with Brawn as usual, coming up with an appropriate number of dice for their attack. The player character in question chooses to Dodge out of the way, an opposed action using Grace. If their dodge roll removes all of the attack's successes, the attack is nullified and the character takes no damage.
+
+.. admonition:: Another example...
+   :class: note
+
+A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Savvy check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
