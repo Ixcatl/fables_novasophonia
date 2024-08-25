@@ -46,6 +46,7 @@ The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Sa
 
 .. admonition:: Example...
    :class: warning
+
    A player character attempts to tiptoe their way along a narrow branch. The GM calls for a Grace check; the player asks if their "Acrobatics" skill is relevant, and the GM agrees, granting the roll a die bonus equal to their rank in "Burglar", the proficiency that grants them this skill. Highly specific skills can add bonus rerolls; in this particular example, using "Balance" might give +1 reroll, but "Tightroping" could give +2 rerolls.
 
 Opposed Checks
