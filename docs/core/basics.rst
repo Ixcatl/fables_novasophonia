@@ -63,4 +63,4 @@ Some opposed checks might be suggested by the GM, such as resisting an overt mag
 .. admonition:: Another example...
    :class: note
 
-A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Savvy check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
+   A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Savvy check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
