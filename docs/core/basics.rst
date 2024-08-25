@@ -1,50 +1,41 @@
 ******
 Basic Mechanics
 ******
-AGGA write this later dumbass
+AGGA write this prelude later dumbass
 
 ----------------------------
 
 Rolling Dice
 ==========
 
-UWR features a "dice pool" mechanic at its core, using six-sided dice almost exclusively. Each player will want about eight d6s, though even more might be necessary in longer campaigns.
+UWR, identically to HKRPG, features a "dice pool" mechanic at its core, using six-sided dice almost exclusively and counting successes rather than high or low rolls. Each player will want about eight dice, though even more might be necessary in longer campaigns.
 
-The vast majority of actions require a check to count successes by rolling with d6s. Each die that rolls a 5 or above counts as a success, while (normally) anything below does not. Checks between two characters may pit these rolls against one another; others will require a static target of winning dice to succeed. The number of dice to be rolled and the target number of successes can vary drastically in each situation.
+Most actions require a roll, or "check", to count successes by rolling with d6s. Each die that rolls a 5 or 6 is a success; anything below normally does not. Checks between two characters may pit their rolls against one another; others will require a static target of winning dice to succeed. Every different type of die roll has its own way of determining the number of dice and what its succeeding conditions are.
 
-Rerolls
--------
+| When making a roll, a player may have access to a certain number of :term:`rerolls <reroll>`. Immediately after a roll is made (but before it is finalized), the player may choose a failed die for each allowed reroll and roll them again. The better of the two outcomes is then used and tallied up with the rest.
+| As a rule of thumb, any time where you would be left with half a die - such as a check with an Attribute ending in .5 - a single extra reroll is given.
 
-When making a check, a character may have access to a certain number of rerolls. Immediately after a roll is made, the player making that roll may choose a failed die for each allowed reroll, and roll them again. The better of the two outcomes is then used.
-
-Favor
------
-
-Under most circumstances, rolls will require a 5 or above to succeed for that check. However, for certain exceptionally easy checks, they may favor toward the lower end. A roll with +1 favor, for instance, will have a success range of 4+ instead of 5+, making it substantially easier to pass.
+Certain exceptionally easy rolls may also :term:`favor` towards the lower end. A check with +1 favor, for instance, will have a success range of 4-6 instead of 5-6, making it substantially easier to pass.
 
 ----------------------------
 
 Attribute Checks
 ================
-When a character is faced with a particularly troublesome task, one where success isn't guaranteed, the GM may require them to roll an Attribute check. These will usually be called by their associated Attribute, i.e. a "Grace check" or "Grace roll" drawing from that character's Grace Attribute.
-
-.. Important::
-
-   If an Attribute has half a point, ending in .5, the Attribute is rounded down to the nearest whole number and a :term:`reroll` is granted to the check instead.
+When someone is faced with a difficult task without any guarantee of success, the GM may require them to roll an Attribute check. These come in two different flavors, *direct* and *opposed*, usually called by their associated Attribute, i.e. a "Grace check" or "Grace roll" drawing from that character's Grace Attribute.
 
 Direct Checks
 -------------
-Direct checks are usually rolled when a character takes an action that carries some risk of failure, and doesn't oppose any other characters.
+Direct checks are usually rolled when a character takes an action that carries some risk of failure, and doesn't directly oppose any other characters.
 
-The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls a number of dice equal to that Attribute, adding a :term:`die bonus` equal to their cumulative ranks in a relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
+The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls dice equal to that Attribute, adding a number of :term:`bonus dice <die bonus>` equal to their ranks in one relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins.
 
 .. Tip::
-   Below is a table detailing example difficulties for direct checks, for a GM's perusal:
+   Below is a table with example difficulties for direct checks, for a GM's perusal:
 
    +--------------------------------------------+-----------------------------+
    | Example Action                             | Difficulty                  |
    +============================================+=============================+
-   | **Easy**: Climb using a rope               | 1 success, +1 :term:`favor` |
+   | **Easy**: Climb using a rope               | 1 success, +1 favor         |
    +--------------------------------------------+-----------------------------+
    | **Normal**: Climb a rough surface          | 1 success                   |
    +--------------------------------------------+-----------------------------+
@@ -53,14 +44,18 @@ The GM declares which primary Attribute should be used (Brawn, Grace, Mettle, Sa
    | **Extreme**: Climb a wet overhang          | 3 successes                 |
    +--------------------------------------------+-----------------------------+
 
-For example: Ser Laurenz attempts to swim to the bottom of a lake, and the GM calls for a Brawn roll. The player asks if his "Athletics" skill is relevant, and the GM agrees, granting the roll a die bonus equal to Laurenz's rank in "Knight", the proficiency that grants him this skill. Highly specific skills may add bonus rerolls: for example, having a "Swimming" skill may add one; a "Diving" skill may add two instead.
+For example: a player character attempts to tiptoe their way along a narrow branch, and the GM calls for a Grace roll. The player asks if their "Acrobatics" skill is relevant, and the GM agrees, granting the roll a die bonus equal to their rank in "Burglar", the proficiency that grants them this skill. Highly specific skills can give bonus rerolls; in this particular example, having a "Balancing" skill may add one, but a "Tightroping" skill may add two instead.
 
 Opposed Checks
 --------------
-A character resisting or disrupting the effects of another character's actions may need to roll an opposed check. These are made similarly to direct checks, except each success negates one from the other character's check.
+One character resisting or disrupting the effects of another's actions may need to roll an opposed check. These are made similarly to direct checks, except each success negates one from the other character's check.
+
+STOPPED HERE DIPSHIT AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+TODO: stress that opposed checks aren't always announced by the GM, such as for lies
 
 .. Tip::
 
    If two opposed checks roll evenly, the character *reacting to the action made* wins by default.
 
-For example: Inquisitor Hildebrand is interrogating a farm-mouse for information, who makes an attempt to lie to her. In this particular case, Hildebrand's player would make a Savvy check, plus a die bonus equal to her total "Kenning" skill with the GM's permission. If as many or more successes are rolled than the liar rolled to deceive, the deception is revealed.
+For example: Inquisitor Hildebrand is interrogating a farm-mouse for information, who makes a roll attempt to lie to her. In this particular case, Hildebrand's player would make a Savvy check, plus a die bonus equal to her total "Kenning" skill with the GM's permission. If as many or more successes are rolled than the liar rolled to deceive, the deception is revealed.
