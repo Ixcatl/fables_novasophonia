@@ -68,7 +68,7 @@ Savvy is used for most aspects of magic and tinkering, in addition to checks usi
 
 Technique Slots
 ---------------
-A character's Technique slots are a staging ground for their arts and arcana, assigned for quick and easy use. Characters have Technique slots equal to their Savvy rounded down.
+A character's Technique slots are the staging ground for their arts and spells, assigned for quick and easy use. Characters have Technique slots equal to their Savvy rounded down.
 
 --------
 
