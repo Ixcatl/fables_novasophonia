@@ -1,16 +1,16 @@
 *************
 Proficiencies
 *************
-The world is a dangerous place, but how well one fights isn't everything. A Proficiency is similar to a job or a background, encompassing the practical skills and talents a character posesses. Unlike some other mechanics, Proficiencies have *nearly full creative freedom*, being able to represent just about anything under the sun.
+While it's true that danger lurks around every corner, how well one fights isn't everything. A *proficiency* is similar to a job or a background, encompassing the practical skills and talents a character possesses. Proficiencies have nearly full creative freedom, being able to represent just about anything under the sun.
 
-Each Proficiency covers four different Skills. For every rank in a Proficiency, a character adds that many dice to checks they make which could reasonably fall under their Skills. Once a Proficiency reaches Rank 3, it can't go any higher, but they get to choose one of the four associated Skills to master, earning them a special bonus.
+Each proficiency covers four different skills. For every rank in a proficiency, a character adds that many dice to checks they make which could reasonably fall under one of their skills. Once a proficiency reaches rank 3, it can't go any higher, but they get to choose one of the four associated skills to master, earning them a special bonus.
 
-Less broad, more specific Skills may be granted one or more bonus :term:`rerolls <reroll>` for their particular checks. For instance, while "Athletics" may not grant a bonus to climbing a wall, a "Climbing" Skill may add +1 reroll instead. This is ultimately the GM's decision.
+Remember that more specific skills may be granted one or more rerolls for their niche checks. For instance, while "Athletics" may not grant a bonus to climbing a wall, a "Climbing" Skill might give +1 reroll instead.
 
-.. Tip::
-  If you have multiple Proficiencies that share a Skill, that Skill has dice equal to the combined rank of those Proficiencies - but never more than three.
+.. note::
+  If you have multiple proficiencies that share a skill, that skill has dice equal to the combined rank of those proficiencies - but never more than three.
 
-Please note that these are **merely suggestions** - GM and player are able to collaborate and come up with their own unique Proficiencies, Skills, uses, and Masteries. Get creative!
+Please note that these are **merely suggestions** - GM and players alike should collaborate and come up with their own unique proficiencies, skills, uses, and masteries. Get creative!
 
 .. grid:: 1 2 3 3
   :gutter: 4
@@ -22,21 +22,13 @@ Please note that these are **merely suggestions** - GM and player are able to co
     +================================+================================+
     | **Proficiency**                | **Skills**                     |
     +--------------------------------+--------------------------------+
-    | Knight                         | Equipment Maintenance          |
+    | Soldier                        | Equipment Maintenance          |
     |                                +--------------------------------+
     |                                | Athletics                      |
     |                                +--------------------------------+
     |                                | Tactics                        |
     |                                +--------------------------------+
-    |                                | Lore (War)                     |
-    +--------------------------------+--------------------------------+
-    | Theurgist                      | Medicine                       |
-    |                                +--------------------------------+
-    |                                | Persuasion                     |
-    |                                +--------------------------------+
-    |                                | Ritualcraft                    |
-    |                                +--------------------------------+
-    |                                | Lore (Theology)                |
+    |                                | Lore (war)                     |
     +--------------------------------+--------------------------------+
     | Noble                          | Etiquette                      |
     |                                +--------------------------------+
@@ -44,7 +36,7 @@ Please note that these are **merely suggestions** - GM and player are able to co
     |                                +--------------------------------+
     |                                | Kenning                        |
     |                                +--------------------------------+
-    |                                | Lore (Politics)                |
+    |                                | Lore (politics)                |
     +--------------------------------+--------------------------------+
     | Farmer                         | Endurance                      |
     |                                +--------------------------------+
@@ -52,7 +44,7 @@ Please note that these are **merely suggestions** - GM and player are able to co
     |                                +--------------------------------+
     |                                | Barter                         |
     |                                +--------------------------------+
-    |                                | Lore (Local)                   |
+    |                                | Lore (folklore)                |
     +--------------------------------+--------------------------------+
     | Hunter                         | Survival                       |
     |                                +--------------------------------+
@@ -60,23 +52,31 @@ Please note that these are **merely suggestions** - GM and player are able to co
     |                                +--------------------------------+
     |                                | Stealth                        |
     |                                +--------------------------------+
-    |                                | Lore (Nature)                  |
+    |                                | Lore (nature)                  |
     +--------------------------------+--------------------------------+
-    | Magician                       | Perform (Tricks)               |
+    | Cleric                         | Medicine                       |
     |                                +--------------------------------+
-    |                                | Perception                     |
+    |                                | Persuasion                     |
+    |                                +--------------------------------+
+    |                                | Ritualcraft                    |
+    |                                +--------------------------------+
+    |                                | Lore (theology)                |
+    +--------------------------------+--------------------------------+
+    | Occultist                      | Sleight of Hand                |
     |                                +--------------------------------+
     |                                | Deception                      |
     |                                +--------------------------------+
-    |                                | Lore (Magic)                   |
+    |                                | Ritualcraft                    |
+    |                                +--------------------------------+
+    |                                | Lore (magic)                   |
     +--------------------------------+--------------------------------+
     | Bandit                         | Survival                       |
     |                                +--------------------------------+
     |                                | Stealth                        |
     |                                +--------------------------------+
-    |                                | Bullying                       |
+    |                                | Intimidation                   |
     |                                +--------------------------------+
-    |                                | Lore (Crime)                   |
+    |                                | Lore (crime)                   |
     +--------------------------------+--------------------------------+
   
   .. grid-item::
@@ -86,19 +86,19 @@ Please note that these are **merely suggestions** - GM and player are able to co
     +=======================+=========================================================================================================+
     | **Skill**             | **Use Case**                                                                                            |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Etiquette             | The user tries to leave a good impression on another character they've just met.                        |
+    | Etiquette             | You try to leave a good impression on another character you've just met.                                |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Kenning               | The user tries to gauge the attitude and trustworthiness of another character.                          |
+    | Kenning               | You try to gauge the attitude and trustworthiness of another.                                           |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Medicine              | The user spends their camp action treating an ally's wounds.                                            |
+    | Medicine              | You spend a camp action treating an ally's wounds.                                                      |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Equipment Maintenance | The user spends their camp action patching up their armor.                                              |
+    | Equipment Maintenance | You spend a camp action patching up your armor.                                                         |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Athletics             | The user tries to climb a ledge, move a great weight, or bend metal bars.                               |
+    | Athletics             | You try to climb a ledge, move a great weight, or bend metal bars.                                      |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Cooking               | The user tries to produce an edible ration or a particularly filling meal out of available ingredients. |
+    | Cooking               | You try to produce an edible ration or a fresh meal out of available ingredients.                       |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
-    | Survival              | The user tries to hide their tracks, track another creature, or forage for food.                        |
+    | Survival              | You attempt to track a creature, hide your own tracks, or forage for food.                              |
     +-----------------------+---------------------------------------------------------------------------------------------------------+
   
   .. grid-item::
@@ -108,24 +108,24 @@ Please note that these are **merely suggestions** - GM and player are able to co
     +=======================+==========================================================================================================================================================================================================================+
     | **Skill**             | **Mastery**                                                                                                                                                                                                              |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Etiquette             | Once per scene, if a failed social check by the user would decrease a character's disposition, it does not.                                                                                                              |
+    | Etiquette             | Once per scene, if your failed social check would decrease the target's disposition, it does not.                                                                                                                        |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Kenning               | When succeeding any Kenning check against a character, the user's player may ask the GM one simple question about them, to be answered truthfully.                                                                       |
+    | Kenning               | When succeeding any Kenning check against another, you may ask the GM one simple question about them, to be answered truthfully.                                                                                         |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Medicine              | For 1 Stamina, the user may attempt a Medicine check to resuscitate a character that has died within the past two rounds, restoring them to life. They remain unconscious.                                               |
+    | Medicine              | For 1 Stamina, you may attempt a Medicine check to resuscitate a creature that has died within the past two rounds, restoring them to life. They remain unconscious.                                                     |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Equipment Maintenance | During camp, when maintaining equipment, the user may choose a weapon, shield, or tool. That item gains +1 Quality until the next time they rest.                                                                        |
+    | Equipment Maintenance | During camp, when maintaining equipment, you may choose a weapon, shield, or tool. That item gains +1 Quality until the next time you rest.                                                                              |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Athletics             | The user's base Load is increased by 2.                                                                                                                                                                                  |
+    | Athletics             | Your base Load is increased by 2.                                                                                                                                                                                        |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Survival              | The user gains a Stash pool. If they have one already, it increases by 1. They can spend 1 Stash to temporarily improvise useful pieces of basic equipment, such as a matchstick, a length of rope, or a 1 Quality tool. |
+    | Survival              | You can spend at least 30 value of relevant crafting materials to improvise useful pieces of basic equipment, such as a torch, a length of rope, or a 1 quality tool. These items break after their intended use.        |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Deception             | When attempting to deceive a character that has already been successfully lied to, the user gains +1 to their check.                                                                                                     |
+    | Deception             | When attempting to deceive someone who has already been successfully lied to, you gain +1 die to your check.                                                                                                             |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Perception            | The user is always treated as simultaneously having tremorsense, scent, and sight up to 2 squares away.                                                                                                                  |
+    | Perception            | You are always treated as simultaneously having tremorsense, scent, and sight up to 2 squares away.                                                                                                                      |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-Researching Arcana & Practicing Arts
+Art/Spell Exchange
 ====================================
-Instead of putting their time into honing a Proficiency, a character could instead put more work into their Mystic and Martial pursuits. When they gain a Proficiency rank after their first, they can instead learn one new Arcana or one new Art.
+Instead of using their time to hone a proficiency, a character could put more work into their mystic and martial pursuits. When they gain a proficiency rank after their first, they can forfeit the rank to instead learn one new spell or one new art.
