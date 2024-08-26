@@ -19,7 +19,6 @@ As is with HKRPG, any commercial distribution to anyone under any circumstances 
 
    core/basics
    core/attributes
-   core/traits
    core/proficiencies
    core/advancement
    core/weapon-arts
