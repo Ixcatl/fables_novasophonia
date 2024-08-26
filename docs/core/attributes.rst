@@ -97,7 +97,7 @@ Every rest, the creature loses Belly equal to their Hunger. This can lower Belly
 
 At GM discretion, prolonged exertion without rest can cost additional Belly.
 
-Charm, Fright, and Cool
+Charm, Fright, & Style
 --------------
 These three attributes affect how a character interacts socially with others. According to roleplay preferences, they can represent their appearance, how they act, or even how they smell. Unlike other secondary or miscellaneous attributes, these are used in associated social checks, and follow similar rules to primary attributes. See Social for more information.
 
