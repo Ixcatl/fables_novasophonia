@@ -1,26 +1,26 @@
 ***********
 Weapon Arts
 ***********
-Weapon Arts represent the techniques of great warriors, passed down throughout the generations and perfected into a recognizable form.
+Throughout the world's long and bitter history, champions of many cultures have . *Weapon arts* represent the storied techniques of these warriors, passed down through generations and perfected into a recognizable form.
 
 Preparing Arts
 ==============
-A character readies their Arts for use by assigning them to Technique slots, which may be done freely during any Rest. Any Art assigned to a Technique slot may be used at any time without incurring any additional penalties.
+A character readies their arts for use by assigning them to Technique slots, which may be done freely during any Rest. Any Art assigned to a Technique slot may be used at any time without incurring any additional penalties.
 
-Unprepared Arts may be performed only after completing an Art Focus.
+Unprepared arts may be performed only after completing the associated focus action.
 
 Using Arts
 ==========
 A character may only use one Weapon Art per turn.
 
-Arts may require a particular class of weapon to be used; for instance, Sword Arts can only be used with sword weapons, while Mallet Arts are only compatible with mallet weapons. Certain Arts may, however, be compatible with more than one weapon type, allowing one to uniquely mix up their fighting style.
+Arts may require a particular class of weapon to be used; for instance, Sword Arts are generally used with sword weapons, while Mallet Arts are compatible with mallet weapons. Certain Arts may, however, be compatible with more than one weapon type, allowing one to mix up their fighting style.
 
 Using a Weapon Art costs the Stamina listed for the Art, while some Arts may have additional costs in Magic or another pool. Some Arts allow extra Stamina or another resource to be spent to enhance their effects.
 
 Types of Weapon Arts
 ====================
 
-.. Attention::
+.. attention::
   For a list of Weapon Arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
 
 Normal Arts
