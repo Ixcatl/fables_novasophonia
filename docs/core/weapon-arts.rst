@@ -1,50 +1,48 @@
 ***********
 Weapon Arts
 ***********
-Throughout the world's long and bitter history, champions of many cultures have . *Weapon arts* represent the storied techniques of these warriors, passed down through generations and perfected into a recognizable form.
+*Weapon arts* represent the storied techniques of warriors, passed down through generations and perfected into a recognizable form. (redo this line it kinda sucks)
 
 Preparing Arts
 ==============
-A character readies their arts for use by assigning them to Technique slots, which may be done freely during any Rest. Any Art assigned to a Technique slot may be used at any time without incurring any additional penalties.
-
-Unprepared arts may be performed only after completing the associated focus action.
+A character readies their arts for use by assigning them to Technique slots, which may be done freely during any rest. Any art assigned to a Technique slot may be used at any time; unprepared arts can still be performed, but only after completing the associated focus action.
 
 Using Arts
 ==========
-A character may only use one Weapon Art per turn.
+A character may generally only use one weapon art per turn.
 
-Arts may require a particular class of weapon to be used; for instance, Sword Arts are generally used with sword weapons, while Mallet Arts are compatible with mallet weapons. Certain Arts may, however, be compatible with more than one weapon type, allowing one to mix up their fighting style.
+Arts may require a particular class of weapon to be used; for instance, sword arts are generally used with swords, while club arts are compatible with club weapons. Many arts are, however, compatible with more than one weapon type, allowing a crafty character to mix up their fighting style.
 
-Using a Weapon Art costs the Stamina listed for the Art, while some Arts may have additional costs in Magic or another pool. Some Arts allow extra Stamina or another resource to be spent to enhance their effects.
+Using a weapon art costs the Stamina listed for the art, while some arts may have additional costs in Anima, another pool, or even attribute damage. Some arts allow extra Stamina or another resource to be spent to enhance their effects.
 
 Types of Weapon Arts
 ====================
 
 .. attention::
-  For a list of Weapon Arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
+  For a comprehensive list of weapon arts to draw from, see :doc:`Catalog: Weapon Arts & Arcana </catalog/arts-arcana>`.
 
 Normal Arts
 -----------
-These Weapon Arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the Quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from the user's current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
+These weapon arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from the user's current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
 
-If used with a heavy weapon, the Art still inflicts a stack of Off-Balance for each attack performed as part of the Art.
+If used with a heavy weapon, the art still inflicts a stack of Off-Balance for each attack performed as part of the art.
 
 Special Arts
 ------------
-These Arts are self-contained actions that are substantially different from a normal attack, and *do not* use the normal damage values of the wielded weapon. When used with heavy weapons, they do not inflict any stacks of Off-Balance.
+These arts are self-contained actions that are *substantially different* from a normal attack, and do not use the normal damage values of the wielded weapon. When used with heavy weapons, they do not inflict any stacks of Off-Balance.
 
-If the Art still requires a specific type of weapon to use, its attack roll benefits from the weapon's Quality.
+If the art still requires a specific type of weapon to use, its attack roll benefits from the weapon's quality.
 
 Augmentation Arts
 -----------------
-Certain Arts augment the user's next attack. These only augment attacks made with valid weapons. When the user attacks after activating one of these Arts, subtract its Stamina cost from the dedicated Stamina of the attack that delivers it. This reduced Stamina does not count as being dedicated for the purposes of adding dice, but additional Stamina can be dedicated normally. The attack is augmented or changed as described in the Art.
+Certain arts augment the user's next attack made with a valid weapon. When the user attacks after activating one of these arts, subtract its Stamina cost from the dedicated Stamina of the attack that delivers it. This reduced Stamina does not count as being dedicated for the purposes of adding dice, but additional Stamina can be dedicated normally. The attack is augmented or changed as described in the art.
 
-The user may instead choose to wait before making the attack. While holding an Augmentation Art, the user suffers a -2 :term:`die penalty` on all checks but Soak checks. If the user starts a turn while holding an Augmentation Art, they are still considered to have used a Weapon Art during the new turn.
+The user may instead choose to wait before making the attack. While holding an augmentation art, the user suffers a -2 :term:`die penalty` on all checks but soak checks. If the user starts a turn while holding an augmentation art, they are still considered to have used a weapon art during the new turn.
 
 Reaction Arts
 -------------
-Some Arts require a trigger to use, and a condition must be met. However, the user can use these Arts whenever the trigger occurs, even if it is not their turn. In addition, these Arts do not count against the limit of a single Weapon Art per turn.
+Some arts require a trigger to use, or a condition that must be met. However, the user can deploy a reaction art the instant its trigger occurs, even if it is not their turn. In addition, these arts do not count against the limit of a single weapon art per turn.
 
 Unique Arts
 -----------
-These Arts do not necessarily fall under any other category, and their rules and functions are self-contained within their description.
+These arts do not necessarily fall under any other category, and their rules and functions are self-contained within their description.
