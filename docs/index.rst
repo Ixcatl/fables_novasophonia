@@ -22,7 +22,7 @@ As is with HKRPG, any commercial distribution to anyone under any circumstances 
    core/proficiencies
    core/advancement
    core/weapon-arts
-   core/magic-arcana
+   core/spells
 
 .. toctree::
    :caption: Guide
