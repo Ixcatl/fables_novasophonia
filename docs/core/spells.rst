@@ -1,3 +1,3 @@
 **************
-Magic & Arcana
+Spellcasting
 **************
