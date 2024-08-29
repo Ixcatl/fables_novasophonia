@@ -5,7 +5,8 @@ Weapon Arts
 
 Preparing Arts
 ==============
-A character readies their arts for use by assigning them to Technique slots, which may be done freely during any rest. Any art assigned to a Technique slot may be used at any time; unprepared arts can still be performed, but only after completing the associated focus action.
+| A character readies their arts for use by assigning them to Technique slots, which may be done freely during any rest. Any art assigned to a Technique slot may be used at any time.
+| Unprepared arts can still be performed, but only after completing the associated focus action.
 
 Using Arts
 ==========
