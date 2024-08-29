@@ -7,6 +7,9 @@ Preparing Spells
 ==========
 Similar to weapon arts, while resting, a character assigns their spells to Technique slots for ease of use. Certain spells may require a choice or alteration to be made on preparation, changing their effects accordingly.
 
+.. attention::
+  For a comprehensive list of existing spells to learn, see :doc:`Catalog: Spells </catalog/spells>`.
+
 Casting & Aiming Spells
 ==========
 Unless a spell is modified or specifies otherwise, only one may be cast per turn.
@@ -28,3 +31,6 @@ Rituals
 *Rituals* make use of mystical events, ley lines, powerful catalysts, or the efforts of many mages in order to achieve an effect much more powerful than an ordinary spell. They are normally roleplay-centered plot elements important to the progress of a narrative arc, and are easily made impromptu for the campaign.
 
 Should you wish to design a ritual for your character to perform, or perform a spell at a difficulty impossible alone, consult with your Game Master to work out what's appropriate for their game.
+
+.. attention::
+  For a number of example rituals to use as inspiration, see :doc:`Catalog: Rituals </catalog/rituals>`.
