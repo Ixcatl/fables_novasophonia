@@ -23,7 +23,7 @@ As is with HKRPG, any commercial distribution to anyone under any circumstances 
    core/advancement
    core/weapon-arts
    core/spells
-   core/inventory
+   core/equipment
 
 .. toctree::
    :caption: Guide
