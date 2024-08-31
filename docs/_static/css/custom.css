@@ -15,7 +15,7 @@
    white-space: normal !important;
 }
 .rst-content .line-block {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
 
 
