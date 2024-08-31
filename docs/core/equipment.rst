@@ -53,7 +53,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
 
 .. dropdown:: Table of Contents...
 
-    .. list-table::
+    .. list-table:: Weapons
         :widths: 10 10 10 10 10 10 10 50
         :header-rows: 1
         :stub-columns: 1
