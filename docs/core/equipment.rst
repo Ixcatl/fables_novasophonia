@@ -88,5 +88,5 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2h
           - 2
           - 200
-          - The wielder rerolls one failed die when attacking.
-            | When making an attack immediately after a dash or jump, it deals +1 damage.
+          - | The wielder rerolls one failed die when attacking.
+            When making an attack immediately after a dash or jump, it deals +1 damage.
