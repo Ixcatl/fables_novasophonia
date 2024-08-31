@@ -39,13 +39,14 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 
 *Blade* weapons are reliable and versatile, but lack the hard counters that make other weapons intimidating. They allow :term:`Sharp damage <damage type: sharp>`.
 
-*Lance* weapons can be found in the hands of mobile combatants who favor Grace over Brawn, and seek to outmaneuver their foes. They allow :term:`Pierce damage <damage type: pierce>`.
+*Lance* weapons can be found in the hands of mobile combatants who prefer Grace over Brawn, and seek to outmaneuver their foes. They allow :term:`Pierce damage <damage type: pierce>`.
 
 *Hook* weapons are favored by tricksters and opportunists, designed to catch a foe at their weakest and tear them down. Uniquely, hook users can choose between :term:`Sharp damage <damage type: sharp>` or :term:`Pierce damage <damage type: pierce>`.
 
 *Club* weapons, with their oppressive weight and force, are all about inflicting raw damage. They allow :term:`Blunt damage <damage type: blunt>`.
 
-*Ranged* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any explicit damage types, and pure ranged weapons typically state whichever they use.
+| *Ranged* or *thrown* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any additional damage types, and pure ranged weapons typically state whichever they use. Thrown weapons leave the hands when used, but can still be recovered during or after combat.
+| If making a ranged attack with a weapon of these types at an adjacent target, it provokes an attack of opportunity from that target.
 
 List of Weapons
 ----------
@@ -72,7 +73,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 1h
           - 1
           - 100
-          - The wielder rerolls one failed die when attacking.
+          - The wielder rerolls one failed die when attacking with this weapon.
         * - **Greatsword**
           - Blade, Club
           - 4
@@ -80,7 +81,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2h
           - 2
           - 150
-          - The wielder rerolls one failed die when attacking.
+          - The wielder rerolls one failed die when attacking with this weapon.
         * - **Glaive**
           - Blade
           - 3
@@ -88,9 +89,9 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2h
           - 2
           - 200
-          - The wielder rerolls one failed die when attacking. When made immediately after a dash or jump, it also deals +1 damage.
-        * - **Short Spear**
-          - Lance
+          - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 damage.
+        * - **Javelin**
+          - Lance, Thrown
           - 3
           - Melee, Range (3)
           - 1h
@@ -106,7 +107,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 200
           - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 damage.
         * - **Rapier**
-          - Blade, Lance
+          - Lance, Blade
           - 3
           - Melee
           - 1h
@@ -121,3 +122,143 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - Light
           - 150
           - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
+        * - **Knife**
+          - Lance, Thrown
+          - 1
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 10
+          - May be paired with any weapon. Soak rolls against this weapon lose 1 success.
+        * - **Stake**
+          - Blade, Thrown
+          - 1
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 10
+          - May be paired with any weapon. This weapon's rollover cap is equal to 5x its base damage.
+        * - **Quill**
+          - Hook, Thrown
+          - 1
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 50
+          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses). At the start of combat, this weapon can be loaded with any poison at no Stamina cost, even on the Belt.
+        * - **Hook**
+          - Hook
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 100
+          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
+        * - **Scythe**
+          - Hook
+          - 3
+          - Melee
+          - 2h
+          - 2
+          - 150
+          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 2. Mettle damage from hook weapons can stack up to 2.
+        * - **Guisarme**
+          - Hook
+          - 3
+          - Reach
+          - 2h+
+          - 1
+          - 150
+          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons may stack up to 2.
+        * - **Trident**
+          - Hook, Lance
+          - 2
+          - Reach
+          - 1h
+          - 1
+          - 150
+          - If wielded in two or more hands, this weapon gets +1 base damage. Readied attacks with this weapon cost no Stamina to prepare, and inflict -1 Footwork on a hit.
+        * - **Whip**
+          - Hook, Lance
+          - 2
+          - Reach
+          - 1h
+          - Light
+          - 50
+          - Attempts to dodge this weapon when adjacent to the wielder have a -1 die penalty. Attempts to parry it when at reach or further have a -1 die penalty.
+        * - **Boomerang**
+          - Hook, Thrown
+          - 2 Blunt/Sharp
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 50
+          - After making a throwing attack with this weapon. roll a d6. If this roll is less than or equal to the wielder's Grace, the weapon returns after the attack. It flies in a curving arc, allowing it to ignore cover or a shield when thrown, but not full cover or walls.
+        * - **Flambard**
+          - Blade, Hook
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 250
+          - When this weapon deals damage, the wielder may spend 1 Stamina to inflict 2 points of Bleeding on the target.
+        * - **Hammer**
+          - Club
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 100
+          - Ignores 2 DR, and any soak gained from armor.
+        * - **Greathammer**
+          - Club
+          - 4
+          - Melee
+          - 2h+
+          - 3
+          - 200
+          - Inflicts an additional 1 Off-Balance to the user; it also inflicts 1 Off-Balance to targets unless dodged. When this weapon hits, the target and all adjacent creatures lose 2 Speed on their next turn.
+        * - **Polehammer**
+          - Club
+          - 4
+          - Reach
+          - 2h+
+          - 2
+          - 150
+          - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
+        * - **Club**
+          - Club
+          - 4
+          - Melee
+          - 2h
+          - 2
+          - 100
+          - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
+        * - **Throwing Hammer**
+          - Club, Thrown
+          - 2
+          - Melee, Range (3)
+          - 1h
+          - Light
+          - 20
+          - Ignores 1 DR, and any soak gained from armor.
+        * - **Tuning Fork**
+          - Club, Hook
+          - 3 Blunt
+          - Melee
+          - 1h
+          - 1
+          - 150
+          - This weapon's attack is treated as both melee and ranged.
+        * - **War Bell**
+          - Club, Hook
+          - 4 Blunt
+          - Melee
+          - 2h
+          - 2
+          - 200
+          - This weapon's attack is treated as both melee and ranged.
+
+
+
+
