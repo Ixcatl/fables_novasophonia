@@ -46,3 +46,35 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 *Club* weapons, with their oppressive weight and force, are all about inflicting raw damage. They allow :term:`Blunt damage <damage type: blunt>`.
 
 *Ranged* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any explicit damage types, and pure ranged weapons typically state whichever they use.
+
+List of Weapons
+----------
+This is a list of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
+
+.. dropdown:: Table of Contents...
+
+    .. list-table::
+        :widths: 10 10 10 10 10 10 10 50
+        :header-rows: 1
+        :stub-columns: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
+        * - Stub Row 1
+          - Row 1
+          - Column 2
+          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+        * - Stub Row 2
+          - Row 2
+          - Column 2
+          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+        * - Stub Row 3
+          - Row 3
+          - Column 2
+          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
