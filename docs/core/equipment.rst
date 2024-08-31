@@ -51,41 +51,41 @@ List of Weapons
 ----------
 This is a list of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
 
+.. dropdown:: Weapons...
 
-
-.. list-table::
-    :widths: 5 5 5 5 5 5 5 50
-    :header-rows: 1
-    
-    * - Weapon
-      - Type(s)
-      - Damage
-      - Range
-      - Hands
-      - Bulk
-      - Value
-      - Abilities
-    * - **Sword**
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - Lorem ipsum ligma balls lmfao this night sucks. I wish I could just fix this stupid issue and go the fuck to bed or work on something else because honestly why can't I just fix this
-    * - **Greatsword**
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-    * - **Bardiche**
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
-      - ababa
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
+        * - **Sword**
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - Lorem ipsum ligma balls lmfao this night sucks. I wish I could just fix this stupid issue and go the fuck to bed or work on something else because honestly why can't I just fix this
+        * - **Greatsword**
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+        * - **Bardiche**
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
