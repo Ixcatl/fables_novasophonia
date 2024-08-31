@@ -81,12 +81,43 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2
           - 150
           - The wielder rerolls one failed die when attacking.
-        * - **Bardiche**
+        * - **Glaive**
           - Blade
           - 3
           - Reach
           - 2h
           - 2
           - 200
-          - | The wielder rerolls one failed die when attacking.
-            When making an attack immediately after a dash or jump, it deals +1 damage.
+          - The wielder rerolls one failed die when attacking. When made immediately after a dash or jump, it also deals +1 damage.
+        * - **Short Spear**
+          - Lance
+          - 3
+          - Melee, Range (3)
+          - 1h
+          - 1
+          - 100
+          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses).
+        * - **Lance**
+          - Lance, Club
+          - 3
+          - Reach
+          - 2h
+          - 2
+          - 200
+          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 damage.
+        * - **Rapier**
+          - Blade, Lance
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 150
+          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). The wielder rerolls one failed die when using it to attack creatures with lower initiative.
+        * - **Dagger**
+          - Lance, Hook
+          - 2
+          - Melee
+          - 1h
+          - Light
+          - 150
+          - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
