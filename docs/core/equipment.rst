@@ -56,7 +56,6 @@ This is a list of most weapons one will find in their adventures. A GM is free t
     .. list-table::
         :widths: 10 10 10 10 10 10 10 50
         :header-rows: 1
-        :stub-columns: 1
         
         * - Weapon
           - Type(s)
@@ -66,7 +65,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - Bulk
           - Value
           - Abilities
-        * - Sword
+        * - **Sword**
           - ababa
           - ababa
           - ababa
@@ -74,7 +73,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - ababa
           - ababa
           - ababa
-        * - Greatsword
+        * - **Greatsword**
           - ababa
           - ababa
           - ababa
@@ -82,7 +81,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - ababa
           - ababa
           - ababa
-        * - Bardiche
+        * - **Bardiche**
           - ababa
           - ababa
           - ababa
