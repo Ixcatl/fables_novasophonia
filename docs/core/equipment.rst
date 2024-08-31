@@ -72,7 +72,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - ababa
           - ababa
           - ababa
-          - ababa
+          - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         * - **Greatsword**
           - ababa
           - ababa
