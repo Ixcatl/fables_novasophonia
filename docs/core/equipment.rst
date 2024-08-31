@@ -45,7 +45,8 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 
 *Club* weapons, with their oppressive weight and force, are all about inflicting raw damage. They allow :term:`Blunt damage <damage type: blunt>`.
 
-| *Ranged* or *thrown* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any additional damage types, and pure ranged weapons typically state whichever they use. Thrown weapons leave the hands when used, but can still be recovered during or after combat.
+| *Ranged* or *thrown* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any additional damage types, and pure ranged weapons typically state whichever they use.
+| Ranged weapons are treated as having unlimited ammunition, to avoid micromanaging every arrow or stone. Special ammo such as magic arrows are, however, consumed on use. Thrown weapons leave the hands when used, but can still be recovered during or after combat.
 | If making a ranged attack with a weapon of these types at an adjacent target, it provokes an attack of opportunity from that target.
 
 List of Weapons
@@ -53,6 +54,8 @@ List of Weapons
 This is a table of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
 
 .. dropdown::
+
+    **Balanced weapons**
 
     .. list-table::
         :widths: 5 5 5 5 5 5 5 50
@@ -90,6 +93,12 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2
           - 200
           - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 damage.
+
+    **Nimble weapons**
+
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+
         * - **Javelin**
           - Lance, Thrown
           - 3
@@ -115,7 +124,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 150
           - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). The wielder rerolls one failed die when using it to attack creatures with lower initiative.
         * - **Dagger**
-          - Lance, Hook
+          - Hook, Lance
           - 2
           - Melee
           - 1h
@@ -129,15 +138,15 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 1h
           - Light
           - 10
-          - May be paired with any weapon. Soak rolls against this weapon lose 1 success.
-        * - **Stake**
+          - May be paired with any other weapon. Soak rolls against this weapon lose 1 success.
+        * - **Shuriken**
           - Blade, Thrown
           - 1
           - Melee, Range (4)
           - 1h
           - Light
           - 10
-          - May be paired with any weapon. This weapon's rollover cap is equal to 5x its base damage.
+          - May be paired with any other weapon. This weapon's rollover cap is equal to 5x its base damage.
         * - **Quill**
           - Hook, Thrown
           - 1
