@@ -93,12 +93,53 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 2
           - 200
           - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 damage.
+        * - **Flambard**
+          - Blade, Hook
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 250
+          - When this weapon deals damage, the wielder may spend 1 Stamina to inflict 2 points of Bleeding on the target.
+        * - **Knife**
+          - Blade, Thrown
+          - 1
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 10
+          - May be paired with any other weapon. This weapon's rollover cap is equal to 5x its base damage.
+        * - **Dart**
+          - Lance, Thrown
+          - 1
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 10
+          - May be paired with any other weapon. Soak rolls against this weapon lose 1 success.
 
     **Nimble weapons**
 
     .. list-table::
         :widths: 5 5 5 5 5 5 5 50
-
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
+        * - **Dagger**
+          - Hook, Lance
+          - 2
+          - Melee
+          - 1h
+          - Light
+          - 150
+          - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
         * - **Javelin**
           - Lance, Thrown
           - 3
@@ -123,38 +164,21 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 1
           - 150
           - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). The wielder rerolls one failed die when using it to attack creatures with lower initiative.
-        * - **Dagger**
-          - Hook, Lance
-          - 2
-          - Melee
-          - 1h
-          - Light
-          - 150
-          - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
-        * - **Knife**
-          - Lance, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 10
-          - May be paired with any other weapon. Soak rolls against this weapon lose 1 success.
-        * - **Shuriken**
-          - Blade, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 10
-          - May be paired with any other weapon. This weapon's rollover cap is equal to 5x its base damage.
-        * - **Quill**
-          - Hook, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 50
-          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses). At the start of combat, this weapon can be loaded with any poison at no Stamina cost, even on the Belt.
+
+    **Cunning weapons**
+
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
         * - **Hook**
           - Hook
           - 3
@@ -180,7 +204,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - 150
           - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons may stack up to 2.
         * - **Trident**
-          - Hook, Lance
+          - Lance, Hook
           - 2
           - Reach
           - 1h
@@ -195,22 +219,29 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - Light
           - 50
           - Attempts to dodge this weapon when adjacent to the wielder have a -1 die penalty. Attempts to parry it when at reach or further have a -1 die penalty.
-        * - **Boomerang**
+        * - **Quill**
           - Hook, Thrown
-          - 2 Blunt/Sharp
+          - 1
           - Melee, Range (4)
           - 1h
           - Light
           - 50
-          - After making a throwing attack with this weapon. roll a d6. If this roll is less than or equal to the wielder's Grace, the weapon returns after the attack. It flies in a curving arc, allowing it to ignore cover or a shield when thrown, but not full cover or walls.
-        * - **Flambard**
-          - Blade, Hook
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 250
-          - When this weapon deals damage, the wielder may spend 1 Stamina to inflict 2 points of Bleeding on the target.
+          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses). At the start of combat, this weapon can be loaded with any poison at no Stamina cost, even on the Belt.
+
+    **Armor-breaking weapons**
+
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
         * - **Hammer**
           - Club
           - 3
@@ -251,6 +282,44 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - Light
           - 20
           - Ignores 1 DR, and any soak gained from armor.
+
+    **Ranged weapons**
+
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
+        * - **Boomerang**
+          - Hook, Thrown
+          - 2 Blunt/Sharp
+          - Melee, Range (4)
+          - 1h
+          - Light
+          - 50
+          - After making a throwing attack with this weapon. roll a d6. If this roll is less than or equal to the wielder's Grace, the weapon returns after the attack. It flies in a curving arc, allowing it to ignore cover or a shield when thrown, but not full cover or walls.
+
+    **Esoterica**
+
+    .. list-table::
+        :widths: 5 5 5 5 5 5 5 50
+        :header-rows: 1
+        
+        * - Weapon
+          - Type(s)
+          - Damage
+          - Range
+          - Hands
+          - Bulk
+          - Value
+          - Abilities
         * - **Tuning Fork**
           - Club, Hook
           - 3 Blunt
