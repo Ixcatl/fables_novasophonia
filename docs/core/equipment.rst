@@ -53,7 +53,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
 
 .. dropdown:: Table of Contents...
 
-    .. list-table:: Weapons
+    .. list-table::
         :widths: 10 10 10 10 10 10 10 50
         :header-rows: 1
         :stub-columns: 1
@@ -66,15 +66,27 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - Bulk
           - Value
           - Abilities
-        * - Stub Row 1
-          - Row 1
-          - Column 2
-          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-        * - Stub Row 2
-          - Row 2
-          - Column 2
-          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-        * - Stub Row 3
-          - Row 3
-          - Column 2
-          - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+        * - Sword
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+        * - Greatsword
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+        * - Bardiche
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
+          - ababa
