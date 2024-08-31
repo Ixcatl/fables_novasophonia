@@ -51,40 +51,39 @@ List of Weapons
 ----------
 This is a list of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
 
-.. dropdown:: Table of Contents...
-
-    .. list-table::
-        :header-rows: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - **Sword**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        * - **Greatsword**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-        * - **Bardiche**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
+.. list-table::
+    :widths: 10 10 10 10 10 10 10 10
+    :header-rows: 1
+    
+    * - Weapon
+      - Type(s)
+      - Damage
+      - Range
+      - Hands
+      - Bulk
+      - Value
+      - Abilities
+    * - **Sword**
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    * - **Greatsword**
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+    * - **Bardiche**
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
+      - ababa
