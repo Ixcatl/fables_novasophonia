@@ -56,6 +56,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
     .. list-table::
         :widths: 10 10 10 10 10 10 10 50
         :header-rows: 1
+        :class: longtable
         
         * - Weapon
           - Type(s)
@@ -72,7 +73,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - ababa
           - ababa
           - ababa
-          - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         * - **Greatsword**
           - ababa
           - ababa
