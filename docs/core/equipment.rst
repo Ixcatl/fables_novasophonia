@@ -49,9 +49,9 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 
 List of Weapons
 ----------
-This is a list of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
+This is a table of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
 
-.. dropdown:: Weapons...
+.. dropdown::
 
     .. list-table::
         :widths: 5 5 5 5 5 5 5 50
@@ -66,26 +66,27 @@ This is a list of most weapons one will find in their adventures. A GM is free t
           - Value
           - Abilities
         * - **Sword**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - Lorem ipsum ligma balls lmfao this night sucks. I wish I could just fix this stupid issue and go the fuck to bed or work on something else because honestly why can't I just fix this
+          - Blade
+          - 3
+          - Melee
+          - 1h
+          - 1
+          - 100
+          - The wielder rerolls one failed die when attacking.
         * - **Greatsword**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
+          - Blade, Club
+          - 4
+          - Melee
+          - 2h
+          - 2
+          - 150
+          - The wielder rerolls one failed die when attacking.
         * - **Bardiche**
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
-          - ababa
+          - Blade
+          - 3
+          - Reach
+          - 2h
+          - 2
+          - 200
+          - | The wielder rerolls one failed die when attacking.
+            | When making an attack immediately after a dash or jump, it deals +1 damage.
