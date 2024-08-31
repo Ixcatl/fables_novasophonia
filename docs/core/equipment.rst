@@ -72,7 +72,7 @@ This is a list of most weapons one will find in their adventures. A GM is free t
       - ababa
       - ababa
       - ababa
-      - aaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      - Lorem ipsum ligma balls lmfao this night sucks. I wish I could just fix this stupid issue and go the fuck to bed or work on something else because honestly why can't I just fix this
     * - **Greatsword**
       - ababa
       - ababa
