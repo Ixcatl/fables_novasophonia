@@ -27,7 +27,7 @@ Paired Weapons
 ----------
 When a character wields two light weapons, they can be *paired*. A character that makes an attack with a weapon can then perform a paired attack with the other paired weapon. A paired attack costs one less Stamina to initiate, though it is still taxed.
 
-Both weapons must be wielded when the first attack is made. The next attack after a paired attack cannot be paired in the same turn.
+Both weapons must be wielded when the first attack is made. The next attack after one that's been paired cannot be paired in the same turn.
 
 Weapon Abilities
 ----------
@@ -51,7 +51,7 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 
 List of Weapons
 ----------
-This is a table of most weapons one will find in their adventures. A GM is free to create their own, or base magic weapons on these.
+This is a table of most battle implements one would find in their adventures. A GM is free to create their own, or base their magic weapons on any of these.
 
 .. dropdown::
 
@@ -297,9 +297,33 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - Bulk
           - Value
           - Abilities
+        * - **Sling**
+          - Ranged
+          - 2 blunt
+          - Range (5)
+          - 1h
+          - Light
+          - 20
+          - Can be attached to the top of a staff or quarterstaff.
+        * - **Bow**
+          - Ranged
+          - 2 pierce
+          - Range (7)
+          - 2h+
+          - 1
+          - 100
+          - 
+        * - **Hand Trebuchet**
+          - Club, Ranged
+          - 4 blunt
+          - Range (5)
+          - 2h+
+          - 2
+          - 300
+          - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target.
         * - **Boomerang**
           - Hook, Thrown
-          - 2 Blunt/Sharp
+          - 2 blunt/sharp
           - Melee, Range (4)
           - 1h
           - Light
@@ -322,7 +346,7 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - Abilities
         * - **Tuning Fork**
           - Club, Hook
-          - 3 Blunt
+          - 3 blunt
           - Melee
           - 1h
           - 1
@@ -330,12 +354,68 @@ This is a table of most weapons one will find in their adventures. A GM is free 
           - This weapon's attack is treated as both melee and ranged.
         * - **War Bell**
           - Club, Hook
-          - 4 Blunt
+          - 4 blunt
           - Melee
           - 2h
           - 2
           - 200
           - This weapon's attack is treated as both melee and ranged.
+        * - **Scissor**
+          - Blade, Lance
+          - 2
+          - Melee
+          - 1h
+          - 1
+          - 70
+          - The wielder may link or unlink two scissors for 1 Stamina, or for free once per turn. A scissor can always be paired with another scissor, or with their linked form.
+        * - **Scissors**
+          - Hook, Club
+          - 4
+          - Melee
+          - 2h
+          - 2
+          - -
+          - The linked form of two scissors. This weapon's quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
+        * - **Quarterstaff**
+          - Club, Lance
+          - 1 blunt
+          - Melee
+          - 2h
+          - 1
+          - 20
+          - This weapon may be paired with itself if wielded in two or more hands. Once per target per turn, it inflicts 1 stack of Off-Balance on hit.
+        * - **Pole**
+          - Club, Lance
+          - 2 blunt
+          - Reach
+          - 2h
+          - 1
+          - 50
+          - This weapon may be paired with itself if wielded in two or more hands, and doing so grants the wielder +2 vertical jump height.
+        * - **Claw Glove**
+          - Natural
+          - 1 sharp
+          - Melee
+          - 0h
+          - Light
+          - 20
+          - This weapon is equipped in a glove slot, leaving the hands free. Its quality may be used in place of an unarmed strike's quality when grappling.
+        * - **Catchpole**
+          - Hook
+          - 0
+          - Reach
+          - 2h+
+          - 1
+          - 100
+          - An attack made with this weapon is functionally treated as a grapple. When used at reach, the wielder's Brawn is treated as 2 less.
+        * - **Net**
+          - Thrown
+          - 0
+          - Range (3)
+          - 1h
+          - Light
+          - 20
+          - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its quality to break free of its grapples.
 
 
 
