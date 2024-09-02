@@ -9,19 +9,35 @@ Weapon Quality
 ----------
 The *quality* of a weapon denotes the amount of dice added to the roll when attacking with the weapon. Weapons in their base form have 1 quality, altered by weapon upgrades and certain modifiers.
 
-Heavy Weapons
+Weapon Types & Damage
 ----------
-Weapons of 2 or more Bulk are *heavy*, and give a stack of Off-Balance whenever an attack is made with them.
+Each weapon type has a certain playstyle and damage type associated with it. When making an attack with a weapon, one may choose between any of the damage types its weapon types allow, unless the weapon itself states what damage it uses.
+
+*Blade* weapons are reliable and versatile, but lack the hard counters that make others intimidating. They allow :term:`Sharp damage <damage type: sharp>`.
+
+*Lance* weapons can be found in the hands of mobile combatants who prefer to outmaneuver their foes. They allow :term:`Pierce damage <damage type: pierce>`.
+
+*Hook* weapons are favored by tricksters and opportunists, designed to catch a foe at their weakest and tear them down. Uniquely, hook users can choose between :term:`Sharp damage <damage type: sharp>` or :term:`Pierce damage <damage type: pierce>`.
+
+*Club* weapons, with their oppressive weight and force, are all about inflicting raw damage. They allow :term:`Blunt damage <damage type: blunt>`.
+
+| *Ranged* or *thrown* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any additional damage types, and pure ranged weapons typically state whichever they use.
+| Ranged weapons are treated as having unlimited ammunition, to avoid micromanaging every arrow or stone. Special ammo such as magic arrows are, however, consumed on use. Thrown weapons leave the hands when used, but can still be recovered during or after combat.
+| If making a ranged attack with a weapon of these types at an adjacent target, it provokes an attack of opportunity from that target.
+
+Weapon Range
+----------
+| Weapons with a range of *melee* can be used to attack targets adjacent to the wielder.
+| *Reach* weapons have an attack range of 2 squares. These attacks are still considered to be melee.
+| *Ranged* weapons have a range in squares denoted by the weapon. Unlike melee, ranged attacks use a Grace roll by default. Some weapons intended for throwing can have both melee and ranged attacks.
 
 Handedness
 ----------
 Some weapons normally require two hands to wield. A character with 5 or greater Brawn may wield these weapons in one hand, but some are too unwieldy even for those strong enough, and are always two-handed (2h+).
 
-Weapon Ranges
+Heavy Weapons
 ----------
-| Weapons with a range of *melee* can be used to attack targets adjacent to the wielder.
-| *Reach* weapons have an attack range of 2 squares. These attacks are still considered to be melee.
-| *Ranged* weapons have a range in squares denoted by the weapon. Unlike melee, ranged attacks use a Grace roll by default. Some weapons intended for throwing can have both melee and ranged attacks.
+Weapons of 2 or more Bulk are *heavy*, and give a stack of Off-Balance whenever an attack is made with them.
 
 Paired Weapons
 ----------
@@ -31,23 +47,7 @@ Both weapons must be wielded when the first attack is made. The next attack afte
 
 Weapon Abilities
 ----------
-Weapons each have their own unique abiltiies, separate from their weapon type. These provide an advantage against certain enemies, or increase a character's versatility on the battlefield, making every weapon useful in its own way.
-
-Weapon Types & Damage
-----------
-Each weapon type has a certain playstyle and damage type associated with it. When making an attack with a weapon, one may choose between any of the damage types its weapon types allow, unless the weapon itself states what damage it uses.
-
-*Blade* weapons are reliable and versatile, but lack the hard counters that make other weapons intimidating. They allow :term:`Sharp damage <damage type: sharp>`.
-
-*Lance* weapons can be found in the hands of mobile combatants who prefer Grace over Brawn, and seek to outmaneuver their foes. They allow :term:`Pierce damage <damage type: pierce>`.
-
-*Hook* weapons are favored by tricksters and opportunists, designed to catch a foe at their weakest and tear them down. Uniquely, hook users can choose between :term:`Sharp damage <damage type: sharp>` or :term:`Pierce damage <damage type: pierce>`.
-
-*Club* weapons, with their oppressive weight and force, are all about inflicting raw damage. They allow :term:`Blunt damage <damage type: blunt>`.
-
-| *Ranged* or *thrown* weapons keep the wielder away from the enemy and out of harm's way. They do not allow any additional damage types, and pure ranged weapons typically state whichever they use.
-| Ranged weapons are treated as having unlimited ammunition, to avoid micromanaging every arrow or stone. Special ammo such as magic arrows are, however, consumed on use. Thrown weapons leave the hands when used, but can still be recovered during or after combat.
-| If making a ranged attack with a weapon of these types at an adjacent target, it provokes an attack of opportunity from that target.
+Weapons each have their own unique abilities separate from their weapon type. These provide an advantage against certain enemies, or increase a character's versatility on the battlefield, making every weapon useful in its own way.
 
 List of Weapons
 ----------
@@ -187,7 +187,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 1
           - 100
           - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
-        * - **Scythe**
+        * - **War Scythe**
           - Hook
           - 3
           - Melee
@@ -417,6 +417,17 @@ This is a table of most battle implements one would find in their adventures. A 
           - 20
           - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its quality to break free of its grapples.
 
+Improvised Weapons & Tools
+----------
+An improvised weapon bases its damage, Bulk, and abilities on the template of a similar weapon. Regardless of what they are based on, they have a throwing range of 3; however, they have 0 quality, cannot be modified, and suffer -1 die penalty on attack rolls.
 
+Certain tools make for surprisingly effective weapons, too. Unlike improvised weapons, they don't gain a throwing range. They have 1 quality, cannot be modified, and suffer -1 die penalty on attack rolls. If a character is familiar with a certain tool, they can add their ranks in a relevant skill as rerolls on the attack roll.
 
+Not all objects or tools are suitable to be used as a weapon.
+
+Unarmed Strikes
+----------
+An unarmed strike is considered to be a natural weapon for all intents and purposes, with a quality of 1, 1 base damage, and Light Bulk. The quality of an unarmed strike applies to grapple attempts.
+
+Any creature can make an unarmed strike at any time, even when the hands are full or missing.
 
