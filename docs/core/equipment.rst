@@ -440,7 +440,7 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
 .. dropdown::
 
     .. list-table::
-        :widths: 5 50 15
+        :widths: 5 50 10
         :header-rows: 1
         
         * - Modifier
@@ -450,7 +450,7 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - The weapon has -1 Quality. May be upgraded to standard Quality for half the weapon's value, removing Worn.
           - Value is halved
         * - **Threaded**
-          - The weapon is modified to feature a tether of attached thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used. Can be taken with other modifiers.
+          - The weapon gains a tether of thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used, if any. Can be taken with other modifiers.
           - 25
         * - **Extended**
           - The weapon gains a range of reach (if melee), +1 handedness, and +1 Bulk.
