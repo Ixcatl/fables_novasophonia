@@ -440,7 +440,7 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
 .. dropdown::
 
     .. list-table::
-        :widths: 5 50 5
+        :widths: 5 50 15
         :header-rows: 1
         
         * - Modifier
