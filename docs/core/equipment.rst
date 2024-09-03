@@ -501,7 +501,7 @@ Upgrades are not modifiers, as such they can coexist on any given weapon.
 To upgrade a weapon, under most circumstances, one must find a weaponsmith of passing skill and provide him with a hefty sum of barter for his services, in addition to any exotic materials he may require.
 
 .. list-table::
-    :widths: 10 5 100
+    :widths: 15 5 100
     :header-rows: 1
    
     * - Upgrade Tier
