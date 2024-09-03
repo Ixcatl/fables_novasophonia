@@ -7,7 +7,7 @@ Weapons
 
 Weapon Quality
 ----------
-The *quality* of a weapon denotes the amount of dice added to the roll when attacking with the weapon. Weapons in their base form have 1 quality, altered by weapon upgrades and certain modifiers.
+The *Quality* of a weapon denotes the amount of dice added to the roll when attacking with the weapon. Weapons in their base form have 1 Quality, altered by weapon upgrades and certain modifiers.
 
 Weapon Types & Damage
 ----------
@@ -29,7 +29,7 @@ Weapon Range
 ----------
 | Weapons with a range of *melee* can be used to attack targets adjacent to the wielder.
 | *Reach* weapons have an attack range of 2 squares. These attacks are still considered to be melee.
-| *Ranged* weapons have a range in squares denoted by the weapon. Unlike melee, ranged attacks use a Grace roll by default. Some weapons intended for throwing can have both melee and ranged attacks.
+| *Ranged* weapons have a range in squares denoted by the weapon, defaulting to 3 if necessary. Unlike melee, ranged attacks use a Grace roll. Some weapons intended for throwing can have both melee and ranged attacks.
 
 Handedness
 ----------
@@ -92,7 +92,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h
           - 2
           - 200
-          - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 damage.
+          - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 flat damage.
         * - **Flambard**
           - Blade, Hook
           - 3
@@ -155,7 +155,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h
           - 2
           - 200
-          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 damage.
+          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 flat damage.
         * - **Rapier**
           - Lance, Blade
           - 3
@@ -274,6 +274,22 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2
           - 100
           - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
+        * - **Flail**
+          - Club, Hook
+          - 3 blunt
+          - Melee
+          - 1h
+          - 1
+          - 150
+          - This weapon's attack is treated as ranged against parries.
+        * - **Ball & Chain**
+          - Club, Hook
+          - 4 blunt
+          - Melee
+          - 2h
+          - 2
+          - 200
+          - This weapon's attack is treated as ranged against parries.
         * - **Throwing Hammer**
           - Club, Thrown
           - 2
@@ -344,22 +360,6 @@ This is a table of most battle implements one would find in their adventures. A 
           - Bulk
           - Value
           - Abilities
-        * - **Tuning Fork**
-          - Club, Hook
-          - 3 blunt
-          - Melee
-          - 1h
-          - 1
-          - 150
-          - This weapon's attack is treated as both melee and ranged.
-        * - **War Bell**
-          - Club, Hook
-          - 4 blunt
-          - Melee
-          - 2h
-          - 2
-          - 200
-          - This weapon's attack is treated as both melee and ranged.
         * - **Scissor**
           - Blade, Lance
           - 2
@@ -375,7 +375,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h
           - 2
           - -
-          - The linked form of two scissors. This weapon's quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
+          - The linked form of two scissors. This weapon's Quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
         * - **Quarterstaff**
           - Club, Lance
           - 1 blunt
@@ -399,7 +399,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 0h
           - Light
           - 20
-          - This weapon is equipped in a glove slot, leaving the hands free. Its quality may be used in place of an unarmed strike's quality when grappling.
+          - This weapon is equipped in a glove slot, leaving the hands free. Its Quality may be used in place of an unarmed strike's Quality when grappling.
         * - **Catchpole**
           - Hook
           - 0
@@ -415,19 +415,79 @@ This is a table of most battle implements one would find in their adventures. A 
           - 1h
           - Light
           - 20
-          - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its quality to break free of its grapples.
+          - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its Quality to break free of its grapples.
 
 Improvised Weapons & Tools
 ----------
-An improvised weapon bases its damage, Bulk, and abilities on the template of a similar weapon. Regardless of what they are based on, they have a throwing range of 3; however, they have 0 quality, cannot be modified, and suffer -1 die penalty on attack rolls.
+An *improvised* weapon bases its damage, Bulk, and abilities on the template of a similar weapon. Regardless of what they are based on, they have a throwing range of 3; however, they have 0 Quality, cannot be modified, and suffer -1 die penalty on attack rolls.
 
-Certain tools make for surprisingly effective weapons, too. Unlike improvised weapons, they don't gain a throwing range. They have 1 quality, cannot be modified, and suffer -1 die penalty on attack rolls. If a character is familiar with a certain tool, they can add their ranks in a relevant skill as rerolls on the attack roll.
+Certain tools make for surprisingly effective weapons, too. Unlike improvised weapons, they don't gain a throwing range. They have 1 Quality, cannot be modified, and suffer -1 die penalty on attack rolls. If a character is familiar with a certain tool, they can add their ranks in a relevant skill as rerolls on the attack roll.
 
 Not all objects or tools are suitable to be used as a weapon.
 
 Unarmed Strikes
 ----------
-An unarmed strike is considered to be a natural weapon for all intents and purposes, with a quality of 1, 1 base damage, and Light Bulk. The quality of an unarmed strike applies to grapple attempts.
+An unarmed strike is considered to be a natural weapon for all intents and purposes, with a Quality of 1, 1 base damage, and Light Bulk. The Quality of an unarmed strike applies to grapple attempts.
 
-Any creature can make an unarmed strike at any time, even when the hands are full or missing.
+Any creature can make an unarmed attack at any time, even when the hands are full or missing.
 
+Modifying a Weapon
+----------
+Weapon *modifiers* improve weapons in ways that aren't always direct upgrades. Instead, they could make a weapon lighter or heavier, add an extra weapon type, or even allow it to turn into a different weapon.
+
+A weapon can only have a single modifier, with some exceptions. If the weapon is of Light Bulk, any applied modifier receives a 50% discount to its value rounded up, except for Worn.
+
+.. dropdown::
+
+    .. list-table::
+        :widths: 5 50 5
+        :header-rows: 1
+        
+        * - Modifier
+          - Effect
+          - Est. value
+        * - **Worn**
+          - The weapon has -1 Quality. May be upgraded to standard Quality for half the weapon's value, removing Worn.
+          - Value is halved
+        * - **Threaded**
+          - The weapon is modified to feature a tether of attached thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used. Can be taken with other modifiers.
+          - 25
+        * - **Extended**
+          - The weapon gains a range of reach (if melee), +1 handedness, and +1 Bulk.
+          - 50 + 1/2 base value
+        * - **Heavy**
+          - Grants a +1 flat damage bonus, at the cost of -1 die penalty and +1 Bulk.
+          - 50 + 1/2 base value
+        * - **Lightened**
+          - Grants a +1 die bonus to hit and -1 Bulk, at the cost of a -1 flat damage penalty.
+          - 50 + 1/2 base value
+        * - **Refined**
+          - The weapon has +1 to its damage rollover cap.
+          - 100 + 1/2 base value
+        * - **Trick**
+          - Choose another weapon. Through clever engineering, this weapon can morph into the chosen form at any time, once for free and then at the cost of Speed equal to its Bulk for additional morphs in the same round. The weapon's Bulk is always as much as its heavier form, and this modifier uses the base value of the more expensive form.
+          - 50 + 1/2 base value
+        * - **Versatile**
+          - Add one weapon type to this weapon for the purposes of art compatibility, except for natural. This doesn't grant extra damage types, nor any other effects.
+          - 50 + 1/2 base value
+        * - **Dropper**
+          - The weapon may be loaded with a single flask. When it hits a target, it may apply the flask to them, expending it. The wielder may also freely apply the flask to themselves.
+          - 50 + 1/2 base value
+        * - **Sorcerous**
+          - The weapon may deliver spells to the first target of an attack. Anima spent on the spell is added to the attack roll. The spell's range is limited to the weapon's if the spell's is greater.
+          - 100 + 1/2 base value
+        * - **Razor**
+          - The weapon inflicts a -1 die penalty against soaking its damage.
+          - 50 + 1/2 base value
+        * - **Balanced**
+          - The weapon gains the thrown weapon type and a range of 3, or +1 if its range is already 3 or higher.
+          - 50 + 1/2 base value
+        * - **Beast-Slaying**
+          - The weapon deals +2 flat damage to feral creatures, but has +1 Bulk.
+          - 100 + 1/2 base value
+        * - **Brutal**
+          - This weapon is serrated in a cruel fashion, and gains the option to use sharp damage. If the target dedicates extra Stamina to defend against it, its attack deals +1 flat damage. If applicable, enemies grappled by the weapon suffer 2 sharp damage each time they attempt to break free.
+          - 50 + 1/2 base value
+        * - **Culling**
+          - The weapon has +1 base damage, but soak rolls against its attacks have +1 :term:favor.
+          - 50 + 1/2 base value
