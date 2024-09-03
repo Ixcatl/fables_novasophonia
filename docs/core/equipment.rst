@@ -500,22 +500,22 @@ Upgrades are not modifiers, as such they can coexist on any given weapon.
 
 To upgrade a weapon, under most circumstances, one must find a weaponsmith of passing skill and provide him with a hefty sum of barter for his services, in addition to any exotic materials he may require.
 
- .. list-table::
-     :widths: 5 5 100
-     :header-rows: 1
-
-     * - Upgrade Tier
-       - Quality
-       - Cost
-     * - **Honed**
-       - +1
-       - 100 + base cost
-     * - **Superior**
-       - +2
-       - 200 + base cost
-     * - **Prime**
-       - +3
-       - 400 + base cost
-     * - **Zenith**
-       - +4
-       - 800 + base cost
+.. list-table::
+    :widths: 10 5 100
+    :header-rows: 1
+   
+    * - Upgrade Tier
+      - Quality
+      - Cost
+    * - **Honed**
+      - +1
+      - 100 + base cost
+    * - **Superior**
+      - +2
+      - 200 + base cost
+    * - **Prime**
+      - +3
+      - 400 + base cost
+    * - **Zenith**
+      - +4
+      - 800 + base cost
