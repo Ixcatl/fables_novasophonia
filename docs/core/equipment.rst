@@ -435,7 +435,7 @@ Modifying a Weapon
 ----------
 Weapon *modifiers* improve weapons in ways that aren't always direct upgrades. Instead, they could make a weapon lighter or heavier, add an extra weapon type, or even allow it to turn into a different weapon.
 
-A weapon can only have a single modifier, with some exceptions. If the weapon is of Light Bulk, any applied modifier halves its required value rounded up, except for Worn.
+A weapon can only have a single modifier, with some exceptions. If the weapon is of Light Bulk, the cost of a modifier is half its required value rounded up, except for Worn.
 
 .. dropdown::
 
@@ -447,13 +447,13 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - Effect
           - Est. value
         * - **Worn**
-          - The weapon has -1 Quality. May be upgraded to standard Quality for half the weapon's value, removing Worn.
+          - -1 Quality. May be removed for half the weapon's value.
           - Value is halved
         * - **Threaded**
-          - The weapon gains a tether of thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used, if any. Can be taken with other modifiers.
-          - 25
+          - Gains a tether of thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used, if any. Can be taken with other modifiers.
+          - Material's value
         * - **Extended**
-          - The weapon gains a range of reach (if melee), +1 handedness, and +1 Bulk.
+          - Applicable only to a melee weapon. It gains a range of reach, +1 handedness, and +1 Bulk.
           - 50 + 1/2 base value
         * - **Heavy**
           - Grants a +1 flat damage bonus, at the cost of -1 die penalty and +1 Bulk.
@@ -462,32 +462,60 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - Grants a +1 die bonus to hit and -1 Bulk, at the cost of a -1 flat damage penalty.
           - 50 + 1/2 base value
         * - **Refined**
-          - The weapon has +1 to its damage rollover cap.
+          - Gains +1 to its damage rollover cap.
           - 100 + 1/2 base value
         * - **Trick**
           - Choose another weapon. Through clever engineering, this weapon can morph into the chosen form at any time, once for free and then at the cost of Speed equal to its Bulk for additional morphs in the same round. The weapon's Bulk is always as much as its heavier form, and this modifier uses the base value of the more expensive form.
           - 50 + 1/2 base value
         * - **Versatile**
-          - Add one weapon type to this weapon for the purposes of art compatibility, except for natural. This doesn't grant extra damage types, nor any other effects.
+          - Add one weapon type for the purpose of art compatibility, except for natural. This doesn't grant extra damage types, nor any other effects.
           - 50 + 1/2 base value
         * - **Dropper**
-          - The weapon may be loaded with a single flask. When it hits a target, it may apply the flask to them, expending it. The wielder may also freely apply the flask to themselves.
+          - May be loaded with a single flask. When it hits a target, it may apply the flask to them, expending it. The wielder may also freely apply the flask to themselves.
           - 50 + 1/2 base value
         * - **Sorcerous**
-          - The weapon may deliver spells to the first target of an attack. Anima spent on the spell is added to the attack roll. The spell's range is limited to the weapon's if the spell's is greater.
+          - May deliver spells to the first target of an attack. Anima spent on the spell is added to the attack roll. The spell's range is limited to the weapon's if the spell's is greater.
           - 100 + 1/2 base value
         * - **Razor**
-          - The weapon inflicts a -1 die penalty against soaking its damage.
+          - Inflicts a -1 die penalty against soaking its damage.
           - 50 + 1/2 base value
         * - **Balanced**
-          - The weapon gains the thrown weapon type and a range of 3, or +1 if its range is already 3 or higher.
+          - Gains the thrown weapon type and a range of 3, or +1 if its range is already 3 or higher.
           - 50 + 1/2 base value
         * - **Beast-Slaying**
-          - The weapon deals +2 flat damage to feral creatures, but has +1 Bulk.
+          - Deals +2 flat damage to feral creatures, but has +1 Bulk.
           - 100 + 1/2 base value
         * - **Brutal**
-          - This weapon is serrated in a cruel fashion, and gains the option to use sharp damage. If the target dedicates extra Stamina to defend against it, its attack deals +1 flat damage. If applicable, enemies grappled by the weapon suffer 2 sharp damage each time they attempt to break free.
+          - Has the option to use sharp damage. If a target dedicates extra Stamina to defend against it, its attack deals +1 flat damage. If applicable, enemies grappled by the weapon suffer 2 sharp damage each time they attempt to break free.
           - 50 + 1/2 base value
         * - **Culling**
-          - The weapon has +1 base damage, but soak rolls against its attacks have +1 :term:favor.
+          - Gains +1 base damage, but soak rolls against its attacks have +1 :term:`favor`.
           - 50 + 1/2 base value
+
+Weapon Upgrades
+----------
+Weapon upgrades increase the Quality of a weapon. Each upgrade is acquired in sequence, and replaces its previous tier. Certain special weapons may have more prerequisites than the ones listed.
+
+Upgrades are not modifiers, as such they can coexist on any given weapon.
+
+To upgrade a weapon, under most circumstances, one must find a weaponsmith of passing skill and provide him with a hefty sum of barter for his services, in addition to any exotic materials he may require.
+
+ .. list-table::
+     :widths: 5 5 100
+     :header-rows: 1
+
+     * - Upgrade Tier
+       - Quality
+       - Cost
+     * - **Honed**
+       - +1
+       - 100 + base cost
+     * - **Superior**
+       - +2
+       - 200 + base cost
+     * - **Prime**
+       - +3
+       - 400 + base cost
+     * - **Zenith**
+       - +4
+       - 800 + base cost
