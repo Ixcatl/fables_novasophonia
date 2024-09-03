@@ -435,12 +435,12 @@ Modifying a Weapon
 ----------
 Weapon *modifiers* improve weapons in ways that aren't always direct upgrades. Instead, they could make a weapon lighter or heavier, add an extra weapon type, or even allow it to turn into a different weapon.
 
-A weapon can only have a single modifier, with some exceptions. If the weapon is of Light Bulk, any applied modifier receives a 50% discount to its value rounded up, except for Worn.
+A weapon can only have a single modifier, with some exceptions. If the weapon is of Light Bulk, any applied modifier halves its required value rounded up, except for Worn.
 
 .. dropdown::
 
     .. list-table::
-        :widths: 5 50 10
+        :widths: 5 50 12
         :header-rows: 1
         
         * - Modifier
