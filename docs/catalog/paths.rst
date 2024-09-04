@@ -269,6 +269,11 @@ Rank 1
 
 Rank 2
 ~~~~~~
+| **TBD**
+| tbd
+|
+| **Polymathy**
+| When performing research to learn a new spell, if the Arcanist has access to a grimoire containing the spell, two failed dice on their research roll are instead counted as successes.
 
 Rank 3
 ~~~~~~
@@ -293,7 +298,7 @@ Rank 1
 | The Ascendant may pour some of their Magic into an ordinary object, transforming it into an Astral Conduit. The Conduit can store a maximum amount of Magic points equal to its creator's Ascendant rank. They may have only one Astral Conduit, and creating a new one destroys the old one. While holding a Conduit or carrying it on the Belt, the Ascendant (or another adjacent character with Ascendant ranks, and the Ascendant's permission) may spend 1 Stamina to draw any amount of Magic from it. As a Focus action, the Ascendant can either deposit any amount of Magic into their existing Conduit, or create a new one.
 |
 | **Sorcerous Casting**
-| The Ascendant may treat all arcane foci as weapons with the Sorcerous modifier. Talismans instead make the Ascendant's unarmed strikes and grapples Sorcerous.
+| The Ascendant may treat their attuned arcane focus as a weapon with the Sorcerous modifier. Talismans instead make the Ascendant's unarmed strikes and grapples Sorcerous.
 
 Rank 2
 ~~~~~~
@@ -305,10 +310,10 @@ Rank 2
 
 Rank 3
 ~~~~~~
-| **Spell Splicing**
+| **Chimeric Spells**
 | When attuning Arcana, the Ascendant may splice two Arcana together into one, merging their Difficulty. The second Arcanum's effect is additionally carried by the first, in a way determined by the GM if needed. If the delivery Arcanum has an AoE, the total Difficulty increases by 1. The triggered Arcanum's Path is considered as the delivery Arcanum's Path. Two AoE Arcana cannot be spliced together.
 |
-| **Thin the Veil**
+| **Astral Projection**
 | When the Ascendant casts an area of effect Arcanum that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcanum's ordinary range. Arcana cast this way retain the same direction in which they were cast originally.
 
 --------
