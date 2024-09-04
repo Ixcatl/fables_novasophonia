@@ -2,7 +2,7 @@
 Items & Equipment
 **************
 
-----------
+------------------------------------------------------------------------------------------------------------------------------
 
 Weapons
 ==========
@@ -535,7 +535,7 @@ TBD ORES NEEDED TO BALANCE THE TIERS (pale ore in hkrpg is 1000 value per)
       - +4
       - 800 + base cost, <material tbd>
 
-----------
+------------------------------------------------------------------------------------------------------------------------------
 
 Shields
 ==========
@@ -641,6 +641,97 @@ Shields can also be upgraded. However, unlike weapons, they have fewer upgrade t
       - +2
       - 4x base cost, <material tbd>
 
+------------------------------------------------------------------------------------------------------------------------------
+
+Armor
+==========
+
+Equipping Armor
+----------
+Putting on or taking off a set of armor during combat costs 1 Stamina for light armor, 2 for medium, and 3 for heavy.
+
+Damage Reduction with Armor
+----------
+Heavier armor provides *damage reduction*, or DR. Damage reduction from armor removes flat points from :term:`physical damage <damage class: physical>` risked, but not environmental or magical. More information on DR here(LINK TO COMBAT).
+
+Durability
+----------
+When an attack rolls at least one 6 and successfully hits, it deals 1 damage to the target's armor Durability. Armor with 0 Durability is broken and provides no benefits until repaired.
+
+List of Armor
+----------
+
+.. list-table::
+    :widths: 5 5 5 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Armor
+      - Max Durability
+      - Damage Reduction
+      - Bulk
+      - Value
+      - Abilities
+    * - Light Armor
+      - 5
+      - 0
+      - 1
+      - 100
+      - +1 die and +1 reroll to soak checks.
+    * - Medium Armor
+      - 7
+      - 1
+      - 2
+      - 200
+      - +1 die to soak checks. When taking a dash or jump action, the distance decreases by 1 square.
+    * - Heavy Armor
+      - 9
+      - 2
+      - 3
+      - 400
+      - +1 die to soak checks. When taking a dash or jump action, the distance decreases by 1 square. Initiating a dodge or parry costs 1 additional taxed Stamina.
+
+Armor Modifiers
+----------
+Like weapons and shields, armor can be modified. Uniquely, though, armor may have any number of modifiers applied to it at once.
+
+.. dropdown::
+
+    .. list-table::
+        :widths: 5 50 12
+        :header-rows: 1
+        :stub-columns: 1
+
+        * - Modifier
+          - Effect
+          - Est. value
+        * - Piecemeal
+          - -1 bulk, but -2 max Durability.
+          - -50 discount
+        * - Saddled
+          - A single creature carried by the wearer is treated as 2 Bulk lighter.
+          - 25
+        * - Durable
+          - +1 max Durability, but +1 Bulk.
+          - 50
+        * - Padded
+          - The wearer gains another +1 die to soak. Incompatible with Weighted or Spiked.
+          - 70
+        * - Weighted
+          - +1 Bulk. The wearer gains the Slam trait, which has 1 Quality, or 0 if the armor is broken. Incompatible with Padded or Spiked.
+          - 100
+        * - Spiked
+          - The wearer gains the Spiky trait, which has 1 Quality, or 0 if the armor is broken. Incompatible with Padded or Weighted.
+          - 150
+        * - x-Proofed
+          - The wearer gains the :ref:`catalog/traits:resistant` trait, with a value of 4, against a specific non- :term:`mystic <damage set: mystic>` or :term:`poison <damage type: poison>` damage type such as :term:`heat <damage type: heat>`, :term:`blast <damage type: blast>`, or :term:`blunt <damage type: blunt>`. This damage type must also roll at least two 6s to damage the armor's Durability.
+          - 100 + base value
+        * - Lustrous
+          - The armor provides a bonus equal to its DR + 1 on opposed rolls to resist spell effects. Spell attacks may also be soaked with dice equal to the armor's DR + 1.
+          - 300 + base value
+
+------------------------------------------------------------------------------------------------------------------------------
+
 Arcane Foci
 ==========
 
@@ -672,7 +763,7 @@ List of Arcane Foci
          - Range
          - Hands
          - Bulk
-         - Cost
+         - Value
          - Abilities
        * - Talisman
          - \-
@@ -690,6 +781,38 @@ List of Arcane Foci
          - Light
          - 100
          - Wand attacks may use Insight to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any further is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Insight, including opposed checks, spell range, and duration.
+       * - Sceptre
+         - Club
+         - 1
+         - Melee
+         - 1h
+         - 1
+         - 100
+         - May deliver a touch spell at reach, adding its Quality to the spell attack roll. Any spells cast with a sceptre have +1 reroll per Quality on opposed rolls to overcome resistance.
+       * - Staff
+         - Blade
+         - 1 Blunt
+         - Melee
+         - 2h
+         - 1
+         - 100
+         - Can be adorned with ornaments aligned to a particular mystic path. This costs 100 of various materials and a camp action of work. Spells stored of the same *primary path* as its ornament may be cast with 1 difficulty of modification for free. This can exceed the normal capacity of the staff and the maximum difficulty the wielder can cast at.
+       * - Grimoire
+         - \-
+         - \-
+         - \-
+         - 1h
+         - Light
+         - 150
+         - Can store 1 spell higher than its Quality. A grimoire cannot contain weapon arts. Its stored spells do not vanish when it is unattuned, and can be used by another who attunes to it; they still require any paths and prerequisites to cast a written spell.
+       * - Globe
+         - Thrown
+         - 1
+         - Range (4)
+         - 1h
+         - Light
+         - 100
+         - TBD. some mental- or resistance-related effect?
 
 Focus Upgrades
 ----------
