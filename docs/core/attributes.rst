@@ -39,7 +39,7 @@ Grace determines one's effectiveness at using ranged weaponry or dodging incomin
 
 Footwork
 --------
-A creature's Footwork is equal to half their Grace, rounded up. Each round, they may move a distance in paces within enemies' threat range equal to their Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack of opportunity as normal.
+A creature's Footwork is equal to half their Grace without the half-point, then rounded up. Each round, they may move a distance in paces within enemies' threat range equal to their Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack of opportunity as normal.
 
 --------
 
@@ -99,7 +99,7 @@ At GM discretion, prolonged exertion without rest can cost additional Belly.
 
 Charm, Fright, & Style
 --------------
-These three attributes affect how a character interacts socially with others. According to roleplay preferences, they can represent their appearance, how they act, or even how they smell. Unlike other secondary or miscellaneous attributes, these are used in associated social checks, and follow similar rules to primary attributes. See Social for more information.
+These three attributes affect how a character interacts socially with others. According to roleplay preferences, they can represent their appearance, how they act, or even how they smell. Unlike other secondary or miscellaneous attributes, these are used in associated social checks, and follow similar rules to primary attributes, including the maximum of 7. See Social for more information.
 
 .. tip::
       When distributing your bonus starting points for Charm/Fright, they may be broken up into half points (0.5) if desired.
