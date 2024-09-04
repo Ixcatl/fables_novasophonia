@@ -38,7 +38,7 @@ Weapon Range
 
 Handedness
 ----------
-Some weapons normally require two hands to wield. A character with 5 or greater Brawn may wield these weapons in one hand, but some are too unwieldy even for those strong enough, and are always two-handed (2h+).
+Some weapons normally require two hands to wield. A character with 5 or greater Might may wield these weapons in one hand, but some are too unwieldy even for those strong enough, and are always two-handed (2h+).
 
 Heavy Weapons
 ----------
@@ -418,7 +418,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h+
           - 1
           - 100
-          - An attack made with this weapon is functionally treated as a grapple. When used at reach, the wielder's Brawn is treated as 2 less.
+          - An attack made with this weapon is functionally treated as a grapple. When used at reach, the wielder's Might is treated as 2 less.
         * - Net
           - Thrown
           - 0
@@ -566,7 +566,7 @@ Shields here are considered to be templates; one may flavor them however they de
       - 1
       - Light
       - 50
-      - If the bearer of a buckler has Grace equal to or higher than their Brawn, they add +1 bonus die to its parry attempts.
+      - If the bearer of a buckler has Grace equal to or higher than their Might, they add +1 bonus die to its parry attempts.
     * - Heater Shield
       - 3
       - 1
@@ -619,7 +619,7 @@ Shields can be modified exactly like weapons, with their own array of modifiers,
           - The shield becomes a viable weapon when used to bash. A shield with 2+ Bulk now has 4 base damage; a shield with 1 Bulk has 3 base damage; a Light shield has 2 base damage. The weapon Quality of its shield bash is equal to its Quality +1. Its rollover cap is also treated as that of a normal weapon's.
           - 50 + 1/2 base value
         * - Reflective
-          - The shield can parry spells (and other spell-like attacks) and grants its bearer a single reroll when parrying spells or making an opposed Savvy check to resist a magical effect.
+          - The shield can parry spells (and other spell-like attacks) and grants its bearer a single reroll when parrying spells or making an opposed Insight check to resist a magical effect.
           - 50 + 1/2 base value
 
 Shield Upgrades
@@ -689,7 +689,7 @@ List of Arcane Foci
          - 1h
          - Light
          - 100
-         - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any further is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Savvy, including opposed checks, spell range, and duration.
+         - Wand attacks may use Insight to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any further is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Insight, including opposed checks, spell range, and duration.
 
 Focus Upgrades
 ----------
