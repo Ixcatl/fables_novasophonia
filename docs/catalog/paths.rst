@@ -40,7 +40,7 @@ Secondary Path prefix: "Dashing"
 Rank 1
 ~~~~~~
 | **Lancing Strikes**
-| The Cavalier may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons. Spear weapons are an exception to this rule.
+| The Cavalier may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Spear weapons are an exception to this rule.
 | 
 | **Sharp Lunge**
 | The Cavalier may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
@@ -102,7 +102,7 @@ Secondary Path prefix: "Crooked"
 Rank 1
 ~~~~~~
 | **Swift Strikes**
-| The Rogue may attack with melee weapons using Grace to hit instead of Brawn, but not with heavy weapons.
+| The Rogue may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons.
 | 
 | **Push and Pull**
 | When the Rogue succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
@@ -200,7 +200,7 @@ Secondary Path prefix: "Deadeye"
 Rank 1
 ~~~~~~
 | **Good Arm**
-| The Arbalist may attack with ranged weapons using Brawn to hit instead of Grace.
+| The Arbalist may attack with ranged weapons using Might to hit instead of Grace.
 | 
 | **Long Shot**
 | When an Arbalist makes a ranged attack or Arcanum, its range can be increased by up to twice its original range. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
