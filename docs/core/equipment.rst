@@ -27,6 +27,9 @@ Each weapon type has a certain playstyle and damage type associated with it. Whe
 | Ranged weapons are treated as having unlimited ammunition, to avoid micromanaging every arrow or stone. Special ammo such as magic arrows are, however, consumed on use. Thrown weapons leave the hands, but can still be recovered during or after combat.
 | If making a ranged attack with a weapon of these types at an adjacent target, it provokes an attack of opportunity from that target.
 
+.. tip::
+   Thrown weapons which successfully deal any amount of Sharp or Pierce damage *embed* into the target, and remain attached to them until either the attacker or the victim collects them as normal.
+
 Weapon Range
 ----------
 | Weapons with a range of *melee* can be used to attack targets adjacent to the wielder.
@@ -259,7 +262,7 @@ This is a table of most battle implements one would find in their adventures. A 
         * - Greathammer
           - Club
           - 4
-          - Melee
+          - Reach
           - 2h+
           - 3
           - 200
@@ -282,7 +285,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
         * - Flail
           - Club, Hook
-          - 3 blunt
+          - 3 Blunt
           - Melee
           - 1h
           - 1
@@ -290,7 +293,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - This weapon's attack is treated as ranged against parries.
         * - Ball & Chain
           - Club, Hook
-          - 4 blunt
+          - 4 Blunt
           - Melee
           - 2h
           - 2
@@ -322,7 +325,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - Abilities
         * - Sling
           - Ranged
-          - 2 blunt
+          - 2 Blunt
           - Range (5)
           - 1h
           - Light
@@ -330,15 +333,15 @@ This is a table of most battle implements one would find in their adventures. A 
           - Can be attached to the top of a staff or quarterstaff.
         * - Bow
           - Ranged
-          - 2 pierce
+          - 2 Pierce
           - Range (7)
           - 2h+
           - 1
           - 100
-          - 
+          - \-
         * - Hand Trebuchet
           - Club, Ranged
-          - 4 blunt
+          - 4 Blunt
           - Range (5)
           - 2h+
           - 2
@@ -346,7 +349,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target.
         * - Boomerang
           - Hook, Thrown
-          - 2 blunt/sharp
+          - 2 Blunt/Sharp
           - Melee, Range (4)
           - 1h
           - Light
@@ -382,11 +385,11 @@ This is a table of most battle implements one would find in their adventures. A 
           - Melee
           - 2h
           - 2
-          - 
+          - \-
           - The linked form of two scissors. This weapon's Quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
         * - Quarterstaff
           - Club, Lance
-          - 1 blunt
+          - 1 Blunt
           - Melee
           - 2h
           - 1
@@ -394,7 +397,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - This weapon may be paired with itself if wielded in two or more hands. Once per target per turn, it inflicts 1 stack of Off-Balance on hit.
         * - Pole
           - Club, Lance
-          - 2 blunt
+          - 2 Blunt
           - Reach
           - 2h
           - 1
@@ -402,7 +405,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - This weapon may be paired with itself if wielded in two or more hands, and doing so grants the wielder +2 vertical jump height.
         * - Claw Glove
           - Natural
-          - 1 sharp
+          - 1 Sharp
           - Melee
           - 0h
           - Light
@@ -480,10 +483,10 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - Add one weapon type for purposes of art compatibility, except for natural. This doesn't grant extra damage types, nor any other effects.
           - 50 + 1/2 base value
         * - Dropper
-          - May be loaded with a single flask. When it hits a target, it may apply the flask to them, expending it. The wielder may also freely apply the flask to themselves.
+          - Can be loaded with a single flask, costing 1 Speed. When it hits a target, it may apply the flask to them, expending it. The wielder may also freely apply the flask to themselves.
           - 50 + 1/2 base value
         * - Sorcerous
-          - May deliver spells to the first target of an attack. Anima spent on the spell is added to the attack roll. The spell's range is limited to the weapon's if the spell's is greater.
+          - When casting a spell that uses a normal spell attack, the wielder may instead choose to use this weapon's attack to deliver it, adding Anima spent as bonus dice. Should it hit, the attack is processed as it normally would, but also counts as a hit for the cast spell. If the weapon attack was AoE, the spell only hits one of the attack's targets, unless it is split, where it would hit an appropriate amount of targets for split spells. If the *spell* is AoE, the entire AoE is cast centered on the target; the caster must make normal spell attack rolls against other targets caught in its radius. The minimum range for a Sorcerous spell is touch.
           - 100 + 1/2 base value
         * - Razor
           - Inflicts a -1 die penalty against soaking its damage.
@@ -495,7 +498,7 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - Deals +2 flat damage to feral creatures, but has +1 Bulk.
           - 100 + 1/2 base value
         * - Brutal
-          - Has the option to use sharp damage. If a target dedicates extra Stamina to defend against it, its attack deals +1 flat damage. If applicable, enemies grappled by the weapon suffer 2 sharp damage each time they attempt to break free.
+          - Has the option to use Sharp damage. If a target dedicates extra Stamina to defend against it, its attack deals +1 flat damage. If applicable, enemies grappled by the weapon suffer 2 sharp damage each time they attempt to break free.
           - 50 + 1/2 base value
         * - Culling
           - Gains +1 base damage, but soak rolls against its attacks have +1 :term:`favor`.
@@ -563,12 +566,12 @@ Shields here are considered to be templates; one may flavor them however they de
       - 1
       - Light
       - 50
-      - If the bearer of this shield has Grace equal to or higher than their Brawn, they add +1 bonus die to its parry attempts.
+      - If the bearer of a buckler has Grace equal to or higher than their Brawn, they add +1 bonus die to its parry attempts.
     * - Heater Shield
       - 3
       - 1
       - 100
-      - No additional effects.
+      - \-
     * - Tower Shield
       - 2
       - 1
@@ -578,7 +581,7 @@ Shields here are considered to be templates; one may flavor them however they de
       - 0
       - 2
       - 200
-      - At the end of their turn, the bearer of this shield may choose a side of the square(s) they occupy. The shield acts as a wall along that side of them until they choose to end this effect. The side the shield is facing may be changed off-turn for 1 Stamina. Attacks against the shield may be parried using it. Deployed greatshields have a Durability of 4 + Quality, an Absorption of 4, and a soak score of 3. Weapon damage against this shield is dealt to Durability instead of Quality. For every extra square the shield needs to cover when deployed, such as with a large creature's 2x2 size, it gains +1 Bulk.
+      - At the end of their turn, the bearer of a greatshield may choose a side of the square(s) they occupy. The shield acts as a wall along that side of them until they choose to end this effect. The side the shield is facing may be changed off-turn for 1 Stamina. Attacks against the shield may be parried using it. Deployed greatshields have a Durability of 4 + Quality, an Absorption of 4, and a soak score of 3. Weapon damage against the shield is dealt to Durability instead of Quality. For every extra square the greatshield needs to cover when deployed, such as with a large creature's 2x2 size, it gains +1 Bulk.
 
 Shield Modifiers
 ----------
@@ -637,3 +640,72 @@ Shields can also be upgraded. However, unlike weapons, they have fewer upgrade t
     * - Adamant
       - +2
       - 4x base cost, <material tbd>
+
+Arcane Foci
+==========
+
+Focus Attunement
+----------
+In order to benefit from an arcane focus' ability to store spells or arts, a character must first attune to it, done freely during any rest. They may only be attuned to a single arcane focus at a time, but can unattune at will.
+
+Stored Techniques
+----------
+An arcane focus can contain spells and arts for use, as if its Quality value were Technique slots. A stored weapon art can be performed using the arcane focus, even if it is not the correct weapon type, but cannot be performed with other weapons unless prepared in a normal Technique slot.
+
+Any stored techniques vanish if the character unattunes the focus or dies; however, an attuned focus can be used by another character to perform contained techniques, while the attuned character maintains the connection.
+
+A focus must normally be attuned and held in at least one hand to receive its benefits and perform techniques stored within.
+
+List of Arcane Foci
+----------
+
+.. list-table::
+    :widths: 5 5 5 5 5 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Focus
+      - Weapon Type
+      - Damage
+      - Range
+      - Hands
+      - Bulk
+      - Cost
+      - Abilities
+    * - Talisman
+      - \-
+      - \-
+      - \-
+      - 0h
+      - Light
+      - 50
+      - A talisman is worn as an accessory, leaving the hands free. Wearing it grants +1 reroll on opposed rolls to resist spell effects.
+    * - Wand
+      - Ranged
+      - 1 variable
+      - Range (5)
+      - 1h
+      - Light
+      - 100
+      - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Their first point of damage is :term:`
+
+Focus Upgrades
+----------
+All foci begin with 1 Quality. An amount of dice equal to Quality is added to regular attack rolls made with an arcane focus.
+
+A GM may ask for more esoteric or unusual materials to be put towards an upgrade's overall cost.
+
+.. list-table::
+    :widths: 15 5 100
+    :header-rows: 1
+    :stub-columns: 1
+   
+    * - Upgrade Tier
+      - Quality
+      - Value
+    * - Rarefied
+      - +1
+      - 300
+    * - Exalted
+      - +2
+      - 450
