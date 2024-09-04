@@ -12,7 +12,7 @@ Primary and Secondary Attributes
 Primary attributes can also be tracked in half numbers; rather than receiving another die, an attribute with an extra .5 point has +1 reroll when using that attribute.
 
 .. note::
-      Each primary attribute and each pool (except for Vitality) is capped at a maximum of 7, the peak of what any mortal creature can attain.
+      Each primary attribute and each pool (except for Vitality) is capped at a maximum of 7, the peak of what any mortal creature can attain. The minimum is also 1, though it is still possible to receive attribute damage down to 0.
 
 --------
 
