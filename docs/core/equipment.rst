@@ -724,7 +724,7 @@ Like weapons and shields, armor can be modified. Uniquely, though, armor may hav
           - The wearer gains the Spiky trait, which has 1 Quality, or 0 if the armor is broken. Incompatible with Padded or Weighted.
           - 150
         * - x-Proofed
-          - The wearer gains the :ref:`catalog/traits:resistant` trait, with a value of 4, against a specific non- :term:`mystic <damage set: mystic>` or :term:`poison <damage type: poison>` damage type such as :term:`heat <damage type: heat>`, :term:`blast <damage type: blast>`, or :term:`blunt <damage type: blunt>`. This damage type must also roll at least two 6s to damage the armor's Durability.
+          - The wearer gains the :ref:`catalog/traits:resistant` trait, with a value of 4, against a specific non- :term:`mystic <damage set: mystic>` or :term:`poison <damage type: poison>` damage type; such as :term:`heat <damage type: heat>`, :term:`blast <damage type: blast>`, or :term:`blunt <damage type: blunt>`. This damage type must also roll at least two 6s to damage the armor's Durability.
           - 100 + base value
         * - Lustrous
           - The armor provides a bonus equal to its DR + 1 on opposed rolls to resist spell effects. Spell attacks may also be soaked with dice equal to the armor's DR + 1.
