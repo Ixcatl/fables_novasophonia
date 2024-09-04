@@ -92,7 +92,7 @@ Blind
 --------
 | *Physical*
 | *Trait value:* ``+5``
-| You completely lack the sense of sight, with all of the massive drawbacks that entails.
+| You completely lack the sense of sight, with all of the massive drawbacks that entails. You have Tremorsense with a range of 2.
 | Trained Sense may be taken as a subtrait of Blind.
 
 Vulnerability
