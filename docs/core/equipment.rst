@@ -456,7 +456,7 @@ A weapon can only have a single modifier, with some exceptions. If the weapon is
           - Effect
           - Est. value
         * - Worn
-          - -1 Quality. May be removed for half the weapon's value.
+          - -1 Quality, and cannot be upgraded. May be removed for half the weapon's value.
           - Value is halved
         * - Threaded
           - Gains a tether of thread, rope, or chain. It can be pulled back to the wielder from afar at the cost of 1 Speed. The maximum reach of this effect depends on the length of material used; the weapon also increases in Bulk equal to the Bulk of the material used, if any. Can be taken with other modifiers.
@@ -521,16 +521,16 @@ TBD ORES NEEDED TO BALANCE THE TIERS (pale ore in hkrpg is 1000 value per)
       - Value
     * - Honed
       - +1
-      - 100 + base cost
+      - 100 + base cost, <material tbd>
     * - Superior
       - +2
-      - 200 + base cost
+      - 200 + base cost, <material tbd>
     * - Prime
       - +3
-      - 400 + base cost
+      - 400 + base cost, <material tbd>
     * - Zenith
       - +4
-      - 800 + base cost
+      - 800 + base cost, <material tbd>
 
 ----------
 
@@ -547,6 +547,38 @@ A shield can be used to attack a creature. A *shield bash* is a pairable 0 Quali
 
 List of Shields
 ----------
+Shields here are considered to be templates; one may flavor them however they desire.
+
+.. list-table::
+    :widths: 5 5 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+   
+    * - Shield
+      - Quality
+      - Bulk
+      - Value
+      - Abilities
+    * - Buckler
+      - 1
+      - Light
+      - 50
+      - If the bearer of this shield has Grace equal to or higher than their Brawn, they add +1 bonus die to its parry attempts.
+    * - Heater Shield
+      - 3
+      - 1
+      - 100
+      - No additional effects.
+    * - Tower Shield
+      - 2
+      - 1
+      - 150
+      - The bearer is treated as having 1/4 cover from ranged attacks, and receives no penalty to parry them.
+    * - Greatshield
+      - 0
+      - 2
+      - 200
+      - At the end of their turn, the bearer of this shield may choose a side of the square(s) they occupy. The shield acts as a wall along that side of them until they choose to end this effect. The side the shield is facing may be changed off-turn for 1 Stamina. Attacks against the shield may be parried using it. Deployed greatshields have a Durability of 4 + Quality, an Absorption of 4, and a soak score of 3. Weapon damage against this shield is dealt to Durability instead of Quality. For every extra square the shield needs to cover when deployed, such as with a large creature's 2x2 size, it gains +1 Bulk.
 
 Shield Modifiers
 ----------
@@ -559,9 +591,49 @@ Shields can be modified exactly like weapons, with their own array of modifiers,
         :header-rows: 1
         :stub-columns: 1
 
-        * - Worn
-          - Effect
-          - Est. value
         * - Modifier
           - Effect
           - Est. value
+        * - Worn
+          - -1 Quality, and cannot be upgraded. May be removed for half the shield's value.
+          - Value is halved
+        * - Lightened
+          - -1 Bulk, but -1 Quality.
+          - 100 + 1/2 base value
+        * - Fortified
+          - +1 Quality, but +1 Bulk.
+          - 50 + 1/2 base value
+        * - Spiked
+          - When parrying a valid attack with this shield, the attacker risks damage as though the wielder parried with spikes from the Spiky trait.
+          - 50 + 1/2 base value
+        * - Trick
+          - Choose a weapon. At the cost of 1 Stamina, this shield may change shape into that weapon and back. Its Bulk is equal to the higher of the two forms; the weapon's Quality is equal to the shield's Quality +1.
+          - 50 + 1/2 base value
+        * - Pragmatic
+          - The shield counts as a particular tool as well. Its Quality is equal to the shield's Quality, at a minimum of 1.
+          - 50 + 1/2 base value
+        * - Balanced
+          - The shield becomes a viable weapon when used to bash. A shield with 2+ Bulk now has 4 base damage; a shield with 1 Bulk has 3 base damage; a Light shield has 2 base damage. The weapon Quality of its shield bash is equal to its Quality +1. Its rollover cap is also treated as that of a normal weapon's.
+          - 50 + 1/2 base value
+        * - Reflective
+          - The shield can parry spells (and other spell-like attacks) and grants its bearer a single reroll when parrying spells or making an opposed Savvy check to resist a magical effect.
+          - 50 + 1/2 base value
+
+Shield Upgrades
+----------
+Shields can also be upgraded. However, unlike weapons, they have fewer upgrade tiers.
+
+.. list-table::
+    :widths: 15 5 100
+    :header-rows: 1
+    :stub-columns: 1
+   
+    * - Upgrade Tier
+      - Quality
+      - Value
+    * - Hardened
+      - +1
+      - 2x base cost, <material tbd>
+    * - Adamant
+      - +2
+      - 4x base cost, <material tbd>
