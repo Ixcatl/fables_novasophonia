@@ -20,7 +20,7 @@ For the convenience of players and GMs alike, this page includes a number of com
       | Acid damage dealt counts as environmental by default.
    damage type: astral
       | Raw unaspected astral damage, caused by simpler magicks or strange cosmic phenomena.
-      | Magic damage dealt counts as astral by default.
+      | Astral damage dealt counts as magical by default.
    damage type: blast
       | Concussive sound-based damage such as that from a shockwave, explosion, or thunderclap.
       | Blast damage dealt counts as environmental by default.
@@ -35,7 +35,7 @@ For the convenience of players and GMs alike, this page includes a number of com
       | Heat damage dealt counts as environmental by default.
    damage type: holy
       | Fueled by devotion and the influence of Anima, holy damage is often wielded by disciples of higher powers.
-      | Holy damage dealt counts as astral by default.
+      | Holy damage dealt counts as magical by default.
    damage type: pierce
       | Puncture wounds such as spikes, spines, arrows or spears cause pierce damage.
       | Pierce damage dealt counts as physical by default.
@@ -44,7 +44,7 @@ For the convenience of players and GMs alike, this page includes a number of com
       | Poison damage dealt counts as environmental by default. Uniquely, though, it does not fall under a specific damage set.
    damage type: psychic
       | A benign form of attack characterized by an assault of the senses themselves and the nerves binding them.
-      | Psychic damage dealt counts as astral by default.
+      | Psychic damage dealt counts as magical by default.
    damage type: sharp
       | Cutting weapons like swords, axes, and claws deal sharp damage.
       | Sharp damage dealt counts as physical by default.
