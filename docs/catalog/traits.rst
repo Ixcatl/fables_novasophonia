@@ -172,13 +172,13 @@ Anima Shivers
 ---------
 | *Physical, magic*
 | *Trait value:* ``-1``
-| You are capable of sensing the shifting dynamic of Astra and Anima, and always know when you are in the presence of powerful magic or wills. At GM discretion, you may have a vague idea of how powerful the source is on a successful Savvy check, but cannot pinpoint the source with this alone.
+| You are capable of sensing the shifting dynamic of Astra and Anima, and always know when you are in the presence of powerful magic or wills. At GM discretion, you may have a vague idea of how powerful the source is on a successful Insight check, but cannot pinpoint the source with this alone.
 
 Manapot
 -------
 | *Physical, magic*
 | *Trait value:* ``-2``
-| When taking a Rest and regaining Anima, you may store excess Anima points up to your Savvy score in a temporary "pool". Using 1 Stamina, you may return all of these points to your Anima pool, losing any which exceed your maximum Anima.
+| When taking a Rest and regaining Anima, you may store excess Anima points up to your Insight score in a temporary "pool". Using 1 Stamina, you may return all of these points to your Anima pool, losing any which exceed your maximum Anima.
 
 Shifting Guise
 -------------
