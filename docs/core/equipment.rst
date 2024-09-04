@@ -689,7 +689,7 @@ List of Arcane Foci
          - 1h
          - Light
          - 100
-         - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any rollover is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Savvy while the wand is attuned, including opposed checks, spell range, and duration.
+         - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any rollover is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Savvy, including opposed checks, spell range, and duration.
 
 Focus Upgrades
 ----------
