@@ -27,7 +27,7 @@ Direct Checks
 -------------
 *Direct* checks are usually called when a character takes an action that carries some risk of failure, and doesn't directly oppose any other characters.
 
-The GM declares which primary attribute should be used (Brawn, Grace, Mettle, Savvy). The player then rolls dice equal to that attribute, adding a number of :term:`bonus dice <die bonus>` equal to their ranks in one relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins the check.
+The GM declares which primary attribute should be used (Might, Grace, Mettle, Insight). The player then rolls dice equal to that attribute, adding a number of :term:`bonus dice <die bonus>` equal to their ranks in one relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins the check.
 
 .. tip::
    Below is a table with example difficulties for direct checks:
@@ -58,9 +58,9 @@ Some opposed checks might be suggested by the GM, such as resisting an overt mag
 .. admonition:: Example...
    :class: note
 
-   An enemy makes an attack, taking a swing at a player with their sword. They roll their check with Brawn as usual, coming up with an appropriate number of dice for their attack. The player character in question chooses to dodge out of the way, an opposed action using Grace. If their dodge roll removes all of the attack's successes, the attack is nullified and the character risks no damage.
+   An enemy makes an attack, taking a swing at a player with their sword. They roll their check with Might as usual, coming up with an appropriate number of dice for their attack. The player character in question chooses to dodge out of the way, an opposed action using Grace. If their dodge roll removes all of the attack's successes, the attack is nullified and the character risks no damage.
 
 .. admonition:: Another example...
    :class: note
 
-   A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Savvy check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
+   A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Insight check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
