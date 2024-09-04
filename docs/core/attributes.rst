@@ -16,15 +16,15 @@ Primary attributes can also be tracked in half numbers; rather than receiving an
 
 --------
 
-Brawn
+Might
 =====
 A measure of strength and physical fitness.
 
-Brawn determines one's effectiveness at swinging a weapon or parrying incoming blows. For checks, Brawn may be used for shows of brute force, lifting power, or strenuous athleticism.
+Might determines one's effectiveness at swinging a weapon or parrying incoming blows. For checks, Might may be used for shows of brute force, lifting power, or strenuous athleticism.
 
 Load
 ----
-A character's Load score is equal to their Brawn rounded down. They may carry Bulk up to their Load without penalty. One may hold up to twice their Load, but they will suffer a -1 :term:`die penalty` to all Brawn or Grace based rolls and must spend an additional 1 taxed Stamina on any action costing Stamina. A character physically cannot carry more than twice their Load score.
+A character's Load score is equal to their Might rounded down. They may carry Bulk up to their Load without penalty. One may hold up to twice their Load, but they will suffer a -1 :term:`die penalty` to all Might or Grace based rolls and must spend an additional 1 taxed Stamina on any action costing Stamina. A character physically cannot carry more than twice their Load score.
 
 .. Tip::
       An item marked with Light or 'L' weighs 1/3 of a point of Bulk. Every third Light item not rendered weightless by items such as pouches counts as one point of Bulk.
@@ -60,15 +60,15 @@ Stowing, drawing, or picking up an item from somewhere other than the Belt all c
 
 --------
 
-Savvy
+Insight
 =====
 A measure of the perception, reasoning, and worldly knowledge of a character.
 
-Savvy is used for most aspects of magic and tinkering, in addition to checks using keen senses, sharp intuition, or recalled lore.
+Insight is used for most aspects of magic and tinkering, in addition to checks using keen senses, sharp intuition, or recalled lore.
 
 Technique Slots
 ---------------
-A character's Technique slots are the staging ground for their arts and spells, assigned for quick and easy use. Characters have Technique slots equal to their Savvy rounded down.
+A character's Technique slots are the staging ground for their arts and spells, assigned for quick and easy use. Characters have Technique slots equal to their Insight rounded down.
 
 --------
 
