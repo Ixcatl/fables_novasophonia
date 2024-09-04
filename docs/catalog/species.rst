@@ -27,10 +27,10 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
     ::
 
-      Brawn:  3
+      Might:  3
       Grace:  3
       Mettle: 3
-      Savvy:  3
+      Insight:  3
       
       Vitality: 7
       Stamina: 3
@@ -56,10 +56,10 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
 | **Races**
 | Common rat: ``no modifiers``
-| Coastal rat: ``+1 Brawn   -1 Savvy``
+| Coastal rat: ``+1 Might   -1 Insight``
 | Roving rat: ``+1 Grace   -1 Mettle``
-| Ashen rat: ``+1 Mettle   -1 Savvy``
-| Fancy rat: ``+1 Savvy   -1 Mettle``
+| Ashen rat: ``+1 Mettle   -1 Insight``
+| Fancy rat: ``+1 Insight   -1 Mettle``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
@@ -81,10 +81,10 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 
     ::
 
-      Brawn:  2
+      Might:  2
       Grace:  4
       Mettle: 3
-      Savvy:  3
+      Insight:  3
       
       Vitality: 6
       Stamina: 3
@@ -110,9 +110,9 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 
 | **Races**
 | Common ratling: ``no modifiers``
-| Poetic ratling: ``+1 Savvy   -1 Mettle``
+| Poetic ratling: ``+1 Insight   -1 Mettle``
 | Gutter ratling: ``+0.5 Grace   +0.5 Fright   -0.5 Mettle   -0.5 Charm``
-| Mountain ratling: ``+1 Brawn   +1 Mettle   -1 Speed   -1.5 Grace   +2 Hunger``
+| Mountain ratling: ``+1 Might   +1 Mettle   -1 Speed   -1.5 Grace   +2 Hunger``
 
 **Traits:** :ref:`catalog/traits:sharp claws`
 
@@ -134,10 +134,10 @@ Tall and slender bird-people with a natural penchant for spellcraft, oscines dwe
 
     ::
 
-      Brawn:  2
+      Might:  2
       Grace:  4
       Mettle: 2
-      Savvy:  4
+      Insight:  4
       
       Vitality: 7
 
@@ -161,9 +161,9 @@ Tall and slender bird-people with a natural penchant for spellcraft, oscines dwe
 
 | **Races**
 | Common oscine: ``no modifiers``
-| Bayou oscine: ``+1 Mettle   -1 Savvy``
-| Oscine zenith: ``+0.5 Savvy   +0.5 Charm   -0.5 Grace``
-| Oscine nadir: ``+0.5 Grace   +0.5 Fright   -0.5 Savvy``
+| Bayou oscine: ``+1 Mettle   -1 Insight``
+| Oscine zenith: ``+0.5 Insight   +0.5 Charm   -0.5 Grace``
+| Oscine nadir: ``+0.5 Grace   +0.5 Fright   -0.5 Insight``
 
 **Traits:** TBD
 
@@ -185,10 +185,10 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 
     ::
 
-      Brawn:  4
+      Might:  4
       Grace:  2
       Mettle: 4
-      Savvy:  2
+      Insight:  2
       
       Vitality: 8
 
@@ -212,9 +212,9 @@ A burly, imposing, infamously hardheaded species of avian, raptors have also gar
 
 | **Races**
 | Common raptor: ``no modifiers``
-| River raptor: ``+1 Grace   -1 Brawn``
-| Townie raptor: ``+1 Savvy   +0.5 Charm   -1 Brawn   -0.5 Fright``
-| Giant raptor: ``+0.5 Brawn   +0.5 Fright   -0.5 Grace``
+| River raptor: ``+1 Grace   -1 Might``
+| Townie raptor: ``+1 Insight   +0.5 Charm   -1 Might   -0.5 Fright``
+| Giant raptor: ``+0.5 Might   +0.5 Fright   -0.5 Grace``
 
 **Traits:** TBD
 
@@ -236,10 +236,10 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
 
     ::
 
-      Brawn:  3
+      Might:  3
       Grace:  3
       Mettle: 3
-      Savvy:  3
+      Insight:  3
       
       Vitality: 7
       Stamina: 3
@@ -265,10 +265,10 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
 
 | **Races**
 | Hobnob basilisk: ``-2 Hunger``   :ref:`catalog/traits:resistant` (+1 :term:`elemental <damage set: elemental>`)
-| Hill basilisk: ``+1 Brawn   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`cold <damage type: cold>`)
-| Sand basilisk: ``+1 Grace   -1 Brawn``   :ref:`catalog/traits:resistant` (+3 :term:`heat <damage type: heat>`)
+| Hill basilisk: ``+1 Might   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`cold <damage type: cold>`)
+| Sand basilisk: ``+1 Grace   -1 Might``   :ref:`catalog/traits:resistant` (+3 :term:`heat <damage type: heat>`)
 | Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`acid <damage type: acid>`)
-| Dusk basilisk: ``+1 Savvy   -1 Brawn``   :ref:`catalog/traits:resistant` (+3 :term:`shock <damage type: shock>`)
+| Dusk basilisk: ``+1 Insight   -1 Might``   :ref:`catalog/traits:resistant` (+3 :term:`shock <damage type: shock>`)
 
 **Traits:** TBD
 
@@ -290,10 +290,10 @@ Ophidian
 
     ::
 
-      Brawn:  3.5
+      Might:  3.5
       Grace:  3.5
       Mettle: 3
-      Savvy:  2
+      Insight:  2
       
       Vitality: 7
       Stamina: 3
@@ -319,9 +319,9 @@ Ophidian
 
 | **Races**
 | Common ophidian: ``+0.5 Charm/Fright``
-| Ophidian sandwinder: ``+0.5 Grace   +0.5 Charm   -0.5 Brawn``
-| Ophidian bogstalker: ``+1 Mettle   +0.5 Fright   -0.5 Brawn   -0.5 Grace``
-| Naga: ``+2 Savvy   +0.5 Charm   -1 Brawn   -1 Mettle``
+| Ophidian sandwinder: ``+0.5 Grace   +0.5 Charm   -0.5 Might``
+| Ophidian bogstalker: ``+1 Mettle   +0.5 Fright   -0.5 Might   -0.5 Grace``
+| Naga: ``+2 Insight   +0.5 Charm   -1 Might   -1 Mettle``
 
 **Traits:** TBD
 
@@ -390,10 +390,10 @@ Lumen
 
     ::
 
-      Brawn:  1
+      Might:  1
       Grace:  3
       Mettle: 2
-      Savvy:  4
+      Insight:  4
       
       Vitality: 5
 
