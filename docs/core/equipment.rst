@@ -330,7 +330,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 1h
           - Light
           - 20
-          - Can be attached to the top of a staff or quarterstaff.
+          - Can be attached to the top of a staff or quarterstaff. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
         * - Bow
           - Ranged
           - 2 Pierce
@@ -338,7 +338,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h+
           - 1
           - 100
-          - \-
+          - Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
         * - Hand Trebuchet
           - Club, Ranged
           - 4 Blunt
@@ -346,7 +346,7 @@ This is a table of most battle implements one would find in their adventures. A 
           - 2h+
           - 2
           - 300
-          - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target.
+          - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
         * - Boomerang
           - Hook, Thrown
           - 2 Blunt/Sharp
@@ -659,35 +659,37 @@ A focus must normally be attuned and held in at least one hand to receive its be
 List of Arcane Foci
 ----------
 
-.. list-table::
-    :widths: 5 5 5 5 5 5 5 50
-    :header-rows: 1
-    :stub-columns: 1
+.. dropdown::
 
-    * - Focus
-      - Weapon Type
-      - Damage
-      - Range
-      - Hands
-      - Bulk
-      - Cost
-      - Abilities
-    * - Talisman
-      - \-
-      - \-
-      - \-
-      - 0h
-      - Light
-      - 50
-      - A talisman is worn as an accessory, leaving the hands free. Wearing it grants +1 reroll on opposed rolls to resist spell effects.
-    * - Wand
-      - Ranged
-      - 1 variable
-      - Range (5)
-      - 1h
-      - Light
-      - 100
-      - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Their first point of damage is :term:`
+   .. list-table::
+       :widths: 5 5 5 5 5 5 5 50
+       :header-rows: 1
+       :stub-columns: 1
+   
+       * - Focus
+         - Weapon Type
+         - Damage
+         - Range
+         - Hands
+         - Bulk
+         - Cost
+         - Abilities
+       * - Talisman
+         - \-
+         - \-
+         - \-
+         - 0h
+         - Light
+         - 50
+         - A talisman is worn as an accessory, leaving the hands free. Wearing it grants +1 reroll on opposed rolls to resist spell effects.
+       * - Wand
+         - Ranged
+         - 1 variable
+         - Range (5)
+         - 1h
+         - Light
+         - 100
+         - Wand attacks may use Savvy to hit, and can be parried as ranged attacks. Its first point of damage dealt is raw :term:`astral damage <damage type: astral>`; any rollover is dealt as soakable, :term:`magical <damage class: magical>` :term:`elemental damage <damage set: elemental>`, the exact damage type determined when the wand is created. Any spells contained in the wand may be cast using Grace in place of Savvy while the wand is attuned, including opposed checks, spell range, and duration.
 
 Focus Upgrades
 ----------
