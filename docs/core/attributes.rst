@@ -53,7 +53,7 @@ Belt Slots
 ---------
 A character has Belt slots equal to their Mettle score rounded down, which are used to hold various items for quick access in intense situations. They may transfer an item from a hand to an open Belt slot, or vice versa, without spending any Speed.
 
-Stowing, drawing, or picking up an item from somewhere other than the Belt all cost Speed equal to that item's Bulk, at a minimum of 1.
+Any given item takes up Belt slots equal to its Bulk, or 1, whichever is higher. Stowing, drawing, or picking up an item from somewhere other than the Belt all cost Speed equal to its Bulk, also at a minimum of 1.
 
 .. tip::
       Items can be freely dropped out of the hands without spending any Speed, though this comes with the obvious caveat of leaving your item unsecured in the environment.
