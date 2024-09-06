@@ -861,7 +861,7 @@ The following tools aren't a comprehensive list; however, they can serve to give
 .. dropdown::
 
    .. list-table::
-       :widths: 5 20 20 5 5
+       :widths: 12 12 12 5 5
        :header-rows: 1
        :stub-columns: 1
    
