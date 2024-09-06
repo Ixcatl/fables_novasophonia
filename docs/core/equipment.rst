@@ -808,7 +808,7 @@ List of Arcane Foci
          - Can store 1 spell higher than its Quality. A grimoire cannot contain weapon arts. Its stored spells do not vanish when it is unattuned, and can be used by another who attunes to it; they still require any paths and prerequisites to cast a written spell.
        * - Globe
          - Thrown
-         - 1
+         - 1 Blunt
          - Range (4)
          - 1h
          - Light
@@ -835,3 +835,13 @@ A GM may ask for more esoteric or unusual materials to be put towards an upgrade
     * - Exalted
       - +2
       - 450
+
+------------------------------------------------------------------------------------------------------------------------------
+
+**************
+Test
+**************
+
+------------------------------------------------------------------------------------------------------------------------------
+
+AGGA
