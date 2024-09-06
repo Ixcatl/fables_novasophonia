@@ -660,6 +660,7 @@ When an attack rolls at least one 6 and successfully hits, it deals 1 damage to 
 
 List of Armor
 ----------
+Armor can vary widely among the three tiers, and can be flavored however one would like in any way that makes sense.
 
 .. list-table::
     :widths: 5 5 5 5 5 50
@@ -724,7 +725,7 @@ Like weapons and shields, armor can be modified. Uniquely, though, armor may hav
           - The wearer gains the Spiky trait, which has 1 Quality, or 0 if the armor is broken. Incompatible with Padded or Weighted.
           - 150
         * - x-Proofed
-          - The wearer gains the :ref:`catalog/traits:resistant` trait, with a value of 4, against a specific non- :term:`mystic <damage set: mystic>` or :term:`poison <damage type: poison>` damage type; such as :term:`heat <damage type: heat>`, :term:`blast <damage type: blast>`, or :term:`blunt <damage type: blunt>`. This damage type must also roll at least two 6s to damage the armor's Durability.
+          - The wearer gains the :ref:`catalog/traits:resistant` trait, with a value of 4, against a specific non- :term:`mystic <damage set: mystic>` or :term:`poison <damage type: poison>` damage type; such as :term:`heat <damage type: heat>`, :term:`blast <damage type: blast>`, or :term:`blunt <damage type: blunt>` damage. This damage type must also roll at least two 6s to damage the armor's Durability.
           - 100 + base value
         * - Lustrous
           - The armor provides a bonus equal to its DR + 1 on opposed rolls to resist spell effects. Spell attacks may also be soaked with dice equal to the armor's DR + 1.
@@ -741,7 +742,7 @@ In order to benefit from an arcane focus' ability to store spells or arts, a cha
 
 Stored Techniques
 ----------
-An arcane focus can contain spells and arts for use, as if its Quality value were Technique slots. A stored weapon art can be performed using the arcane focus, even if it is not the correct weapon type, but cannot be performed with other weapons unless prepared in a normal Technique slot.
+An arcane focus can contain spells and arts for use, as if its Quality were Technique slots. A stored weapon art can be performed using the arcane focus, even if it is not the correct weapon type, but cannot be performed with other weapons unless prepared in a normal Technique slot.
 
 Any stored techniques vanish if the character unattunes the focus or dies; however, an attuned focus can be used by another character to perform contained techniques, while the attuned character maintains the connection.
 
@@ -796,7 +797,7 @@ List of Arcane Foci
          - 2h
          - 1
          - 100
-         - Can be adorned with ornaments aligned to a particular mystic path. This costs 100 of various materials and a camp action of work. Spells stored of the same *primary path* as its ornament may be cast with 1 difficulty of modification for free. This can exceed the normal capacity of the staff and the maximum difficulty the wielder can cast at.
+         - Can be adorned with ornaments aligned to a particular mystic path. This costs 100 of various materials and a camp action of work. Spells stored of the same *primary path* as its ornaments may be cast with 1 difficulty of modification for free. This can exceed the normal capacity of the staff and the maximum difficulty the wielder can cast at.
        * - Grimoire
          - \-
          - \-
