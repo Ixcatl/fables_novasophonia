@@ -938,6 +938,12 @@ The following tools aren't a comprehensive list; however, they can serve to give
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+.. _tt_scaleoflumeya:
+
+.. compound::
+
+   *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*
+
 Accessories
 ==========
 Accessories are items worn on the person without using Belt slots. Some may take accessory-specific slots, while others are freely equipped on the body. Two accessories which use the same slot cannot be used together, unless the creature has more than one of that particular body part, such as hands or feet.
@@ -983,13 +989,12 @@ List of Accessories
          - Light
          - 30☼
          - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-       * - Scale of Lumeya
+       * - :hoverxref:`Scale of Lumeya <tt_scaleoflumeya>`
          - Legendary
          - \-
          - Light
          - Priceless
-         - | *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*
-           | A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
+         - A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
