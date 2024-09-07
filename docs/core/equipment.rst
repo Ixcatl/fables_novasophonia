@@ -983,13 +983,13 @@ List of Accessories
          - Light
          - 30☼
          - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-       * - Lumeya's Scales
+       * - Scale of Lumeya
          - Legendary
          - \-
          - Light
          - Priceless
-         - *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*<br>
-           A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
+         - | *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*
+           | A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
