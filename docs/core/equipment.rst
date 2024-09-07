@@ -940,7 +940,7 @@ The following tools aren't a comprehensive list; however, they can serve to give
 
 Accessories
 ==========
-Accessories are items worn on the person without using Belt slots. Some may take their own special slots, while others are freely equipped on the body. Two accessories which use the same slot cannot be used together, unless the creature has more than one of that particular body part, such as hands or feet.
+Accessories are items worn on the person without using Belt slots. Some may take accessory-specific slots, while others are freely equipped on the body. Two accessories which use the same slot cannot be used together, unless the creature has more than one of that particular body part, such as hands or feet.
 
 Equipped accessories, much like wielded weapons or worn armor, still weigh Bulk on their bearer.
 
@@ -969,20 +969,27 @@ List of Accessories
          - Common
          - Back
          - Light
-         - 75☼
-         - A backpack can hold 3 items independent of the Belt, negating 1 effective Bulk from each. Up to 3 Light items may be carried in one item's space instead. These slots do not count as Belt slots and incur drawing/stowing penalties for contained items.
+         - 80☼
+         - A backpack can hold 3 items independent of the Belt, negating 1 effective Bulk from each. Up to 3 Light items may be carried in one item's space instead. These slots do not count as Belt slots and incur drawing/stowing penalties for contained items. Other varieties of personal storage exist, such as the *knapsack*, which only carries 2 items but costs 40☼, or the *rucksack*, which carries 2 items and gives +2 Belt slots, but is 120☼ and weighs 1 Bulk.
+       * - Hauling Frame
+         - Uncommon
+         - Back\*
+         - 1
+         - 100☼
+         - A hauling frame can be worn under any variety of backpack. With its many straps and supports, the frame provides +2 Belt slots.
        * - Saddle
          - Common
          - Back
          - Light
          - 30☼
          - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-       * - Lumeya's Boon
+       * - Lumeya's Scales
          - Legendary
-         - Any
+         - \-
          - Light
          - Priceless
-         - A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
+         - *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*  
+A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
