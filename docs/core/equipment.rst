@@ -636,10 +636,10 @@ Shields can also be upgraded. However, unlike weapons, they have fewer upgrade t
       - Value
     * - Hardened
       - +1
-      - 2x base value, <material tbd>
+      - 2× base value, <material tbd>
     * - Adamant
       - +2
-      - 4x base value, <material tbd>
+      - 4× base value, <material tbd>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -985,22 +985,22 @@ List of Accessories
          - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
        * - Climbing Claws
          - Rare
-         - Hand x2
+         - Hand ×2
          - Light
          - ???
-         - Requires two hands to wear. While worn, a creature is treated as though it possesses the Climbing trait. A creature that already has Climbing may instead climb any surface.
+         - Requires two hands to wear. While worn, the bearer is treated as though it possesses the Climbing trait. A creature bearing these claws that already has Climbing may climb any surface.
        * - Whirlwind Cloak
          - Rare
          - Mantle
          - Light
          - ???
-         - A magical cloak infused with potential energy. While worn, the wearer's dash and jump actions gain +1 maximum distance.
+         - A magical cloak infused with potential energy. While worn, the bearer's dash and jump actions gain +1 maximum distance.
        * - Scale of Lumeya
          - Legendary
          - \-
          - Light
          - ???
-         - A Lumen charm of protection, said to be one of countless scales shed from the goddess Lumeya's wings. A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
+         - A Lumen charm of protection, said to be one of countless scales shed from the goddess Lumeya's wings. Its bearer may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
