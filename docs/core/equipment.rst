@@ -938,12 +938,6 @@ The following tools aren't a comprehensive list; however, they can serve to give
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-.. _tt_scaleoflumeya:
-
-.. compound::
-
-   *"Said to be one of countless scales shed from Lumeya's wings. In Lumen culture, these are considered protective charms given to those on long journeys away from home."*
-
 Accessories
 ==========
 Accessories are items worn on the person without using Belt slots. Some may take accessory-specific slots, while others are freely equipped on the body. Two accessories which use the same slot cannot be used together, unless the creature has more than one of that particular body part, such as hands or feet.
@@ -989,12 +983,24 @@ List of Accessories
          - Light
          - 30☼
          - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-       * - :hoverxref:`Scale of Lumeya <tt_scaleoflumeya>`
+       * - Climbing Claws
+         - Rare
+         - Hand x2
+         - Light
+         - ???
+         - Requires two hands to wear. While worn, a creature is treated as though it possesses the Climbing trait. A creature that already has Climbing may instead climb any surface.
+       * - Whirlwind Cloak
+         - Rare
+         - Mantle
+         - Light
+         - ???
+         - A magical cloak infused with potential energy. While worn, the wearer's dash and jump actions gain +1 maximum distance.
+       * - Scale of Lumeya
          - Legendary
          - \-
          - Light
-         - Priceless
-         - A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
+         - ???
+         - A Lumen charm of protection, said to be one of countless scales shed from the goddess Lumeya's wings. A character in possession of this heirloom may spend 1 Anima during their turn to momentarily sprout spectral wings, acting as though they possessed Flight until the end of their turn. Creatures that already possess Lesser Flight or Flight instead have the Stamina costs of using these traits reduced by 1.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
