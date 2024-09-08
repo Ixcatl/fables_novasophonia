@@ -50,12 +50,6 @@ hoverxref_role_types = {
     'term': 'tooltip'  # for glossaries
 }
 
-# any custom options to pass to the DataTables constructor. Note that any
-# options you set are used for all DataTables.
-datatables_options = {
-    'paging': False
-}
-
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None)
@@ -99,3 +93,10 @@ favicons = [
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+datatables_options = {
+    'scrollY': '200px',
+    'scrollCollapse': True,
+    'paging': False
+}
