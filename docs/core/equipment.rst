@@ -970,13 +970,13 @@ List of Accessories
          - Back
          - Light
          - 80☼
-         - A backpack can hold 3 items independent of the Belt, negating 1 effective Bulk from each. Up to 3 Light items may be carried in one item's space instead. These slots do not count as Belt slots and incur drawing/stowing penalties for contained items. Other varieties of personal storage exist, such as the *knapsack*, which only carries 2 items but costs 40☼, or the *rucksack*, which carries 2 items and gives +2 Belt slots, but is 120☼ and weighs 1 Bulk.
+         - A backpack can hold 3 items independent of the Belt, negating 1 effective Bulk from each. Up to 3 Light items may be carried in one item's space instead. These slots do not count as Belt slots and incur drawing/stowing penalties for contained items. Other varieties of personal storage exist, such as the *knapsack*, which only carries 2 items but costs 40☼, or the *rucksack*, which carries 2 items and gives +1 Belt slot, but costs 100☼.
        * - Hauling Frame
          - Uncommon
          - Back\*
          - 1
          - 100☼
-         - A hauling frame can be worn under any variety of backpack. With its many straps and supports, the frame provides +2 Belt slots.
+         - Worn by frequent flyers to carry their camp supplies, a hauling frame can be worn under any variety of backpack. With its many straps and supports, the frame provides +2 Belt slots.
        * - Saddle
          - Common
          - Back
@@ -994,7 +994,13 @@ List of Accessories
          - Mantle
          - Light
          - ???
-         - A magical cloak infused with potential energy. While worn, the bearer's dash and jump actions gain +1 maximum distance.
+         - A cloak bristling with Potential energy. While worn, the bearer's dash and jump actions gain +1 maximum distance.
+       * - Pilgrim's Bangle
+         - Rare
+         - Foot
+         - Light
+         - ???
+         - A pair of entwined golden anklets, fitting comfortably above one foot. The bearer, while grounded, may choose to perform a *great dash* if they have not yet moved on their turn. A great dash expends all of their Speed, but allows them to dash indefinitely in a single horizontal direction until they strike a wall, cross over 4 consecutive empty squares, or choose to end the dash.
        * - Scale of Lumeya
          - Legendary
          - \-
