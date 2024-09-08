@@ -1043,7 +1043,7 @@ Useful Items
     * - Whirlwind Cloak
       - Mantle
       - Light
-      - ???
+      - ??
       - An ordinary cloak infused with a touch of Potential energy. While worn, the bearer's dash and jump actions gain +1 maximum distance.
     * - Pilgrim's Bangle
       - Foot
