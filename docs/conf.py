@@ -20,7 +20,9 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'hoverxref.extension',
     'sphinx_favicon',
-    'sphinx_design'
+    'sphinx_design',
+    "sphinxcontrib.jquery",
+    "sphinx_datatables"
 ]
 
 autosectionlabel_prefix_document = True
