@@ -1015,42 +1015,42 @@ TESTING SECTION FOR DATATABLE PLUGIN
       - Bulk
       - Value
       - Abilities
-    * - Outfit
+    * - AGGA
       - Apparel
       - Light
       - 25
       - An outfit of any variety counts as one accessory. For an additional 25☼, it may improve Charm or Fright by 0.5.
-    * - Backpack
+    * - jfc
       - Back
       - Light
       - 80
       - A backpack can hold 3 items independent of the Belt, negating 1 effective Bulk from each. Up to 3 Light items may be carried in one item's space instead. These slots do not count as Belt slots and incur drawing/stowing penalties for contained items. Other varieties of personal storage exist, such as the *knapsack*, which only carries 2 items but costs 40☼, or the *rucksack*, which carries 2 items and gives +1 Belt slot, but costs 100☼.
-    * - Hauling Frame
+    * - lol, lmao even
       - Back\*
       - 1
       - 100
       - Worn by frequent flyers to carry their camp supplies, a hauling frame can be worn under any variety of backpack. With its many straps and supports, the frame provides +2 Belt slots.
-    * - Saddle
+    * - bro
       - Back
       - Light
       - 30
       - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-    * - Climbing Claws
+    * - ababababa
       - Hand ×2
       - Light
       - ???
       - A meticulously crafted climbing rig mounted on two hands. While worn, the bearer is treated as though they possess the Climbing trait. A character bearing these claws who already has Climbing may climb any surface.
-    * - Whirlwind Cloak
+    * - eebydeeby
       - Mantle
       - Light
       - ???
       - An ordinary cloak infused with a touch of Potential energy. While worn, the bearer's dash and jump actions gain +1 maximum distance.
-    * - Pilgrim's Bangle
+    * - :3
       - Foot
       - Light
       - ???
       - A pair of entwined golden anklets, fitting comfortably on one foot. The bearer, while grounded, may choose to perform a *great dash* if they have not yet moved on their turn. A great dash expends all of their Speed, but allows them to dash indefinitely in a single horizontal direction until they strike a wall, cross over 4 consecutive empty squares, or choose to end the dash.
-    * - Scale of Lumeya
+    * - what
       - \-
       - Light
       - ???
