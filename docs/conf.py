@@ -53,7 +53,7 @@ hoverxref_role_types = {
 # any custom options to pass to the DataTables constructor. Note that any
 # options you set are used for all DataTables.
 datatables_options = {
-    "paging": False
+    'paging': False
 }
 
 intersphinx_mapping = {
