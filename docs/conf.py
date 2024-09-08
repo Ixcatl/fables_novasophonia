@@ -50,11 +50,7 @@ hoverxref_role_types = {
     'term': 'tooltip'  # for glossaries
 }
 
-# any custom options to pass to the DataTables constructor. Note that any
-# options you set are used for all DataTables.
-datatables_options = {
 
-}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
