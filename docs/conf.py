@@ -50,6 +50,18 @@ hoverxref_role_types = {
     'term': 'tooltip'  # for glossaries
 }
 
+# set the version to use for DataTables plugin
+datatables_version = "1.13.4"
+# name of the class to use for tables to enable DataTables
+datatables_class = "sphinx-datatable"
+# any custom options to pass to the DataTables constructor. Note that any
+# options you set are used for all DataTables.
+datatables_options = {
+    scrollY: '200px',
+    scrollCollapse: true,
+    paging: false
+}
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None)
