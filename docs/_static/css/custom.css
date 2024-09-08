@@ -14,7 +14,9 @@
 .wy-table-responsive table td, .wy-table-responsive table th {
    white-space: normal !important;
 }
-
+.rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
+    padding: 8px 8px !important;
+}
 
 
 /* Fix missing line-wrapping with Sphinx-RTD theme */
