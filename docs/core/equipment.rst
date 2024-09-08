@@ -58,375 +58,375 @@ List of Weapons
 ----------
 This is a table of most battle implements one would find in their adventures. A GM is free to create their own, or base their magic weapons on any of these.
 
-.. dropdown::
+.. tab-set::
 
-    **Balanced weapons**
+    .. tab-item:: Balanced
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Sword
-          - Blade
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 100☼
-          - The wielder rerolls one failed die when attacking with this weapon.
-        * - Greatsword
-          - Blade, Club
-          - 4
-          - Melee
-          - 2h
-          - 2
-          - 150☼
-          - The wielder rerolls one failed die when attacking with this weapon.
-        * - Glaive
-          - Blade
-          - 3
-          - Reach
-          - 2h
-          - 2
-          - 200☼
-          - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 flat damage.
-        * - Flambard
-          - Blade, Hook
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 250☼
-          - When this weapon deals damage, the wielder may spend 1 Stamina to inflict 2 points of Bleeding on the target.
-        * - Knife
-          - Blade, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 10☼
-          - May be paired with any other weapon. This weapon's rollover cap is equal to 5x its base damage.
-        * - Dart
-          - Lance, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 10☼
-          - May be paired with any other weapon. Soak rolls against this weapon lose 1 success.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Sword
+             - Blade
+             - 3
+             - Melee
+             - 1h
+             - 1
+             - 100☼
+             - The wielder rerolls one failed die when attacking with this weapon.
+           * - Greatsword
+             - Blade, Club
+             - 4
+             - Melee
+             - 2h
+             - 2
+             - 150☼
+             - The wielder rerolls one failed die when attacking with this weapon.
+           * - Glaive
+             - Blade
+             - 3
+             - Reach
+             - 2h
+             - 2
+             - 200☼
+             - The wielder rerolls one failed die when attacking with this weapon. When attacking immediately after a dash or jump, it also deals +1 flat damage.
+           * - Flambard
+             - Blade, Hook
+             - 3
+             - Melee
+             - 1h
+             - 1
+             - 250☼
+             - When this weapon deals damage, the wielder may spend 1 Stamina to inflict 2 points of Bleeding on the target.
+           * - Knife
+             - Blade, Thrown
+             - 1
+             - Melee, Range (4)
+             - 1h
+             - Light
+             - 10☼
+             - May be paired with any other weapon. This weapon's rollover cap is equal to 5x its base damage.
+           * - Dart
+             - Lance, Thrown
+             - 1
+             - Melee, Range (4)
+             - 1h
+             - Light
+             - 10☼
+             - May be paired with any other weapon. Soak rolls against this weapon lose 1 success.
 
-    **Nimble weapons**
+    .. tab-item:: Nimble
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Dagger
-          - Hook, Lance
-          - 2
-          - Melee
-          - 1h
-          - Light
-          - 150☼
-          - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
-        * - Javelin
-          - Lance, Thrown
-          - 3
-          - Melee, Range (3)
-          - 1h
-          - 1
-          - 100☼
-          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses).
-        * - Lance
-          - Lance, Club
-          - 3
-          - Reach
-          - 2h
-          - 2
-          - 200☼
-          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 flat damage.
-        * - Rapier
-          - Lance, Blade
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 150☼
-          - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). The wielder rerolls one failed die when using it to attack creatures with lower initiative.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Dagger
+             - Hook, Lance
+             - 2
+             - Melee
+             - 1h
+             - Light
+             - 150☼
+             - May be paired with itself if wielded alone. The wielder rerolls one failed die when using it to attack creatures with lower initiative.
+           * - Javelin
+             - Lance, Thrown
+             - 3
+             - Melee, Range (3)
+             - 1h
+             - 1
+             - 100☼
+             - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses).
+           * - Lance
+             - Lance, Club
+             - 3
+             - Reach
+             - 2h
+             - 2
+             - 200☼
+             - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). When attacking immediately after a dash or jump, it deals +1 flat damage.
+           * - Rapier
+             - Lance, Blade
+             - 3
+             - Melee
+             - 1h
+             - 1
+             - 150☼
+             - Can be drawn during initiative, granting +1 die to the initiative check (not stacking with other weapon bonuses). The wielder rerolls one failed die when using it to attack creatures with lower initiative.
 
-    **Cunning weapons**
+    .. tab-item:: Cunning
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Hook
-          - Hook
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 100☼
-          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
-        * - War Scythe
-          - Hook
-          - 3
-          - Melee
-          - 2h
-          - 2
-          - 150☼
-          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 2. Mettle damage from hook weapons can stack up to 2.
-        * - Guisarme
-          - Hook
-          - 3
-          - Reach
-          - 2h+
-          - 1
-          - 150☼
-          - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
-        * - Trident
-          - Lance, Hook
-          - 2
-          - Reach
-          - 1h
-          - 1
-          - 150☼
-          - If wielded in two or more hands, this weapon gets +1 base damage. Readied attacks with this weapon cost no Stamina to prepare, and inflict -1 Footwork on a hit.
-        * - Whip
-          - Hook, Lance
-          - 2
-          - Reach
-          - 1h
-          - Light
-          - 50☼
-          - Attempts to dodge this weapon when adjacent to the wielder have a -1 die penalty. Attempts to parry it when at reach or further have a -1 die penalty.
-        * - Quill
-          - Hook, Thrown
-          - 1
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 50☼
-          - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses). At the start of combat, this weapon can be loaded with any poison at no Stamina cost, even on the Belt.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Hook
+             - Hook
+             - 3
+             - Melee
+             - 1h
+             - 1
+             - 100☼
+             - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
+           * - War Scythe
+             - Hook
+             - 3
+             - Melee
+             - 2h
+             - 2
+             - 150☼
+             - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 2. Mettle damage from hook weapons can stack up to 2.
+           * - Guisarme
+             - Hook
+             - 3
+             - Reach
+             - 2h+
+             - 1
+             - 150☼
+             - When this weapon hits, the wielder may spend 1 Stamina to damage the target's Mettle by 1. Mettle damage from hook weapons can stack up to 2.
+           * - Trident
+             - Lance, Hook
+             - 2
+             - Reach
+             - 1h
+             - 1
+             - 150☼
+             - If wielded in two or more hands, this weapon gets +1 base damage. Readied attacks with this weapon cost no Stamina to prepare, and inflict -1 Footwork on a hit.
+           * - Whip
+             - Hook, Lance
+             - 2
+             - Reach
+             - 1h
+             - Light
+             - 50☼
+             - Attempts to dodge this weapon when adjacent to the wielder have a -1 die penalty. Attempts to parry it when at reach or further have a -1 die penalty.
+           * - Quill
+             - Hook, Thrown
+             - 1
+             - Melee, Range (4)
+             - 1h
+             - Light
+             - 50☼
+             - Can be drawn during initiative, granting +2 dice to the initiative check (not stacking with other weapon bonuses). At the start of combat, this weapon can be loaded with any poison at no Stamina cost, even on the Belt.
 
-    **Armor-breaking weapons**
+    .. tab-item:: Armor-breaking
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Hammer
-          - Club
-          - 3
-          - Melee
-          - 1h
-          - 1
-          - 100☼
-          - Ignores 2 DR, and any soak gained from armor.
-        * - Greathammer
-          - Club
-          - 4
-          - Reach
-          - 2h+
-          - 3
-          - 200☼
-          - Inflicts an additional 1 Off-Balance to its wielder; it also inflicts 1 Off-Balance to the target unless dodged. The target and all adjacent creatures lose 2 Speed on their next turn.
-        * - Polehammer
-          - Club
-          - 4
-          - Reach
-          - 2h+
-          - 2
-          - 150☼
-          - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
-        * - Club
-          - Club
-          - 4
-          - Melee
-          - 2h
-          - 2
-          - 100☼
-          - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
-        * - Flail
-          - Club, Hook
-          - 3 Blunt
-          - Melee
-          - 1h
-          - 1
-          - 150☼
-          - This weapon's attack is treated as ranged against parries.
-        * - Ball & Chain
-          - Club, Hook
-          - 4 Blunt
-          - Melee
-          - 2h
-          - 2
-          - 200☼
-          - This weapon's attack is treated as ranged against parries.
-        * - Throwing Hammer
-          - Club, Thrown
-          - 2
-          - Melee, Range (3)
-          - 1h
-          - Light
-          - 20☼
-          - Ignores 1 DR, and any soak gained from armor.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Hammer
+             - Club
+             - 3
+             - Melee
+             - 1h
+             - 1
+             - 100☼
+             - Ignores 2 DR, and any soak gained from armor.
+           * - Greathammer
+             - Club
+             - 4
+             - Reach
+             - 2h+
+             - 3
+             - 200☼
+             - Inflicts an additional 1 Off-Balance to its wielder; it also inflicts 1 Off-Balance to the target unless dodged. The target and all adjacent creatures lose 2 Speed on their next turn.
+           * - Polehammer
+             - Club
+             - 4
+             - Reach
+             - 2h+
+             - 2
+             - 150☼
+             - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
+           * - Club
+             - Club
+             - 4
+             - Melee
+             - 2h
+             - 2
+             - 100☼
+             - When this weapon hits, the target takes a -1 die penalty on the next attack or defense roll they make.
+           * - Flail
+             - Club, Hook
+             - 3 Blunt
+             - Melee
+             - 1h
+             - 1
+             - 150☼
+             - This weapon's attack is treated as ranged against parries.
+           * - Ball & Chain
+             - Club, Hook
+             - 4 Blunt
+             - Melee
+             - 2h
+             - 2
+             - 200☼
+             - This weapon's attack is treated as ranged against parries.
+           * - Throwing Hammer
+             - Club, Thrown
+             - 2
+             - Melee, Range (3)
+             - 1h
+             - Light
+             - 20☼
+             - Ignores 1 DR, and any soak gained from armor.
 
-    **Ranged weapons**
+    .. tab-item:: Ranged
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Sling
-          - Ranged
-          - 2 Blunt
-          - Range (5)
-          - 1h
-          - Light
-          - 20☼
-          - Can be attached to the top of a staff or quarterstaff. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
-        * - Bow
-          - Ranged
-          - 2 Pierce
-          - Range (7)
-          - 2h+
-          - 1
-          - 100☼
-          - Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
-        * - Hand Trebuchet
-          - Club, Ranged
-          - 4 Blunt
-          - Range (5)
-          - 2h+
-          - 2
-          - 300☼
-          - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
-        * - Boomerang
-          - Hook, Thrown
-          - 2 Blunt/Sharp
-          - Melee, Range (4)
-          - 1h
-          - Light
-          - 50☼
-          - After making a throwing attack with this weapon. roll a d6. If this roll is less than or equal to the wielder's Grace, the weapon returns after the attack. It flies in a curving arc, allowing it to ignore cover or a shield when thrown, but not full cover or walls.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Sling
+             - Ranged
+             - 2 Blunt
+             - Range (5)
+             - 1h
+             - Light
+             - 20☼
+             - Can be attached to the top of a staff or quarterstaff. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
+           * - Bow
+             - Ranged
+             - 2 Pierce
+             - Range (7)
+             - 2h+
+             - 1
+             - 100☼
+             - Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
+           * - Hand Trebuchet
+             - Club, Ranged
+             - 4 Blunt
+             - Range (5)
+             - 2h+
+             - 2
+             - 300☼
+             - The travel path of this weapon's projectile originates from one square above its wielder, ignoring most cover and arcing down onto the target. Flasks on the Belt can be used as ammunition, using all of this weapon's stats for the "throw" except for damage.
+           * - Boomerang
+             - Hook, Thrown
+             - 2 Blunt/Sharp
+             - Melee, Range (4)
+             - 1h
+             - Light
+             - 50☼
+             - After making a throwing attack with this weapon. roll a d6. If this roll is less than or equal to the wielder's Grace, the weapon returns after the attack. It flies in a curving arc, allowing it to ignore cover or a shield when thrown, but not full cover or walls.
 
-    **Esoterica**
+    .. tab-item:: Esoterica
 
-    .. list-table::
-        :widths: 5 5 5 5 5 5 5 50
-        :header-rows: 1
-        :stub-columns: 1
-        
-        * - Weapon
-          - Type(s)
-          - Damage
-          - Range
-          - Hands
-          - Bulk
-          - Value
-          - Abilities
-        * - Scissor
-          - Blade, Lance
-          - 2
-          - Melee
-          - 1h
-          - 1
-          - 70☼
-          - The wielder may link or unlink two scissors for 1 Stamina, or for free once per turn. A scissor can always be paired with another scissor, or with their linked form.
-        * - Scissors
-          - Hook, Club
-          - 4
-          - Melee
-          - 2h
-          - 2
-          - \-
-          - The linked form of two scissors. This weapon's Quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
-        * - Quarterstaff
-          - Club, Lance
-          - 1 Blunt
-          - Melee
-          - 2h
-          - 1
-          - 20☼
-          - This weapon may be paired with itself if wielded in two or more hands. Once per target per turn, it inflicts 1 stack of Off-Balance on hit.
-        * - Pole
-          - Club, Lance
-          - 2 Blunt
-          - Reach
-          - 2h
-          - 1
-          - 50☼
-          - This weapon may be paired with itself if wielded in two or more hands, and doing so grants the wielder +2 vertical jump height.
-        * - Claw Glove
-          - Natural
-          - 1 Sharp
-          - Melee
-          - 0h
-          - Light
-          - 20☼
-          - This weapon is equipped as a hand accessory, leaving the hands free. Its Quality may be used in place of an unarmed strike's Quality when grappling.
-        * - Catchpole
-          - Hook
-          - 0
-          - Reach
-          - 2h+
-          - 1
-          - 100☼
-          - An attack made with this weapon is functionally treated as a grapple. When used at reach, the wielder's Might is treated as 2 less.
-        * - Net
-          - Thrown
-          - 0
-          - Range (3)
-          - 1h
-          - Light
-          - 20☼
-          - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its Quality to break free of its grapples.
+       .. list-table::
+           :widths: 5 5 5 5 5 5 5 50
+           :header-rows: 1
+           :stub-columns: 1
+           
+           * - Weapon
+             - Type(s)
+             - Damage
+             - Range
+             - Hands
+             - Bulk
+             - Value
+             - Abilities
+           * - Scissor
+             - Blade, Lance
+             - 2
+             - Melee
+             - 1h
+             - 1
+             - 70☼
+             - The wielder may link or unlink two scissors for 1 Stamina, or for free once per turn. A scissor can always be paired with another scissor, or with their linked form.
+           * - Scissors
+             - Hook, Club
+             - 4
+             - Melee
+             - 2h
+             - 2
+             - \-
+             - The linked form of two scissors. This weapon's Quality is equal to the average of its components', rounded up. It cannot have modifiers of its own, and instead inherits the modifiers of its components. Two copies of the same modifier do not stack their effects.
+           * - Quarterstaff
+             - Club, Lance
+             - 1 Blunt
+             - Melee
+             - 2h
+             - 1
+             - 20☼
+             - This weapon may be paired with itself if wielded in two or more hands. Once per target per turn, it inflicts 1 stack of Off-Balance on hit.
+           * - Pole
+             - Club, Lance
+             - 2 Blunt
+             - Reach
+             - 2h
+             - 1
+             - 50☼
+             - This weapon may be paired with itself if wielded in two or more hands, and doing so grants the wielder +2 vertical jump height.
+           * - Claw Glove
+             - Natural
+             - 1 Sharp
+             - Melee
+             - 0h
+             - Light
+             - 20☼
+             - This weapon is equipped as a hand accessory, leaving the hands free. Its Quality may be used in place of an unarmed strike's Quality when grappling.
+           * - Catchpole
+             - Hook
+             - 0
+             - Reach
+             - 2h+
+             - 1
+             - 100☼
+             - An attack made with this weapon is functionally treated as a grapple. When used at reach, the wielder's Might is treated as 2 less.
+           * - Net
+             - Thrown
+             - 0
+             - Range (3)
+             - 1h
+             - Light
+             - 20☼
+             - An attack made with this weapon is functionally treated as a grapple. It requires successes equal to its Quality to break free of its grapples.
 
 Improvised Weapons & Tools
 ----------
