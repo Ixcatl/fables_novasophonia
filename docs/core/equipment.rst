@@ -1035,7 +1035,7 @@ TESTING SECTION FOR DATATABLE PLUGIN
       - Light
       - 30
       - Typically found on tamed beasts and mounts, a saddled creature can treat one carried character as 2 Bulk less.
-    * - ababababa
+    * - ackackackack
       - Hand ×2
       - Light
       - ???
