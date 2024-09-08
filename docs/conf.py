@@ -93,3 +93,10 @@ favicons = [
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+datatables_version = "1.13.4"
+datatables_class = "sphinx-datatable"
+datatables_options = {
+    'paging': False
+}
