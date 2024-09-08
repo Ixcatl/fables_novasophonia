@@ -93,10 +93,3 @@ favicons = [
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-
-datatables_options = {
-    'scrollY': '200px',
-    'scrollCollapse': True,
-    'paging': False
-}
