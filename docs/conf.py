@@ -58,7 +58,6 @@ datatables_class = "sphinx-datatable"
 # options you set are used for all DataTables.
 datatables_options = {
     'scrollY': '200px',
-    'scrollCollapse': True,
     'paging': False
 }
 
