@@ -38,7 +38,7 @@ Commodities
     * - Glimmer
       - 20
       - 1☼
-      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 3 bits' worth of the respective metal: (REWARDS TBD)
+      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 5 bits' worth of the respective metal: lead, copper, bronze, iron, brass, or steel.
       - \-
     * - Metal Bar
       - 1
@@ -96,7 +96,7 @@ For the sake of not overcomplicating one's inventory, all metals are measured in
       - TBD
       - precious metal
     * - Platinum
-      - 200☼
+      - 250☼
       - TBD
       - precious metal
 
