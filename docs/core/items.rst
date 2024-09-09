@@ -17,21 +17,93 @@ Value
 ==========
 Most items have a given *value*, designated by a ☼ symbol. This doesn't mean any currency in particular; rather, it signifies the bartering power of any given item. Many currencies might exist between differing cultures, often being useful items themselves.
 
-Rarity?
-==========
-TBD?
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 Currency & Materials
 ==========
-ababa stuff here
+
+Commodities
+----------
+
+.. list-table::
+    :widths: 12 5 5 50 12
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Item
+      - Max. Stack
+      - Value
+      - Description / Usage
+      - Tags
+    * - Glimmer
+      - 20
+      - 1☼
+      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 3 bits' worth of the respective metal: (REWARDS TBD)
+      - \-
+    * - Metal Bar
+      - 1
+      - Varies
+      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 25 bits of its respective metal. When used for crafting, any excess is reduced to bits, rounded down by value.
+      - metal
+
+Metals
+----------
+For the sake of not overcomplicating one's inventory, all metals are measured in *bits*, which may stack up to 20 as one Light item. They cannot mix; instead, glimmer can be made at a 1:1 bit ratio.
+
+.. list-table::
+    :widths: 12 5 50 12
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Metal
+      - Bit Value
+      - Description / Usage
+      - Tags
+    * - Lead
+      - 1☼
+      - A heavy, abundant, easily melted metal used for many mundane works.
+      - base metal
+    * - Copper
+      - 1☼
+      - Soft and very easy to work, copper is useful both on its own and for alloying.
+      - base metal
+    * - Bronze
+      - 2☼
+      - A heavy but reliable alloy of copper and tin.
+      - alloy metal
+    * - Iron
+      - 2☼
+      - A versatile metal, iron is is the usual choice for martial purposes like weapons and armor, but is also used in nearly anything else.
+      - base metal
+    * - Brass
+      - 3☼
+      - A lightweight and flexible alloy of copper and zinc, oft used for household items, construction, and magic.
+      - alloy metal
+    * - Steel
+      - 3☼
+      - A complex alloy of iron and carbon, such as from charcoal. Considered luxury for arms and armor, steel is sought after for its formidible protection and durability.
+      - alloy metal
+    * - Silver
+      - 10☼
+      - TBD
+      - precious metal
+    * - Electrum
+      - 25☼
+      - TBD
+      - precious metal
+    * - Gold
+      - 50☼
+      - TBD
+      - precious metal
+    * - Platinum
+      - 200☼
+      - TBD
+      - precious metal
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 Consumables
 ==========
-this is only a divider don't add shit here
 
 ------------------------------------------------------------------------------------------------------------------------------
 
