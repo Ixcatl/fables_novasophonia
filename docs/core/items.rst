@@ -15,12 +15,13 @@ A character's Belt is where they store items for quick access, determined by Met
 
 Value
 ==========
-Most items have a given *value*, designated by a ☼ symbol. This doesn't mean any currency in particular; rather, it signifies the bartering power of any given item. Many currencies might exist between differing cultures, often being useful items themselves.
+Most items have a given *value*, designated by a ☼ symbol. This doesn't mean any currency in particular; rather, it signifies the bartering power of any given item.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Currency & Materials
+Materials & Currency
 ==========
+No matter where a campaign may go, many different crafting materials permeate the worlds. Thanks to widespread appraisal magicks, minted tokens are not necessary in most storefronts - instead, metals and other commodities are bartered in their raw forms. Thus, **this ruleset does not use traditional RPG currency**; every copper, silver, or gold piece are items
 
 Commodities
 ----------
@@ -43,12 +44,12 @@ Commodities
     * - Metal Bar
       - 1
       - Varies
-      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 25 bits of its respective metal. When used for crafting, any excess is reduced to bits, rounded down by value.
+      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess is reduced to bits, rounded down by value.
       - metal
 
 Metals
 ----------
-For the sake of not overcomplicating one's inventory, all metals are measured in *bits*, which may mix and stack up to 20 as one Light item. At a baseline, they do not have any mechanical differences, but higher value metals are easier to carry for trade and crafting.
+For the sake of not overcomplicating one's inventory, all metals are measured in *bits*, which may mix and stack up to 10 as one Light item. At a baseline, they do not have any mechanical differences, but higher value metals are easier to carry for trade and crafting.
 
 .. list-table::
     :widths: 12 5 50 12
@@ -129,3 +130,30 @@ Poisons
 
 Traps
 ==========
+
+Collectibles
+==========
+
+.. list-table::
+    :widths: 12 50 5
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Collectible
+      - Effects
+      - Value
+    * - ?
+      - ?☼
+      - tbd
+    * - ?
+      - ?☼
+      - tbd
+    * - ?
+      - ?☼
+      - tbd
+    * - Astrahest
+      - ?☼
+      - Brittle and impossibly light, astrahest is a pseudo-mineral forming where leylines make a perfect intersection. When snapped apart, astrahest resonates loudly with the creature, granting it +1 Attunement point and vanishing. ATo pluck it from the source without immediately consuming it, the creature must make a Grace check with 3 successes.
+    * - Alkahest
+      - ?☼
+      - tbd
