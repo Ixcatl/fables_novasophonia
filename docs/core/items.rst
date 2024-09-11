@@ -116,30 +116,72 @@ Consumables
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Supplies
+==========
+
+.. list-table::
+    :widths: 12 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Item
+      - Bulk
+      - Value
+      - Description / Effects
+    * - Torch
+      - Light
+      - 10☼
+      - A crude light source. Can be lit to cast light in a range of 4, burning out at the end of the scene. Usable as an improvised weapon with 1 base Blunt damage, dealing +1 flat :term:`heat damage <damage type: heat>` if lit.
+    * - Medicine
+      - Light
+      - 15☼
+      - Salves, bandages, or other basic healing supplies. When applied during a rest, medicine recovers 1 additional Vitality that rest, counted as natural healing.
+    * - Treated Medicine
+      - Light
+      - 30☼
+      - A small box of useful and potent curatives. When applied during a rest, treated medicine recovers 2 additional Vitality that rest, counted as natural healing.
+    * - Tonic
+      - Light
+      - 30☼
+      - A bitter invigorating potion. Can be drank at any time to restore up to 2 Mettle damage.
+    * - Armor Patch
+      - Light
+      - 10☼
+      - Restores 1 Durability to armor. Only usable outside of combat.
+    * - Armor Kit
+      - Light
+      - 20☼
+      - Restores 2 Durability to armor. Only usable outside of combat.
+    * - Repair Powder
+      - Light
+      - 30☼
+      - An alchemical powder able to swiftly mend most things. Can be applied to a piece of equipment at any time for 1 Stamina, restoring 2 Durability or deterioration.
+
 Food
-==========
-
-Potions & Alcohol
-==========
-
-Flasks
-==========
-
-Poisons
 ==========
 
 Traps
 ==========
 
+Flasks
+==========
+
+Potions & Alcohol
+==========
+
+Poisons
+==========
+
 Collectibles
 ==========
+Items that grant permanent boosts when consumed. Collectibles work great as treasure for inquisitive players due to how generally useful they are; it's recommended that any good campaign have at least a few of these tucked into dark corners.
 
 .. list-table::
     :widths: 12 50 5
     :header-rows: 1
     :stub-columns: 1
 
-    * - Collectible
+    * - Item
       - Effects
       - Value
     * - ?
@@ -148,12 +190,12 @@ Collectibles
     * - ?
       - ?☼
       - tbd
-    * - ?
+    * - Conduit Berry
       - ?☼
-      - tbd
+      - A small opalescent berry, borne from a slender white ivy which fruits only once in its long life. Eating this fruit bolsters the soul; consuming three conduit berries increases maximum Anima by 1.
     * - Astrahest
       - ?☼
-      - Brittle and impossibly light, astrahest is a pseudo-mineral forming where leylines make a perfect intersection. When snapped apart, astrahest resonates loudly with the creature, granting it +1 Attunement point and vanishing. ATo pluck it from the source without immediately consuming it, the creature must make a Grace check with 3 successes.
+      - Brittle and impossibly light, astrahest is a pseudo-mineral forming where leylines make a perfect intersection. When snapped apart, astrahest resonates loudly with the creature, granting it +1 Attunement point and vanishing. To pluck it from the source without immediately consuming it, the creature must make a Grace check with 3 successes.
     * - Alkahest
       - ?☼
-      - tbd
+      - An alchemically powdered form of astrahest.
