@@ -177,7 +177,7 @@ Collectibles
 Items that grant permanent boosts when consumed. Collectibles work great as treasure for inquisitive players due to how generally useful they are; it's recommended that any good campaign have at least a few of these tucked into dark corners.
 
 .. list-table::
-    :widths: 12 50 5
+    :widths: 12 5 50
     :header-rows: 1
     :stub-columns: 1
 
