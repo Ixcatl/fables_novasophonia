@@ -182,8 +182,8 @@ Items that grant permanent boosts when consumed. Collectibles work great as trea
     :stub-columns: 1
 
     * - Item
-      - Effects
       - Value
+      - Effects
     * - ?
       - ?☼
       - tbd
