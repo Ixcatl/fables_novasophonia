@@ -195,7 +195,7 @@ Items that grant permanent boosts when consumed. Collectibles work great as trea
       - A small opalescent berry, borne from a slender white ivy which fruits only once in its long life. Eating this fruit bolsters the soul; consuming three conduit berries increases maximum Anima by 1.
     * - Astrahest
       - ?☼
-      - Brittle and impossibly light, astrahest is a pseudo-mineral forming where leylines make a perfect intersection. When snapped apart, astrahest resonates loudly with the creature, granting it +1 Attunement point and vanishing. To pluck it from the source without immediately consuming it, the creature must make a Grace check with 3 successes.
+      - Brittle and impossibly light, astrahest is a pseudo-mineral forming where leylines make a perfect intersection. When snapped apart, astrahest resonates loudly with the creature, granting them +1 Attunement point and vanishing. To pluck it from the source without immediately consuming it, they must make a Grace check with 3 successes.
     * - Alkahest
       - ?☼
       - An alchemically powdered form of astrahest.
