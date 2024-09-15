@@ -19,7 +19,7 @@ Most items have a given *value*, designated by a ☼ symbol. This doesn't mean a
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Materials & Currency
+Currency & Materials
 ==========
 No matter where a campaign may go, many different crafting materials permeate the worlds. Thanks to widespread appraisal magicks, minted tokens are not necessary in most storefronts - instead, metals and other commodities are bartered in their raw forms. Thus, **this ruleset does not use traditional RPG currency**; every item you can pick up is a potential trading piece to someone, somewhere.
 
@@ -71,19 +71,19 @@ For the sake of not overcomplicating one's inventory, all metals are measured in
     * - Silver
       - 10☼
       - TBD
-      - precious metal
+      - base metal, precious metal
     * - Electrum
       - 25☼
       - TBD
-      - precious metal, alloy metal
+      - alloy metal, precious metal
     * - Gold
       - 50☼
-      - The classic symbol of wealth. 
-      - precious metal
+      - The classic symbol of wealth. Gold's rarity makes it valuable on its own, but its vibrant color and lustre have been the source of many wars.
+      - base metal, precious metal
     * - Platinum
       - 250☼
       - Incredibly rare, immaculate when polished and hard to tarnish, platinum is usually only found in the paws of very wealthy traders or nobles.
-      - precious metal
+      - base metal, precious metal
 
 Commodities
 ----------
@@ -102,13 +102,23 @@ Items which have niche value, but are considered valuable nonetheless. All commo
     * - Glimmer
       - 10
       - 1☼
-      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 4 bits' worth of the respective metal: lead, tin, copper, iron, bronze, or brass.
+      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 5 bits' worth of the respective metal: lead, tin, copper, iron, bronze, or brass.
       - \-
     * - Metal Bar
       - 1
       - Varies
-      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess is reduced to bits, rounded down by value.
+      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess is refunded as bits, rounded down by value.
       - metal
+    * - Wooden Bits
+      - 10
+      - 2/1☼
+      - A handful of wood for crafts or burning.
+      - wood
+    * - Chunk of Wood
+      - 1
+      - 10☼
+      - Refined or not, a piece of this size would burn nicely, or it could be whittled into something much more useful. When used for crafting, any excess value is refunded as wooden bits, at 2 bits per 1☼.
+      - wood
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -144,7 +154,7 @@ Supplies
     * - Tonic
       - Light
       - 30☼
-      - A bitter invigorating potion. Can be quaffed at any time to restore up to 2 Mettle damage.
+      - A bitter invigorating potion. Can be drank at any time to restore up to 2 attribute damage.
     * - Armor Patch
       - Light
       - 10☼
