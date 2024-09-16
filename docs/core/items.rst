@@ -112,13 +112,23 @@ Items which have niche value, but are considered valuable nonetheless. All commo
     * - Wooden Bits
       - 10
       - 2/1☼
-      - A handful of wood for crafts or burning.
+      - A handful of wood for crafts or fuel.
       - wood
-    * - Chunk of Wood
+    * - Wooden Chunk
       - 1
       - 10☼
       - Refined or not, a piece of this size would burn nicely, or it could be whittled into something much more useful. When used for crafting, any excess value is refunded as wooden bits, at 2 bits per 1☼.
       - wood
+    * - Paper
+      - 5
+      - 1☼
+      - A thin, ordinary sheet of paper.
+      - \-
+    * - Ink Vial
+      - 1
+      - 10☼
+      - Ink used for writing.
+      - \-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -210,3 +220,22 @@ Items that grant permanent boosts when consumed. Collectibles work great as trea
     * - Alkahest
       - ?☼
       - An alchemically powdered form of astrahest.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Useful Items
+==========
+
+.. list-table::
+    :widths: 12 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Item
+      - Bulk
+      - Value
+      - Description / Effects
+    * - Torch
+      - Light
+      - 10☼
+      - A crude light source. When lit, it casts light in a range of 4, burning out at the end of the scene. Usable as an improvised weapon with 1 base Blunt damage, dealing +1 flat :term:`heat damage <damage type: heat>` if lit.
