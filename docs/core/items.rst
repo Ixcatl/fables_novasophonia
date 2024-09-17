@@ -23,19 +23,23 @@ Currency & Materials
 ==========
 No matter where a campaign may go, many different crafting materials permeate the worlds. Thanks to widespread appraisal magicks, minted tokens are not necessary in most storefronts - instead, metals and other commodities are bartered in their raw forms. Thus, **this ruleset does not use traditional RPG currency**; every item you can pick up is a potential trading piece to someone, somewhere.
 
-Metal Bits
+Bits
 ----------
-For the sake of not overcomplicating one's inventory, all metals are measured in *bits*, which may mix and stack up to 10 as one Light item. At a baseline, they do not have any mechanical differences, but higher value metals are easier to carry for trade and crafting.
+For the sake of not overcomplicating one's inventory, all common materials are measured in *bits*, which may mix and stack up to 10 as one Light item. At a baseline, they do not have any mechanical differences beyond their item tags, but higher value bits are easier to carry for trade and crafting.
 
 .. list-table::
     :widths: 12 5 50 12
     :header-rows: 1
     :stub-columns: 1
 
-    * - Metal
+    * - Material
       - Bit Value
       - Description / Usage
       - Tags
+    * - Wood
+      - 2/1☼
+      - Plain old wood. Very common in most temperate, terrestrial areas.
+      - wood
     * - Lead
       - 1☼
       - A heavy, abundant, easily melted metal used for many mundane works.
@@ -78,7 +82,7 @@ For the sake of not overcomplicating one's inventory, all metals are measured in
       - alloy metal, precious metal
     * - Gold
       - 50☼
-      - The classic symbol of wealth. Gold's rarity makes it valuable on its own, but its vibrant color and lustre have been the source of many wars.
+      - The classic symbol of wealth. Gold's rarity makes it valuable on its own, but its vibrant color and lustre have made it the source of many wars.
       - base metal, precious metal
     * - Platinum
       - 250☼
@@ -87,7 +91,7 @@ For the sake of not overcomplicating one's inventory, all metals are measured in
 
 Commodities
 ----------
-Items which have niche value, but are considered valuable nonetheless. All commodities can stack up to a specified limit in the space of one Light item, and cannot mix.
+Items which are frequently used for trade. All commodities can stack up to a specified limit in the space of one Light item, and cannot mix.
 
 .. list-table::
     :widths: 12 5 5 50 12
@@ -107,18 +111,27 @@ Items which have niche value, but are considered valuable nonetheless. All commo
     * - Metal Bar
       - 1
       - Varies
-      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess is refunded as bits, rounded down by value.
+      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess     is refunded as bits, rounded down by value.
       - metal
-    * - Wooden Bits
-      - 10
-      - 2/1☼
-      - A handful of wood for crafts or fuel.
-      - wood
-    * - Wooden Chunk
+    * - Chunk of Wood
       - 1
       - 10☼
-      - Refined or not, a piece of this size would burn nicely, or it could be whittled into something much more useful. When used for crafting, any excess value is refunded as wooden bits, at 2 bits per 1☼.
+      - Refined or not, a piece of this stature could be whittled into something much more useful. When used for crafting, any excess value is refunded as wood bits, at 2 bits per 1☼.
       - wood
+
+Other Materials
+----------
+
+.. list-table::
+    :widths: 12 5 5 50 12
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Item
+      - Max. Stack
+      - Value
+      - Description / Usage
+      - Tags
     * - Paper
       - 5
       - 1☼
@@ -152,7 +165,7 @@ Supplies
     * - Torch
       - Light
       - 10☼
-      - A crude light source. When lit, it casts light in a range of 4, burning out at the end of the scene. Usable as an improvised weapon with 1 base Blunt damage, dealing +1 flat :term:`heat damage <damage type: heat>` if lit.
+      - A crude light source. When lit, it casts light in a range of 4 and cannot be put away, burning out at the end of the scene. Usable as an improvised weapon with 1 base Blunt damage, dealing +1 flat :term:`heat damage <damage type: heat>` if lit.
     * - Medicine
       - Light
       - 15☼
@@ -181,6 +194,9 @@ Supplies
 Food
 ==========
 
+
+----------
+
 Traps
 ==========
 
@@ -195,7 +211,7 @@ Poisons
 
 Collectibles
 ==========
-Items that grant permanent boosts when consumed. Collectibles work great as treasure for inquisitive players due to how generally useful they are; it's recommended that any good campaign have at least a few of these tucked into dark corners.
+Items that grant permanent boosts when consumed. Collectibles work great as treasure for inquisitive characters due to how universally useful they are; it's recommended to have at least a few of these tucked into dark corners.
 
 .. list-table::
     :widths: 12 5 50
@@ -235,7 +251,47 @@ Useful Items
       - Bulk
       - Value
       - Description / Effects
-    * - Torch
+    * - Pouch
       - Light
-      - 10☼
-      - A crude light source. When lit, it casts light in a range of 4, burning out at the end of the scene. Usable as an improvised weapon with 1 base Blunt damage, dealing +1 flat :term:`heat damage <damage type: heat>` if lit.
+      - 30☼
+      - A standard pouch may hold up 3 non-container Light items, which do not count against the Load of the creature carrying it. Contained items that could be damaged by environmental hazards aren't harmed unless the pouch is destroyed first. If on the Belt, items within may be accessed as if they were on the Belt as well.
+    * - Sheath
+      - Light
+      - 30☼
+      - A specialized carrying sling, scabbard, or bag meant for a certain type of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1; any additional Bulk is counted against Load as normal. If on the Belt, the item within may be accessed as if it were on the Belt as well. If designed for an item that casts light, it still provides light.
+    * - Rope, 1 square
+      - Light
+      - 1☼
+      - A length of durable rope, useful for climbing or hauling. For these purposes, it has a Load cap of 5, and breaks if it exceeds its Load.
+    * - Chain, 1 square
+      - Light
+      - 5☼
+      - Handy in situations where regular rope wouldn't make the cut. For climbing or hauling, it has a Load cap of 10, and breaks if it exceeds its Load.
+    * - Fuse, 1 square
+      - Light
+      - 5☼
+      - A bit of normal rope treated in a special flammable solution. When lit, it rapidly burns away and ignites whatever it is attached to; a flask bursts instead, applying its effect to its viscinity.
+    * - Hand Pump
+      - Light
+      - 50☼
+      - A portable contraption used to pump fluids into a container, or to expel them in a spray. When used to eject a flask, its contents affect a Line(2) AoE instead of being thrown. Terrain+ flasks affect a Cone(3) instead.
+    * - Luminous Plant
+      - Light
+      - 5☼
+      - Glowing moss, flowers, bulbs or likewise pulled from the environment. Passively lights a radius of 1 square from its bearer, or can be taken in a free hand to increase the radius to 2.
+    * - Flash
+      - Light
+      - 25☼
+      - A handy lamp using impetus gas to make light. It passively lights a radius of 3 squares from its bearer, or can be taken in a free hand to increase the radius to 5. Flashes are fragile and break if dropped or damaged, releasing the impetus like a flask.
+    * - Lantern
+      - 1
+      - 50☼
+      - A reliable source of light. A lantern must be fueled with a specific flask fluid, chosen when it is made; when lit for the first time during a scene, it functions until the end of the scene. When turned on, it lights a radius of 4 squares from its bearer, or can be taken in a free hand to increase the radius to 6. Lanterns requiring rarer fluids may last more than one scene when filled.
+    * - Soul Catcher
+      - Light
+      - 100☼
+      - A special crystal embedded into an enchanted frame, this dubious device is charged by extracting Anima from dead creatures, storing it to be called upon later. An empty soul catcher can be filled by waving it over a fresh corpse. It contains 1 Anima when filled, which may be drawn out as a focus action.
+    * - Oil Snail
+      - Light
+      - 50☼
+      - A small and lazy breed of snail which naturally produces an oily substance. Every rest, the snail produces enough oil to fill one flask. While carried on the Belt, oil coating its bearer does not wear off naturally.
