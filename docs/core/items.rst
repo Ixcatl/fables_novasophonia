@@ -88,10 +88,26 @@ For the sake of not overcomplicating one's inventory, all common materials are m
       - 250☼
       - Incredibly rare, immaculate when polished and hard to tarnish, platinum is usually only found in the paws of very wealthy traders or nobles.
       - base metal, precious metal
+    * - Titanite
+      - 100☼
+      - A unique metallic alloy none can reproduce, titanite is considered a lucrative upgrade to steel, improving upon it in almost every way. The knowledge of forging this metal died with the ancients.
+      - exotic metal
+    * - Mythril
+      - 200☼
+      - Found only in pockets buried beneath Arcadia. A silvery-blue liquid in its native state, mythril congeals into a metallic form in response to powerful magic or enchantments. The resulting metal is notoriously durable and light to the touch.
+      - exotic metal
+    * - Adamantine
+      - 300☼
+      - A gleaming blue fibrous ore found in the depths of the twin Hells. Sharp, strong and notably lightweight, storied adamantine is often sought after by naïve planewalkers, oblivious to its native peril.
+      - exotic metal
+    * - Starmetal
+      - 400☼
+      - Fragments of iridescent ore believed to have fallen from the Space-'twixt-the-Sun. Tempered through unknowable cosmological means, starmetal can bolster equipment with untold strength. Little more is known about it due to its scarcity.
+      - exotic metal
 
 Commodities
 ----------
-Items which are frequently used for trade. All commodities can stack up to a specified limit in the space of one Light item, and cannot mix.
+Items which are frequently used for trade. All commodities can stack up to a specified limit in the space of one Light item, and unlike bits they cannot mix.
 
 .. list-table::
     :widths: 12 5 5 50 12
@@ -108,19 +124,20 @@ Items which are frequently used for trade. All commodities can stack up to a spe
       - 1☼
       - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 5 bits' worth of the respective metal: lead, tin, copper, iron, bronze, or brass.
       - \-
-    * - Metal Bar
+    * - Metal Ingot
       - 1
       - Varies
-      - A standard, heavy, ready-to-use metal ingot. One bar has the same value as 15 bits of its respective metal. When used for crafting, any excess     is refunded as bits, rounded down by value.
+      - A standard, heavy, ready-to-use metal bar. One ingot has the same value as 15 bits of its respective metal, or 10 bits for exotic metals. When used for crafting, any excess is refunded as bits, rounded down by value as usual.
       - metal
     * - Chunk of Wood
       - 1
       - 10☼
-      - Refined or not, a piece of this stature could be whittled into something much more useful. When used for crafting, any excess value is refunded as wood bits, at 2 bits per 1☼.
+      - Refined or not, a piece of this quality could be whittled into something much more useful. When used for crafting, any excess value is refunded as wood bits, at 2 bits per 1☼.
       - wood
 
-Other Materials
+Sundries
 ----------
+Items usually not important enough to mention elsewhere, but could still be necessary for crafting or roleplay. Included to give GMs an appropriate pricing point for shops.
 
 .. list-table::
     :widths: 12 5 5 50 12
@@ -137,10 +154,10 @@ Other Materials
       - 1☼
       - A thin, ordinary sheet of paper.
       - \-
-    * - Ink Vial
+    * - Vial of Ink
       - 1
       - 10☼
-      - Ink used for writing.
+      - Common ink used for printing or writing.
       - \-
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -258,7 +275,7 @@ Useful Items
     * - Sheath
       - Light
       - 30☼
-      - A specialized carrying sling, scabbard, or bag meant for a certain type of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1; any additional Bulk is counted against Load as normal. If on the Belt, the item within may be accessed as if it were on the Belt as well. If designed for an item that casts light, it still provides light.
+      - A specialized carrying sling, scabbard, bag or harness meant for a specific piece of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1; any additional Bulk is counted against Load as normal.  Similarly to a pouch, the contained item is not affected by its environment unless the sheath is destroyed first. Additionally, if designed for an item that casts light, it still provides light. If on the Belt, the item within may be accessed as if it were on the Belt as well.
     * - Rope, 1 square
       - Light
       - 1☼
@@ -278,7 +295,7 @@ Useful Items
     * - Luminous Plant
       - Light
       - 5☼
-      - Glowing moss, flowers, bulbs or likewise pulled from the environment. Passively lights a radius of 1 square from its bearer, or can be taken in a free hand to increase the radius to 2.
+      - Glowing moss, flowers, bulbs or likewise pulled from the environment. Passively lights a radius of 1 square from its bearer, or can be taken in a free hand to increase the radius to 2. This light fades to nothing after the next rest.
     * - Flash
       - Light
       - 25☼
