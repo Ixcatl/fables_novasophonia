@@ -90,15 +90,15 @@ For the sake of not overcomplicating one's inventory, all common materials are m
       - base metal, precious metal
     * - Titanite
       - 100☼
-      - A unique metallic alloy none can reproduce, titanite is considered a lucrative upgrade to steel, improving upon it in almost every way. The knowledge of forging this metal died with the ancients.
+      - The ancients' alloy, titanite is a lucrative upgrade to steel, improving upon it in almost every way. Its irreplacable nature makes it a prized commodity.
       - exotic metal
     * - Mythril
       - 200☼
-      - Found only in pockets buried beneath Arcadia. A silvery-blue liquid in its native state, mythril congeals into a metallic form in response to powerful magic or enchantments. The resulting metal is notoriously durable and light to the touch.
+      - A well-kept secret of Arcadian mages. By breathing painstaking enchantments into quicksilver, the fluid hardens into a dull blue form. The resulting mythril is notoriously durable and light to the touch.
       - exotic metal
     * - Adamantine
       - 300☼
-      - A gleaming blue fibrous ore found in the depths of the twin Hells. Sharp, strong and notably lightweight, storied adamantine is often sought after by naïve planewalkers, oblivious to its native peril.
+      - A gleaming azure and fibrous ore found in the depths of the twin Hells. Sharp, strong and notably lightweight, adamantine is sought after by overzealous planewalkers, oblivious to its native peril.
       - exotic metal
     * - Starmetal
       - 400☼
