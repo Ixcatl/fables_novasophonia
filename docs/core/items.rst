@@ -126,7 +126,7 @@ For the sake of not overcomplicating one's inventory, all common materials are m
               - exotic metal
             * - Adamantine
               - 300☼
-              - A black mineral that glitters red in direct light, strange and fibrous to the touch. Sharp, strong and lightweight, adamantine is reputably sought after by overzealous planewalkers, oblivious to its native peril in the twin Hells.
+              - A black mineral that glitters an eerie magenta in direct light, fibrous to the touch. Sharp, strong and lightweight, adamantine is idealized by overzealous planewalkers, oblivious to its native peril in the twin Hells.
               - exotic metal
             * - Starmetal
               - 400☼
