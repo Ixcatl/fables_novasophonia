@@ -27,83 +27,111 @@ Bits
 ----------
 For the sake of not overcomplicating one's inventory, all common materials are measured in *bits*, which may mix and stack up to 10 as one Light item. At a baseline, they do not have any mechanical differences beyond their item tags, but higher value bits are easier to carry for trade and crafting.
 
-.. list-table::
-    :widths: 12 5 50 12
-    :header-rows: 1
-    :stub-columns: 1
+.. tab-set::
 
-    * - Material
-      - Bit Value
-      - Description / Usage
-      - Tags
-    * - Wood
-      - 2/1☼
-      - Plain old wood. Very common in most temperate, terrestrial areas.
-      - wood
-    * - Lead
-      - 1☼
-      - A heavy, abundant, easily melted metal used for many mundane works.
-      - base metal
-    * - Tin
-      - 1☼
-      - Sometimes used for very cheap items, but is primarily alloyed into other metals.
-      - base metal
-    * - Copper
-      - 1☼
-      - Soft and very easy to work, useful both on its own and for alloying.
-      - base metal
-    * - Zinc
-      - 2☼
-      - A somewhat uncommon and niche metal. Almost exclusively sold for alloying and alchemy.
-      - base metal
-    * - Bronze
-      - 2☼
-      - A heavy but reliable alloy of copper and tin.
-      - alloy metal
-    * - Iron
-      - 2☼
-      - A versatile metal, iron is the usual choice for weapons and armor, but is also used in nearly anything else.
-      - base metal
-    * - Brass
-      - 3☼
-      - A lightweight and flexible alloy of copper and zinc, oft used for household items, construction, and magic.
-      - alloy metal
-    * - Steel
-      - 4☼
-      - A complex alloy of iron and carbon, such as from charcoal. Steel is sought after for its formidible protection and durability, considered luxury for tools, arms, and armor.
-      - alloy metal
-    * - Silver
-      - 10☼
-      - TBD
-      - base metal, precious metal
-    * - Electrum
-      - 25☼
-      - TBD
-      - alloy metal, precious metal
-    * - Gold
-      - 50☼
-      - The classic symbol of wealth. Gold's rarity makes it valuable on its own, but its vibrant color and lustre have made it the source of many wars.
-      - base metal, precious metal
-    * - Platinum
-      - 250☼
-      - Incredibly rare, immaculate when polished and hard to tarnish, platinum is usually only found in the paws of very wealthy traders or nobles.
-      - base metal, precious metal
-    * - Titanite
-      - 100☼
-      - The ancients' alloy, titanite is a lucrative upgrade to steel, improving upon it in almost every way. Its irreplacable nature makes it a prized commodity.
-      - exotic metal
-    * - Mythril
-      - 200☼
-      - A well-kept secret of Arcadian mages. By breathing painstaking enchantments into quicksilver, the fluid hardens into a dull blue form. The resulting mythril is notoriously durable and light to the touch.
-      - exotic metal
-    * - Adamantine
-      - 300☼
-      - A gleaming azure and fibrous ore found in the depths of the twin Hells. Sharp, strong and notably lightweight, adamantine is sought after by overzealous planewalkers, oblivious to its native peril.
-      - exotic metal
-    * - Starmetal
-      - 400☼
-      - Fragments of iridescent ore believed to have fallen from the Space-'twixt-the-Sun. Tempered through unknowable cosmological means, starmetal can bolster equipment with untold strength. Little more is known about it due to its scarcity.
-      - exotic metal
+    .. tab-item:: Basic
+
+        .. list-table::
+            :widths: 12 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Material
+              - Bit Value
+              - Description / Usage
+              - Tags
+            * - Wood
+              - 2/1☼
+              - Plain old wood. Very common in most temperate, terrestrial areas.
+              - wood
+            * - Lead
+              - 1☼
+              - A heavy, abundant, easily melted metal used for many mundane works.
+              - base metal
+            * - Tin
+              - 1☼
+              - Sometimes used for very cheap items, but is primarily alloyed into other metals.
+              - base metal
+            * - Copper
+              - 1☼
+              - Soft and very easy to work, useful both on its own and for alloying.
+              - base metal
+            * - Zinc
+              - 2☼
+              - A somewhat uncommon and niche metal. Almost exclusively sold for alloying and alchemy.
+              - base metal
+            * - Bronze
+              - 2☼
+              - A heavy but reliable alloy of copper and tin.
+              - alloy metal
+            * - Iron
+              - 2☼
+              - A versatile metal, iron is the usual choice for weapons and armor, but is also used in nearly anything else.
+              - base metal
+            * - Brass
+              - 3☼
+              - A lightweight and flexible alloy of copper and zinc, oft used for household items, construction, and magic.
+              - alloy metal
+            * - Steel
+              - 4☼
+              - A complex alloy of iron and carbon, such as from charcoal. Steel is sought after for its formidible protection and durability, considered luxury for tools, arms, and armor.
+              - alloy metal
+
+    .. tab-item:: Precious
+
+        .. list-table::
+            :widths: 12 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Material
+              - Bit Value
+              - Description / Usage
+              - Tags
+            * - Silver
+              - 10☼
+              - TBD
+              - base metal, precious metal
+            * - Electrum
+              - 25☼
+              - TBD
+              - alloy metal, precious metal
+            * - Gold
+              - 50☼
+              - The classic symbol of wealth. Gold's rarity makes it valuable on its own, but its vibrant color and lustre have made it the source of many wars.
+              - base metal, precious metal
+            * - Platinum
+              - 250☼
+              - Incredibly rare, immaculate when polished and hard to tarnish, platinum is usually only found in the paws of very wealthy traders or nobles.
+              - base metal, precious metal
+
+    .. tab-item:: Exotic (upgrades)
+
+        .. list-table::
+            :widths: 12 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Material
+              - Bit Value
+              - Description / Usage
+              - Tags
+            * - Titanite
+              - 100☼
+              - The ancients' alloy, titanite is a lucrative upgrade to steel, improving upon it in almost every way. Its irreplacable nature makes it a prized commodity.
+              - exotic metal
+            * - Mythril
+              - 200☼
+              - A well-kept secret of Arcadian mages. By breathing painstaking enchantments into quicksilver, the fluid hardens into a dull blue form. The resulting mythril is notoriously durable and light as a feather.
+              - exotic metal
+            * - Adamantine
+              - 300☼
+              - A black mineral that glitters red in direct light, strange and fibrous to the touch. Sharp, strong and lightweight, adamantine is reputably sought after by overzealous planewalkers, oblivious to its native peril in the twin Hells.
+              - exotic metal
+            * - Starmetal
+              - 400☼
+              - Fragments of iridescent ore believed to have fallen from the Space-'twixt-the-Sun. Tempered through unknowable cosmological means, starmetal can bolster equipment with untold strength. Little more is known about it due to its scarcity.
+              - exotic metal
 
 Commodities
 ----------
@@ -211,7 +239,7 @@ Supplies
 Food
 ==========
 
-
+agga
 ----------
 
 Traps
@@ -275,7 +303,7 @@ Useful Items
     * - Sheath
       - Light
       - 30☼
-      - A specialized carrying sling, scabbard, bag or harness meant for a specific piece of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1; any additional Bulk is counted against Load as normal.  Similarly to a pouch, the contained item is not affected by its environment unless the sheath is destroyed first. Additionally, if designed for an item that casts light, it still provides light. If on the Belt, the item within may be accessed as if it were on the Belt as well.
+      - A specialized carrying sling, scabbard, bag or harness meant for a specific piece of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1 if on the Belt; any additional Bulk is counted against Load as normal. Similarly to a pouch, the contained item is not affected by its environment unless the sheath is destroyed first, and can be accessed as if from the Belt. Additionally, if designed for an item that casts light, it still provides light.
     * - Rope, 1 square
       - Light
       - 1☼
