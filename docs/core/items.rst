@@ -350,19 +350,19 @@ Items that grant permanent boosts when consumed. Collectibles work great as trea
       - Value
       - Effects
     * - ?
-      - ?☼
+      - ??☼
       - tbd
     * - Sap of Gord
-      - ?☼
+      - ??☼
       - tbd
     * - Conduit Berry
-      - ?☼
+      - ??☼
       - A small opalescent berry, borne from a slender white ivy which fruits only once in its long life. Eating this fruit bolsters the soul; consuming three conduit berries increases maximum Anima by 1.
     * - Astrahest
-      - ?☼
+      - ??☼
       - Brittle and impossibly light, astrahest is a pseudo-crystal cropping up where leylines intersect. When snapped apart, astrahest resonates loudly with the creature, granting them +1 Attunement point and vanishing. To pluck it from the source without immediately consuming it, they must make a Grace check with 3 successes.
     * - Alkahest
-      - ?☼
+      - ??☼
       - An alchemically powdered form of astrahest.
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -382,11 +382,11 @@ Useful Items
     * - Pouch
       - Light
       - 30☼
-      - A standard pouch may hold up 3 non-container Light items, which do not count against the Load of the creature carrying it. Contained items that could be damaged by environmental hazards aren't harmed unless the pouch is destroyed first. If on the Belt, items within may be accessed as if they were on the Belt as well.
+      - A standard pouch may hold up 3 non-container Light items, which do not count against the Load of the creature carrying it. Contained items that could be damaged by environmental hazards aren't harmed unless the pouch is destroyed first. If on the Belt, items within may be accessed as if they were on the Belt as well. The pouch itself still counts against Load, even if stored in a backpack.
     * - Sheath
       - Light
       - 30☼
-      - A specialized carrying sling, scabbard, bag or harness meant for a specific piece of equipment, chosen when the sheath is made. A sheath can carry one item, reducing its effective Bulk by 1 if on the Belt; any additional Bulk is counted against Load as normal. Similarly to a pouch, the contained item is not affected by its environment unless the sheath is destroyed first, and can be accessed as if from the Belt. Additionally, if designed for an item that casts light, it still provides light.
+      - A specialized carrying sling, scabbard, bag or harness meant for a specific piece of equipment, chosen when the sheath is made. A sheath can carry one item, replacing its own Bulk with that of the item; if worn on the Belt, this Bulk is reduced by 1, to a minimum of Light. If designed for an item that casts light, it still provides light.
     * - Rope, 1 square
       - Light
       - 1☼
@@ -418,7 +418,7 @@ Useful Items
     * - Soul Catcher
       - Light
       - 100☼
-      - A special crystal embedded into an enchanted frame, this dubious device is charged by extracting Anima from dead creatures, storing it to be called upon later. An empty soul catcher can be filled by waving it over a fresh corpse. It contains 1 Anima when filled, which may be drawn out as a focus action.
+      - A special crystal embedded into an enchanted frame, this dubious device is charged by extracting Anima from dead creatures, storing it to be called upon later. An empty soul catcher can be filled by waving it over a fresh, formerly living corpse. It contains 1 Anima when filled, which may be drawn out as a focus action.
     * - Oil Snail
       - Light
       - 50☼
