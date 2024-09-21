@@ -105,7 +105,7 @@ For the sake of not overcomplicating one's inventory, all common materials are m
               - Incredibly rare, immaculate when polished and hard to tarnish, platinum is usually only found in the paws of very wealthy traders or nobles.
               - base metal, precious metal
 
-    .. tab-item:: Exotic (upgrades)
+    .. tab-item:: Exotic
 
         .. list-table::
             :widths: 12 5 50 12
