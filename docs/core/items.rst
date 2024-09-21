@@ -126,67 +126,84 @@ For the sake of not overcomplicating one's inventory, all common materials are m
               - exotic metal
             * - Adamantine
               - 300☼
-              - A black mineral that glitters an eerie magenta in direct light, fibrous to the touch. Sharp, strong and lightweight, adamantine is idealized by overzealous planewalkers, oblivious to its native peril in the twin Hells.
+              - A black mineral reflecting an eerie magenta in direct light, fibrous to the touch. Sharp, strong and lightweight, adamantine is idealized by overzealous planewalkers, oblivious to its native peril in the twin Hells.
               - exotic metal
             * - Starmetal
               - 400☼
-              - Fragments of iridescent ore believed to have fallen from the Space-'twixt-the-Sun. Tempered through unknowable cosmological means, starmetal can bolster equipment with untold strength. Little more is known about it due to its scarcity.
+              - Fragments of iridescent ore believed to have fallen from the Space-'twixt-the-Sun. Tempered through unknowable cosmological means, starmetal can bolster equipment with legendary strength. Little more is known about it due to its scarcity.
               - exotic metal
 
 Commodities
 ----------
-Items which are frequently used for trade. All commodities can stack up to a specified limit in the space of one Light item, and unlike bits they cannot mix.
+Items which are frequently and primarily used for trade or crafting. All commodities can stack up to a specified limit in the space of one Light item, and unlike bits they cannot mix.
 
-.. list-table::
-    :widths: 12 5 5 50 12
-    :header-rows: 1
-    :stub-columns: 1
+.. tab-set::
 
-    * - Item
-      - Max. Stack
-      - Value
-      - Description / Usage
-      - Tags
-    * - Glimmer
-      - 10
-      - 1☼
-      - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 5 bits' worth of the respective metal: lead, tin, copper, iron, bronze, or brass.
-      - \-
-    * - Metal Ingot
-      - 1
-      - Varies
-      - A standard, heavy, ready-to-use metal bar. One ingot has the same value as 15 bits of its respective metal, or 10 bits for exotic metals. When used for crafting, any excess is refunded as bits, rounded down by value as usual.
-      - metal
-    * - Chunk of Wood
-      - 1
-      - 10☼
-      - Refined or not, a piece of this quality could be whittled into something much more useful. When used for crafting, any excess value is refunded as wood bits, at 2 bits per 1☼.
-      - wood
+    .. tab-item:: Currency
 
-Sundries
-----------
-Items usually not important enough to mention elsewhere, but could still be necessary for crafting or roleplay. Included to give GMs an appropriate pricing point for shops.
+        .. list-table::
+            :widths: 12 5 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Item
+              - Max. Stack
+              - Value
+              - Description / Usage
+              - Tags
+            * - Glimmer
+              - 10
+              - 1☼
+              - A jumble of metallic shards and nuggets too impure for regular use, sometimes circulated as an *ad hoc* currency. Anytime during a rest, 10 units of glimmer can be spent to scavenge usable bits of metal. After doing so, roll a d6, which yields 5 bits' worth of the respective metal: lead, tin, copper, iron, bronze, or brass.
+              - \-
 
-.. list-table::
-    :widths: 12 5 5 50 12
-    :header-rows: 1
-    :stub-columns: 1
+    .. tab-item:: Materials
 
-    * - Item
-      - Max. Stack
-      - Value
-      - Description / Usage
-      - Tags
-    * - Paper
-      - 5
-      - 1☼
-      - A thin, ordinary sheet of paper.
-      - \-
-    * - Vial of Ink
-      - 1
-      - 10☼
-      - Common ink used for printing or writing.
-      - \-
+        .. list-table::
+            :widths: 12 5 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Item
+              - Max. Stack
+              - Value
+              - Description / Usage
+              - Tags
+            * - Metal Ingot
+              - 1
+              - Varies
+              - A standard, heavy, ready-to-use metal bar. One ingot has the same value as 15 bits of its respective metal, or 10 bits for exotic metals. When used for crafting, any excess is refunded as bits, rounded down by value as usual.
+              - metal
+            * - Chunk of Wood
+              - 1
+              - 10☼
+              - Refined or not, a piece of this quality could be whittled into something much more useful. When used for crafting, any excess value is refunded as wood bits, at 2 bits per 1☼.
+              - wood
+
+    .. tab-item:: Sundries
+
+        *Items usually not important enough to mention elsewhere, but could still be necessary for crafting or roleplay. Included to give GMs an appropriate pricing point for shops.*
+
+        .. list-table::
+            :widths: 12 5 5 50 12
+            :header-rows: 1
+            :stub-columns: 1
+        
+            * - Item
+              - Max. Stack
+              - Value
+              - Description / Usage
+              - Tags
+            * - Paper
+              - 5
+              - 1☼
+              - A thin, ordinary sheet of paper.
+              - \-
+            * - Vial of Ink
+              - 1
+              - 10☼
+              - Common ink used for printing or writing.
+              - \-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -238,9 +255,75 @@ Supplies
 
 Food
 ==========
+All food items listed are of Light Bulk.
 
-agga
+Eating & Spoilage
 ----------
+Eating any food item mid-combat costs 1 Stamina. Outside of combat, food may be shared between two or more characters, distributing its Belly restoration between them however they see fit.
+
+For each stack of food marked as *perishable*, every five rests, halve its Belly value (rounding up) and roll a d6. On a 1, it now causes 1 Poison, which stacks if left to spoil further.
+
+Butchery
+----------
+When butchering a creature for food, make an Insight check with any Butchery-related skill. Add the resulting successes to half the creature's Bulk rounded up, and convert that sum as Bulk to an appropriate type of raw food.
+
+Basic Food Items
+----------
+
+.. list-table::
+    :widths: 12 5 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Food
+      - Belly
+      - Value
+      - Effects
+    * - Raw Produce
+      - 5
+      - 2☼
+      - Perishable.
+    * - Raw Meat
+      - 10
+      - 5☼
+      - Perishable.
+    * - Raw Fungus
+      - 10
+      - 6☼
+      - Perishable.
+    * - Produce Ration
+      - 8
+      - 3☼
+      - \-
+    * - Meat Ration
+      - 15
+      - 10☼
+      - \-
+    * - Fungal Ration
+      - 10
+      - 10☼
+      - \-
+
+Special Food Items
+----------
+
+.. list-table::
+    :widths: 12 5 5 5 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Food
+      - Belly
+      - Value
+      - Effects
+    * - Honeycomb
+      - 20
+      - 50☼
+      - Grants 1 Zeal Stamina when eaten, which fades by the next rest.
+    * - Ambrosia
+      - All
+      - ??☼
+      - The fine dining of gods. Much like its creators, ambrosia can vary widely in form. It restores a creature as if they had a full rest, and completely fills Belly.
 
 Traps
 ==========
