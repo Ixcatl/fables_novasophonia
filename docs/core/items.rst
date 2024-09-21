@@ -271,7 +271,7 @@ Basic Food Items
 ----------
 
 .. list-table::
-    :widths: 12 5 5 5 50
+    :widths: 12 5 5 50
     :header-rows: 1
     :stub-columns: 1
 
@@ -308,7 +308,7 @@ Special Food Items
 ----------
 
 .. list-table::
-    :widths: 12 5 5 5 50
+    :widths: 12 5 5 50
     :header-rows: 1
     :stub-columns: 1
 
