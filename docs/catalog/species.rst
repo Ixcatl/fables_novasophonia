@@ -442,3 +442,51 @@ Chimera
 | Skulking chimera: ``TBD``
 
 **Traits:** TBD
+
+--------
+
+Lezhy
+------
+<blurb TBD>
+
+.. dropdown:: Details...
+
+    <TBD>
+
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
+
+    ::
+
+      Might:  4
+      Grace:  4
+      Mettle: 3
+      Insight:  3
+      
+      Vitality: 9
+
+  .. grid-item::
+
+    ::
+
+      Charm:  1
+      Fright: 4
+      
+      Speed:  7
+      Hunger: 20
+      Size: Large
+      Bulk: 7
+
+  .. grid-item::
+
+    ::
+
+    No bonus to Charm/Fright
+
+| **Races**
+| *None. Can still take a sub-race.*
+
+**Traits:** Fiendish Claws (mix of Sharp Claws and Pincers?), Weakness (heat), Wrath Instinct (flames) (Phobia causing Berserk instead of fleeing)
