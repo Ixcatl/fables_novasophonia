@@ -265,7 +265,7 @@ For each stack of food marked as *perishable*, every five rests, halve its Belly
 
 Butchery
 ----------
-When butchering a creature for food, make an Insight check with any Butchery-related skill. Add the resulting successes to half the creature's Bulk rounded up, and convert that sum as Bulk to an appropriate type of raw food.
+When butchering a creature for food, make an Insight check with any Butchery-related skill. Add the resulting successes to half the creature's Bulk rounded up, and convert that sum as Bulk to an appropriate type of raw food. The amount of food made is capped at the creature's original Bulk.
 
 Basic Food Items
 ----------
@@ -319,7 +319,7 @@ Special Food Items
     * - Honeycomb
       - 20
       - 50☼
-      - Grants 1 Zeal Stamina when eaten, which fades by the next rest.
+      - Grants 1 temporary Stamina when eaten, which fades by the next rest.
     * - Ambrosia
       - All
       - ??☼
