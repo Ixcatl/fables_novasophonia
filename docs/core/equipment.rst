@@ -821,7 +821,7 @@ List of Arcane Foci
          - 1h
          - Light
          - 100☼
-         - Magic cards cannot contain weapon arts, but can store an amount of spells equal to twice their Quality. Any stored spell is assigned to a face of a d6, and cannot be cast voluntarily; instead, as a standard spell action, magic cards may be used to draw a spell at random with a roll of a d6. The chosen spell may be modified/cast as normal, but must be cast in the same action or else be discarded at the price of 1 Anima. If the die lands on an empty face, it is rerolled until it lands on an unused spell; if no spells are left, the deck refreshes.
+         - Magic cards cannot contain weapon arts, but can store an amount of spells equal to twice their Quality. Any stored spell is assigned to a face on a d6, and cannot be cast voluntarily; instead, as a standard spell action, magic cards may be used to roll a d6 and draw the resulting spell. This spell may be modified/cast as normal, but must be cast in the same action or else be discarded at the price of 1 Anima; either choice temporarily unassigns the spell from the die. If the die lands on an empty/unassigned face, it is rerolled until it does not. If the last assigned spell is drawn, the cards are refreshed with all spells on their original faces.
 
 Focus Upgrades
 ----------
