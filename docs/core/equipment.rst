@@ -798,14 +798,6 @@ List of Arcane Foci
          - 1
          - 100☼
          - Can be adorned with ornaments aligned to a particular mystic path. This costs 100☼ of various materials and a camp action of work. Spells stored of the same *primary path* as its ornaments may be cast with 1 difficulty of modification for free. This can exceed the normal capacity of the staff and the maximum difficulty the wielder can cast at.
-       * - Grimoire
-         - \-
-         - \-
-         - \-
-         - 1h
-         - Light
-         - 150☼
-         - Can store 1 spell higher than its Quality. A grimoire cannot contain weapon arts. Its stored spells do not vanish when it is unattuned, and can be used by another who attunes to it; they still require any paths and prerequisites to cast a written spell.
        * - Globe
          - Thrown
          - 1 Blunt
@@ -814,6 +806,22 @@ List of Arcane Foci
          - Light
          - 100☼
          - TBD. some mental- or resistance-related effect?
+       * - Grimoire
+         - \-
+         - \-
+         - \-
+         - 1h
+         - Light
+         - 150☼
+         - A grimoire cannot contain weapon arts, but can store 1 spell higher than its Quality. Its stored spells do not vanish when it is unattuned, and can be used by another who attunes to it; they still require any paths and prerequisites to cast a written spell.
+       * - Magic Cards
+         - \-
+         - \-
+         - \-
+         - 1h
+         - Light
+         - 100☼
+         - Magic cards cannot contain weapon arts, but can store an amount of spells equal to twice their Quality. Any stored spell is assigned to a face of a d6, and cannot be cast voluntarily; instead, as a standard spell action, magic cards may be used to draw a spell at random with a roll of a d6. The chosen spell may be modified/cast as normal, but must be cast in the same action or else be discarded at the price of 1 Anima. If the die lands on an empty face, it is rerolled until it lands on an unused spell; if no spells are left, the deck refreshes.
 
 Focus Upgrades
 ----------
@@ -831,10 +839,10 @@ A GM may ask for more esoteric or unusual materials to be put towards an upgrade
       - Value
     * - Rarefied
       - +1
-      - 300☼
+      - 300☼ in combined payment and materials
     * - Exalted
       - +2
-      - 450☼
+      - 450☼ in combined payment and materials
 
 ------------------------------------------------------------------------------------------------------------------------------
 
