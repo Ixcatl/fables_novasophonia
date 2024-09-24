@@ -21,7 +21,7 @@ Flavor prefix: "Noble"
   .. tab-item:: Rank 1
 
     | **Guard Breaker**
-    | You strike more accurately while focusing on one opponent. Your melee or ranged attack rolls against the most recent enemy(s) you have successfully damaged gain +1 :term:`favor`.
+    | You strike more accurately while focusing on one opponent. Your weapon attack rolls against the most recent enemy(s) you have successfully damaged gain +1 :term:`favor`.
 
   .. tab-item:: Rank 2
 
@@ -31,7 +31,7 @@ Flavor prefix: "Noble"
   .. tab-item:: Rank 3
 
     | **Martial Master**
-    | You may perform an additional Weapon Art per turn.
+    | You may perform an additional weapon art per turn.
 
 --------
 
@@ -41,32 +41,24 @@ Flavor prefix: "Dashing"
 
 .. tab-set::
 
-    .. tab-item:: Rank 1
+  .. tab-item:: Rank 1
+      
+    | **Lancing Strikes**
+    | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Lance-type weapons are an exception to this limit.
+    | 
+    | **Sharp Lunge**
+    | You may accept a -1 die penalty on your attack roll for any melee or thrown attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
 
-       | **Lancing Strikes**
-       | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Lance-type weapons are an exception to this rule.
-       | 
-       | **Sharp Lunge**
-       | You may accept a -1 die penalty on your attack roll for any melee or thrown attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
+  .. tab-item:: Rank 2
 
-    .. tab-item:: Rank 2
+    | **Battle Rhythm**
+    | During combat, when you take a dash or jump action, move while dodging, or use an ability that moves yourself, you gain 1 stack of Momentum. After initiating an attack or dodge action with Stamina, you may dedicate stacks of Momentum as if they were additional Stamina.
+    | Momentum can be stored up to a maximum of your Cavalier rank, and stacks fade at the end of your next turn after they are gained.
 
-       | **Battle Rhythm**
-       | During combat, when the Cavalier takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Cavalier may dedicate Momentum as if it were additional Stamina.
-       | Momentum can be stored up to a maximum of the Cavalier's rank, and points fade at the end of the Cavalier's next turn after they are gained.
+  .. tab-item:: Rank 3
 
-    .. tab-item:: Rank 3
-
-       | **Untouchable**
-       | 6s the Cavalier rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
-
-Rank 2
-~~~~~~
-
-
-Rank 3
-~~~~~~
-
+    | **Untouchable**
+    | 6s you roll on dodge attempts count as two successes instead of one. When you move while dodging, you do not suffer a stack of Off-Balance.
 
 --------
 
@@ -87,23 +79,25 @@ Flavor prefix: "Ruthless"
 
     -- placeholder person
 
-Rank 1
-~~~~~~
-| **Power Attack**
-| Any time the Warrior dedicates at least 3 Stamina to an attack or Art, it deals an additional 1 point of base damage. This bonus is increased to 2 if the attack is made with a heavy weapon or club weapon. If performing an Art with an area of effect or multiple attacks, the Warrior must spend an additional 1 taxed Stamina to make it a Power Attack.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Second Wind**
-| Whenever the Warrior ends their turn with 0 Stamina, they regain 1 Stamina.
-| 
-| **Uproot**
-| The Warrior may attack empty squares at 1 Stamina cost, creating :term:`rough terrain`. Characters burrowed within the terrain take 2 damage and are forced to surface.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Law of Conservation**
-| The Warrior treats taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to the Warrior's next attack.
+    | **Power Attack**
+    | Any time you dedicate at least 3 Stamina to an attack or weapon art, it gains +1 base damage. This bonus is increased to +2 if the attack is made with a heavy weapon or club-type weapon. If performing an art with an area of effect or multiple attacks, you must spend an additional 1 taxed Stamina to make it a power attack.
+
+  .. tab-item:: Rank 2
+
+    | **Second Wind**
+    | Whenever you end your turn with 0 Stamina, you regain 1 Stamina.
+    | 
+    | **Uproot**
+    | You may attack empty squares with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 damage and are forced to surface.
+
+  .. tab-item:: Rank 3
+
+    | **Law of Conservation**
+    | You treat taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to your next attack.
 
 --------
 
@@ -111,49 +105,54 @@ Rogue (hook)
 ---------
 Flavor prefix: "Crooked"
 
-Rank 1
-~~~~~~
-| **Swift Strikes**
-| The Rogue may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons.
-| 
-| **Push and Pull**
-| When the Rogue succeeds and risks damage with an attack, they may choose to risk 1 less damage. If they do, they can move the struck target one square in any direction, or two if using a heavy weapon.
-| 
-| **Bag of Tricks**
-| The Rogue learns two trap blueprints of common or uncommon rarity.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Hair Trigger**
-| The Rogue may deploy traps at a range of 3. When they set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the character that triggered it, while ones which affect an area will originate from its original position.
-| The Rogue also learns a new common or uncommon trap blueprint.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Cheat to Win**
-| After successfully dealing damage to a target or affecting it with any kind of flask or trap, the Rogue may use dirty tactics to inflict a status effect which lowers any one of the target's primary Attributes by 1, or their Speed by 2. The status effect lasts until the beginning of the Rogue's next turn.
-| The Rogue also learns a new trap blueprint of any rarity.
+    | **Swift Strikes**
+    | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons.
+    | 
+    | **Push and Pull**
+    | When you successfully risk damage with an attack, you may choose to risk 1 less damage. If you do, you may move the struck target one square in any direction, or two if using a heavy weapon.
+    | 
+    | *You learn two trap blueprints of common or uncommon rarity.*
+
+  .. tab-item:: Rank 2
+
+    | **Hair Trigger**
+    | You may deploy traps at a range of 3. When you set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the creature that triggered it, while those with an area of effect will still originate from the trap itself.
+    | 
+    | *You learn another trap blueprint of common or uncommon rarity.*
+
+  .. tab-item:: Rank 3
+
+    | **Fighting Dirty**
+    | After successfully dealing damage to a target, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. The status effect lasts until the beginning of your next turn.
+    |
+    | *You learn another trap blueprint of any rarity.*
 
 --------
 
 Berserker (natural)
 -------
-Flavor prefix: "Frenzied"
+Flavor prefix: "Raging"
 
-Rank 1
-~~~~~~
-| **Frenzy**
-| After the Berserker makes an attack, and the target defends, they may choose to reroll a number of failures up to twice their Berserker rank. If they do, a d6 is rolled. If the result is less than the Predator's current Vitality, they suffer 2 :term:`true damage <damage type: true>`.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Burnout**
-| When making an attack, parrying, or dodging, the Predator may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Bloodlust**
-| Slaying an enemy restores 1 Vitality to the Predator. If the attack was made using a natural weapon, 2 Vitality is restored instead.
+    | **Onslaught**
+    | After you make an attack, and your target makes a defense roll, you may choose to reroll a number of failures up to twice your Berserker rank. If you do, roll a d6. If the result is less than your current Vitality, you suffer 2 :term:`true damage <damage type: true>`.
+
+  .. tab-item:: Rank 2
+
+    | **Burnout**
+    | When making an attack, parrying, or dodging, you may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
+
+  .. tab-item:: Rank 3
+
+    | **Bloodbath**
+    | Slaying an enemy restores 1 Vitality. If the attack was made using a natural weapon, 2 Vitality is restored instead.
 
 --------
 
@@ -220,7 +219,7 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Line Up** (wip)
-| At the end of their turn, the Arbalist may declare a target to focus their attention on. If both the target and Arbalist remain in their respective spaces by the beginning of the Arbalist's next turn, the Arbalist gains a +2 die bonus to their first attack, as long as it is against the focused target. This bonus stacks up to 3 times.
+| At the end of their turn, the Arbalist may declare a target to focus their attention on. If both the target and Arbalist remain in their respective squares by the beginning of the Arbalist's next turn, the Arbalist gains a +2 die bonus to their first attack, as long as it is against the focused target. This bonus stacks up to 3 times.
 
 Rank 3
 ~~~~~~
@@ -244,8 +243,8 @@ Rank 1
 Rank 2
 ~~~~~~
 | **Controlled Burst**
-| When the Alchemist throws a flask, they may increase its terrain effect radius by one, and targeted flasks may be applied as a 3x3 AoE. Flasks thrown may ignore a number of allies or spaces within their effect radius up to the Alchemist's rank.
-| Areas of effect from natural ranged weapons or hand pumps may also be increased by one, or by one cone size, and ignore a number of allies or spaces up to the Alchemist's Rank.
+| When the Alchemist throws a flask, they may increase its terrain effect radius by one, and targeted flasks may be applied as a 3x3 AoE. Flasks thrown may ignore a number of allies or squares within their effect radius up to the Alchemist's rank.
+| Areas of effect from natural ranged weapons or hand pumps may also be increased by one, or by one cone size, and ignore a number of allies or squares up to the Alchemist's Rank.
 | 
 | **Efficient Reagents**
 | When creating a Stash item, the Alchemist rolls a d6. On a success, 1 Stash is refunded from the item's cost. **(TO BE REDONE)**
