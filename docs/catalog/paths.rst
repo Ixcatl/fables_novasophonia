@@ -37,7 +37,7 @@ Flavor prefix: "Noble"
 
 Cavalier
 -------
-Flavor prefix: "Dashing"
+Flavor prefix: "Spry"
 
 .. tab-set::
 
@@ -62,7 +62,7 @@ Flavor prefix: "Dashing"
 
 --------
 
-Warrior (club)
+Warrior
 -------
 Flavor prefix: "Ruthless"
 
@@ -101,9 +101,9 @@ Flavor prefix: "Ruthless"
 
 --------
 
-Rogue (hook)
+Rogue
 ---------
-Flavor prefix: "Crooked"
+Flavor prefix: "Cunning"
 
 .. tab-set::
 
@@ -133,7 +133,7 @@ Flavor prefix: "Crooked"
 
 --------
 
-Berserker (natural)
+Berserker
 -------
 Flavor prefix: "Raging"
 
@@ -156,106 +156,117 @@ Flavor prefix: "Raging"
 
 --------
 
-Champion (armor)
+Champion
 ------
 Flavor prefix: "Stalwart"
 
-Rank 1
-~~~~~~
-| **Glancing Blows**
-| If an attack the Champion attempts to parry still risks damage after the attempt, their Soak dice have +1 :term:`favor`.
-| 
-| **Watchful Eye**
-| The first attack of opportunity a Champion makes each round costs no Stamina to initiate.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Withstand**
-| Whenever the Champion takes damage during a round, they gain an additional 1 Soak die against further damage. This effect stacks indefinitely and lasts until the start of the Champion's next turn.
-| 
-| **Force of Will**
-| When the Champion Focuses to heal, they may choose to restore durability to their worn armor in lieu of Vitality.
-| In addition, while taking any Focus action, the Champion increases their effective Mettle score by 2 until no longer Focusing.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Impassable**
-| Squares adjacent to the Champion count as :term:`rough terrain` against trespassers. Flying or Leaping enemies crossing over those squares are forced to land, though this does not end their turn.
-| 
-| **Martial Defense**
-| The Champion may use Normal Weapon Arts as attacks of opportunity or activate an Augmentation Art during an attack of opportunity, bypassing the Arts per turn limit.
+    | **Glancing Blows**
+    | If an attack you attempt to parry still risks damage after the attempt, you gain +1 :term:`favor` for your soak roll against it.
+    | 
+    | **Watchful Eye**
+    | The first attack of opportunity you make each round costs no Stamina to initiate.
+
+  .. tab-item:: Rank 2
+
+    | **Withstand**
+    | Whenever you take soakable damage during a round, you gain +1 bonus die when soaking further damage. This effect stacks indefinitely and lasts until the start of your next turn.
+    | 
+    | **Force of Will**
+    | When you take a focus action to heal, you may choose to restore Durability to your worn armor in lieu of Vitality.
+    | In addition, while taking any focus action, you increase your effective Mettle score by 2 until no longer focusing.
+
+  .. tab-item:: Rank 3
+
+    | **Impassable**
+    | Squares adjacent to you count as :term:`rough terrain` against trespassers. Flying or Leaping creatures crossing over these squares are forced to land, though this does not end their turn.
+    | 
+    | **Martial Defense**
+    | You may use normal weapon arts as attacks of opportunity or activate an augmentation art during an attack of opportunity, bypassing the arts per turn limit.
 
 --------
 
-Ranger (light ranged)
+Ranger
 ------
 Flavor prefix: "Deft"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Rebound**
-| Once per round, should the Ranger's ranged attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricochet attack inherits the same number of successes as the original. If the original target was adjacent to a wall, the ricochet may instead target it a second time. An attack cannot ricochet more than once.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+
+
+  .. tab-item:: Rank 2
+
+    | **Rebound**
+    | Once per round, should your thrown or ranged attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricocheted attack inherits the same number of successes as the original, and is otherwise functionally identical. If the original target was adjacent to a wall, the ricochet may instead target them a second time. An attack cannot ricochet more than once.
+
+
+  .. tab-item:: Rank 3
 
 --------
 
-Arbalist (heavy ranged)
+Arbalist
 --------
 Flavor prefix: "Deadeye"
 
-Rank 1
-~~~~~~
-| **Good Arm**
-| The Arbalist may attack with ranged weapons using Might to hit instead of Grace.
-| 
-| **Long Shot**
-| When an Arbalist makes a ranged attack or Arcanum, its range can be increased by up to twice its original range. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Line Up** (wip)
-| At the end of their turn, the Arbalist may declare a target to focus their attention on. If both the target and Arbalist remain in their respective squares by the beginning of the Arbalist's next turn, the Arbalist gains a +2 die bonus to their first attack, as long as it is against the focused target. This bonus stacks up to 3 times.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Bullseye**
-| 6s rolled when the Arbalist makes a ranged attack are treated as 2 successes.
+    | **Good Arm**
+    | You may attack with ranged weapons using Might to hit instead of Grace.
+    | 
+    | **Long Shot**
+    | When you make a ranged or spell attack, its range can be surpassed by up to twice its original. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
+
+  .. tab-item:: Rank 2
+
+    | **Zero In**
+    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 3 times. If you move at any point, one stack of Aim is lost per 2 squares moved, rounded up. During your turn, you may also spend one stack to move the target square 2 spaces, or choose a new square, which resets all stacks.
+    | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
+
+  .. tab-item:: Rank 3
+
+    | **Bullseye**
+    | 6s rolled when you make a ranged attack are treated as 2 successes.
 
 --------
 
-Bombardier (flask)
+Bombardier
 ---------
 Flavor prefix: "Volatile"
 
-Rank 1
-~~~~~~
-| **Easy Toss**
-| When the Alchemist makes a thrown or natural ranged weapon attack that will not directly impact a living target or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. The Alchemist may also pair thrown flasks with any weapon.
-| 
-| **Chemical Warfare**
-| The Alchemist learns three flask blueprints of common or uncommon rarity.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Controlled Burst**
-| When the Alchemist throws a flask, they may increase its terrain effect radius by one, and targeted flasks may be applied as a 3x3 AoE. Flasks thrown may ignore a number of allies or squares within their effect radius up to the Alchemist's rank.
-| Areas of effect from natural ranged weapons or hand pumps may also be increased by one, or by one cone size, and ignore a number of allies or squares up to the Alchemist's Rank.
-| 
-| **Efficient Reagents**
-| When creating a Stash item, the Alchemist rolls a d6. On a success, 1 Stash is refunded from the item's cost. **(TO BE REDONE)**
-| The Alchemist also learns two new common or uncommon flask blueprints.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Chemical Admixture**
-| While in possession of two non-rare flasks, the Alchemist may combine them. Choose one flask to be the "Carrier" and another to be the "Payload". Natural ranged weapons may act as a Carrier.
-| Choose one of the Payload's Targeted or Terrain effects. If the effect is Targeted, it applies to all characters the Carrier's effects apply to. If the effect is Terrain, it affects all tiles the Carrier applies to, as well as the tiles of characters the Carrier affects.
-| The Alchemist also learns two new flask blueprints of any rarity.
+    | **Set Dressing**
+    | When you make a thrown or natural ranged attack that will not directly impact a creature or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. You may also pair thrown flasks with any weapon.
+    |
+    | *You learn three flask blueprints of common or uncommon rarity.*
+
+  .. tab-item:: Rank 2
+
+    | **Controlled Environment**
+    | When you throw a flask, you may increase its terrain effect radius by one, targeted effects instead being applied as a 3x3 AoE. Flasks thrown can ignore a number of allies or squares within their effect radius up to your Bombardier rank.
+    | Areas of effect from natural ranged weapons or hand pumps may also have their size increased by 1, and ignore a number of allies or squares up to your Bombardier Rank.
+    | 
+    | **Efficient Reagents**
+    | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in ingredients used may be refunded.
+    |
+    | *You learn another two new common or uncommon flask blueprints.*
+
+  .. tab-item:: Rank 3
+
+    | **Chemical Admixture**
+    | While in possession of two non-rare flasks, you may combine them at any time. Choose one flask to be the "carrier" and another to be the "payload". Natural ranged weapons may act as a carrier.
+    | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it affects all tiles the carrier applies to, or the tiles of creatures the carrier affects.
+    | 
+    | *You learn another two new flask blueprints of any rarity.*
 
 --------
 
@@ -275,19 +286,27 @@ Flavor prefix: "Arcane"
 
   <blurb>
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **TBD**
-| tbd
-|
-| **Polymathy**
-| When performing research to learn a new spell, if the Arcanist has access to a grimoire containing the spell, two failed dice on their research roll are instead counted as successes.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    | **Astral Conduit**
+    | You may pour some of your Anima into an ordinary object, transforming it into an astral conduit. The conduit can store a maximum amount of Anima equal to your Thaumaturge rank. You may have only one astral conduit, and creating a new one destroys the old one. While holding a conduit or carrying it on the Belt, you (or a friendly adjacent character with Ascendant ranks) may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can either deposit any amount of Anima into your existing conduit, or create a new one.
+    |
+    | **Sorcerous Casting**
+    | You may treat your attuned arcane focus as a weap on with the Sorcerous modifier. Talismans instead make your unarmed attacks and grapples Sorcerous.
+
+  .. tab-item:: Rank 2
+
+    | **TBD**
+    | tbd
+    |
+    | **Polymathy**
+    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -303,29 +322,28 @@ Flavor prefix: "Thaumetic"
 
   Any astronomer worth their salt knows Pandemonium is one of the most potent sources of magic in the Corporeum, but harnessing its mutinous chaos without grave error is another matter of miracle-making entirely.
 
-Rank 1
-~~~~~~
-| **Astral Conduit**
-| The Ascendant may pour some of their Magic into an ordinary object, transforming it into an Astral Conduit. The Conduit can store a maximum amount of Magic points equal to its creator's Ascendant rank. They may have only one Astral Conduit, and creating a new one destroys the old one. While holding a Conduit or carrying it on the Belt, the Ascendant (or another adjacent character with Ascendant ranks, and the Ascendant's permission) may spend 1 Stamina to draw any amount of Magic from it. As a Focus action, the Ascendant can either deposit any amount of Magic into their existing Conduit, or create a new one.
-|
-| **Sorcerous Casting**
-| The Ascendant may treat their attuned arcane focus as a weapon with the Sorcerous modifier. Talismans instead make the Ascendant's unarmed strikes and grapples Sorcerous.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Mind Made Manifest**
-| When the Ascendant makes an opposed Insight check either as part of an Arcanum or ability, or to resist an Arcanum or ability, they may dedicate Magic to that check as additional dice.
-|
-| **Natural Selection**
-| When the Ascendant successfully damages at least one character with an Arcanum, they gain 1 Magic.
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Chimeric Spells**
-| When attuning Arcana, the Ascendant may splice two Arcana together into one, merging their Difficulty. The second Arcanum's effect is additionally carried by the first, in a way determined by the GM if needed. If the delivery Arcanum has an AoE, the total Difficulty increases by 1. The triggered Arcanum's Path is considered as the delivery Arcanum's Path. Two AoE Arcana cannot be spliced together.
-|
-| **Astral Projection**
-| When the Ascendant casts an area of effect Arcanum that would originate from the Ascendant's square in a line, cone, or burst, they may instead have it originate from anywhere within the Arcanum's ordinary range. Arcana cast this way retain the same direction in which they were cast originally.
+    | **Ley Lines**
+    | As a focus action, TBD TBD TBD TBD
+
+  .. tab-item:: Rank 2
+
+    | **Mind Made Manifest**
+    | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice. While standing within your Ley Lines, one bonus die is granted for free.
+    |
+    | **Natural Selection**
+    | When you successfully damage at least one creature with a spell, you gain 1 Anima.
+
+  .. tab-item:: Rank 3
+
+    | **Chimeric Spells**
+    | When attuning spells, you may splice two spells together into one, combining their difficulty. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the first spell's path, but the spliced spell's path difficulty cap is limited by the lower of the two. Two AoE spells cannot be spliced together.
+    |
+    | **Astral Projection**
+    | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its ordinary range. Spells cast this way retain the same direction and range with which they were cast originally.
 
 --------
 
@@ -333,14 +351,19 @@ Shade
 -----
 Flavor prefix: "Shrouded"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -348,14 +371,19 @@ Reverie
 -----
 Flavor prefix: "Fey"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -363,14 +391,19 @@ Evoker
 ---------
 Flavor prefix: "Ardent"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -378,14 +411,19 @@ Sage
 -----
 Flavor prefix: "Verdant"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -393,14 +431,19 @@ Witch
 -----
 Flavor prefix: "Occult"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
 
 --------
 
@@ -408,11 +451,16 @@ Harbinger
 -----
 Flavor prefix: "Fell"
 
-Rank 1
-~~~~~~
+.. tab-set::
 
-Rank 2
-~~~~~~
+  .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
