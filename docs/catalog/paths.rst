@@ -291,7 +291,7 @@ Flavor prefix: "Arcane"
   .. tab-item:: Rank 1
 
     | **Astral Conduit**
-    | You may pour some of your Anima into an ordinary object, transforming it into an astral conduit. The conduit can store a maximum amount of Anima equal to your Thaumaturge rank. You may have only one astral conduit, and creating a new one destroys the old one. While holding a conduit or carrying it on the Belt, you (or a friendly adjacent character with Ascendant ranks) may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can either deposit any amount of Anima into your existing conduit, or create a new one.
+    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
     |
     | **Sorcerous Casting**
     | You may treat your attuned arcane focus as a weap on with the Sorcerous modifier. Talismans instead make your unarmed attacks and grapples Sorcerous.
@@ -320,30 +320,30 @@ Flavor prefix: "Thaumetic"
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  Any astronomer worth their salt knows Pandemonium is one of the most potent sources of magic in the Corporeum, but harnessing its mutinous chaos without grave error is another matter of miracle-making entirely.
+  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but harnessing latent chaos without grave error is another matter of miracle-making entirely.
 
 .. tab-set::
 
   .. tab-item:: Rank 1
 
-    | **Ley Lines**
-    | As a focus action, TBD TBD TBD TBD
+    | **Sacred Geometry**
+    | As a focus action costing 1 Stamina and 1 Anima, you may etch a ritual shape into the square beneath you. For larger characters, these *ley lines* encompass squares equal to your body size, and only function when standing within all of them. Your ley lines are unique to you and cannot be used by others; furthermore, you may only have one set of ley lines at a time.
+    | While standing within your ley lines, you may choose to cast any spell as a focus action instead. When the focus resolves and the spell is cast, roll a number of dice equal to your ranks in the path used to cast the spell. You restore Anima equal to the successes of this roll, capped at the original cost of the spell.
 
   .. tab-item:: Rank 2
 
-    | **Mind Made Manifest**
-    | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice. While standing within your Ley Lines, one bonus die is granted for free.
-    |
-    | **Natural Selection**
-    | When you successfully damage at least one creature with a spell, you gain 1 Anima.
+    | **Mind Bloom**
+    | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice. This does not include traditional attack rolls.
+    | While standing within your ley lines, one bonus die is granted for free.
 
   .. tab-item:: Rank 3
 
-    | **Chimeric Spells**
-    | When attuning spells, you may splice two spells together into one, combining their difficulty. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the first spell's path, but the spliced spell's path difficulty cap is limited by the lower of the two. Two AoE spells cannot be spliced together.
-    |
     | **Astral Projection**
     | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its ordinary range. Spells cast this way retain the same direction and range with which they were cast originally.
+    | While standing within your ley lines, if you cast a spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
+    |
+    | **Chimeric Spells**
+    | When attuning spells, you may splice two spells together into one, combining their difficulty. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the first spell's path, but the spliced spell's path difficulty cap is limited by the lower of the two. Two AoE spells cannot be spliced together.
 
 --------
 
