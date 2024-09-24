@@ -18,45 +18,55 @@ Flavor prefix: "Noble"
 
 .. tab-set::
 
-    .. tab-item:: Rank 1
+  .. tab-item:: Rank 1
 
-       | **Guard Breaker**
-       | The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged have +1 :term:`favor`.
+    | **Guard Breaker**
+    | You strike more accurately while focusing on one opponent. Your melee or ranged attack rolls against the most recent enemy(s) you have successfully damaged gain +1 :term:`favor`.
 
-    .. tab-item:: Rank 2
+  .. tab-item:: Rank 2
 
-       | **Battle Stance**
-       | When an enemy enters a square adjacent to the Duelist from a square not adjacent to them, they provoke an automatic attack of opportunity.
+    | **Battle Stance**
+    | When an enemy enters a square adjacent to you from a square not adjacent, they provoke an attack of opportunity.
 
-    .. tab-item:: Rank 3
+  .. tab-item:: Rank 3
 
-       | **Martial Master**
-       | The Duelist may perform an additional Weapon Art per turn.
+    | **Martial Master**
+    | You may perform an additional Weapon Art per turn.
 
 --------
 
-Cavalier (spear)
+Cavalier
 -------
 Flavor prefix: "Dashing"
 
-Rank 1
-~~~~~~
-| **Lancing Strikes**
-| The Cavalier may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Spear weapons are an exception to this rule.
-| 
-| **Sharp Lunge**
-| The Cavalier may accept a -1 die penalty on their attack roll for any melee or thrown weapon attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
+.. tab-set::
+
+    .. tab-item:: Rank 1
+
+       | **Lancing Strikes**
+       | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Lance-type weapons are an exception to this rule.
+       | 
+       | **Sharp Lunge**
+       | You may accept a -1 die penalty on your attack roll for any melee or thrown attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
+
+    .. tab-item:: Rank 2
+
+       | **Battle Rhythm**
+       | During combat, when the Cavalier takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Cavalier may dedicate Momentum as if it were additional Stamina.
+       | Momentum can be stored up to a maximum of the Cavalier's rank, and points fade at the end of the Cavalier's next turn after they are gained.
+
+    .. tab-item:: Rank 3
+
+       | **Untouchable**
+       | 6s the Cavalier rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
 
 Rank 2
 ~~~~~~
-| **Battle Rhythm**
-| During combat, when the Cavalier takes a dash or jump action, moves while dodging, or uses an ability that moves them, they gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, the Cavalier may dedicate Momentum as if it were additional Stamina.
-| Momentum can be stored up to a maximum of the Cavalier's rank, and points fade at the end of the Cavalier's next turn after they are gained.
+
 
 Rank 3
 ~~~~~~
-| **Untouchable**
-| 6s the Cavalier rolls on dodge attempts count as two successes instead of one. When they move while dodging, they do not suffer a stack of Off-Balance.
+
 
 --------
 
