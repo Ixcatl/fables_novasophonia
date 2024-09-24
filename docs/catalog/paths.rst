@@ -3,7 +3,7 @@ Catalog: Paths
 *****
 
 .. Note::
-  "Secondary Path prefix" refers to either a character's second highest rank Path or their second oldest Path, and may be applied as a prefix to their primary Path title purely for flavor if desired. Design a Noble Thaumaturge, or a Fell Champion!
+  "Flavor prefix" generally refers to either a character's second highest rank path or their second oldest path, and may be applied as a prefix to their primary path title purely for flavor if desired.
 
 --------
 
@@ -12,30 +12,32 @@ Martial Paths
 
 --------
 
-Duelist (sword)
+Duelist
 ------
-Secondary Path prefix: "Noble"
+Flavor prefix: "Noble"
 
-Rank 1
-~~~~~~
-| **Guard Breaker**
-| The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged have +1 :term:`favor`.
+.. tab-set::
 
-Rank 2
-~~~~~~
-| **Battle Stance**
-| When an enemy enters a square adjacent to the Duelist from a square not adjacent to them, they provoke an automatic attack of opportunity.
+    .. tab-item:: Rank 1
 
-Rank 3
-~~~~~~
-| **Martial Master**
-| The Duelist may perform an additional Weapon Art per turn.
+       | **Guard Breaker**
+       | The Duelist strikes more accurately while focusing on one opponent. Their attack rolls against the most recent enemy(s) they have successfully damaged have +1 :term:`favor`.
+
+    .. tab-item:: Rank 2
+
+       | **Battle Stance**
+       | When an enemy enters a square adjacent to the Duelist from a square not adjacent to them, they provoke an automatic attack of opportunity.
+
+    .. tab-item:: Rank 3
+
+       | **Martial Master**
+       | The Duelist may perform an additional Weapon Art per turn.
 
 --------
 
 Cavalier (spear)
 -------
-Secondary Path prefix: "Dashing"
+Flavor prefix: "Dashing"
 
 Rank 1
 ~~~~~~
@@ -60,7 +62,7 @@ Rank 3
 
 Warrior (club)
 -------
-Secondary Path prefix: "Ruthless"
+Flavor prefix: "Ruthless"
 
 .. card::
   :shadow: none
@@ -97,7 +99,7 @@ Rank 3
 
 Rogue (hook)
 ---------
-Secondary Path prefix: "Crooked"
+Flavor prefix: "Crooked"
 
 Rank 1
 ~~~~~~
@@ -126,7 +128,7 @@ Rank 3
 
 Berserker (natural)
 -------
-Secondary Path prefix: "Frenzied"
+Flavor prefix: "Frenzied"
 
 Rank 1
 ~~~~~~
@@ -147,7 +149,7 @@ Rank 3
 
 Champion (armor)
 ------
-Secondary Path prefix: "Stalwart"
+Flavor prefix: "Stalwart"
 
 Rank 1
 ~~~~~~
@@ -178,7 +180,7 @@ Rank 3
 
 Ranger (light ranged)
 ------
-Secondary Path prefix: "Deft"
+Flavor prefix: "Deft"
 
 Rank 1
 ~~~~~~
@@ -195,7 +197,7 @@ Rank 3
 
 Arbalist (heavy ranged)
 --------
-Secondary Path prefix: "Deadeye"
+Flavor prefix: "Deadeye"
 
 Rank 1
 ~~~~~~
@@ -219,7 +221,7 @@ Rank 3
 
 Bombardier (flask)
 ---------
-Secondary Path prefix: "Volatile"
+Flavor prefix: "Volatile"
 
 Rank 1
 ~~~~~~
@@ -255,7 +257,7 @@ Mystic Paths
 
 Arcanist
 -----
-Secondary Path prefix: "Arcane"
+Flavor prefix: "Arcane"
 
 .. card::
   :shadow: none
@@ -283,7 +285,7 @@ Rank 3
 Thaumaturge
 ---------
 
-Secondary Path prefix: "Thaumetic"
+Flavor prefix: "Thaumetic"
 
 .. card::
   :shadow: none
@@ -320,7 +322,7 @@ Rank 3
 
 Shade
 -----
-Secondary Path prefix: "Shrouded"
+Flavor prefix: "Shrouded"
 
 Rank 1
 ~~~~~~
@@ -335,7 +337,7 @@ Rank 3
 
 Reverie
 -----
-Secondary Path prefix: "Fey"
+Flavor prefix: "Fey"
 
 Rank 1
 ~~~~~~
@@ -350,7 +352,7 @@ Rank 3
 
 Evoker
 ---------
-Secondary Path prefix: "Ardent"
+Flavor prefix: "Ardent"
 
 Rank 1
 ~~~~~~
@@ -365,7 +367,7 @@ Rank 3
 
 Sage
 -----
-Secondary Path prefix: "Verdant"
+Flavor prefix: "Verdant"
 
 Rank 1
 ~~~~~~
@@ -380,7 +382,7 @@ Rank 3
 
 Witch
 -----
-Secondary Path prefix: "Occult"
+Flavor prefix: "Occult"
 
 Rank 1
 ~~~~~~
@@ -395,7 +397,7 @@ Rank 3
 
 Harbinger
 -----
-Secondary Path prefix: "Fell"
+Flavor prefix: "Fell"
 
 Rank 1
 ~~~~~~
