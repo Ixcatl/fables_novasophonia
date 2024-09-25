@@ -18,6 +18,10 @@ Flavor prefix: "Noble"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     | **Guard Breaker**
@@ -40,6 +44,10 @@ Cavalier
 Flavor prefix: "Spry"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
       
@@ -81,6 +89,10 @@ Flavor prefix: "Ruthless"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     | **Power Attack**
@@ -106,6 +118,10 @@ Rogue
 Flavor prefix: "Cunning"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -139,6 +155,10 @@ Flavor prefix: "Raging"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     | **Onslaught**
@@ -161,6 +181,10 @@ Champion
 Flavor prefix: "Stalwart"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -195,6 +219,10 @@ Flavor prefix: "Deft"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
 
@@ -214,6 +242,10 @@ Arbalist
 Flavor prefix: "Deadeye"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -247,6 +279,10 @@ Bombardier
 Flavor prefix: "Volatile"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -294,6 +330,10 @@ Flavor prefix: "Arcane"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     | **Astral Conduit**
@@ -330,6 +370,10 @@ Flavor prefix: "Thaumetic"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     | **Sacred Geometry**
@@ -359,6 +403,10 @@ Flavor prefix: "Shrouded"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     
@@ -378,6 +426,10 @@ Reverie
 Flavor prefix: "Fey"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -399,6 +451,10 @@ Flavor prefix: "Ardent"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     
@@ -418,6 +474,10 @@ Sage
 Flavor prefix: "Verdant"
 
 .. tab-set::
+
+  .. tab-item:: Summary
+
+    
 
   .. tab-item:: Rank 1
 
@@ -439,6 +499,10 @@ Flavor prefix: "Occult"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     
@@ -459,6 +523,10 @@ Flavor prefix: "Fell"
 
 .. tab-set::
 
+  .. tab-item:: Summary
+
+    
+
   .. tab-item:: Rank 1
 
     
@@ -469,4 +537,59 @@ Flavor prefix: "Fell"
 
   .. tab-item:: Rank 3
 
+
+
+--------
+
+Irregular Paths
+============
+These paths are unique in one or more ways, owing to complex mechanics, gimmicks deeper than other paths, or more important story hooks. They still count as either martial or mystic, but are separated nonetheless for their deeper gameplay ramifications.
+
+--------
+
+Abomination
+-----
+Flavor prefix: "Formless"
+
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  <blurb>
+
+.. tab-set::
+
+  .. tab-item:: Summary
+
     
+
+  .. tab-item:: Rank 1
+
+    | **Astral Conduit**
+    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
+    |
+    | **Sorcerous Casting**
+    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
+
+  .. tab-item:: test
+
+    | **Astral Conduit**
+    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
+    
+    | **Sorcerous Casting**
+    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
+
+  .. tab-item:: Rank 2
+
+    | **TBD**
+    | tbd
+    |
+    | **Prudent Research**
+    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
+
+  .. tab-item:: Rank 3
+
+    
+
+--------
