@@ -58,7 +58,7 @@ Flavor prefix: "Spry"
   .. tab-item:: Rank 3
 
     | **Untouchable**
-    | 6s you roll on dodge attempts count as two successes instead of one. When you move while dodging, you do not suffer a stack of Off-Balance.
+    | 6s rolled on dodge attempts are treated as two successes. When you move while dodging, you do not suffer a stack of Off-Balance.
 
 --------
 
@@ -147,7 +147,7 @@ Flavor prefix: "Raging"
   .. tab-item:: Rank 2
 
     | **Burnout**
-    | When making an attack, parrying, or dodging, you may spend or dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
+    | When making an attack, parrying, or dodging, you may dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
 
   .. tab-item:: Rank 3
 
@@ -173,7 +173,7 @@ Flavor prefix: "Stalwart"
   .. tab-item:: Rank 2
 
     | **Withstand**
-    | Whenever you take soakable damage during a round, you gain +1 bonus die when soaking further damage. This effect stacks indefinitely and lasts until the start of your next turn.
+    | Whenever you take soakable damage during a round, you gain +1 bonus die when soaking further damage. This effect stacks indefinitely and resets at the start of your next turn.
     | 
     | **Force of Will**
     | When you take a focus action to heal, you may choose to restore Durability to your worn armor in lieu of Vitality.
@@ -182,7 +182,7 @@ Flavor prefix: "Stalwart"
   .. tab-item:: Rank 3
 
     | **Impassable**
-    | Squares adjacent to you count as :term:`rough terrain` against trespassers. Flying or Leaping creatures crossing over these squares are forced to land, though this does not end their turn.
+    | Squares adjacent to you count as :term:`rough terrain` against trespassers. Flying or Leaping creatures crossing over these squares (using your melee weapon's range upwards) are forced to land, though this does not end their turn.
     | 
     | **Martial Defense**
     | You may use normal weapon arts as attacks of opportunity or activate an augmentation art during an attack of opportunity, bypassing the arts per turn limit.
@@ -226,13 +226,19 @@ Flavor prefix: "Deadeye"
   .. tab-item:: Rank 2
 
     | **Zero In**
-    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 3 times. If you move at any point, one stack of Aim is lost per 2 squares moved, rounded up. During your turn, you may also spend one stack to move the target square 2 spaces, or choose a new square, which resets all stacks.
+    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 2. If you are moved or defend yourself at any point, one stack of Aim is lost, per 2 squares rounded up if moved. During your turn, you may also spend 1 Aim to move the target square 2 squares in any direction, or choose a new square, which resets all Aim.
     | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
+    |
+    | **Overwatch**
+    | When making a readied action with a ranged attack, ranged weapon art, or spell, the 1 Stamina cost to prepare it is negated.
 
   .. tab-item:: Rank 3
 
     | **Bullseye**
     | 6s rolled when you make a ranged attack are treated as 2 successes.
+    |
+    | **Target Sweep**
+    | Squares adjacent to Zero In's target square also receive its bonuses, but are treated as if having -1 stack of Aim.
 
 --------
 
@@ -256,7 +262,7 @@ Flavor prefix: "Volatile"
     | Areas of effect from natural ranged weapons or hand pumps may also have their size increased by 1, and ignore a number of allies or squares up to your Bombardier Rank.
     | 
     | **Efficient Reagents**
-    | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in ingredients used may be refunded.
+    | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in materials used may be refunded.
     |
     | *You learn another two new common or uncommon flask blueprints.*
 
@@ -264,7 +270,7 @@ Flavor prefix: "Volatile"
 
     | **Chemical Admixture**
     | While in possession of two non-rare flasks, you may combine them at any time. Choose one flask to be the "carrier" and another to be the "payload". Natural ranged weapons may act as a carrier.
-    | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it affects all tiles the carrier applies to, or the tiles of creatures the carrier affects.
+    | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it applies to all tiles the carrier applies to, or the tiles of creatures the carrier affects.
     | 
     | *You learn another two new flask blueprints of any rarity.*
 
@@ -294,14 +300,14 @@ Flavor prefix: "Arcane"
     | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
     |
     | **Sorcerous Casting**
-    | You may treat your attuned arcane focus as a weap on with the Sorcerous modifier. Talismans instead make your unarmed attacks and grapples Sorcerous.
+    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
 
   .. tab-item:: Rank 2
 
     | **TBD**
     | tbd
     |
-    | **Polymathy**
+    | **Prudent Research**
     | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
 
   .. tab-item:: Rank 3
