@@ -574,11 +574,19 @@ Flavor prefix: "Formless"
 
   .. tab-item:: test
 
-    | **Astral Conduit**
+    **Astral Conduit**
     | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
     
-    | **Sorcerous Casting**
+    **Sorcerous Casting**
     | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
+
+  .. tab-item:: test 2
+
+    **Astral Conduit**
+    You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
+    
+    **Sorcerous Casting**
+    You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
 
   .. tab-item:: Rank 2
 
