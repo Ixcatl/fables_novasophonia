@@ -548,7 +548,7 @@ Abomination
 
     *Typically only available to creatures altered by <Potentia blob race here>, or <race> themselves.*
 
-    *Inspired by the Path of Monsters from Shards of Chaos. TBD*
+    Heavily inspired by the Path of Monsters from Shards of Chaos. TBD
 
   .. tab-item:: Rank 1
 
@@ -563,3 +563,50 @@ Abomination
     
 
 --------
+
+Apostle
+-----
+
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  <blurb>
+
+.. tab-set::
+
+  .. tab-item:: Summary
+
+    | *Mystic*
+    | *Flavor prefix: "Pious"*
+
+    *Typically only available to characters who revere a deity of their choice.*
+
+    The Apostle chooses a deity from a wide list of *charitable, cryptic, or cruel* gods. Unlike other paths, the Apostle's list of learnable spells hinges entirely on each individual deity, as they feature their own spell lists. Drawing from Shards of Chaos, the Apostle has unique rank traits which may affect certain spells with a *faith modifier*, or change damage types to holy. Doing things aligning with your deity grants +1, while angering them costs -1. This resets every rest. Maybe add Apostle-unique spells for each deity as well, in much smaller numbers?
+
+  .. tab-item:: Example Deity?
+
+    God :)
+
+    | Moral alignment: Charitable
+    | Planar alignment: Forma
+
+    | Appeased by: stuff (+1), nice stuff (+2), selfless stuff (+3)
+    | Offended by: stuff (-1), cruel stuff (-2), evil stuff (-3)
+
+    <Rank 3 unique trait here>
+
+    <Spell list here. Each god may potentially have gimmicks for specific spells, dictating when they can or cannot be cast, and on what.>
+
+  .. tab-item:: Rank 1
+
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
