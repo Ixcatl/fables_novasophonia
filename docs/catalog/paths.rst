@@ -14,13 +14,12 @@ Martial Paths
 
 Duelist
 ------
-Flavor prefix: "Noble"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Noble"*
 
   .. tab-item:: Rank 1
 
@@ -41,19 +40,18 @@ Flavor prefix: "Noble"
 
 Cavalier
 -------
-Flavor prefix: "Spry"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Spry"*
 
   .. tab-item:: Rank 1
       
     | **Lancing Strikes**
     | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons. Lance-type weapons are an exception to this limit.
-    | 
+
     | **Sharp Lunge**
     | You may accept a -1 die penalty on your attack roll for any melee or thrown attack to increase the range of the attack by 1. This is treated as a free dash, and enhanced by dash distance increases.
 
@@ -72,7 +70,6 @@ Flavor prefix: "Spry"
 
 Warrior
 -------
-Flavor prefix: "Ruthless"
 
 .. card::
   :shadow: none
@@ -91,7 +88,7 @@ Flavor prefix: "Ruthless"
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Ruthless"*
 
   .. tab-item:: Rank 1
 
@@ -102,7 +99,7 @@ Flavor prefix: "Ruthless"
 
     | **Second Wind**
     | Whenever you end your turn with 0 Stamina, you regain 1 Stamina.
-    | 
+
     | **Uproot**
     | You may attack empty squares with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 damage and are forced to surface.
 
@@ -115,49 +112,47 @@ Flavor prefix: "Ruthless"
 
 Rogue
 ---------
-Flavor prefix: "Cunning"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Cunning"*
 
   .. tab-item:: Rank 1
 
     | **Swift Strikes**
     | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons.
-    | 
+
     | **Push and Pull**
     | When you successfully risk damage with an attack, you may choose to risk 1 less damage. If you do, you may move the struck target one square in any direction, or two if using a heavy weapon.
-    | 
+
     | *You learn two trap blueprints of common or uncommon rarity.*
 
   .. tab-item:: Rank 2
 
     | **Hair Trigger**
     | You may deploy traps at a range of 3. When you set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the creature that triggered it, while those with an area of effect will still originate from the trap itself.
-    | 
+
     | *You learn another trap blueprint of common or uncommon rarity.*
 
   .. tab-item:: Rank 3
 
     | **Fighting Dirty**
     | After successfully dealing damage to a target, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. The status effect lasts until the beginning of your next turn.
-    |
+
     | *You learn another trap blueprint of any rarity.*
 
 --------
 
 Berserker
 -------
-Flavor prefix: "Raging"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Raging"*
 
   .. tab-item:: Rank 1
 
@@ -178,19 +173,18 @@ Flavor prefix: "Raging"
 
 Champion
 ------
-Flavor prefix: "Stalwart"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Stalwart"*
 
   .. tab-item:: Rank 1
 
     | **Glancing Blows**
     | If an attack you attempt to parry still risks damage after the attempt, you gain +1 :term:`favor` for your soak roll against it.
-    | 
+
     | **Watchful Eye**
     | The first attack of opportunity you make each round costs no Stamina to initiate.
 
@@ -198,7 +192,7 @@ Flavor prefix: "Stalwart"
 
     | **Withstand**
     | Whenever you take soakable damage during a round, you gain +1 bonus die when soaking further damage. This effect stacks indefinitely and resets at the start of your next turn.
-    | 
+
     | **Force of Will**
     | When you take a focus action to heal, you may choose to restore Durability to your worn armor in lieu of Vitality.
     | In addition, while taking any focus action, you increase your effective Mettle score by 2 until no longer focusing.
@@ -207,7 +201,7 @@ Flavor prefix: "Stalwart"
 
     | **Impassable**
     | Squares adjacent to you count as :term:`rough terrain` against trespassers. Flying or Leaping creatures crossing over these squares (using your melee weapon's range upwards) are forced to land, though this does not end their turn.
-    | 
+
     | **Martial Defense**
     | You may use normal weapon arts as attacks of opportunity or activate an augmentation art during an attack of opportunity, bypassing the arts per turn limit.
 
@@ -215,13 +209,12 @@ Flavor prefix: "Stalwart"
 
 Ranger
 ------
-Flavor prefix: "Deft"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Deft"*
 
   .. tab-item:: Rank 1
 
@@ -239,19 +232,18 @@ Flavor prefix: "Deft"
 
 Arbalist
 --------
-Flavor prefix: "Deadeye"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Deadeye"*
 
   .. tab-item:: Rank 1
 
     | **Good Arm**
     | You may attack with ranged weapons using Might to hit instead of Grace.
-    | 
+
     | **Long Shot**
     | When you make a ranged or spell attack, its range can be surpassed by up to twice its original. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
 
@@ -260,7 +252,7 @@ Flavor prefix: "Deadeye"
     | **Zero In**
     | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 2. If you are moved or defend yourself at any point, one stack of Aim is lost, per 2 squares rounded up if moved. During your turn, you may also spend 1 Aim to move the target square 2 squares in any direction, or choose a new square, which resets all Aim.
     | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
-    |
+
     | **Overwatch**
     | When making a readied action with a ranged attack, ranged weapon art, or spell, the 1 Stamina cost to prepare it is negated.
 
@@ -268,7 +260,7 @@ Flavor prefix: "Deadeye"
 
     | **Bullseye**
     | 6s rolled when you make a ranged attack are treated as 2 successes.
-    |
+
     | **Target Sweep**
     | Squares adjacent to Zero In's target square also receive its bonuses, but are treated as if having -1 stack of Aim.
 
@@ -276,19 +268,18 @@ Flavor prefix: "Deadeye"
 
 Bombardier
 ---------
-Flavor prefix: "Volatile"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Volatile"*
 
   .. tab-item:: Rank 1
 
     | **Set Dressing**
     | When you make a thrown or natural ranged attack that will not directly impact a creature or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. You may also pair thrown flasks with any weapon.
-    |
+
     | *You learn three flask blueprints of common or uncommon rarity.*
 
   .. tab-item:: Rank 2
@@ -296,10 +287,10 @@ Flavor prefix: "Volatile"
     | **Controlled Environment**
     | When you throw a flask, you may increase its terrain effect radius by one, targeted effects instead being applied as a 3x3 AoE. Flasks thrown can ignore a number of allies or squares within their effect radius up to your Bombardier rank.
     | Areas of effect from natural ranged weapons or hand pumps may also have their size increased by 1, and ignore a number of allies or squares up to your Bombardier Rank.
-    | 
+
     | **Efficient Reagents**
     | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in materials used may be refunded.
-    |
+
     | *You learn another two new common or uncommon flask blueprints.*
 
   .. tab-item:: Rank 3
@@ -307,7 +298,7 @@ Flavor prefix: "Volatile"
     | **Chemical Admixture**
     | While in possession of two non-rare flasks, you may combine them at any time. Choose one flask to be the "carrier" and another to be the "payload". Natural ranged weapons may act as a carrier.
     | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it applies to all tiles the carrier applies to, or the tiles of creatures the carrier affects.
-    | 
+
     | *You learn another two new flask blueprints of any rarity.*
 
 --------
@@ -319,7 +310,6 @@ Mystic Paths
 
 Arcanist
 -----
-Flavor prefix: "Arcane"
 
 .. card::
   :shadow: none
@@ -332,13 +322,13 @@ Flavor prefix: "Arcane"
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Arcane"*
 
   .. tab-item:: Rank 1
 
     | **Astral Conduit**
     | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
-    |
+
     | **Sorcerous Casting**
     | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
 
@@ -346,7 +336,7 @@ Flavor prefix: "Arcane"
 
     | **TBD**
     | tbd
-    |
+
     | **Prudent Research**
     | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
 
@@ -359,8 +349,6 @@ Flavor prefix: "Arcane"
 Thaumaturge
 ---------
 
-Flavor prefix: "Thaumetic"
-
 .. card::
   :shadow: none
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
@@ -372,7 +360,7 @@ Flavor prefix: "Thaumetic"
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Thaumetic"*
 
   .. tab-item:: Rank 1
 
@@ -391,7 +379,7 @@ Flavor prefix: "Thaumetic"
     | **Astral Projection**
     | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its ordinary range. Spells cast this way retain the same direction and range with which they were cast originally.
     | While standing within your ley lines, if you cast a spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
-    |
+
     | **Chimeric Spells**
     | When attuning spells, you may splice two spells together into one, combining their difficulty. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the first spell's path, but the spliced spell's path difficulty cap is limited by the lower of the two. Two AoE spells cannot be spliced together.
 
@@ -399,13 +387,12 @@ Flavor prefix: "Thaumetic"
 
 Shade
 -----
-Flavor prefix: "Shrouded"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Shrouded"*
 
   .. tab-item:: Rank 1
 
@@ -423,13 +410,12 @@ Flavor prefix: "Shrouded"
 
 Reverie
 -----
-Flavor prefix: "Fey"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Fey"*
 
   .. tab-item:: Rank 1
 
@@ -447,13 +433,12 @@ Flavor prefix: "Fey"
 
 Evoker
 ---------
-Flavor prefix: "Ardent"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Ardent"*
 
   .. tab-item:: Rank 1
 
@@ -471,13 +456,12 @@ Flavor prefix: "Ardent"
 
 Sage
 -----
-Flavor prefix: "Verdant"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Verdant"*
 
   .. tab-item:: Rank 1
 
@@ -495,13 +479,12 @@ Flavor prefix: "Verdant"
 
 Witch
 -----
-Flavor prefix: "Occult"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Occult"*
 
   .. tab-item:: Rank 1
 
@@ -519,13 +502,12 @@ Flavor prefix: "Occult"
 
 Harbinger
 -----
-Flavor prefix: "Fell"
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    
+    *Flavor prefix: "Fell"*
 
   .. tab-item:: Rank 1
 
@@ -549,7 +531,6 @@ These paths are unique in one or more ways, owing to complex mechanics, gimmicks
 
 Abomination
 -----
-Flavor prefix: "Formless"
 
 .. card::
   :shadow: none
@@ -562,39 +543,20 @@ Flavor prefix: "Formless"
 
   .. tab-item:: Summary
 
-    
+    | *Martial*
+    | *Flavor prefix: "Formless"*
+
+    *Typically only available to creatures altered by <Potentia blob race here>, or <race> themselves.*
+
+    *Inspired by the Path of Monsters from Shards of Chaos. TBD*
 
   .. tab-item:: Rank 1
 
-    | **Astral Conduit**
-    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
-    |
-    | **Sorcerous Casting**
-    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
-
-  .. tab-item:: test
-
-    | **Astral Conduit**
-    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
-    ..
-    | **Sorcerous Casting**
-    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
-
-  .. tab-item:: test 2
-
-    | **Astral Conduit**
-    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
-
-    | **Sorcerous Casting**
-    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
+    
 
   .. tab-item:: Rank 2
 
-    | **TBD**
-    | tbd
-    |
-    | **Prudent Research**
-    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
+    
 
   .. tab-item:: Rank 3
 
