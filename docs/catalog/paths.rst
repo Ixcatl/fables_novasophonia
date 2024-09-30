@@ -374,6 +374,9 @@ Thaumaturge
     | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice. This does not include traditional attack rolls.
     | While standing within your ley lines, one bonus die is granted for free.
 
+    | **TBD**
+    | tbd?
+
   .. tab-item:: Rank 3
 
     | **Astral Projection**
@@ -544,7 +547,7 @@ Abomination
   .. tab-item:: Summary
 
     | *Martial*
-    | *Flavor prefix: "Formless"*
+    | *Flavor prefix: "Subsumed"*
 
     *Typically only available to creatures altered by <Potentia blob race here>, or <race> themselves.*
 
