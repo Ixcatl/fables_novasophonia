@@ -523,9 +523,9 @@ Harbinger
 
 --------
 
-Irregular Paths
+Novel Paths
 ============
-These paths are unique in one or more ways, owing to complex mechanics, gimmicks deeper than other paths, or more important story hooks. They still count as either martial or mystic, but are separated nonetheless for their deeper gameplay ramifications.
+These paths are unique in one or more ways, owing to complex mechanics, gimmicks with drawbacks, or more important story hooks. They still count as either martial or mystic, but are separated nonetheless for their more nuanced gameplay ramifications.
 
 --------
 
