@@ -388,7 +388,7 @@ Thaumaturge
 
 --------
 
-Shade
+Eidolon
 -----
 
 .. tab-set::
@@ -430,6 +430,52 @@ Reverie
 
   .. tab-item:: Rank 3
 
+
+
+--------
+
+Sage
+-----
+
+.. tab-set::
+
+  .. tab-item:: Summary
+
+    *Flavor prefix: "Verdant"*
+
+  .. tab-item:: Rank 1
+
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
+    
+
+--------
+
+Warlock
+-----
+
+.. tab-set::
+
+  .. tab-item:: Summary
+
+    *Flavor prefix: "Occult"*
+
+  .. tab-item:: Rank 1
+
+    
+
+  .. tab-item:: Rank 2
+
+    
+
+  .. tab-item:: Rank 3
+
     
 
 --------
@@ -457,14 +503,14 @@ Evoker
 
 --------
 
-Sage
------
+Imbuer
+---------
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Verdant"*
+    *Flavor prefix: "???"*
 
   .. tab-item:: Rank 1
 
@@ -480,37 +526,14 @@ Sage
 
 --------
 
-Witch
+Conjurer
 -----
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Occult"*
-
-  .. tab-item:: Rank 1
-
-    
-
-  .. tab-item:: Rank 2
-
-    
-
-  .. tab-item:: Rank 3
-
-    
-
---------
-
-Harbinger
------
-
-.. tab-set::
-
-  .. tab-item:: Summary
-
-    *Flavor prefix: "Fell"*
+    *Flavor prefix: "???"*
 
   .. tab-item:: Rank 1
 
@@ -549,21 +572,32 @@ Abomination
     | *Martial*
     | *Flavor prefix: "Subsumed"*
 
-    *Typically only available to creatures altered by <Potentia blob race here>, or <race> themselves.*
+    *Typically only available to creatures partially altered by the Apitekt.*
 
     Heavily inspired by the Path of Monsters from Shards of Chaos. TBD
 
   .. tab-item:: Rank 1
 
-    
+    | **Ersatz Flesh**
+    | TBD
 
   .. tab-item:: Rank 2
 
-    
+    | **Nascent Adaptation**
+    | TBD
+
+    | **Metamorphosis**
+    | TBD
 
   .. tab-item:: Rank 3
 
-    
+    | **The Burgeoning**
+    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms.
+
+    | **Know Thy Self**
+    | You may use a rest action to do any one of the following, until your next rest:
+    | - Choose one of Ambitions, The Burgeoning, or your Alien Body trait to temporarily nullify its effects.
+    | - Swap out one mutation in Metamorphosis or The Burgeoning. The replacement mutation must remain positive or negative.
 
 --------
 
@@ -584,9 +618,9 @@ Apostle
     | *Mystic*
     | *Flavor prefix: "Pious"*
 
-    *Typically only available to characters who revere a deity of their choice.*
+    *Typically only available to characters who revere a specific deity, especially those willing to do its bidding.*
 
-    The Apostle chooses a deity from a wide list of *charitable, cryptic, or cruel* gods. Unlike other paths, the Apostle's list of learnable spells hinges entirely on each individual deity, as they feature their own spell lists. Drawing from Shards of Chaos, the Apostle has unique rank traits which may affect certain spells with a *faith modifier*, or change damage types to holy. Doing things aligning with your deity grants +1, while angering them costs -1. This resets every rest. Maybe add Apostle-unique spells for each deity as well, in much smaller numbers?
+    The Apostle chooses a deity from a wide list of *charitable, cryptic, or cruel* figures. Unlike other mystic paths, the Apostle's list of learnable spells hinges entirely on each individual deity, as they feature their own spell lists. The Apostle has unique rank traits which may affect certain spells with a *faith modifier*, or change damage types to holy. Doing things aligning with your deity grants +1, while angering them costs -1. This resets every rest. Maybe add Apostle-unique spells for each deity as well, in much smaller numbers?
 
   .. tab-item:: Example Deity?
 
