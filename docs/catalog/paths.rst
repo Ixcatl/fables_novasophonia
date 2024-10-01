@@ -578,26 +578,36 @@ Abomination
 
   .. tab-item:: Rank 1
 
-    | **Ersatz Flesh**
+    | **Ersatz Recovery**
     | TBD
+
+    | **Ambitions**
+    | The Apitekt drive to meet your own ends manifests within you. Discuss with your GM your most selfish motivations in a single key word. When attempting to resist these motivations, you must perform a raw Insight check (known furthermore as an "Ambitions check", the successes required generally being higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge on a success.
+    | Ambitions are heavily personalized. A warrior who craves *slaughter* might butcher an opponent they would have otherwise mercied; a thief presented with *valuables* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for several hours.
 
   .. tab-item:: Rank 2
-
-    | **Nascent Adaptation**
-    | TBD
 
     | **Metamorphosis**
     | TBD
 
+    | **Adaptation**
+    | TBD
+
+    | **Ambitions II**
+    | Your ambitions grow to a more insidious level as Apitekt assimilation invades your thoughts. You gain an additional keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors cannibalize, thieves consume their prizes, and wizards literally absorb knowledge. Due to all of the above, actions taken while under the Urge's thrall generally take half as much time.
+
   .. tab-item:: Rank 3
 
     | **The Burgeoning**
-    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms.
+    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright which does not stack with Metamorphosis' Fright bonus.
 
-    | **Know Thy Self**
-    | You may use a rest action to do any one of the following, until your next rest:
-    | - Choose one of Ambitions, The Burgeoning, or your Alien Body trait to temporarily nullify its effects.
+    | **Recall Thy Self**
+    | You may use a rest action to do any one of the following, only once per rest:
+    | - Choose one of Ambitions, The Burgeoning, or your Alien Body trait to nullify the effects of until your next rest.
     | - Swap out one mutation in Metamorphosis or The Burgeoning. The replacement mutation must remain positive or negative.
+
+    | **Ambitions III**
+    | TBD
 
 --------
 
