@@ -579,37 +579,37 @@ Abomination
   .. tab-item:: Rank 1
 
     | **Ersatz Recovery**
-    | As a focus action, you may accept a negative mutation when initiating in return for 1 Vitality when it resolves. This mutation cannot be removed except by resolving a focus action costing 1 Vitality.
-    | You instinctively learn a number of negative mutations equal to twice your Abomination rank.
+    | As a focus action, you may accept a negative mutation in return for 1 temporary Vitality when the action resolves. This mutation cannot be removed except by resolving a focus action costing 1 Vitality.
+    | You instinctively know a number of negative mutations equal to twice your Abomination rank.
 
     | **Ambitions**
-    | The Apitekt drive to meet your own ends manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
-    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *valuables* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
+    | The Apitekt drive to further yourself manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
+    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
 
   .. tab-item:: Rank 2
 
-    | **Shape Flesh**
-    | At the cost of 1 Vitality, you may grant a positive mutation to a target within Touch range as a 3 point status effect. If you are the target, you may combine this action with Ersatz Recovery's focus action to discount its Stamina cost. This ability may be used twice per round; once on others, and once on yourself.
-    | You instinctively learn a number of positive mutations equal to twice your Abomination rank.
+    | **Sculpt Flesh**
+    | At the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect. If you are the target, you may combine this action with Ersatz Recovery's focus action, balan-+cing out Vitality and reducing the overall Stamina cost to 1. This ability can be used only once per round.
+    | You instinctively know a number of positive mutations equal to twice your Abomination rank.
 
     | **Metamorphosis**
     | TBD
 
     | **Ambitions II**
-    | Your ambitions distort to an insidious perspective as Apitekt assimilation invades your thoughts. You gain a second keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their prizes, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge.
-    | Due to all of the above, actions taken while under an Urge's thrall generally take only half as much time.
+    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action, which cannot be interrupted.
+    | Due to all of the above, actions made while under an Urge's thrall generally take only half as much time. If you allow the Urge to follow through to its completion, you may also learn or gain something useful from it, at the GM's behest.
 
   .. tab-item:: Rank 3
 
     | **The Burgeoning**
-    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright which does not stack with Metamorphosis' Fright bonus.
-    | During a rest, you may swap one preset mutation in Metamorphosis or The Burgeoning with another you know. The replacement mutation must remain positive or negative.
+    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright / -1 Charm which does not stack with Metamorphosis' offset.
+    | Once only, you may freely replace your preset mutations in Metamorphosis or The Burgeoning with others you know. The replacement mutation must remain positive or negative. Once per rest, you may do this again, but with only one mutation at a time.
 
     | **Spread of Self**
-    | When you hit a creature with any natural weapon or are struck by a natural melee weapon, you may inflict the creature with a negative mutation you know as an ordinary 3 point status effect. Additionally, you may use the senses of any creatures affected by your temporary mutations as if you were them.
+    | When you hit a creature with any natural weapon or are struck by a natural melee weapon, you may inflict the creature with a negative mutation you know as an ordinary 2 point status effect. Additionally, you may use the senses of any creatures affected by your temporary mutations as if you were them.
 
     | **Ambitions III**
-    | You gain a third keyword to abide by, but any skill checks made during an Urge gain +1 bonus die. Your Ambitions checks also gain this bonus, even when unaffected by an Urge.
+    | You learn to harness your waxing hunger with frightening strength. You gain a third keyword to abide by, but any attacks, soaks, or rolls to resist magical effects made during an Urge gain +1 bonus die. Your Ambitions checks always have +1 bonus die, even when unaffected by an Urge.
 
 --------
 
