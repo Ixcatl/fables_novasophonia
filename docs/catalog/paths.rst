@@ -572,7 +572,7 @@ Abomination
     | *Martial*
     | *Flavor prefix: "Subsumed"*
 
-    *Typically only available to creatures partially altered by the Apitekt.*
+    *Typically only available to creatures partially altered by the Apitekt, such as amalgams.*
 
     Heavily inspired by the Path of Monsters from Shards of Chaos. TBD
 
@@ -586,30 +586,99 @@ Abomination
     | The Apitekt drive to further yourself manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
     | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
 
+  .. tab-item:: Mutations
+
+    | Mutations are treated as special traits, distinguished as *positive* or *negative*. For technicality's sake, all mutations have -5 or +5 value respectively. For every mutation on a creature up to a maximum of 5, they trade -1 Charm for +1 Fright. Any maximum pool increases do not increase the target's current pool values.
+    | They take the same flavor as the Apitekt themselves, affected body parts often becoming amorphous, branching, or clay-like; unique to each individual Abomination.
+
+    .. tab-set::
+
+      .. tab-item:: Positive
+
+        | **Adaptation**
+        | You gain +1 to one primary attribute. May be stacked twice, but doing so sacrifices -1 from another primary attribute.
+
+        | **Jittering Haste**
+        | You gain +2 bonus dice to initiative and +1 maximum Stamina. Should this surpass the normal stamina cap, you gain +1 Speed instead.
+
+        | **Pulsating Growths**
+        | You gain +1 maximum Vitality and +1 extra Fright, as these vital growths undulate and glow unnervingly.
+
+        | **Hunchback**
+        | You gain +3 Load. May be stacked twice.
+
+        | **Porcelain Visage**
+        | Your body takes a dignified but still unnatural form. You gain +2 Charm and +2 Fright instead of the usual mutation offset.
+
+        | **Bioweapon**
+        | You gain one normal natural weapon trait and any desired subtraits for it, up to -5 in trait value. If the mutation is not temporary, the natural weapon can be modified as normal. If the weapon(s) occupy the arms, you instead sprout new limbs to bear them.
+
+        | **Soul Sight**
+        | Your body is dotted with beady glowing eyes, granting Lifesense (6) and Darkvision.
+
+        | **Gravitational Flux**
+        | You perpetually levitate up to 1 square off the ground. You do not trigger ground-based trap triggers or take fall damage, and you glide over ground-based terrain effects, including bodies of liquid. Moving upward costs Speed as normal, and you may choose to fall downward at 3 squares per turn instead of the standard 10.
+        | If stacked a second time, objects in your immediate viscinity gravitate to you. Up to 2 Bulk of items in the same square(s) as you act as if stored on the Belt and wielded in the hands simultaneously. A creature can attempt to grab one of the items, making an opposed Grace check against your Insight. Paired attacks made with weapons wielded this way cost an additional 1 Anima.
+
+        | **Gangly Arms**
+        | Any held melee weapons have +1 range and count as reach, and your area threatened for attacks of opportunity has a range of 2. However, your Might is reduced by 1. Incompatible without arms.
+
+        | **Untouchable**
+        | You gain immunity to Bleeding and 1 DR against physical damage, as your flesh immediately closes any surface wounds.
+
+      .. tab-item:: Negative
+
+        | **Rejection**
+        | One primary attribute is reduced by -1.5. Incompatible if the attribute would be reduced below 1.
+
+        | **Crackling Ligaments**
+        | You suffer a -2 die penalty to initiative and -1 maximum Stamina.
+
+        | **Feral Sepsis**
+        | You suffer -1 maximum Vitality and a -1 die penalty to all Ambitions checks.
+
+        | **Lumbering Form**
+        | You suffer -2 Speed. May be stacked twice.
+
+        | **Feeble Visage**
+        | Your body has a rather pathetic appearance. You lose -2 Charm and -2 Fright instead of the usual mutation offset.
+
+        | **Fused Arms**
+        | One half of your arms rounded up are rendered lame, fused to your body, or outright missing, and can no longer hold objects or perform tasks. May be stacked twice to remove all arms.
+
+        | **Otherworldly Echoes**
+        | Your mind parses the world differently, and struggles to comprehend it. When starting a new scene, make an Insight check requiring two successes; failure inflicts 1 Insight damage. If gained through a temporary mutation, it immediately deals 1 Insight damage and is removed.
+
+        | **Insatiable**
+        | You have +10 Hunger. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately reduces Belly by 10 and is removed.
+
+        | **Nullifying Tumor**
+        | Your newest positive mutation is negated, if any. May be stacked twice.
+
   .. tab-item:: Rank 2
 
     | **Sculpt Flesh**
-    | At the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect. If you are the target, you may combine this action with Ersatz Recovery's focus action, balan-+cing out Vitality and reducing the overall Stamina cost to 1. This ability can be used only once per round.
+    | Once per round, at the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect. If you are the target, you may combine this action with Ersatz Recovery's focus action, balancing out Vitality and reducing the overall Stamina cost to 1.
     | You instinctively know a number of positive mutations equal to twice your Abomination rank.
 
     | **Metamorphosis**
     | TBD
 
     | **Ambitions II**
-    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action, which cannot be interrupted.
+    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action which cannot be interrupted.
     | Due to all of the above, actions made while under an Urge's thrall generally take only half as much time. If you allow the Urge to follow through to its completion, you may also learn or gain something useful from it, at the GM's behest.
 
   .. tab-item:: Rank 3
 
     | **The Burgeoning**
-    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright / -1 Charm which does not stack with Metamorphosis' offset.
+    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright / -1 Charm which does not stack with Metamorphosis.
     | Once only, you may freely replace your preset mutations in Metamorphosis or The Burgeoning with others you know. The replacement mutation must remain positive or negative. Once per rest, you may do this again, but with only one mutation at a time.
 
-    | **Spread of Self**
+    | **Imperfect Propagation**
     | When you hit a creature with any natural weapon or are struck by a natural melee weapon, you may inflict the creature with a negative mutation you know as an ordinary 2 point status effect. Additionally, you may use the senses of any creatures affected by your temporary mutations as if you were them.
 
     | **Ambitions III**
-    | You learn to harness your waxing hunger with frightening strength. You gain a third keyword to abide by, but any attacks, soaks, or rolls to resist magical effects made during an Urge gain +1 bonus die. Your Ambitions checks always have +1 bonus die, even when unaffected by an Urge.
+    | You learn to harness your waxing hunger with frightening strength. You gain a third keyword to abide by, but any attacks, soaks, or checks to resist magical effects made during an Urge gain +1 reroll. Your Ambitions checks always have +1 reroll, even when unaffected by an Urge.
 
 --------
 
