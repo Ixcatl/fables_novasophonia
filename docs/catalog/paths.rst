@@ -671,7 +671,7 @@ Abomination
   .. tab-item:: Rank 3
 
     | **The Burgeoning**
-    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms, and +1 Fright / -1 Charm which does not stack with Metamorphosis.
+    | You evolve further, but can no longer reliably hide your nature. You permanently gain one positive mutation and one negative mutation, both of which persist between your forms.
     | Once only, you may freely replace your preset mutations in Metamorphosis or The Burgeoning with others you know. The replacement mutation must remain positive or negative. Once per rest, you may do this again, but with only one mutation at a time.
 
     | **Imperfect Propagation**
