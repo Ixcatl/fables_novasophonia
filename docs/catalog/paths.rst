@@ -576,16 +576,6 @@ Abomination
 
     Heavily inspired by the Path of Monsters from Shards of Chaos. TBD
 
-  .. tab-item:: Rank 1
-
-    | **Ersatz Recovery**
-    | As a focus action, you may accept a negative mutation in return for 1 temporary Vitality when the action resolves. This mutation cannot be removed except by resolving a focus action costing 1 Vitality.
-    | You instinctively know a number of negative mutations equal to twice your Abomination rank.
-
-    | **Ambitions**
-    | The Apitekt drive to further yourself manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
-    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
-
   .. tab-item:: Mutations
 
     | Mutations are treated as special traits, distinguished as *positive* or *negative*. For technicality's sake, all mutations have -5 or +5 value respectively. For every mutation on a creature up to a maximum of 5, they trade -1 Charm for +1 Fright. Any maximum pool increases do not increase the target's current pool values.
@@ -653,7 +643,17 @@ Abomination
         | You have +10 Hunger. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately reduces Belly by 10 and is removed.
 
         | **Nullifying Tumor**
-        | Your newest positive mutation is negated, if any. May be stacked twice.
+        | One positive mutation from Metamorphosis or The Burgeoning is negated. May be stacked twice. Incompatible without any positive mutations. If gained through a temporary mutation, your *newest* positive mutation is negated instead.
+
+  .. tab-item:: Rank 1
+
+    | **Ersatz Recovery**
+    | As a focus action, you may accept a negative mutation in return for 1 temporary Vitality when the action resolves. This mutation cannot be removed except by resolving a focus action costing 1 Vitality.
+    | You instinctively know a number of negative mutations equal to twice your Abomination rank.
+
+    | **Ambitions**
+    | The Apitekt drive to further yourself manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
+    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
 
   .. tab-item:: Rank 2
 
