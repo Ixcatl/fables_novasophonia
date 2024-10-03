@@ -595,31 +595,36 @@ Abomination
         | You gain +1 maximum Vitality and +1 extra Fright, as these vital growths undulate and glow unnervingly.
 
         | **Hunchback**
-        | You gain +3 Load. May be stacked twice.
+        | You gain +3 Load. *May be stacked twice.*
 
         | **Porcelain Visage**
         | Your body takes a dignified but still unnatural form. You gain +2 Charm and +2 Fright instead of the usual mutation offset.
 
         | **Bioweapon**
-        | You gain one normal natural weapon trait and any desired subtraits for it, up to -5 in trait value. If the mutation is not temporary, the natural weapon can be modified as normal. If the weapon(s) occupy the arms, you instead sprout new limbs to bear them.
+        | You gain one normal natural weapon trait and any desired subtraits for it, up to -5 in trait value. If the mutation is not temporary, the natural weapon can be modified as normal. If the weapon(s) occupy the arms, you may instead sprout new limbs with the sole purpose of bearing them.
 
         | **Soul Sight**
-        | Your body is dotted with beady glowing eyes, granting Lifesense (6) and Darkvision.
+        | Your body is dotted with beady glowing eyes, enabling you to see the flow of Anima. You gain Lifesense (6), and may roll an Insight check when discerning a living creature with it, each success revealing one of their mystic path ranks if any. Mystic ranks you share with them are identified for free. Any extra successes may detect a number of martial path ranks, with no more information beyond that.
 
         | **Gravitational Flux**
         | You perpetually levitate up to 1 square off the ground. You do not trigger ground-based trap triggers or take fall damage, and you glide over ground-based terrain effects, including bodies of liquid. Moving upward costs Speed as normal, and you may choose to fall downward at 3 squares per turn instead of the standard 10.
         | If stacked a second time, objects in your immediate viscinity gravitate to you. Up to 2 Bulk of items in the same square(s) as you act as if stored on the Belt and wielded in the hands simultaneously. A creature can attempt to grab one of the items, making an opposed Grace check against your Insight. Paired attacks made with weapons wielded this way cost an additional 1 Anima.
 
-        | **Gangly Arms**
-        | Any held melee weapons have +1 range and count as reach, and your area threatened for attacks of opportunity has a range of 2. However, your Might is reduced by 1. Incompatible without arms.
+        | **Gangly Limbs**
+        | Any held melee weapons have +1 range and count as reach, and your area threatened for attacks of opportunity has a range of 2. However, your Might is reduced by 1. These effects may instead be applied to one melee natural weapon trait you own, replacing the Might reduction with a -1 die penalty to hit using it.
+        | *May be stacked if you still have natural weapons to modify. Incompatible without arms or a melee natural weapon.*
 
-        | **Untouchable**
+        | **Impenetrable**
         | You gain immunity to Bleeding and 1 DR against physical damage, as your flesh immediately closes any surface wounds.
+
+        | **Brainwash**
+        | Any creature that deals at least 1 damage with a bite, or consumes your flesh and blood, must make an Insight check with successes equal to your Abomination rank or else fall under your spell. Until the next rest, you score an automatic 2 successes on any social checks against that creature. You gain Brainwash as poison and targeted flask blueprints, which you can create at the cost of 1 Vitality. These items immediately become useless if you lose this mutation at any point.
+        | *Incompatible if you have no Abomination ranks. If you gain a natural weapon trait, such as from Bioweapon, you can use Brainwash as its poison/flask effect if it has one.*
 
       .. tab-item:: Negative
 
         | **Rejection**
-        | One primary attribute is reduced by -1.5. Incompatible if the attribute would be reduced below 1.
+        | One primary attribute is reduced by -1.5. *Incompatible if the attribute would be reduced below 1.*
 
         | **Crackling Ligaments**
         | You suffer a -2 die penalty to initiative and -1 maximum Stamina.
@@ -628,27 +633,31 @@ Abomination
         | You suffer -1 maximum Vitality and a -1 die penalty to all Ambitions checks.
 
         | **Lumbering Form**
-        | You suffer -2 Speed. May be stacked twice.
+        | You suffer -2 Speed. *May be stacked twice.*
 
         | **Feeble Visage**
-        | Your body has a rather pathetic appearance. You lose -2 Charm and -2 Fright instead of the usual mutation offset.
+        | Your body twists into a rather pathetic appearance. You lose -2 Charm and -2 Fright instead of the usual mutation offset.
 
         | **Fused Arms**
-        | One half of your arms rounded up are rendered lame, fused to your body, or outright missing, and can no longer hold objects or perform tasks. May be stacked twice to remove all arms.
+        | One half of your arms rounded up are rendered lame, fused to your body, or outright missing, and can no longer hold objects or perform tasks as normal.
+        | *May be stacked twice to remove all arms. Does not affect any limbs gained through temporary effects.*
 
         | **Otherworldly Echoes**
-        | Your mind parses the world differently, and struggles to comprehend it. When starting a new scene, make an Insight check requiring two successes; failure inflicts 1 Insight damage. If gained through a temporary mutation, it immediately deals 1 Insight damage and is removed.
+        | Your mind parses the world differently and struggles to comprehend it. When starting a new scene, make an Insight check requiring two successes; failure inflicts 1 Insight damage.
+        | *Can be stacked more than once through temporary mutations. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately deals 1 Insight damage alongside its normal effects.*
 
         | **Insatiable**
-        | You have +10 Hunger. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately reduces Belly by 10 and is removed.
+        | You have +10 Hunger, and *consumption* is now a key word for your Ambitions, if you have them.
+        | *Can be stacked more than once through temporary mutations. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately reduces Belly by 10 alongside its normal effects.*
 
         | **Nullifying Tumor**
-        | One positive mutation from Metamorphosis or The Burgeoning is negated. May be stacked twice. Incompatible without any positive mutations. If gained through a temporary mutation, your *newest* positive mutation is negated instead.
+        | One positive mutation from Metamorphosis or The Burgeoning (or your newest positive mutation) is negated.
+        | *Can be stacked as long as you have positive mutations.*
 
   .. tab-item:: Rank 1
 
     | **Ersatz Recovery**
-    | As a focus action, you may accept a negative mutation in return for 1 temporary Vitality when the action resolves. This mutation cannot be removed except by resolving a focus action costing 1 Vitality.
+    | Using 1 Stamina, you may accept a negative mutation in return for 1 Vitality. Mutations gained this way cannot normally be removed except by spending 1 Stamina and 1 Vitality to do so. You can use this ability twice per turn; once to add a mutation, and once to remove a mutation.
     | You instinctively know a number of negative mutations equal to twice your Abomination rank.
 
     | **Ambitions**
@@ -658,14 +667,14 @@ Abomination
   .. tab-item:: Rank 2
 
     | **Sculpt Flesh**
-    | Once per round, at the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect. If you are the target, you may combine this action with Ersatz Recovery's focus action, balancing out Vitality and reducing the overall Stamina cost to 1.
+    | At the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect, including yourself. This ability can be used only once per turn.
     | You instinctively know a number of positive mutations equal to twice your Abomination rank.
 
     | **Metamorphosis**
     | TBD
 
     | **Ambitions II**
-    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second keyword to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action which cannot be interrupted.
+    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second key word to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action which cannot be interrupted.
     | Due to all of the above, actions made while under an Urge's thrall generally take only half as much time. If you allow the Urge to follow through to its completion, you may also learn or gain something useful from it, at the GM's behest.
 
   .. tab-item:: Rank 3
@@ -678,7 +687,7 @@ Abomination
     | When you hit a creature with any natural weapon or are struck by a natural melee weapon, you may inflict the creature with a negative mutation you know as an ordinary 2 point status effect. Additionally, you may use the senses of any creatures affected by your temporary mutations as if you were them.
 
     | **Ambitions III**
-    | You learn to harness your waxing hunger with frightening strength. You gain a third keyword to abide by, but any attacks, soaks, or checks to resist magical effects made during an Urge gain +1 reroll. Your Ambitions checks always have +1 reroll, even when unaffected by an Urge.
+    | You learn to harness your waxing hunger with frightening strength. You gain a third key word to abide by, but any attacks, soaks, or checks to resist magical effects made during an Urge gain +1 reroll. Your Ambitions checks always have +1 reroll, even when unaffected by an Urge.
 
 --------
 
