@@ -621,6 +621,10 @@ Abomination
         | Any creature that deals at least 1 damage with a bite, or consumes your flesh and blood, must make an Insight check with successes equal to your Abomination rank or else fall under your spell. Until the next rest, you score an automatic 2 successes on any social checks against that creature. You gain Brainwash as poison and targeted flask blueprints, which you can create at the cost of 1 Vitality. These items immediately become useless if you lose this mutation at any point.
         | *Incompatible if you have no Abomination ranks. If you gain a natural weapon trait, such as from Bioweapon, you can use Brainwash as its poison/flask effect if it has one.*
 
+        | **Anima Reaver**
+        | You gain a modified version of the Hemophage trait. Replacing its normal Belly effects, you instead siphon 1 Anima from your victim if they have any, transferring it from them to you. 
+        | Using a focus action, you can also attempt an Insight check with 3 successes to draw 1 Anima from the corpse of an intelligent being in Touch range, once per corpse, regardless of how long ago they have died. This additionally gleans one very vague, hazy memory from the deceased.
+
       .. tab-item:: Negative
 
         | **Rejection**
