@@ -576,10 +576,22 @@ Abomination
 
     Heavily inspired by the Path of Monsters from Shards of Chaos. TBD
 
-  .. tab-item:: Mutations
+  .. tab-item:: Amalgam (TO BE EXPANDED/MOVED)
+
+    Amalgams are a sub-race of creatures infested by the true Apitekt, not fully subsumed but with traits imprinted upon them, for better or worse. Visible changes can vary wildly, as 
+
+    | **Alien Body**
+    | Reduces most outside attempts to heal you by 1 success and causes drugs to be unpredictable. When ingesting a drug or potion not specifically made to compensate, roll one die. 1-2 causes no effect; 3-4 causes its normal effect; 5-6 doubles its effect as if using a second copy of that item, including strain.
+    
+    (TBD POSITIVE TRAIT, GUH)
+
+  .. tab-item:: Mutations (TO BE MOVED)
 
     | Mutations are treated as special traits, distinguished as *positive* or *negative*. For technicality's sake, all mutations have -5 or +5 value respectively. For every mutation on a creature up to a maximum of 5, they trade -1 Charm for +1 Fright. Any maximum pool increases do not increase the target's current pool values.
-    | They take the same flavor as the Apitekt themselves, affected body parts often becoming amorphous, branching, or clay-like; unique to each individual Abomination.
+    | They take the same flavor as the Apitekt themselves, affected body parts often becoming sludgy, branching, or clay-like; unique to each individual.
+
+    .. warning::
+      (there might be some references to traits/mechanics that do not exist yet, sorry for any confusion i'm still writing stuff!!!!)
 
     .. tab-set::
 
@@ -605,6 +617,7 @@ Abomination
 
         | **Soul Sight**
         | Your body is dotted with beady glowing eyes, enabling you to see the flow of Anima. You gain Lifesense (6), and may roll an Insight check when discerning a living creature with it, each success revealing one of their mystic path ranks if any. Mystic ranks you share with them are identified for free. Any extra successes may detect a number of martial path ranks, with no more information beyond that.
+        | The glowing eyes are very easy to spot in darkness unless they are closed, which disables Soul Sight's benefits.
 
         | **Gravitational Flux**
         | You perpetually levitate up to 1 square off the ground. You do not trigger ground-based trap triggers or take fall damage, and you glide over ground-based terrain effects, including bodies of liquid. Moving upward costs Speed as normal, and you may choose to fall downward at 3 squares per turn instead of the standard 10.
@@ -625,6 +638,9 @@ Abomination
         | You gain a modified version of the Hemophage trait. Replacing its normal Belly effects, you instead siphon 1 Anima from your victim if they have any, transferring it from them to you. 
         | Using a focus action, you can also attempt an Insight check with 3 successes to draw 1 Anima from the corpse of an intelligent being in Touch range, once per corpse, regardless of how long ago they have died. This additionally gleans one very vague, hazy memory from the deceased.
 
+        | **Flesh Eater**
+        | You gain the Devourer (Vitality) trait, which also replenishes 5 Belly every time it triggers, but *consumption* is now a key word for your Ambitions, if you have them.
+
       .. tab-item:: Negative
 
         | **Rejection**
@@ -636,8 +652,8 @@ Abomination
         | **Feral Sepsis**
         | You suffer -1 maximum Vitality and a -1 die penalty to all Ambitions checks.
 
-        | **Lumbering Form**
-        | You suffer -2 Speed. *May be stacked twice.*
+        | **Lumbering Gait**
+        | You suffer -2 Speed.
 
         | **Feeble Visage**
         | Your body twists into a rather pathetic appearance. You lose -2 Charm and -2 Fright instead of the usual mutation offset.
@@ -665,8 +681,8 @@ Abomination
     | You instinctively know a number of negative mutations equal to twice your Abomination rank.
 
     | **Ambitions**
-    | The Apitekt drive to further yourself manifests within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not dangerous) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every 3 rounds thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
-    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours.
+    | Primal Apitekt impulsivity begins to manifest within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not risky) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every second round thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
+    | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours. Key words gained from mutations may stack, but generally increase the difficulty of their Ambitions checks in doing so.
 
   .. tab-item:: Rank 2
 
@@ -675,7 +691,7 @@ Abomination
     | You instinctively know a number of positive mutations equal to twice your Abomination rank.
 
     | **Metamorphosis**
-    | TBD
+    | TO BE CLARIFIED, THIS IS A HASTY WRITE UP AS I'M CALLING YOU, DORK. As a focus action, you may transform into a pseudo-Apitekt, with associated boons and maluses. You keep all of your qualities except for your senses, and gain Amorphous, Tremorsense, and 2 Absorption, but also a Weakness trait to one elemental damage type of your choosing. Any equipped armor does not grant its defensive values; any other equipment remains the same, though it may or may not be visible in your transformed state. Most importantly, you can select 2 positive mutations and 1 negative mutations to exhibit while transformed; these cannot normally be changed.
 
     | **Ambitions II**
     | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second key word to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action which cannot be interrupted.
