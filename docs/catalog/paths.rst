@@ -338,7 +338,7 @@ Arcanist
     | tbd
 
     | **Prudent Research**
-    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two dice on your research roll are guaranteed successes.
+    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two failed dice on your research roll instead count as successes.
 
   .. tab-item:: Rank 3
 
@@ -354,7 +354,7 @@ Thaumaturge
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but harnessing latent chaos without grave error is another matter of miracle-making entirely.
+  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but harnessing living chaos without grave error is another matter of miracle-making entirely.
 
 .. tab-set::
 
@@ -366,7 +366,7 @@ Thaumaturge
 
     | **Sacred Geometry**
     | As a focus action costing 1 Stamina and 1 Anima, you may etch a ritual shape into the square beneath you. For larger characters, these *ley lines* encompass squares equal to your body size, and only function when standing within all of them. Your ley lines are unique to you and cannot be used by others; furthermore, you may only have one set of ley lines at a time.
-    | While standing within your ley lines, you may choose to cast any spell as a focus action instead. When the focus resolves and the spell is cast, roll a number of dice equal to your ranks in the path used to cast the spell. You restore Anima equal to the successes of this roll, capped at the original cost of the spell.
+    | While standing within your ley lines, you may choose to cast any spell as a focus action instead. When the focus resolves and the spell is cast, roll a number of dice equal to your ranks in the path used to cast the spell. You restore Anima equal to the successes of this roll, capped by the cost of the spell.
 
   .. tab-item:: Rank 2
 
@@ -385,6 +385,7 @@ Thaumaturge
 
     | **Chimeric Spells**
     | When attuning spells, you may splice two spells together into one, combining their difficulty. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the first spell's path, but the spliced spell's path difficulty cap is limited by the lower of the two. Two AoE spells cannot be spliced together.
+    | Chimeric spells you cast as a focus action within your ley lines have their Anima cost reduced by 1, to a minimum of 1.
 
 --------
 
