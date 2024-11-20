@@ -384,7 +384,7 @@ Thaumaturge
     | While standing within your ley lines, if you cast a spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
 
     | **Chimeric Spells**
-    | When attuning spells, you may splice two spells together into one, combining their difficulty at a minimum of 2. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. If the first spell has an AoE, the total difficulty increases by 1. The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. Two AoE spells cannot be spliced together.
+    | When attuning spells, you may splice two spells together into one, combining their difficulty at a minimum of 2. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. If the first spell has an AoE, the total difficulty increases by 1. Two AoE spells cannot be spliced together.
     | Chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
 
 --------
