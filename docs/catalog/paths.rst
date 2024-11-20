@@ -375,12 +375,12 @@ Thaumaturge
     | While standing within your ley lines, one bonus die is granted for free.
 
     | **Spatial Anchor**
-    | When moving toward your ley lines, you may instead choose to teleport directly onto them. You move as normal with the necessary cost in Speed, but you do not trigger attacks of opportunity or prepared actions, nor do you physically cross any squares before your destination. You must end movement on your ley lines for this action to be valid.
+    | While standing within your ley lines, you may choose to Anchor yourself in place during your turn. While Anchored, you cannot move, and you may use Insight on any roll to resist forced movement. Any forced movement received costs Speed instead of moving you, as if you had moved the same number of squares. Movement exceeding your Speed moves you as normal and breaks your Anchor. You may manually break your Anchor during your turn, but doing so reduces your remaining Speed to 2.
 
   .. tab-item:: Rank 3
 
     | **Astral Projection**
-    | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its ordinary range. Spells cast this way retain the same direction and range with which they were cast originally.
+    | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
     | While standing within your ley lines, if you cast a spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
 
     | **Chimeric Spells**
