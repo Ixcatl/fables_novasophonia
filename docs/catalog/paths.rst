@@ -579,7 +579,7 @@ Abomination
 
   .. tab-item:: Amalgam (TO BE EXPANDED/MOVED)
 
-    Amalgams are a sub-race of creatures infested by the true Apitekt, not fully subsumed but with traits imprinted upon them, for better or worse. Visible changes can vary wildly, as 
+    Amalgams are a sub-race of creatures infested by the true Apitekt, not fully subsumed but with traits imprinted upon them, for better or worse. Visible changes can vary wildly as the individual's infestation worsens.
 
     | **Alien Body**
     | Reduces most outside attempts to heal you by 1 success and causes drugs to be unpredictable. When ingesting a drug or potion not specifically made to compensate, roll one die. 1-2 causes no effect; 3-4 causes its normal effect; 5-6 doubles its effect as if using a second copy of that item, including strain.
