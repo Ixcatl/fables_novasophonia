@@ -639,7 +639,7 @@ Abomination
         | You gain a modified version of the Hemophage trait. Replacing its normal Belly effects, you instead siphon 1 Anima from your victim if they have any, transferring it from them to you. 
         | Using a focus action, you can also attempt an Insight check with 3 successes to draw 1 Anima from the corpse of an intelligent being in Touch range, once per corpse, regardless of how long ago they have died. This additionally gleans one very vague, hazy memory from the deceased.
 
-        | **Flesh Eater**
+        | **Taste for Flesh**
         | You gain the Devourer (Vitality) trait, which also replenishes 5 Belly every time it triggers, but *consumption* is now a key word for your Ambitions, if you have them.
 
       .. tab-item:: Negative
@@ -678,25 +678,25 @@ Abomination
   .. tab-item:: Rank 1
 
     | **Ersatz Recovery**
-    | Using 1 Stamina, you may accept a negative mutation in return for 1 Vitality. Mutations gained this way cannot normally be removed except by spending 1 Stamina and 1 Vitality to do so. You can use this ability twice per turn; once to add a mutation, and once to remove a mutation.
+    | Using 1 Stamina, you may accept a negative mutation you know to restore 1 Vitality. Mutations gained this way cannot normally be removed except by spending 1 Stamina and 1 Vitality to do so. You can use this ability twice per turn; once to add a mutation, and once to remove a mutation.
     | You instinctively know a number of negative mutations equal to twice your Abomination rank.
 
     | **Ambitions**
-    | Primal Apitekt impulsivity begins to manifest within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not risky) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the pursuit of your ambitions. Every second round thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
+    | Primal Apitekt impulsivity begins to manifest within you. Discuss with your GM your most selfish motivations in a single key word. When overtly resisting these motivations, you must perform an Insight check (known furthermore as an "Ambitions check", the successes required generally higher if the task is not risky) or else be overcome with a frenzied desire to pursue the act to its completion. This Urge acts as a Berserk-adjacent effect, during which every action you take must be in the direct pursuit of your ambitions. Every second round thereafter, you may make another Ambitions check with the same difficulty, snapping out of the Urge if passed. Skills based on restraint may potentially apply to Ambitions checks.
     | Ambitions are heavily personalized. A warrior craving *slaughter* might kill a helpless opponent they would have otherwise mercied; a thief presented with *riches* may fill their pockets at an inopportune time; a wizard yearning for *knowledge* could lose themselves in a library for hours. Key words gained from mutations may stack, but generally increase the difficulty of their Ambitions checks in doing so.
 
   .. tab-item:: Rank 2
 
-    | **Sculpt Flesh**
+    | **Sculptor of Sinew**
     | At the cost of 1 Stamina and 1 Vitality, you can grant a positive mutation you know to a target within Touch range as an ordinary 3 point status effect, including yourself. This ability can be used only once per turn.
     | You instinctively know a number of positive mutations equal to twice your Abomination rank.
 
     | **Metamorphosis**
-    | TO BE CLARIFIED, THIS IS A HASTY WRITE UP AS I'M CALLING YOU, DORK. As a focus action, you may transform into a pseudo-Apitekt, with associated boons and maluses. You keep all of your qualities except for your senses, and gain Amorphous, Tremorsense, and 2 Absorption, but also a Weakness trait to one elemental damage type of your choosing. Any equipped armor does not grant its defensive values; any other equipment remains the same, though it may or may not be visible in your transformed state. Most importantly, you can select 2 positive mutations and 1 negative mutations to exhibit while transformed; these cannot normally be changed.
+    | As a focus action, your body drastically morphs into a pseudo-Apitekt, developing associated boons and maluses. While transformed, you keep all of your qualities except for your senses, and gain Amorphous, Tremorsense, and 2 Absorption, but also a Weakness trait to one elemental damage type of your choosing. Any equipped armor does not grant its defensive values; any other equipment remains the same, though it may not be visible in your transformed state. You must select 2 of your positive mutations and 1 negative mutation to exhibit while transformed; these choices are immutable.
 
     | **Ambitions II**
-    | Your ambitions distort to an insidious degree as Apitekt assimilation invades your thoughts. You gain a second key word to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action which cannot be interrupted.
-    | Due to all of the above, actions made while under an Urge's thrall generally take only half as much time. If you allow the Urge to follow through to its completion, you may also learn or gain something useful from it, at the GM's behest.
+    | Your ambitions distort to an insidious degree as Apitekt instincts invade your thoughts. You gain a second key word to abide by, and your Urges are twisted by otherworldly nourishment; warriors feast on their foes, thieves consume their spoils, and wizards literally absorb knowledge. Furthermore, you forcefully undergo Metamorphosis for the duration of the Urge, including the focus action, which cannot be interrupted as normal.
+    | Due to all of the above, actions made while under an Urge's thrall generally take only half as much time. Should you allow the Urge to follow through to its completion, you may also learn, gain, or absorb something useful from the experience, at the GM's behest.
 
   .. tab-item:: Rank 3
 
