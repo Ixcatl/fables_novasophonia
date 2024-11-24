@@ -21,10 +21,12 @@ Duelist
 
     *Flavor prefix: "Noble"*
 
+    Duelists do not receive nearly as many specialized features as other paths, but what they lack in honed purpose they make up for in raw combat prowess.
+
   .. tab-item:: Rank 1
 
     | **Guard Breaker**
-    | You strike more accurately while focusing on one opponent. Your weapon attack rolls against the most recent enemy(s) you have successfully damaged gain +1 :term:`favor`.
+    | Your weapon attack rolls against the most recent enemy(s) you have successfully damaged with an attack gain +1 :term:`favor`.
 
   .. tab-item:: Rank 2
 
@@ -34,7 +36,7 @@ Duelist
   .. tab-item:: Rank 3
 
     | **Martial Master**
-    | You may perform an additional weapon art per turn.
+    | You may perform one additional weapon art per turn.
 
 --------
 
@@ -396,7 +398,7 @@ Eidolon
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Shrouded"*
+    *Flavor prefix: "Deep"*
 
   .. tab-item:: Rank 1
 
@@ -735,7 +737,7 @@ Apostle
 
   .. tab-item:: Example Deity?
 
-    God :)
+    Yahweh
 
     | Moral alignment: Charitable
     | Planar alignment: Forma
