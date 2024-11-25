@@ -21,7 +21,7 @@ Duelist
 
     *Flavor prefix: "Noble"*
 
-    Duelists do not receive nearly as many specialized features as other paths, but what they lack in honed purpose they make up for in raw combat prowess.
+    Duelists do not receive nearly as many specialized features as other paths, but what purpose they lack is compensated in essential combat prowess.
 
   .. tab-item:: Rank 1
 
@@ -48,6 +48,8 @@ Cavalier
   .. tab-item:: Summary
 
     *Flavor prefix: "Spry"*
+
+    A Cavalier's main strength is their speed. They seek to outpace opponents with dodges, waiting until the time is right to strike back in force.
 
   .. tab-item:: Rank 1
       
@@ -95,7 +97,7 @@ Warrior
   .. tab-item:: Rank 1
 
     | **Power Attack**
-    | Any time you dedicate at least 3 Stamina to an attack or weapon art, it gains +1 base damage. This bonus is increased to +2 if the attack is made with a heavy weapon or club-type weapon. If performing an art with an area of effect or multiple attacks, you must spend an additional 1 taxed Stamina to make it a power attack.
+    | Any time you dedicate at least 3 Stamina to an attack or weapon art, it gains +1 base damage. This bonus is increased to +2 if the attack is made with a heavy weapon or club-type weapon. If performing an attack or art with an area of effect or multiple attacks, you must spend an additional 1 taxed Stamina to make it a power attack.
 
   .. tab-item:: Rank 2
 
@@ -103,12 +105,12 @@ Warrior
     | Whenever you end your turn with 0 Stamina, you regain 1 Stamina.
 
     | **Uproot**
-    | You may attack empty squares with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 damage and are forced to surface.
+    | You may attack an empty square with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 damage and are forced to surface.
 
   .. tab-item:: Rank 3
 
     | **Law of Conservation**
-    | You treat taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, when Stamina is spent to clear stacks of Off-Balance, treat the Stamina as dedicated to your next attack.
+    | You treat taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, each point of Stamina you dedicate to an attack also removes one stack of Off-Balance for free.
 
 --------
 
