@@ -27,6 +27,13 @@ Kindred
 | You share a very similar soul with another individual, for better or worse, and are inextricably bound. You can draw from the Anima pools of one another at any time, though one may deny the other access.
 | Kindred souls always feel an instinctive pull in the direction of their counterpart, though it is difficult to explain in detail.
 
+Sorcerer
+--------
+| *Mental*
+| *Trait value:* ``-3``
+| You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any memorized spells from that path without the help of an arcane focus.
+| You must have one usable, empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits, you are treated as always wielding a talisman.
+
 Talent
 --------
 | *Mental*
@@ -51,7 +58,7 @@ Gaunt
 --------
 | *Physical*
 | *Trait value:* ``0``
-| You are abnormally thin. You lose -1 Belt slot, but also -1 Bulk.
+| You are abnormally thin. You lose -1 Belt slot, and -1 Bulk.
 
 Heavyset
 --------
