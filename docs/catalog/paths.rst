@@ -3,7 +3,7 @@ Catalog: Paths
 *****
 
 .. Note::
-  "Flavor prefix" generally refers to either a character's second highest rank path or their second oldest path, and may be applied as a prefix to their primary path title purely for flavor if desired.
+  "Prefix" generally refers to either a character's second highest rank path or their second oldest path, and may be applied as a prefix to their primary path title purely for flavor if desired.
 
 --------
 
@@ -19,9 +19,9 @@ Duelist
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Noble"*
+    *Prefix: "Noble"*
 
-    Duelists do not receive nearly as many specialized features as other paths, but what purpose they lack is compensated in essential combat prowess.
+    Duelists don't receive nearly as many specialized features as other paths, but what purpose they lack is compensated in general combat prowess.
 
   .. tab-item:: Rank 1
 
@@ -47,9 +47,9 @@ Cavalier
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Spry"*
+    *Prefix: "Spry"*
 
-    A Cavalier's main strength is their speed. They seek to outpace opponents with dodges, waiting until the time is right to strike back in force.
+    A Cavalier's main strength is their speed. They seek to outmaneuver their opponents, waiting until the time is right to strike back in force, taking full advantage of the momentum they've gathered.
 
   .. tab-item:: Rank 1
       
@@ -68,7 +68,7 @@ Cavalier
   .. tab-item:: Rank 3
 
     | **Untouchable**
-    | 6s rolled on dodge attempts are treated as two successes. When you move while dodging, you do not suffer a stack of Off-Balance.
+    | 6s rolled on dodge attempts are treated as two successes. When you move while dodging, you do not gain a stack of Off-Balance.
 
 --------
 
@@ -92,7 +92,9 @@ Warrior
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Ruthless"*
+    *Prefix: "Ruthless"*
+
+    Through consistent, overwhelming force does a Warrior best their opponents. Their techniques allow them to keep delivering deadly blows where others would have long since faltered.
 
   .. tab-item:: Rank 1
 
@@ -105,12 +107,12 @@ Warrior
     | Whenever you end your turn with 0 Stamina, you regain 1 Stamina.
 
     | **Uproot**
-    | You may attack an empty square with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 damage and are forced to surface.
+    | You may attack an empty square with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 blunt damage and are forced to surface.
 
   .. tab-item:: Rank 3
 
     | **Law of Conservation**
-    | You treat taxed Stamina spent during an attack as dedicated to that attack, increasing the number of dice rolled as usual. Additionally, each point of Stamina you dedicate to an attack also removes one stack of Off-Balance for free.
+    | You treat taxed Stamina spent on an attack as dedicated to that attack, increasing the number of dice rolled as usual. When spending Stamina to remove stacks of Off-Balance, your next attack within the same turn receives an equal amount of Stamina dedicated for free.
 
 --------
 
@@ -121,7 +123,9 @@ Rogue
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Cunning"*
+    *Prefix: "Cunning"*
+
+    Rogues excel in manipulating the battlefield, setting a wide variety of traps and playing opponents directly into their schemes.
 
   .. tab-item:: Rank 1
 
@@ -143,7 +147,7 @@ Rogue
   .. tab-item:: Rank 3
 
     | **Fighting Dirty**
-    | After successfully dealing damage to a target, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. The status effect lasts until the beginning of your next turn.
+    | After successfully dealing damage to a target, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect lasts until the beginning of your next turn.
 
     | *You learn another trap blueprint of any rarity.*
 
@@ -156,7 +160,9 @@ Berserker
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Raging"*
+    *Prefix: "Raging"*
+
+    The life of a Berserker is often short, but a fighter without regard for their own safety is the most dangerous of all. A Berserker's brutal advance taxes the body and soul.
 
   .. tab-item:: Rank 1
 
@@ -171,7 +177,7 @@ Berserker
   .. tab-item:: Rank 3
 
     | **Bloodbath**
-    | Slaying an enemy restores 1 Vitality. If the attack was made using a natural weapon, 2 Vitality is restored instead.
+    | Slaying an enemy restores 1 Vitality. If the killing blow was made using a melee natural weapon, 2 Vitality is restored instead.
 
 --------
 
@@ -182,7 +188,7 @@ Champion
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Stalwart"*
+    *Prefix: "Stalwart"*
 
   .. tab-item:: Rank 1
 
@@ -218,7 +224,7 @@ Ranger
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Deft"*
+    *Prefix: "Deft"*
 
   .. tab-item:: Rank 1
 
@@ -241,7 +247,7 @@ Arbalist
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Deadeye"*
+    *Prefix: "Deadeye"*
 
   .. tab-item:: Rank 1
 
@@ -277,7 +283,7 @@ Bombardier
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Volatile"*
+    *Prefix: "Volatile"*
 
   .. tab-item:: Rank 1
 
@@ -326,7 +332,7 @@ Arcanist
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Arcane"*
+    *Prefix: "Arcane"*
 
   .. tab-item:: Rank 1
 
@@ -358,13 +364,15 @@ Thaumaturge
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but harnessing living chaos without grave error is another matter of miracle-making entirely.
+  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but reining in living chaos is another matter of miracle-making entirely.
 
 .. tab-set::
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Thaumetic"*
+    *Prefix: "Thaumetic"*
+
+    Thaumaturges derive strength from obscure geometry and sigils, granting powerful command over their magicks with proper positioning. A well-prepared Thaumaturge is a truly fearsome force to be reckoned with.
 
   .. tab-item:: Rank 1
 
@@ -400,11 +408,12 @@ Eidolon
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Deep"*
+    *Prefix: "Deep"*
 
   .. tab-item:: Rank 1
 
-    
+    | **Swoop**
+    | Your first dash or jump each round is performed for free. Additionally, you may now dash or jump one time in midair before landing.
 
   .. tab-item:: Rank 2
 
@@ -423,7 +432,7 @@ Reverie
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Fey"*
+    *Prefix: "Fey"*
 
   .. tab-item:: Rank 1
 
@@ -446,7 +455,7 @@ Sage
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Verdant"*
+    *Prefix: "Verdant"*
 
   .. tab-item:: Rank 1
 
@@ -469,7 +478,7 @@ Warlock
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Occult"*
+    *Prefix: "Occult"*
 
   .. tab-item:: Rank 1
 
@@ -492,7 +501,7 @@ Evoker
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "Ardent"*
+    *Prefix: "Ardent"*
 
   .. tab-item:: Rank 1
 
@@ -515,7 +524,7 @@ Imbuer
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "???"*
+    *Prefix: "???"*
 
   .. tab-item:: Rank 1
 
@@ -538,7 +547,7 @@ Conjurer
 
   .. tab-item:: Summary
 
-    *Flavor prefix: "???"*
+    *Prefix: "???"*
 
   .. tab-item:: Rank 1
 
@@ -575,7 +584,7 @@ Abomination
   .. tab-item:: Summary
 
     | *Martial*
-    | *Flavor prefix: "Subsumed"*
+    | *Prefix: "Subsumed"*
 
     *Typically only available to creatures partially altered by the Apitekt, such as amalgams.*
 
@@ -731,7 +740,7 @@ Apostle
   .. tab-item:: Summary
 
     | *Mystic*
-    | *Flavor prefix: "Pious"*
+    | *Prefix: "Pious"*
 
     *Typically only available to characters who revere a specific deity, especially those willing to do its bidding.*
 
