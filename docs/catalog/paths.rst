@@ -204,7 +204,7 @@ Champion
     | Whenever you take soakable damage during a round, you gain +1 bonus die when soaking further damage. This effect stacks indefinitely and resets at the start of your next turn.
 
     | **Force of Will**
-    | When you take a focus action to heal, you may choose to restore Durability to your worn armor in lieu of Vitality.
+    | When you take a focus action to restore Vitality, you may instead choose to restore Durability to your worn armor in lieu of Vitality.
     | In addition, while taking any focus action, you increase your effective Mettle score by 2 until no longer focusing.
 
   .. tab-item:: Rank 3
@@ -459,7 +459,8 @@ Sage
 
   .. tab-item:: Rank 1
 
-    
+    | **Lay on Hands**
+    | When you take a focus action to restore Vitality, you may instead choose a living creature within 3 squares to receive it. If your target leaves this radius at any point before the action resolves, it fails.
 
   .. tab-item:: Rank 2
 
@@ -467,7 +468,8 @@ Sage
 
   .. tab-item:: Rank 3
 
-    
+    | **Triage**
+    | When you take a focus action to restore Vitality to others as part of Lay on Hands, every 2 Anima spent grants a guaranteed success instead of every third.
 
 --------
 
