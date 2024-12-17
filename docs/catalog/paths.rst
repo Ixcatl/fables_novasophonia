@@ -167,7 +167,7 @@ Berserker
   .. tab-item:: Rank 1
 
     | **Onslaught**
-    | After you make an attack, and your target makes a defense roll, you may choose to reroll a number of failures up to twice your Berserker rank. If you do, roll a d6. If the result is less than your current Vitality, you suffer 2 :term:`true damage <damage type: true>`.
+    | After you make an attack and your target has made a defense roll, you may choose to reroll a number of failures up to twice your Berserker rank. If you do, roll a d6. If the result is less than your current Vitality, you suffer 2 :term:`true damage <damage type: true>`.
 
   .. tab-item:: Rank 2
 
