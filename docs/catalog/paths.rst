@@ -555,7 +555,7 @@ Conjurer
 
     | **Corpus Collector**
     | You gain access to a personal bestiary of creatures and a unique spell used to recreate any one of them, with varying Anima and Conjury slot costs.
-    | To fill your bestiary, you must either find detailed research on a creature in question, or study it in the flesh. As a camp action, study is performed akin to a research roll against the creature's research difficulty seen on its character sheet; while dead creatures are acceptable, live and conscious subjects grant 2 guaranteed successes on your roll.
+    | To fill your bestiary, you must either find detailed research on a creature in question or study it in the flesh. As a camp action, you can make a research roll with difficulty equal to twice the creature's Conjury slot cost, with live and conscious subjects adding 2 flat successes after your roll. Similar to normal research, your progress towards a given bestiary entry can be continued over multiple rests.
 
     | *You learn how to conjure a 1 slot creature of your choice.*
 
@@ -567,6 +567,13 @@ Conjurer
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 2 slots in cost.*
 
   .. tab-item:: Rank 3
+
+    | **Simulacrum**
+    | Any conjuration you create with a duration of Lifetime or higher gains a lifelike patina, passing as a normal creature without any of the hallmarks of a conjuration. Identifying a simulacrum for what it is requires an Insight check at a difficulty of 3.
+    | The simulacrum also gains a simple personality, typically controlled by the GM but still heeding all commands as normal. If not under your immediate control, it may act as it sees fit, as an ordinary (if extremely naive) tamed/sentient being with undying fealty towards you.
+
+    | **Role Play**
+    | When conjuring a creature within Touch range, you may choose to shunt your senses into its form, taking full control of it. You lose all senses and instead gain those of the conjuration, able to act in its place as an ordinary creature of that sort. This lasts until the conjuration dies, runs its duration, or is dispelled.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 3 slots in cost.*
 
@@ -775,7 +782,8 @@ Apostle
 
   .. tab-item:: Rank 2
 
-    
+    | **As Above, So Below**
+    | TBD??
 
   .. tab-item:: Rank 3
 
