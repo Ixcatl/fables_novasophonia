@@ -553,15 +553,22 @@ Conjurer
 
   .. tab-item:: Rank 1
 
-    
+    | **Corpus Collector**
+    | You gain access to a personal bestiary of creatures and a unique spell used to recreate any one of them, with varying Anima and Conjury slot costs.
+    | To fill your bestiary, you must either find detailed research on a creature in question, or study it in the flesh. As a camp action, study is performed akin to a research roll against the creature's research difficulty seen on its character sheet; while dead creatures are acceptable, live and conscious subjects grant 2 guaranteed successes on your roll.
+
+    | *You learn how to conjure a 1 slot creature of your choice.*
 
   .. tab-item:: Rank 2
 
-    
+    | **Specialization**
+    | Choose a specific [term]creature type. Gain bonuses when conjuring creatures of this type. TBD
+
+    | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 2 slots in cost.*
 
   .. tab-item:: Rank 3
 
-
+    | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 3 slots in cost.*
 
 --------
 
