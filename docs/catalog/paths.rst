@@ -554,26 +554,30 @@ Conjurer
   .. tab-item:: Rank 1
 
     | **Corpus Collector**
-    | You gain access to a personal bestiary of creatures and a unique spell used to recreate any one of them, with varying Anima and Conjury slot costs.
+    | You gain access to a personal bestiary of creatures and a unique spell used to recreate any one of them, with varying costs.
     | To fill your bestiary, you must either find detailed research on a creature in question or study it in the flesh. As a camp action, you can make a research roll with difficulty equal to twice the creature's Conjury slot cost, with live and conscious subjects adding 2 flat successes after your roll. Similar to normal research, your progress towards a given bestiary entry can be continued over multiple rests.
 
-    | *You learn how to conjure a 1 slot creature of your choice.*
+    | *You learn how to conjure a 1 Conjury slot creature of your choice.*
 
   .. tab-item:: Rank 2
 
-    | **Specialization**
-    | Choose a specific [term]creature type. Gain bonuses when conjuring creatures of this type. TBD
+    | **Wills Entwined**
+    | Once per round per conjuration, if it damages a target in melee, roll a number of dice equal to its Conjury slot cost. With 1 success, the conjuration receives 1 Anima as normal from the attack; if its Anima is full, you receive it instead, as long as the conjuration is within Sense range.
+
+    | **Undying Spectres**
+    | Any time one of your conjurations in Sense range would perish at 0 Vitality or Anima, you may immediately spend 1 Anima yourself to resurrect it with 1 Vitality and 1 Anima.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 2 slots in cost.*
 
   .. tab-item:: Rank 3
 
     | **Simulacrum**
-    | Any conjuration you create with a duration of Lifetime or higher gains a lifelike patina, passing as a normal creature without any of the hallmarks of a conjuration. Identifying a simulacrum for what it is requires an Insight check at a difficulty of 3.
-    | The simulacrum also gains a simple personality, typically controlled by the GM but still heeding all commands as normal. If not under your immediate control, it may act as it sees fit, as an ordinary (if extremely naive) tamed/sentient being with undying fealty towards you.
+    | You may choose to give any conjuration you create a lifelike patina, passing as a normal creature without any of the hallmarks of a conjuration. Identifying a *simulacrum* for what it is requires an Insight check at a difficulty of 3.
+    | The simulacrum also gains a simple personality, typically controlled by the GM but still heeding all commands as normal. If not under your immediate control, it may act as it sees fit, as an ordinary and naive living being with undying fealty towards you.
 
-    | **Role Play**
-    | When conjuring a creature within Touch range, you may choose to shunt your senses into its form, taking full control of it. You lose all senses and instead gain those of the conjuration, able to act in its place as an ordinary creature of that sort. This lasts until the conjuration dies, runs its duration, or is dispelled.
+    | **Conceptual Embodiment**
+    | When conjuring a creature within Touch range, you may choose to shunt yourself into its form, taking full control of it as an *embodiment*. You lose all senses and control over your original body and take the place of the embodiment. This lasts until it perishes, runs its duration, or is dispelled.
+    | The embodiment inherits your Insight, current Anima, speech, knowledge, mental traits, spells, arts, paths, and proficiencies. You embody the conjuration to all intents and purposes, including its attributes and physical (but not mental) traits. Its Anima is linked with your original body, and any gains/costs are shared accordingly; when attacking foes in melee with the embodiment, you receive Anima as per normal rules instead. When resurrected with Undying Spectres, the embodiment's Vitality is set to 1 as normal, but your Anima remains the same minus the initial cost of the ability.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 3 slots in cost.*
 
