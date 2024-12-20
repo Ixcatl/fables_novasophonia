@@ -572,12 +572,12 @@ Conjurer
   .. tab-item:: Rank 3
 
     | **Simulacrum**
-    | You may choose to give any conjuration you create a lifelike patina, passing as a normal creature without any of the hallmarks of a conjuration. Identifying a *simulacrum* for what it is requires an Insight check at a difficulty of 3.
-    | The simulacrum also gains a simple personality, typically controlled by the GM but still heeding all commands as normal. If not under your immediate control, it may act as it sees fit, as an ordinary and naive living being with undying fealty towards you.
+    | You may choose to give any conjuration you create a lifelike patina, passing as a normal creature without most of the hallmarks of a conjuration. Identifying a *simulacrum* for what it is requires an Insight check at a difficulty of 3.
+    | The simulacrum also gains a simple personality, typically controlled by the GM but still heeding all commands as normal. If not under your immediate control, it may act as it sees fit even outside of Sense range, as an ordinary and naive living being with undying fealty towards you.
 
     | **Conceptual Embodiment**
-    | When conjuring a creature within Touch range, you may choose to shunt yourself into its form, taking full control of it as an *embodiment*. You lose all senses and control over your original body and take the place of the embodiment. This lasts until it perishes, runs its duration, or is dispelled.
-    | The embodiment inherits your Insight, current Anima, speech, knowledge, mental traits, spells, arts, paths, and proficiencies. You embody the conjuration to all intents and purposes, including its attributes and physical (but not mental) traits. Its Anima is linked with your original body, and any gains/costs are shared accordingly; when attacking foes in melee with the embodiment, you receive Anima as per normal rules instead. When resurrected with Undying Spectres, the embodiment's Vitality is set to 1 as normal, but your Anima remains the same minus the initial cost of the ability.
+    | When conjuring a creature within Touch range, you may choose to shunt yourself into its form, taking full control of it as an *embodiment*. You replace all senses and control over your original body with those of the embodiment. This lasts until it perishes, runs its duration, or is dispelled.
+    | The embodiment inherits your Insight, current Anima, speech, knowledge, mental traits, spells, arts, paths, and proficiencies in place of its own. You otherwise become the creature in all intents and purposes, including its attributes and physical traits. Its Anima is linked with your original body, and any gains/costs are shared accordingly; when attacking foes in melee with the embodiment, you receive Anima as per normal rules instead. When resurrected with Undying Spectres, the embodiment's Vitality is set to 1 as normal, but your Anima remains the same minus the initial cost of the ability.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 3 slots in cost.*
 
