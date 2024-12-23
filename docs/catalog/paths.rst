@@ -260,11 +260,11 @@ Arbalist
   .. tab-item:: Rank 2
 
     | **Zero In**
-    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 2. If you are moved or defend yourself at any point, one stack of Aim is lost, per 2 squares rounded up if moved. During your turn, you may also spend 1 Aim to move the target square 2 squares in any direction, or choose a new square, which resets all Aim.
+    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 2. This is treated as a concentration effect; any spending of Stamina or Anima that does not affect your target square removes 1 Aim. During your turn, you may also spend 1 Aim to move the target square 2 squares in any direction, or choose a new square, which resets all Aim.
     | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
 
     | **Overwatch**
-    | When making a readied action with a ranged attack, ranged weapon art, or spell, the 1 Stamina cost to prepare it is negated.
+    | You can make an attack of opportunity with a ranged or thrown weapon against any creature entering or exiting Zero In's target square.
 
   .. tab-item:: Rank 3
 
@@ -295,7 +295,7 @@ Bombardier
   .. tab-item:: Rank 2
 
     | **Controlled Environment**
-    | When you throw a flask, you may increase its terrain effect radius by one, targeted effects instead being applied as a 3x3 AoE. Flasks thrown can ignore a number of allies or squares within their effect radius up to your Bombardier rank.
+    | When you throw a flask, you may increase its terrain effect radius by one, targeted effects instead being applied as a Burst(1) AoE. Flasks thrown can ignore a number of allies or squares within their effect radius up to your Bombardier rank.
     | Areas of effect from natural ranged weapons or hand pumps may also have their size increased by 1, and ignore a number of allies or squares up to your Bombardier Rank.
 
     | **Efficient Reagents**
@@ -344,8 +344,8 @@ Arcanist
 
   .. tab-item:: Rank 2
 
-    | **TBD**
-    | tbd
+    | **Mind Over Matter**
+    | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice.
 
     | **Prudent Research**
     | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two failed dice on your research roll instead count as successes.
@@ -364,7 +364,7 @@ Thaumaturge
   :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
   :class-body: sd-py-2
 
-  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but reining in living chaos is another matter of miracle-making entirely.
+  Any astronomer worth their salt regards Pandemonium as one of the most potent sources of magic in the Corporeum, but reining it in is another matter of miracle-making entirely.
 
 .. tab-set::
 
@@ -372,7 +372,7 @@ Thaumaturge
 
     *Prefix: "Thaumetic"*
 
-    Thaumaturges derive strength from obscure geometry and sigils, granting powerful command over their magicks with proper positioning. A well-prepared Thaumaturge is a truly fearsome force to be reckoned with.
+    Thaumaturges derive strength from obscure geometry and sigils, granting powerful command over their magicks with good positioning and some luck.
 
   .. tab-item:: Rank 1
 
@@ -382,22 +382,24 @@ Thaumaturge
 
   .. tab-item:: Rank 2
 
-    | **Mind Bloom**
-    | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice. This does not include traditional attack rolls.
-    | While standing within your ley lines, one bonus die is granted for free.
+    | **Funneled Spells**
+    | You gain 1 Anima when you deal direct damage to one or more creatures with a spell. This effect may trigger only once per spell.
 
     | **Spatial Anchor**
-    | While standing within your ley lines, you may choose to Anchor yourself in place during your turn. While Anchored, you cannot move, and you may use Insight on any roll to resist forced movement. Any forced movement received costs Speed instead of moving you, as if you had moved the same number of squares. Movement exceeding your Speed moves you as normal and breaks your Anchor. You may manually break your Anchor during your turn, but doing so reduces your remaining Speed to 2.
+    | While standing within your ley lines, you may choose to Anchor yourself in place during your turn. While Anchored, you cannot move and only replenish 3 Speed per turn, but you may use Insight on any roll to resist forced movement. Any forced movement received costs Speed instead of moving you, as if you had moved the same number of squares. Movement exceeding your Speed moves you as normal and breaks your Anchor.
+    | You may manually break your Anchor during your turn, but doing so reduces your remaining Speed to 2.
 
   .. tab-item:: Rank 3
 
-    | **Astral Projection**
-    | When you cast an area of effect spell that would originate from your square, you may instead have it originate from anywhere within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
-    | While standing within your ley lines, if you cast a spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
+    | **Controlled Chaos**
+    | When attuning spells, you may combine two spells into one *chimeric spell*, merging their difficulty at a minimum of 2. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if necessary.
+    | The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. If the first spell has an AoE, the total difficulty increases by 1; two AoE spells cannot be spliced together. As a rule of thumb, the damage/healing, duration, and unique effects of both component spells are modified individually; all other modifiers may be applied to the chimeric spell itself.
 
-    | **Chimeric Spells**
-    | When attuning spells, you may splice two spells together into one, combining their difficulty at a minimum of 2. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if needed. The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. If the first spell has an AoE, the total difficulty increases by 1. Two AoE spells cannot be spliced together.
-    | Chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
+    | **Astral Projection**
+    | When you cast a spell with an AoE that would originate from your square, you may instead have it originate from any square within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
+
+    | **Font of Power**
+    | While standing within your ley lines, if you cast a Thaumaturge spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell. Additionally, any chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
 
 --------
 
@@ -565,7 +567,7 @@ Conjurer
     | Once per round per conjuration, if it damages a target in melee, roll a number of dice equal to its Conjury slot cost. With 1 success, the conjuration receives 1 Anima as normal from the attack; if its Anima is full, you receive it instead, as long as the conjuration is within Sense range.
 
     | **Undying Spectres**
-    | Any time one of your conjurations in Sense range would perish at 0 Vitality or Anima, you may immediately spend 1 Anima yourself to resurrect it with 1 Vitality and 1 Anima.
+    | Any time one of your conjurations in Sense range would perish at 0 Vitality or Anima, you may immediately spend 1 Anima yourself to restore it with 1 Vitality and 1 Anima.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 2 slots in cost.*
 
@@ -577,7 +579,7 @@ Conjurer
 
     | **Conceptual Embodiment**
     | When conjuring a creature within Touch range, you may choose to shunt yourself into its form, taking full control of it as an *embodiment*. You replace all senses and control over your original body with those of the embodiment. This lasts until it perishes, runs its duration, or is dispelled.
-    | The embodiment inherits your Insight, current Anima, speech, knowledge, mental traits, spells, arts, paths, and proficiencies in place of its own. You otherwise become the creature in all intents and purposes, including its attributes and physical traits. Its Anima is linked with your original body, and any gains/costs are shared accordingly; when attacking foes in melee with the embodiment, you receive Anima as per normal rules instead. When resurrected with Undying Spectres, the embodiment's Vitality is set to 1 as normal, but your Anima remains the same minus the initial cost of the ability.
+    | The embodiment inherits your Insight, current Anima, speech, knowledge, mental traits, spells, arts, paths, and proficiencies in place of its own. You otherwise become the creature for all intents and purposes, including its attributes and physical traits. Its Anima is linked with your original body, and any gains/costs are shared accordingly; when attacking foes in melee with the embodiment, you receive Anima as per normal rules instead. When restored through Undying Spectres, the embodiment's Vitality is set to 1 as normal, but your Anima remains the same minus the initial cost of the ability.
 
     | *You gain 1 Conjury slot, and learn how to conjure an additional creature up to 3 slots in cost.*
 
