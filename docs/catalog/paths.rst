@@ -634,7 +634,7 @@ Abomination
       .. tab-item:: Positive
 
         | **Adaptation**
-        | You gain +1 to one primary attribute. May be stacked twice, but doing so sacrifices -1 from another primary attribute.
+        | You gain +1 to one primary attribute. May be stacked twice, but doing so penalizes -1 from another primary attribute.
 
         | **Jittering Haste**
         | You gain +2 bonus dice to initiative and +1 maximum Stamina. Should this surpass the normal stamina cap, you gain +1 Speed instead.
@@ -667,7 +667,7 @@ Abomination
         | You gain immunity to Bleeding and 1 DR against physical damage, as your flesh immediately closes any surface wounds.
 
         | **Brainwash**
-        | Any creature that deals at least 1 damage with a bite, or consumes your flesh and blood, must make an Insight check with successes equal to your Abomination rank or else fall under your spell. Until the next rest, you score an automatic 2 successes on any social checks against that creature. You gain Brainwash as poison and targeted flask blueprints, which you can create at the cost of 1 Vitality. These items immediately become useless if you lose this mutation at any point.
+        | Any creature that successfully damages you with a bite, or otherwise consumes your flesh and blood, must make an Insight check with successes equal to your Abomination rank or else fall under your spell. Until the next rest, you score an automatic 2 successes on any social checks against that creature. You gain Brainwash as poison and targeted flask blueprints, which you can create at the cost of 1 Vitality. If you gain Brainwash through a temporary mutation, should you lose it at any point, these items immediately become useless.
         | *Incompatible if you have no Abomination ranks. If you gain a natural weapon trait, such as from Bioweapon, you can use Brainwash as its poison/flask effect if it has one.*
 
         | **Anima Reaver**
@@ -706,9 +706,9 @@ Abomination
         | You have +10 Hunger, and *consumption* is now a key word for your Ambitions, if you have them.
         | *Can be stacked more than once through temporary mutations. If gained through Metamorphosis, it applies even while not transformed. If gained through a temporary mutation, it immediately reduces Belly by 10 alongside its normal effects.*
 
-        | **Nullifying Tumor**
-        | One positive mutation from Metamorphosis or The Burgeoning (or your newest positive mutation) is negated.
-        | *Can be stacked as long as you have positive mutations.*
+        | **Nullifying Tumors**
+        | One positive mutation from Metamorphosis or The Burgeoning is negated.
+        | *Can be stacked as long as you have positive mutations. If gained through a temporary mutation, your newest positive mutation is negated instead.*
 
   .. tab-item:: Rank 1
 
