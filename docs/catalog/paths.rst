@@ -26,7 +26,7 @@ Duelist
   .. tab-item:: Rank 1
 
     | **Guard Breaker**
-    | Your weapon attack rolls against the most recent enemy(s) you have successfully damaged with an attack gain +1 :term:`favor`.
+    | Your weapon attack rolls against the most recent enemy(s) you have successfully damaged with the same weapon gain +1 :term:`favor`.
 
   .. tab-item:: Rank 2
 
