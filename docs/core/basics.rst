@@ -51,16 +51,19 @@ The GM declares which primary attribute should be used (Might, Grace, Mettle, In
 
 Opposed Checks
 --------------
-A character resisting or disrupting the effects of another's actions may need to roll an *opposed check*. These are made similarly to direct checks, except each succeeding die negates one success from the check being opposed. Whichever still has successes left after this transaction is considered the winner; if the rolls have even successes, however, the second check *made as a reaction to the first* wins.
+A character resisting or disrupting the effects of another's actions may need to roll an *opposed check*. These are made similarly to direct checks, except each succeeding die negates one success from the check being opposed. If all successes are negated from the original check, it fails.
 
-Some opposed checks might be suggested by the GM, such as resisting an overt magical effect; others might not be so obvious, or are hidden from the players entirely, and would require a player to use their own perception to call the GM's bluff. Either way, an incoming opposed check that is not contested wins by default with its full number of successes.
+Some opposed checks might be suggested by the GM or rulebook, such as resisting an overt magical effect; others might not be so obvious, or are hidden from the players entirely, and would require a player to use their own perception to call the GM's bluff. Either way, by default, any incoming opposed check that is not contested is a guaranteed success.
+
+.. important::
+   Not all rolls made between two contested characters are opposed checks; they are strictly labeled as such. For example, neither an attack nor the parry defending against it are opposed checks.
 
 .. admonition:: Example...
    :class: note
 
-   An enemy makes an attack, taking a swing at a player with their sword. They roll their check with Might as usual, coming up with an appropriate number of dice for their attack. The player character in question chooses to dodge out of the way, an opposed action using Grace. If their dodge roll removes all of the attack's successes, the attack is nullified and the character risks no damage.
+   In combat, an enemy attempts to cast the Command spell on a player character. Since the spell's effect calls for an opposed Insight check, the caster makes their roll and tallies the results while the player reacts in kind with their own Insight check. Should the player roll equal or more successes to the caster's, the spell fails; otherwise, they fall under the caster's spell.
 
 .. admonition:: Another example...
    :class: note
 
-   A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make a Insight check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
+   A player character is interrogating someone for information, wherein the GM has the NPC make an unannounced roll to lie. The player would grow suspicious and - of their own volition - make an Insight check, using their character's "Kenning" skill with the GM's permission. If the same or more successes were rolled than the liar rolled to deceive, the deception is revealed to the player and their character.
