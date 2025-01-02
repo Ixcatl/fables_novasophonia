@@ -82,13 +82,13 @@ Every rest, the creature loses Belly equal to its Hunger. This can lower Belly i
       * - 0 or above
         - Sleeping with 0 or higher Belly fully replenishes a creature's Anima, and restores 1 Vitality for every sleep action taken during a rest. 1 attribute damage is also recovered for each attribute.
       * - Below 0
-        - A creature with this much Belly or lower gains half as much Anima, rounded up, from rest.
+        - A creature with this much Belly or lower gains only half its maximum Anima, rounded up, from sleep.
       * - Below -5 * Hunger
         - In addition to the effect above, a creature with this much Belly or lower suffers -1 to all primary attributes, but may roll to spot food twice and take the better result.
       * - Below -10 * Hunger
         - The creature is dead, having succumbed to starvation.
 
-At the GM's discretion, an extended duration without rest may cost additional Belly.
+At the GM's discretion, characters going long periods without rest may burn through additional Belly.
 
 Charm, Fright, & Style
 --------------
