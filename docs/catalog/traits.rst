@@ -31,17 +31,17 @@ Sorcerer
 --------
 | *Mental*
 | *Trait value:* ``-3``
-| You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any memorized spells from that path without the help of an arcane focus.
-| You must have one usable, empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits, you are treated as always wielding a talisman.
+| You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any prepared spells from that path without the help of an arcane focus. If you 1 or no ranks in your chosen path, you may also cast its spells up to a difficulty of 3.
+| You must have one usable, empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits which require a talisman, you are treated as always wielding a talisman.
 
-Talent
+Talented
 --------
 | *Mental*
 | *Trait value:* ``-2``
-| You have a natural penchant for a particular skill. When using that skill to add dice to a roll, one of those dice is an automatic success instead of being rolled.
+| You have a penchant for a particular skill. When using that skill to add dice to a roll, one failed die is instead treated as a guaranteed success.
 | This trait may be taken multiple times, but never for the same skill.
 
-Team Tactics
+Wingman
 --------
 | *Mental*
 | *Trait value:* ``-2``
