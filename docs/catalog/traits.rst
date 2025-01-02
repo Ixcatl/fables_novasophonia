@@ -32,7 +32,7 @@ Sorcerer
 | *Mental*
 | *Trait value:* ``-3``
 | You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any prepared spells from that path without the help of an arcane focus. If you have 1 or no ranks in your chosen path, you may also cast its spells up to a difficulty of 3.
-| You must have one usable, empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits which require a talisman, you are treated as always wielding a talisman.
+| You must have one usable empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits which require a talisman, you are treated as always wielding a talisman.
 
 Talented
 --------
