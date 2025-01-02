@@ -18,9 +18,7 @@ Primary attributes can also be tracked in half numbers; rather than receiving an
 
 Might
 =====
-A measure of strength and physical fitness.
-
-Might determines one's effectiveness at swinging a weapon or parrying incoming blows. For checks, Might may be used for shows of brute force, lifting power, or strenuous athleticism.
+Might determines one's effectiveness at swinging a weapon or parrying incoming blows. For checks, Might may be used for shows of brute force, lifting power, or physical fitness.
 
 Load
 ----
@@ -33,8 +31,6 @@ A character's Load score is equal to their Might rounded down. They may carry Bu
       
 Grace
 =====
-A measure of how fine and swift a creature can be in their movements.
-
 Grace determines one's effectiveness at using ranged weaponry or dodging incoming danger. For checks, Grace may be used for manual dexterity, balance, or finesse.
 
 Footwork
@@ -45,8 +41,6 @@ A creature's Footwork is equal to half their Grace without the half-point, then 
 
 Mettle
 ======
-A measure of the thickness of one's skin, metaphorical or otherwise, and the strength of their resolve.
-
 Whenever a physical attack successfully hits, a creature may roll to *soak* the damage, using Mettle to ignore flat damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
 
 Belt Slots
@@ -62,9 +56,7 @@ Any given item takes up Belt slots equal to its Bulk, or 1, whichever is higher.
 
 Insight
 =====
-A measure of the perception, reasoning, and worldly knowledge of a character.
-
-Insight is used for most aspects of magic and tinkering, in addition to checks using keen senses, sharp intuition, or recalled lore.
+Insight is used for most aspects of magic and tinkering, in addition to checks using perception, reasoning, or worldly knowledge.
 
 Technique Slots
 ---------------
@@ -80,6 +72,22 @@ Hunger and Belly
 Hunger affects how much food a creature must eat, while Belly is determined by Hunger and is a measure of how sated they are. A creature has maximum Belly equal to their Hunger value.
 
 Every rest, the creature loses Belly equal to their Hunger. This can lower Belly into negative values, and various effects worsen as Belly decreases further.
+
+ .. list-table::
+     :widths: 25 75
+     :header-rows: 1
+     :stub-columns: 1
+     
+     * - Belly value
+       - Effects
+     * - 0 or above
+       - Taking a sleep with 0 or higher Belly fully replenishes a creature's Anima, and restores 1 extra Vitality for each sleep camp action. They also recover from 1 attribute damage per attribute.
+     * - Below 0
+       - A creature with this much Belly or lower gains half as much Anima, rounded up, from rest.
+     * - Below -5 * Hunger
+       - In addition to the effect above, a creature with this much Belly or lower suffers -1 to all primary attributes, but may roll to spot food twice and take the better result.
+     * - Below -10 * Hunger
+       - The creature is dead, having succumbed to starvation.
 
 +-----------------------+------------------------------------------------------------------------------------------------------------+
 | Belly Value           | Effects                                                                                                    |
