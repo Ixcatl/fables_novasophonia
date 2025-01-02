@@ -7,12 +7,12 @@ Any being that breathes, walks, or talks features the same basic creature statis
 
 Primary and Secondary Attributes
 ================================
-*Primary attributes* represent a creature's raw capabilities, used in the majority of rolls and checks. Every primary attribute directly determines the values of its associated *secondary attributes*.
+*Primary attributes* represent a creature's raw capabilities, used in the majority of rolls and checks. Every primary attribute determines the base value of its associated *secondary attribute*.
 
-Primary attributes can also be tracked in half numbers; rather than receiving another die, an attribute with an extra .5 point grants +1 reroll when using that attribute.
+Primary attributes can also be tracked in half numbers; an attribute with an extra .5 point grants +1 reroll when using that attribute.
 
 .. note::
-      Each primary attribute and each pool (except for Vitality) is stopped at a maximum of 7. The minimum is also 1, though it is still possible to be reduced to 0 through effects or attribute damage. Attributes cannot be made negative.
+      Each primary attribute and each pool (except for Vitality) is stopped at a maximum of 7. The minimum is also 1, though it is still possible to be reduced to 0 through effects or attribute damage. Attributes or pools cannot be made negative.
 
 --------
 
@@ -41,7 +41,7 @@ A creature's Footwork is equal to half its Grace without a half-point, then roun
 
 Mettle
 ======
-Whenever a physical attack successfully hits, a creature may roll to *soak* the damage, using Mettle to ignore flat damage equal to the successes rolled. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
+Mettle is a measure of how much physical or mental punishment a creature can take, used primarily to soak up damage taken. For checks, Mettle may be used to endure harsh environments, strain one's body, or shake off mental conditions.
 
 Belt Slots
 ---------
