@@ -76,7 +76,6 @@ Every rest, the creature loses Belly equal to their Hunger. This can lower Belly
  .. list-table::
      :widths: 25 75
      :header-rows: 1
-     :stub-columns: 1
      
      * - Belly value
        - Effects
