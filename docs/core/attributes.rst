@@ -69,7 +69,7 @@ Other Attributes
 
 Hunger and Belly
 ----------------
-Hunger affects how much food a creature must eat, while Belly is determined by Hunger and is a measure of satiation itself. A creature has maximum Belly equal to its Hunger value.
+Hunger affects how much food a creature must eat, while Belly is determined by Hunger and is a measure of satiation. A creature has maximum Belly equal to its Hunger value.
 
 Every rest, the creature loses Belly equal to its Hunger. This can lower Belly into negative values, and various effects worsen as Belly decreases further.
 
