@@ -74,7 +74,7 @@ Hunger affects how much food a creature must eat, while Belly is determined by H
 Every rest, the creature loses Belly equal to their Hunger. This can lower Belly into negative values, and various effects worsen as Belly decreases further.
 
 .. list-table::
-      :widths: 10 75
+      :widths: 14 75
       :header-rows: 1
 
       * - Belly value
@@ -87,20 +87,6 @@ Every rest, the creature loses Belly equal to their Hunger. This can lower Belly
         - In addition to the effect above, a creature with this much Belly or lower suffers -1 to all primary attributes, but may roll to spot food twice and take the better result.
       * - Below -10 * Hunger
         - The creature is dead, having succumbed to starvation.
-
-+-----------------------+------------------------------------------------------------------------------------------------------------+
-| Belly Value           | Effects                                                                                                    |
-+=======================+============================================================================================================+
-| 0 or above            | Taking a sleep with 0 or higher Belly fully replenishes a creature's Anima, and restores 1 extra Vitality  |
-|                       | for each sleep camp action. They also recover from 1 attribute damage per attribute.                       |
-+-----------------------+------------------------------------------------------------------------------------------------------------+
-| Below 0               | A creature with this much Belly or lower gains half as much Anima, rounded up, from rest.                  |
-+-----------------------+------------------------------------------------------------------------------------------------------------+
-| Below -5 * Hunger     | In addition to the effect above, a creature with this much Belly or lower suffers -1 to all                |
-|                       | primary attributes, but may roll to spot food twice and take the better result.                            |
-+-----------------------+------------------------------------------------------------------------------------------------------------+
-| Below -10 * Hunger    | The creature is dead, having succumbed to starvation.                                                      |
-+-----------------------+------------------------------------------------------------------------------------------------------------+
 
 At GM discretion, prolonged exertion without rest can cost additional Belly.
 
