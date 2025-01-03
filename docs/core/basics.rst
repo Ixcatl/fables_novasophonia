@@ -1,14 +1,14 @@
 ******
 Basic Mechanics
 ******
-UWR may have a veneer of a traditional fantasy RPG, but most of its mechanics are not shared with the likes of D&D or Pathfinder. It's important to get to know the basics laid out on this page in order to understand the rest of the game systems.
+UWR may have a veneer of a traditional fantasy RPG, but most of its mechanics are not shared with the likes of D&D or Pathfinder. It's important to understand these basics before learning the rest of the game's systems.
 
 ----------------------------
 
 Rolling Dice
 ==========
 
-UWR, identically to HKRPG, features a "dice pool" mechanic at its core, using six-sided dice almost exclusively and counting successes rather than high or low rolls. Each player will want about eight dice, though even more might be necessary in longer campaigns.
+UWR features a "dice pool" mechanic at its core, using six-sided dice almost exclusively and counting a number of winning dice rather than high or low rolls on one die. Each player will want about eight D6 dice, though even more might be necessary in longer campaigns.
 
 Most actions require a roll, or *check*, to count successes by rolling with d6s. Each die that rolls a 5 or 6 is a success; anything below normally does not. Checks between two characters may pit their rolls against one another; others will require a static target of winning dice to succeed. Every different type of check has its own way of determining the number of dice and what its succeeding conditions are.
 
@@ -25,7 +25,7 @@ When someone is faced with a difficult task without any guarantee of success, th
 
 Direct Checks
 -------------
-*Direct* checks are usually called when a character takes an action that carries some risk of failure, and doesn't directly oppose any other characters.
+*Direct checks* are usually called when a character takes an action that carries some risk of failure, and doesn't directly oppose any other characters.
 
 The GM declares which primary attribute should be used (Might, Grace, Mettle, Insight). The player then rolls dice equal to that attribute, adding a number of :term:`bonus dice <die bonus>` equal to their ranks in one relevant skill. If the number of successes equal or surpass the target set by the GM, the player wins the check.
 
