@@ -8,14 +8,14 @@ FoNS may have a veneer of a traditional fantasy RPG, but most of its mechanics a
 Rolling Dice
 ==========
 
-FoNS features a "dice pool" mechanic at its core, using six-sided dice almost exclusively. Rolls are made by counting a number of winning dice, instead of wagering a high or low roll on a single die. Each player will want about eight D6 dice, though even more might be necessary in high-level campaigns.
+This tabletop system features a "dice pool" mechanic at its core, using six-sided dice almost exclusively. Rolls are made by counting a number of winning dice, instead of wagering a high or low roll on a single die. Each player will want about eight D6 dice, but even more might be necessary in high-level campaigns.
 
-Most actions require a roll, or *check*, to count successes by rolling with d6s. Each die that rolls a 5 or 6 is tallied as an individual success. Checks between two creatures may pit their rolls against one another; others will require a static target of winning dice to succeed. Every check has its own way of determining the number of dice and what its succeeding conditions are.
+Most actions require a roll, or *check*, to count successes by rolling with d6s. Each die that rolls a 5 or 6 is tallied as one success. Checks between two creatures may pit their rolls against one another, and others will require a static target of winning dice to succeed. Every check has its own way of determining the number of dice and its conditions for success.
 
 | When making a roll, a character may have access to a certain number of :term:`rerolls <reroll>`. Immediately after a roll is made (but before it is finalized), they may choose a die for each allowed reroll and roll them again. The better of the two outcomes is then used and tallied with the rest.
 | As a rule of thumb, any time a roll would be left with half a die - such as a check with an attribute ending in .5 - a single extra reroll is given instead.
 
-Certain exceptionally easy rolls may also :term:`favor` towards the lower end. A check with +1 favor, for instance, will have a success range of 4-6 instead of 5-6, making it substantially easier to pass.
+Certain exceptionally easy rolls may also :term:`favor` towards the lower end. A check with +1 favor, for instance, will have a success range of 4-6 instead of 5-6, making it much easier to pass.
 
 ----------------------------
 
@@ -54,10 +54,10 @@ Opposed Checks
 --------------
 A character imposing an action on another - or resisting the actions of another - may need to roll an *opposed check*. These are made similarly to direct checks, except each succeeding die negates one success from the check being opposed. If all successes are negated from the original check, it fails.
 
-Some opposed checks might be suggested by the GM or rulebook, such as resisting an overt magical effect. Others might not be so obvious, or are hidden from the players entirely, and would require a player to use their own perception to call the GM's bluff. Either way, by default, any incoming opposed check that is not contested is a guaranteed success.
+Some opposed checks might be suggested by the GM or rulebook, such as resisting an overt magical effect. Others might not be so obvious, or are hidden from the players entirely, and would require one's own perception to call the GM's bluff. Either way, by default, any incoming opposed check that is not contested is a guaranteed success.
 
 .. important::
-   Not all rolls made between two contested characters are opposed checks; they are strictly labeled as such. For example, neither an attack nor the parry defending against it are opposed checks.
+   Not all rolls made between two contested characters are opposed checks. For example, neither an attack nor the parry defending against it are opposed checks.
 
 .. admonition:: Example...
    :class: note
