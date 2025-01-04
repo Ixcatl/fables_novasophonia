@@ -9,10 +9,9 @@ Primary and Secondary Attributes
 ================================
 *Primary attributes* represent a creature's raw capabilities, used in the majority of rolls and checks. Every primary attribute determines the base value of its associated *secondary attribute*.
 
-Primary attributes can also be tracked in half numbers; an attribute with an extra .5 point grants +1 reroll when using that attribute.
+Primary attributes can also be tracked in half points; an attribute with an extra .5 point grants +1 reroll when using that attribute, as per basic rules.
 
-.. note::
-      Each primary attribute and each pool (except for Vitality) is stopped at a maximum of 7. The minimum is also 1, though it is still possible to be reduced to 0 through effects or attribute damage. Attributes or pools cannot be made negative.
+Primary attributes peak at a maximum permanent value of 7. Their minimum permanent values are 1, though it is still possible to reduce them to 0 through effects or attribute damage. Attributes cannot be made negative.
 
 --------
 
@@ -22,7 +21,7 @@ Might determines a creature's effectiveness at swinging a weapon or parrying inc
 
 Load
 ----
-A creature's Load score is equal to its Might rounded down, allowing it to carry Bulk up to its Load score without penalty. Exceeding this limit will impose a -1 :term:`die penalty` to all Might or Grace based rolls, and an additional 1 taxed Stamina on any action costing Stamina. A creature physically cannot carry any more than twice its Load score.
+A creature's Load score is equal to its Might rounded down, allowing it to carry Bulk up to its Load score without penalty. Exceeding this limit will impose a -1 :term:`die penalty` to all Might or Grace based rolls and an additional 1 taxed Stamina on any action costing Stamina. A creature physically cannot carry any more than twice its Load score.
 
 .. Tip::
       An item marked with Light or 'L' weighs 1/3 of a point of Bulk. Every third Light item (when not rendered weightless by items such as pouches) counts as one point of Bulk.
@@ -35,7 +34,7 @@ Grace determines a creature's effectiveness at using ranged weaponry or dodging 
 
 Footwork
 --------
-A creature's Footwork is equal to half its Grace without a half-point, then rounded up. Each round, it may move a distance in squares within enemies' threat range equal to its Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack of opportunity as normal.
+A creature's Footwork is equal to half its Grace (sans half point, if any) rounded up. Each round, it may move a distance in squares within enemies' threat range equal to its Footwork without provoking an attack of opportunity. Leaving threat range still provokes an attack of opportunity as normal.
 
 --------
 
@@ -60,7 +59,7 @@ Insight is used for most aspects of magic and tinkering, in addition to checks u
 
 Technique Slots
 ---------------
-Creatures have Technique slots equal to their Insight rounded down. These slots are used to prepare weapon arts and spells, for quick use in combat or otherwise.
+Creatures have Technique slots equal to their Insight rounded down. These slots are allocated to prepare weapon arts and spells for regular use.
 
 --------
 
@@ -80,11 +79,11 @@ Every rest, the creature loses Belly equal to its Hunger. This can lower Belly i
       * - Belly value
         - Effects
       * - 0 or above
-        - Sleeping with 0 or higher Belly fully replenishes a creature's Anima, and restores 1 Vitality for every sleep action taken during a rest. 1 attribute damage is also recovered for each attribute.
+        - Sleeping with 0 or higher Belly fully replenishes a creature's Anima and restores 1 Vitality for every sleep action taken during a rest. 1 attribute damage is also recovered for each attribute.
       * - Below 0
-        - A creature with this much Belly or lower gains only half its maximum Anima, rounded up, from sleep.
+        - A creature with this much Belly or lower gains only half its maximum Anima, rounded up, from sleep. Additional sleep actions in the same rest will not further restore Anima.
       * - Below -5 * Hunger
-        - In addition to the effect above, a creature with this much Belly or lower suffers -1 to all primary attributes, but may roll to spot food twice and take the better result.
+        - In addition to the effect above, a creature with this much Belly or lower suffers -1 to all primary attributes.
       * - Below -10 * Hunger
         - The creature is dead, having succumbed to starvation.
 
@@ -92,14 +91,14 @@ At the GM's discretion, characters going long periods without rest may burn thro
 
 Charm, Fright, & Style
 --------------
-These three attributes affect how a creature interacts socially with others. According to roleplay preferences, they can represent its appearance, how it acts, or even how it smells. Unlike other secondary or miscellaneous attributes, these are used in associated social checks, and follow similar rules to primary attributes, including the maximum of 7. See Social for more information.
+These three attributes affect how a creature interacts socially with others. According to roleplay preferences, they can represent its appearance, how it acts, or even how it smells. These are used in associated social checks, and follow similar rules to primary attributes, including maximum/minimum values. See Social for more information.
 
 .. tip::
       When distributing your bonus starting points for Charm/Fright, they may be broken up into half points (0.5) if desired.
 
 Speed
 -----
-Speed determines how quickly a creature can move about or interact with its environment. It may move a number of spaces per turn equal to its Speed.
+Speed determines how quickly a creature can move about or interact with its environment. It may move a number of squares per turn equal to its Speed.
 
 Attunement Points
 -------
@@ -107,12 +106,12 @@ A creature has a base of 3 Attunement points plus its total Path ranks. These ar
 
 Absorption
 ----------
-Some creatures have an Absorption score. After all DR has reduced the damage risked, and soaking has reduced the damage taken, Absorption applies. Absorption reduces the damage taken to 1, plus 1 for every time the damage meets the score and rolls over. Unless specified, Absorption applies to all damage except for :term:`true damage <damage type: true>`.
+Some creatures have an Absorption score. After all DR has reduced the damage risked, and soaking has reduced the damage taken, Absorption applies. Absorption reduces the damage taken to 1, plus however many times the Absorption score fits into it. Unless specified, Absorption applies to all damage except for :term:`true damage <damage type: true>`.
 
 .. admonition:: Example...
       :class: note
 
-      A creature has an Absorption of 3, and receives a devastating 7 damage after all other sources damage reduction. This damage would be reduced to a base of 1, and since its Absorption value fits into 7 twice, an additional 2 would be stacked on top, ending in a total of 3 damage received.
+      A creature has an Absorption of 3 and somehow receives 7 damage after all other sources damage reduction. This damage would be reduced to a base of 1, and since its Absorption value fits into 7 twice, 2 is added, ending in a total of 3 damage received.
 
 Bulk
 ----
@@ -120,16 +119,18 @@ Bulk is how much a creature weighs, should another wish to carry it. If a creatu
 
 Size
 ----
-Every creature has a set, incremental size. Small and Sverage creatures occupy one square, while Large ones occupy a space of 2 squares cubed. Stranger sizes may exist, such as Huge(3^3) or Colossal(4^4).
+Every creature has a set, incremental size. Small and Average creatures occupy one square, while Large ones occupy a space of 2 squares cubed. Stranger sizes may exist, such as Huge(3^3) or Colossal(4^4).
 
 .. note::
-      A creature cannot grapple or stun a creature more than one size above its own.
+      A creature cannot grapple or stun another more than one size above its own.
 
 --------
 
 Pools
 =====
-Unlike attributes, which remain static beyond certain effects, *pools* are active resources which fluctuate regularly as actions are taken. Only Vitality, Stamina, and Anima are common between all creatures; unique pools may be available to those with corresponding traits or features.
+Unlike attributes which remain static beyond certain effects, *pools* are active resources which fluctuate regularly as actions are taken. Only Vitality, Stamina, and Anima are common between all creatures; unique pools may be available to those with corresponding traits or features.
+
+Pools share the same minimum and maximum values as attributes, except for Vitality.
 
 --------
 
@@ -137,7 +138,7 @@ Vitality
 --------
 The amount of damage a creature is able to take before dying.
 
-Taking damage reduces Vitality, and a creature reduced to 0 Vitality dies. Particularly driven characters or those controlled by players may enter Death's Door when reduced to 0 Vitality instead.
+Taking damage reduces Vitality, and a creature reduced to 0 Vitality dies. Particularly driven characters or those controlled by players may instead enter Death's Door when reduced to 0 Vitality.
 
 Stamina
 -------
