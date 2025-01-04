@@ -30,7 +30,7 @@ A creature's Load score is equal to its Might rounded down, allowing it to carry
       
 Grace
 =====
-Grace determines a creature's effectiveness at using ranged weaponry or dodging incoming danger. For checks, Grace may be used for manual dexterity, balance, or finesse.
+Grace determines a creature's effectiveness at using ranged weaponry or dodging incoming danger, in addition to its placement in the turn order. For checks, Grace may be used for manual dexterity, balance, or finesse.
 
 Footwork
 --------
