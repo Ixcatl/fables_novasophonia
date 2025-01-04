@@ -119,7 +119,7 @@ Bulk is how much a creature weighs, should another wish to carry it. If a creatu
 
 Size
 ----
-Every creature has a set, incremental size. Small and Average creatures occupy one square, while Large ones occupy a space of 2 squares cubed. Stranger sizes may exist, such as Huge(3^3) or Colossal(4^4).
+Every creature has a specific amount of squares they take up at once. Small and Average creatures occupy one square, while Large ones occupy a space of 2 squares cubed. Certain creatures may be larger, such as Huge(3^3) or Colossal(4^4), or with modified sizes that are asymmetrical entirely. A creature with such will display how many squares it takes up in its character sheet.
 
 .. note::
       A creature cannot grapple or stun another more than one size above its own.
@@ -130,7 +130,7 @@ Pools
 =====
 Unlike attributes which remain static beyond certain effects, *pools* are active resources which fluctuate regularly as actions are taken. Only Vitality, Stamina, and Anima are common between all creatures; unique pools may be available to those with corresponding traits or features.
 
-Pools share the same minimum and maximum values as attributes, except for Vitality.
+Pools share the same minimum and maximum values as attributes, except for Vitality, which does not have an upper limit.
 
 --------
 
