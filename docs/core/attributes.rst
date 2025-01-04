@@ -11,7 +11,7 @@ Primary and Secondary Attributes
 
 Primary attributes can also be tracked in half points; an attribute with an extra .5 point grants +1 reroll when using that attribute, as per basic rules.
 
-Primary attributes peak at a maximum permanent value of 7. Their minimum permanent values are 1, though it is still possible to reduce them to 0 through effects or attribute damage. Attributes cannot be made negative.
+Primary attributes peak at a maximum permanent value of 7. Their minimum permanent value is 1, though it is still possible to reduce them to 0 through effects or attribute damage. Attributes cannot be made negative.
 
 --------
 
