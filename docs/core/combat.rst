@@ -20,7 +20,7 @@ Creatures take up physical space in the world. They may *squeeze* into spaces me
 
 A creature may freely pass through the squares of willing allies, but it must squeeze if stopping in those same square(s). Prone or dead creatures may be moved through or stood upon freely. A Large or larger creature can support a number of creatures within the same spaces as it without any of them squeezing, up to one-fourth of its floor space rounded down - 1 for Large, 2 for Huge, 4 for Colossal, etc.
 
-Attempting to pass through the square(s) of an enemy can be done, but this immediately provokes an attack of opportunity.
+Movement can be made through the square(s) of an enemy, but this immediately provokes an attack of opportunity. Larger creatures do not provoke this attack until they can no longer support creatures within the same spaces; this includes both creatures moving within their spaces and them moving over smaller creatures.
 
 Areas of Effect (AoEs)
 ----------------
