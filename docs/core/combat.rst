@@ -26,4 +26,4 @@ Areas of Effect (AoEs)
 ----------------
 Certain effects may take place across more than one square, known as *areas of effect*, or AoEs. These take four forms - Line, Wide, Cone, or Burst - illustrated below.
 
-.. figure:: img/core/combat/aoe.png
+.. figure:: static/combat_aoe.png
