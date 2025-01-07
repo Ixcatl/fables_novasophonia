@@ -25,3 +25,5 @@ Movement can be made through the square(s) of an enemy, but this immediately pro
 Areas of Effect (AoEs)
 ----------------
 Certain effects may take place across more than one square, known as *areas of effect*, or AoEs. These take four forms - Line, Wide, Cone, or Burst - illustrated below.
+
+.. figure:: img/core/combat/aoe.png
