@@ -4,15 +4,15 @@ Combat & Advanced Actions
 
 Initiative & Turn Order
 ================================
-*Initiative* is the order in which every creature makes their turn during combat. At the very beginning of a fight, before anything else occurs, all combatants must make a Grace roll to determine initiative. The creatures with the highest results on this roll take their turns each round in descending order until combat ends.
+*Initiative* is the order in which every creature makes their turn during combat. At the very beginning of a fight, before anything else occurs, all combatants must make a Grace roll to determine initiative. The creatures with the highest results take their turns each round in descending order until combat ends.
 
-If two creatures result in the same initiative, player characters are given priority, followed by non-player allies, then enemies. Two or more players with the same initiative are allowed to take their turns simultaneously, as long as their turns remain adjacent in the turn order.
+If two creatures have the same initiative, player characters are given priority, followed by non-player allies, then enemies. Two or more players with the same initiative are allowed to take their turns simultaneously, as long as their turns remain adjacent in the turn order.
 
 Squares & Game Space
 ================================
 The game world takes place on a three-dimensional square grid, comprised of cubes known as *squares* or *spaces* typically 5 paces (5 feet) in width.
 
-DDiagonal movement in these squares is twice as expensive for every second diagonal moved; for instance, moving both forward and to the right costs 1 Speed overall, but doing it a second time costs 3 speed, a third time costing 4, and so on. This rule counts against **any movement or range calculation**, which includes normal movement, squares counted for attack range, measuring distance in areas of effect, and more. Any calculation made in all 3 axes costs 1 extra square in addition to this rule.
+Diagonal movement through these squares is twice as expensive for every second diagonal moved; for instance, moving both forward and to the right costs 1 Speed overall, but doing it a second time costs 3 speed, a third time costs 4, and so on. This rule counts against **any movement or range calculation**, which includes normal movement, squares counted for attack range, measuring distance in areas of effect, and more. Any calculation made through all 3 axes of space costs 1 extra square in addition to this rule.
 
 Character Movement
 ----------------
