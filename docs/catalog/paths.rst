@@ -677,9 +677,10 @@ Abomination
         | **Taste for Flesh**
         | You gain the Devourer (Vitality) trait, which also replenishes 5 Belly every time it triggers, but *consumption* is now a key word for your Ambitions, if you have them.
 
-        | **Unshackled Body**
-        | (WIP) You gain the ability to cast <TRAIT-GIVING SPELL NAME> at will with no modification, replacing its Anima cost with 1 Vitality. You may also freely shapeshift into any playable species until your next rest, incurring 1 Mettle damage in the process. You may take any appearance you desire, including that of another character should their appearance be within Sense range. You replace your starting attributes and traits (excluding mental) with those of your target species, keeping all bonuses allocated from levels and otherwise. You may freely select a subspecies, but you must choose the Amalgam alteration.
-        | Losing this mutation at any point immediately reverts you to your original species and removes the effects of <TRAIT-GIVING SPELL NAME>. You may only cast <TRAIT-GIVING SPELL NAME> or shapeshift once per turn.
+        | **Morphology**
+        | (WIP) You gain the ability to cast <TRAIT-GIVING SPELL NAME> with no modification, or shapeshift into any playable species, incurring 1 Mettle damage from either process. Both effects last until your next rest; changing species will dispel the effect of <TRAIT-GIVING SPELL NAME>, requiring an additional cast.
+        | When shapeshifting, you may take nearly any appearance you desire, including that of another character should their appearance be within Sense range; however, if Morphology is gained through Metamorphosis, you may only use the core body plan of your target species, retaining your overall monstrous appearance. You replace your starting attributes and traits (excluding mental) with those of your target species, keeping all bonuses allocated from levels and otherwise. You may also freely select a subspecies, but you must choose the Amalgam alteration.
+        | Losing this mutation at any point immediately reverts you to your original species and dispels the effect of <TRAIT-GIVING SPELL NAME>. You may only cast <TRAIT-GIVING SPELL NAME> or shapeshift once per turn.
 
       .. tab-item:: Negative
 
