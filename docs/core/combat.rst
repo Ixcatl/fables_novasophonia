@@ -19,12 +19,11 @@ Character Movement
 ----------------
 Any creature or character can move in the eight horizontal directions using their Speed, unless otherwise specified.
 
-Diagonal movement taken is twice as expensive for every second diagonal moved. Moving both forward and to the right costs 1 Speed overall; the second time costs 3 speed, the third costs 4, ad infinitum. This rule applies against **any movement or range calculation**, which includes normal movement, squares counted for attack range, measuring distance in areas of effect, and more. Any measurement made through all 3 axes of space counts as two diagonals.
+Diagonal movement is twice as expensive for every second diagonal moved. Moving both forward and to the right costs 1 Speed overall; the second time costs 3 speed, the third costs 4, ad infinitum. This rule applies against **any movement or range calculation**, which includes normal movement, squares counted for attack range, measuring distance in areas of effect, and more. Any measurement made through all 3 axes of space counts as two diagonals.
 
 Creatures take up physical space in the world. They may *squeeze* into spaces meant for those up to one size smaller than themselves; while doing so, they cannot be passed through by others and suffer a -1 die penalty to both attack and defense rolls. Two creatures cannot squeeze within the same square(s).
 
-| A creature may pass through the squares of willing allies, but it must squeeze if stopping in those same square(s). Prone or dead creatures may be moved through or stood upon freely. A Large or larger creature can support a number of creatures within the same spaces as it without any of them squeezing, up to one-fourth of its horizontal space rounded down - 1 for Large, 2 for Huge, 4 for Colossal, etc.
-| Movement can be made through the square(s) of an enemy, but this immediately provokes an attack of opportunity. Larger creatures do not provoke attacks this way until they can no longer support creatures within their spaces; this includes both creatures moving within their spaces and them moving over smaller creatures.
+A creature may pass through the squares of willing allies, but it must squeeze if stopping in those same square(s). Movement can be made through the square(s) of an enemy, but this immediately provokes an attack of opportunity. Prone or dead creatures may be moved through or stood upon freely.
 
 Generally speaking, a creature may climb a number of wall squares equal to its height using its Speed without necessitating a check for climbing or jumping.
 
