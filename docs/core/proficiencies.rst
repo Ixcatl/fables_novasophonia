@@ -1,11 +1,11 @@
 *************
 Proficiencies
 *************
-While it's true that danger lurks around every corner, how well one fights isn't everything. A *proficiency* is similar to a job or a background, encompassing the practical skills and talents a character possesses. Proficiencies have nearly full creative freedom, being able to represent just about anything under the sun.
+While danger lurks around every corner, your fighting prowess doesn't entirely define you. A *proficiency* is similar to a job or a background, encompassing the practical skills and talents you possess. Rather than preset skills to allocate points to, proficiencies consist of player-made keywords with nearly full creative freedom.
 
-Each proficiency covers four different skills. For every rank in a proficiency, a character adds that many dice to checks they make which could reasonably fall under one of their skills. Once a proficiency reaches rank 3, it can't go any higher, but they get to choose one of the four associated skills to master, earning them a special bonus.
+Each proficiency covers four different skills. For every rank in a proficiency, you add that many dice to checks you make which could reasonably fall under one of your skills. Once a proficiency reaches the maximum rank of 3, you may choose one of the four associated skills to master, earning a special tailor-made mastery trait associated with it.
 
-Remember that more specific skills may be granted one or more rerolls for their niche checks. For instance, while "Athletics" may not grant a bonus to climbing a wall, a "Climbing" Skill might give +1 reroll instead.
+Remember that more specific skills may be granted one or more rerolls for niche checks. For instance, while "Athletics" would work for climbing a wall, a "Climbing" Skill might give +1 reroll instead.
 
 .. note::
   If you have multiple proficiencies that share a skill, that skill has dice equal to the combined rank of those proficiencies - but never more than three.
@@ -124,8 +124,3 @@ Please note that these are **merely suggestions** - GM and players alike should 
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
     | Perception            | You are always treated as simultaneously having tremorsense, scent, and sight up to 2 squares away.                                                                                                                      |
     +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-
-Art/Spell Exchange
-====================================
-Instead of using their time to hone a proficiency, a character could put more work into their mystic and martial pursuits. When they gain a proficiency rank after their first, they can forfeit the rank to instead learn one new spell or one new art.
