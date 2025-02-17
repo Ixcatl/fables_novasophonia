@@ -16,10 +16,9 @@ Paths
 .. attention::
   For the full list of available paths to choose from, see :doc:`/catalog/paths`.
 
-Taking the role of character classes from traditional tabletop games, *paths* represent your approach to combat and the backbone of your playstyle. Each path can advance up to a maximum of 3 ranks, but there is no limit to the number of different paths you may embark on, leading to unique synergies among them.
+Taking the role of character classes, *paths* represent your approach to combat and the backbone of your playstyle. Each path can advance up to a maximum of 3 ranks, but there is no limit to the number of different paths you may embark on, leading to unique synergies among them.
 
-| When a new rank in a path is gained, you receive one Attunement point and gain +1 to its maximum respective pool: Stamina if a martial path, Anima if a mystic path. Should you choose, you may instead trade the pool bonus for one advancement.
-| Additionally, when you gain a rank in a mystic path, you can learn a single spell associated with that path.
+When a new rank in a path is gained, you receive one Attunement point and gain +1 to its maximum respective pool: Stamina if a martial path, Anima if a mystic path. Additionally, when you gain a rank in a mystic path, you learn a single spell associated with that path.
 
 Advancements
 ==================
@@ -29,7 +28,14 @@ Advancements
 * +1 to Speed, up to 7.
 * +1 to Load.
 * +1 Technique slot.
+* An advancement trait.
 * +1 quality to one of your eligible natural weapons, up to a maximum of 3 per trait.
 * A weapon modifier for one of your eligible natural weapons, except Threaded. (Natural weapons with the Heavy modifier still don't count against your Load, and only natural projectile weapons can be given the Balanced modifier.)
-* An advancement trait.
 * TODO: MAKE THIS AN ADVANCEMENT TRAIT. (1 value. Gain an additional use of one of your scene-limited abilities - such as traits, mastery abilities, or uses of a recovery flask effect - per scene.)
+
+Trading Bonuses
+=================
+Some bonuses gained on level-up may be traded for others.
+
+* When earning a new rank in a path, you may trade that path's associated pool increase for an additional advancement.
+* When earning a new proficiency rank, you may forfeit the rank to instead learn a new spell or weapon art of your choice.
