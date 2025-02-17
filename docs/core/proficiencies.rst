@@ -3,17 +3,17 @@ Proficiencies
 *************
 A *proficiency* is similar to a job or background, encompassing the practical skills and talents you possess. Rather than preset skills to allocate points into, proficiencies consist of player-made keywords with nearly full creative freedom.
 
-Each proficiency covers four different skills. For every rank in a proficiency, add that many dice to checks you make which could reasonably fall under one of your skills. Once a proficiency reaches the maximum rank of 3, you may choose one of its four skills to master, earning a tailor-made mastery trait associated with it.
+Each proficiency covers four different skills. For every rank in a proficiency, you add that many dice to checks you make which would reasonably fall under one of your skills. More specific skills may be granted one or more rerolls for niche checks. While "Athletics" would work for climbing a wall, a "Climbing" skill might give +1 reroll instead.
 
-Remember that more specific skills may be granted one or more rerolls for niche checks. While "Athletics" would work for climbing a wall, a "Climbing" Skill might give +1 reroll instead.
+Once a proficiency reaches the maximum rank of 3, you may choose one of its four skills to master, earning a tailor-made mastery trait associated with it.
 
 .. note::
-  If you have multiple proficiencies which share a skill, that skill has dice equal to the combined rank of those proficiencies, but never more than three.
+  If you have multiple proficiencies which share a skill, that skill has dice equal to the combined rank of said proficiencies, but never more than three.
 
 Examples
 ============
 
-Please note that these are **merely suggestions** - GM and players alike should collaborate and come up with their own unique proficiencies, skills, uses, and masteries. Get creative!
+Please note that these are **suggestions** - your GM should collaborate and help invent your own unique proficiencies, skills, uses, and masteries.
 
 .. grid:: 1 2 3 3
   :gutter: 4
