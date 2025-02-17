@@ -4,9 +4,9 @@ Combat & Advanced Actions
 
 Initiative & Turn Order
 ================================
-*Initiative* is the order in which every creature makes their turn during combat. At the very beginning of a fight, before anything else occurs, all participants must make a Grace roll to determine initiative. Uniquely, initiative rolls use the sum of all dice rolled instead of tallying successes. The creature with the highest total takes its turn first (followed by the rest in descending order) each round until combat ends.
+*Initiative* is the order in which every creature makes their turn during combat. At the very beginning of a fight, before anything else occurs, all participants must make a Grace roll to determine initiative. Uniquely, initiative rolls use the sum of all dice rolled instead of tallying successes. The creature with the highest total takes its turn first each round, followed by the rest in descending order, until combat ends.
 
-If two characters have the same initiative, player characters are given priority, followed by non-player allies, then enemies. Two or more players who are adjacent in the turn order may take their turns simultaneously.
+If two characters have the same initiative, player characters are given priority, followed by non-player allies, then neutral parties, then enemies. Two or more players who are adjacent in the turn order may take their turns simultaneously.
 
 Squares & Game Space
 ================================
