@@ -10,10 +10,7 @@ If two characters have the same initiative, player characters are given priority
 
 Squares & Game Space
 ================================
-The game world takes place on a three-dimensional square grid, comprised of cubes known as *squares* or *spaces* typically 5 paces (5 feet) in width.
-
-.. note::
-  While a DM could theoretically choose to use precise measurements on a game board instead of strict square spaces, this method isn't playtested or officially supported. Experiment as you may, but take caution.
+The game world takes place on a three-dimensional square grid, comprised of cubes known as *squares* or *spaces* typically 1 pace (5 feet) in width. While you as a GM could theoretically choose to use precise measurements on a game board instead of strict square spaces, this method isn't playtested or officially supported.
 
 Character Movement
 ----------------
