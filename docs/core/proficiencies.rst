@@ -1,14 +1,17 @@
 *************
 Proficiencies
 *************
-While danger lurks around every corner, your fighting prowess doesn't entirely define you. A *proficiency* is similar to a job or a background, encompassing the practical skills and talents you possess. Rather than preset skills to allocate points to, proficiencies consist of player-made keywords with nearly full creative freedom.
+A *proficiency* is similar to a job or background, encompassing the practical skills and talents you possess. Rather than preset skills to allocate points into, proficiencies consist of player-made keywords with nearly full creative freedom.
 
-Each proficiency covers four different skills. For every rank in a proficiency, you add that many dice to checks you make which could reasonably fall under one of your skills. Once a proficiency reaches the maximum rank of 3, you may choose one of the four associated skills to master, earning a special tailor-made mastery trait associated with it.
+Each proficiency covers four different skills. For every rank in a proficiency, add that many dice to checks you make which could reasonably fall under one of your skills. Once a proficiency reaches the maximum rank of 3, you may choose one of its four skills to master, earning a tailor-made mastery trait associated with it.
 
-Remember that more specific skills may be granted one or more rerolls for niche checks. For instance, while "Athletics" would work for climbing a wall, a "Climbing" Skill might give +1 reroll instead.
+Remember that more specific skills may be granted one or more rerolls for niche checks. While "Athletics" would work for climbing a wall, a "Climbing" Skill might give +1 reroll instead.
 
 .. note::
-  If you have multiple proficiencies that share a skill, that skill has dice equal to the combined rank of those proficiencies - but never more than three.
+  If you have multiple proficiencies which share a skill, that skill has dice equal to the combined rank of those proficiencies, but never more than three.
+
+Examples
+============
 
 Please note that these are **merely suggestions** - GM and players alike should collaborate and come up with their own unique proficiencies, skills, uses, and masteries. Get creative!
 
