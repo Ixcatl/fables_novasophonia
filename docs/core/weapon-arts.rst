@@ -1,18 +1,18 @@
 ***********
 Weapon Arts
 ***********
-*Weapon arts* represent the storied techniques of warriors, passed down through generations and perfected into a recognizable form. (redo this line it kinda sucks)
+*Weapon arts* represent special combat techniques, often passed down through generations and honed into a recognizable form. (redo this line it kinda sucks)
 
 Preparing Arts
 ==============
-| A character readies their arts for use by assigning them to Technique slots, which may be done freely during any rest. Any art assigned to a Technique slot may be used at any time.
-| Unprepared arts can still be performed, but only after completing the associated focus action.
+| You ready their arts for use by assigning them to Technique slots, which may be done freely during any rest. Any art assigned to a Technique slot may be used at any time.
+| Unprepared arts can still be performed during combat, but only after completing a focus action.
 
 Using Arts
 ==========
-A character may generally only use one weapon art per turn.
+You may generally only use one weapon art per turn.
 
-Arts may require a particular class of weapon to be used; for instance, sword arts are generally used with swords, while club arts are compatible with club weapons. Many arts are, however, compatible with more than one weapon type, allowing a crafty character to mix up their fighting style.
+Arts may require a particular class of weapon to be used; for instance, sword arts are generally used with swords, while club arts are compatible with club weapons. Many arts are, however, compatible with more than one weapon type, allowing a crafty player to mix up their fighting style.
 
 Using a weapon art costs the Stamina listed for the art, while some arts may have additional costs in Anima, another pool, or even attribute damage. Some arts allow extra Stamina or another resource to be spent to enhance their effects.
 
@@ -24,25 +24,25 @@ Types of Weapon Arts
 
 Normal Arts
 -----------
-These weapon arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from the user's current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
+These weapon arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from your current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
 
-If used with a heavy weapon, the art still inflicts a stack of Off-Balance for each attack performed as part of the art.
+If used with a heavy weapon, you still receive a stack of Off-Balance for each attack performed as part of the art.
 
 Special Arts
 ------------
-These arts are self-contained actions that are *substantially different* from a normal attack, and do not use the normal damage values of the wielded weapon. When used with heavy weapons, they do not inflict any stacks of Off-Balance.
+These arts are self-contained actions that are substantially different from a normal attack, and do not use the normal damage values of the wielded weapon. When used with heavy weapons, you do not receive any stacks of Off-Balance.
 
 If the art still requires a specific type of weapon to use, its attack roll benefits from the weapon's quality.
 
 Augmentation Arts
 -----------------
-Certain arts augment the user's next attack made with a valid weapon. When the user attacks after activating one of these arts, subtract its Stamina cost from the dedicated Stamina of the attack that delivers it. This reduced Stamina does not count as being dedicated for the purposes of adding dice, but additional Stamina can be dedicated normally. The attack is augmented or changed as described in the art.
+Certain arts augment your next attack made with a valid weapon. When you attack after activating one of these arts, subtract its Stamina cost from the dedicated Stamina of the attack that delivers it. Your attack is augmented or changed as described in the art.
 
-The user may instead choose to wait before making the attack. While holding an augmentation art, the user suffers a -2 :term:`die penalty` on all checks but soak checks. If the user starts a turn while holding an augmentation art, they are still considered to have used a weapon art during the new turn.
+You may instead choose to wait before making the attack. While holding an augmentation art, you suffer a -2 :term:`die penalty` on all checks but soak checks. If you start a turn while holding an augmentation art, you are still considered to have used a weapon art during the new turn.
 
 Reaction Arts
 -------------
-Some arts require a trigger to use, or a condition that must be met. However, the user can deploy a reaction art the instant its trigger occurs, even if it is not their turn. In addition, these arts do not count against the limit of a single weapon art per turn.
+Some arts require a trigger to use, or a condition that must be met. However, you can deploy a reaction art the instant its trigger occurs, even if it is not your turn. In addition, these arts do not count against the limit of a single weapon art per turn.
 
 Unique Arts
 -----------
