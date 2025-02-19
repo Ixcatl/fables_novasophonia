@@ -23,8 +23,7 @@ A spell with an attack roll may be dodged, but not parried without special equip
 
 Ritualized Spells
 ----------
-| Spells that you know but don't have prepared can still be performed. These *ritualized spells* are more powerful, but take far longer to cast.
-| A spell cast in this manner may have a difficulty up to twice your total ranks in all mystic paths, but for every 1 difficulty, it takes 4 rounds to cast. This is treated as a long-term focus action.
+Spells that you know but don't have prepared can still be performed. These *ritualized spells* are more powerful, but take far longer to cast. A spell cast in this manner may have a difficulty up to twice your total ranks in all mystic paths, but for every 1 difficulty, it takes 4 rounds to cast. This is treated as a long-term focus action.
 
 Rituals
 ==========
@@ -34,3 +33,46 @@ Should you wish to design a ritual to perform, or otherwise perform a spell at a
 
 .. attention::
   For a number of example rituals to use as inspiration, see :doc:`Catalog: Rituals </catalog/rituals>`.
+
+Spell Modifiers
+================
+When casting a spell at any time, it can be *modified* to alter or improve its effects. Modifiers allow any spell to be customized deeply for each individual cast, at the cost of additional casting difficulty.
+
+Note that only certain components of spells may be given range, duration, or damage/healing modifiers, indicated clearly by a line above the spell's extended description, such as "Range A: Close". Unless the spell states otherwise, statistics not listed in this way cannot be modified.
+
+You may choose to lower components when modifying them, but this does not change the spell's difficulty.
+
+Range
+--------
+Range may be increased or decreased incrementally, following the chart below. Further difficulty increases are additive.
+
+.. list-table::
+    :widths: 12 50 5
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Range
+      - 
+      - Difficulty
+    * - Self
+      - The spell may only target yourself.
+      - 0
+    * - Touch
+      - Can target squares that may be touched with an unarmed attack - typically within a melee range of 1.
+      - +1
+    * - Close
+      - Can target squares equal to or less than half your Insight +1, rounded up.
+      - +1
+    * - Far
+      - Can target squares equal to or less than your Insight +3.
+      - +1
+    * - Sense
+      - Can target any square you can accurately sense.
+      - +2
+
+Duration
+--------
+Duration may be increased or decreased incrementally, following the chart below. Further difficulty increases are additive, and longer durations may be impossible without outside intervention.
+
+.. caution::
+  A spell's duration cannot be "cancelled" until it runs its course naturally.
