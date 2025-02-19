@@ -160,24 +160,24 @@ Berserker
 
   .. tab-item:: Summary
 
-    *Prefix: "Raging"*
+    *Prefix: "Wrathful"*
 
-    The life of a Berserker is often short, but a fighter without regard for their own safety is the most dangerous of all. A Berserker's brutal advance taxes the body and soul.
+    The life of a Berserker is often short, but a fighter without regard for their own safety is the most dangerous of all. The Berserker's brutal advance taxes the body and soul.
 
   .. tab-item:: Rank 1
-
-    | **Onslaught**
-    | After you make an attack and your target has made a defense roll, you may choose to reroll a number of failures up to twice your Berserker rank. If you do, roll a d6. If the result is less than your current Vitality, you suffer 2 :term:`true damage <damage type: true>`.
-
-  .. tab-item:: Rank 2
 
     | **Burnout**
     | When making an attack, parrying, or dodging, you may dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
 
+  .. tab-item:: Rank 2
+
+    | **Onslaught**
+    | After you make an attack and your target has made a defense roll (if any), you may choose to reroll a number of failures up to twice your Berserker rank. If you do, roll a d6. If the result is less than your current Vitality, you suffer 2 :term:`true damage <damage type: true>`.
+
   .. tab-item:: Rank 3
 
     | **Bloodbath**
-    | Slaying an enemy restores 1 Vitality. If the killing blow was made using a melee natural weapon, 2 Vitality is restored instead.
+    | Slaying an enemy restores 1 Vitality. If the killing blow was made using a natural melee weapon, 2 Vitality is restored instead.
 
 --------
 
@@ -264,7 +264,7 @@ Arbalist
     | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
 
     | **Overwatch**
-    | You can make an attack of opportunity with a ranged or thrown weapon against any creature entering or exiting Zero In's target square.
+    | You can make an attack of opportunity with a ranged or thrown weapon against any creature entering or exiting Zero In's target square. However, creatures can make a tactics- or perception-adjacent skill check to determine where you are currently aiming.
 
   .. tab-item:: Rank 3
 
