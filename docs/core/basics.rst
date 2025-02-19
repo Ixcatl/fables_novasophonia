@@ -57,7 +57,7 @@ A character imposing an action on another - or resisting the actions of another 
 Some opposed checks might be suggested by the GM or rulebook, such as resisting an overt magical effect. Others might not be so obvious, or are hidden from the players entirely, and would require one's own perception to call the GM's bluff. Either way, by default, any incoming opposed check that is not contested is a guaranteed success.
 
 .. important::
-   Not all rolls made between two contested characters are opposed checks. For example, neither an attack nor the parry defending against it are opposed checks.
+   Opposed checks are not necessarily the same as other contesting rolls, such as attack rolls. For example, neither an attack nor the dodge/parry defending against it are opposed checks.
 
 .. admonition:: Example...
    :class: note
