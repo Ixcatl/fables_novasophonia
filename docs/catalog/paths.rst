@@ -104,7 +104,7 @@ Warrior
   .. tab-item:: Rank 2
 
     | **Second Wind**
-    | Whenever you end your turn with 0 Stamina, you regain 1 Stamina.
+    | Any time you end your turn with 0 Stamina, you regain 1 Stamina.
 
     | **Uproot**
     | You may attack an empty square with your weapon at 1 Stamina cost, creating :term:`rough terrain`. Creatures burrowed within the terrain at the time take 2 blunt damage and are forced to surface.
@@ -112,7 +112,7 @@ Warrior
   .. tab-item:: Rank 3
 
     | **Law of Conservation**
-    | You treat taxed Stamina spent on an attack as dedicated to that attack, increasing the number of dice rolled as usual. When spending Stamina to remove stacks of Off-Balance, your next attack within the same turn receives an equal amount of Stamina dedicated for free.
+    | Taxed Stamina spent on an attack counts as dedicated Stamina for you, increasing the number of dice rolled as usual. When spending Stamina to remove stacks of Off-Balance, your next attack within the same turn receives the same amount of Stamina as was spent dedicated for free.
 
 --------
 
