@@ -231,18 +231,20 @@ Ranger
 
   .. tab-item:: Rank 1
 
-    | **Quick Nock**
-    | At any time during your turn, you may add 1 Stamina tax to further ranged or thrown attacks on your turn to gain +1 favor with them. This feature does not stack.
+    | **Heavy Shot**
+    | At any time during your turn, you may add 1 Stamina tax to further ranged or thrown attacks on your turn to gain +1 favor with them. This bonus does not stack.
 
-    | **???**
-    | You do not trigger attacks of opportunity when making ranged or thrown attacks.
-    | TODO PUT THIS SOMEWHERE ELSE PROBABLY
+    | **Quick Nock**
+    | The second non-paired ranged or thrown attack you make in a turn ignores 1 Stamina tax.
 
   .. tab-item:: Rank 2
 
     | **Rebound**
     | Once per round, should your thrown or ranged attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricocheted attack inherits the same number of successes as the original, and is otherwise functionally identical. If the original target was adjacent to a wall, the ricochet may instead target them a second time. An attack cannot ricochet more than once.
 
+    | **???**
+    | You do not trigger attacks of opportunity when making ranged or thrown attacks.
+    | TODO?
 
   .. tab-item:: Rank 3
 
