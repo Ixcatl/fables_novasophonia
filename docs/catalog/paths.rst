@@ -231,7 +231,12 @@ Ranger
 
   .. tab-item:: Rank 1
 
+    | **Quick Nock**
+    | At any time during your turn, you may add 1 Stamina tax to further ranged or thrown attacks on your turn to gain +1 favor with them. This feature does not stack.
 
+    | **???**
+    | You do not trigger attacks of opportunity when making ranged or thrown attacks.
+    | TODO PUT THIS SOMEWHERE ELSE PROBABLY
 
   .. tab-item:: Rank 2
 
