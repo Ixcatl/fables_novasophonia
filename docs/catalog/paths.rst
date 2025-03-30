@@ -166,6 +166,9 @@ Berserker
 
   .. tab-item:: Rank 1
 
+    | **Adrenaline Rush**
+    | When you are at 4-5 Vitality, you gain 1 DR. When at 3 Vitality or below, or when at Death's Door, you gain 2 DR.
+
     | **Burnout**
     | When making an attack, parrying, or dodging, you may dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
 
