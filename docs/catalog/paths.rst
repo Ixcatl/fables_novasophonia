@@ -26,7 +26,7 @@ Duelist
   .. tab-item:: Rank 1
 
     | **Guard Breaker**
-    | Your weapon attack rolls against the most recent enemy(s) you have successfully damaged with the same weapon gain +1 :term:`favor`.
+    | Your weapon attack rolls against the most recent enemy(s) you have successfully damaged with the same weapon gain +1 non-stacking :term:`favor`.
 
   .. tab-item:: Rank 2
 
@@ -162,12 +162,12 @@ Berserker
 
     *Prefix: "Wrathful"*
 
-    The life of a Berserker is often short, but a fighter without regard for their own safety is the most dangerous of all. The Berserker's brutal advance taxes the body and soul.
+    The life of a Berserker is often short, but a fighter with reckless abandon is the most dangerous of all. The Berserker's brutal advance taxes the body and soul.
 
   .. tab-item:: Rank 1
 
     | **Adrenaline Rush**
-    | When you are at 4-5 Vitality, you gain 1 DR. When at 3 Vitality or below, or when at Death's Door, you gain 2 DR.
+    | While you are at 3-5 Vitality, you have +1 DR. While at 1-2 Vitality or Death's Door, you have +2 DR. This DR applies against environmental and magical damage, but otherwise does not stack with DR from armor.
 
     | **Burnout**
     | When making an attack, parrying, or dodging, you may dedicate Vitality in place of Stamina, as long as at least 1 Stamina has already been dedicated to the action.
@@ -232,10 +232,10 @@ Ranger
   .. tab-item:: Rank 1
 
     | **Heavy Shot**
-    | At any time during your turn, you may add 1 Stamina tax to further ranged or thrown attacks on your turn to gain +1 favor with them. This bonus does not stack.
+    | When making a ranged or thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks as usual.
 
     | **Quick Nock**
-    | The second non-paired ranged or thrown attack you make in a turn ignores 1 Stamina tax.
+    | When making a ranged or thrown attack, you can choose to ignore 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs a Stamina tax to initiate (such as a paired attack), that tax cannot be ignored.
 
   .. tab-item:: Rank 2
 
