@@ -232,21 +232,28 @@ Ranger
   .. tab-item:: Rank 1
 
     | **Heavy Shot**
-    | When making a ranged or thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks as usual.
+    | When making a ranged/thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks as usual.
 
     | **Quick Nock**
-    | When making a ranged or thrown attack, you can choose to ignore 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs a Stamina tax to initiate (such as a paired attack), that tax cannot be ignored.
+    | When making a ranged/thrown attack, you can choose to ignore 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs Stamina tax to initiate (such as with a paired attack), that tax cannot be ignored.
 
   .. tab-item:: Rank 2
 
     | **Rebound**
-    | Once per round, should your thrown or ranged attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricocheted attack inherits the same number of successes as the original, and is otherwise functionally identical. If the original target was adjacent to a wall, the ricochet may instead target them a second time. An attack cannot ricochet more than once.
+    | Once per round, should your ranged/thrown attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricocheted attack inherits the same number of successes as the original, and is otherwise functionally identical. If the original target was adjacent to a wall, the ricochet may instead target them a second time. An attack cannot ricochet more than once.
 
     | **???**
-    | You do not trigger attacks of opportunity when making ranged or thrown attacks.
-    | TODO?
+    | You can choose to deal no damage with an attack to apply a debuff to an enemy which reduces accuracy. This move uses a flat success threshold of 2 rather than being defended against. Similar to Starfinder harrying fire. Heavy WIP?
+    | TODO
 
   .. tab-item:: Rank 3
+
+    | **???**
+    | The feature from Rank 2 gains the ability to also reduce defense. Only one of the two effects may be applied per turn.
+    | TODO
+
+    | **???**
+    | You do not trigger attacks of opportunity as usual when making ranged or thrown attacks.
 
 --------
 
