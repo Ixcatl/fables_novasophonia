@@ -147,7 +147,7 @@ Rogue
   .. tab-item:: Rank 3
 
     | **Fighting Dirty**
-    | After successfully dealing damage to a target, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect lasts until the beginning of your next turn.
+    | After successfully dealing damage to a target with a weapon, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect lasts until the beginning of your next turn.
 
     | *You learn another trap blueprint of any rarity.*
 
@@ -232,10 +232,10 @@ Ranger
   .. tab-item:: Rank 1
 
     | **Heavy Shot**
-    | When making a ranged/thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks as usual.
+    | When making a ranged/thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks with further attacks that turn as usual.
 
     | **Quick Nock**
-    | When making a ranged/thrown attack, you can choose to ignore 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs Stamina tax to initiate (such as with a paired attack), that tax cannot be ignored.
+    | When making a ranged/thrown attack, you can choose to ignore (not remove) 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs Stamina tax to initiate (such as with a paired attack), that tax cannot be ignored.
 
   .. tab-item:: Rank 2
 
@@ -252,8 +252,8 @@ Ranger
     | The feature from Rank 2 gains the ability to also reduce defense. Only one of the two effects may be applied per turn.
     | TODO
 
-    | **???**
-    | You do not trigger attacks of opportunity as usual when making ranged or thrown attacks.
+    | **Perfect Reflex**
+    | You do not trigger attacks of opportunity when making ranged/thrown attacks.
 
 --------
 
@@ -272,16 +272,17 @@ Arbalist
     | You may attack with ranged weapons using Might to hit instead of Grace.
 
     | **Long Shot**
-    | When you make a ranged or spell attack, its range can be surpassed by up to twice its original. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
+    | When you make a ranged/spell attack, its range can be surpassed by up to twice its original. Each square beyond its original range inflicts a -1 die penalty on the attack roll.
 
   .. tab-item:: Rank 2
 
     | **Zero In**
-    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against any targets in that square - which stacks up to 2. This is treated as a concentration effect; any spending of Stamina or Anima that does not affect your target square removes 1 Aim. During your turn, you may also spend 1 Aim to move the target square 2 squares in any direction, or choose a new square, which resets all Aim.
-    | If the target square is within your normal range, you gain +1 die to ranged or spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
+    | At the end of your turn, you may choose a target square to focus your sights on. At the end of your turns thereafter, including this one, you gain 1 stack of Aim - allowing you to ignore 2 die penalties from Long Shot against your target square - which stacks up to 2. This is treated as a concentration effect; any spending of Stamina or Anima that does not affect your target square removes 1 Aim. During your turn, you may also spend 1 Aim to move the target square a distance equal to your Footwork, or choose a new square, which resets all Aim.
+    | If the target square is within your normal range, you gain +1 die to ranged/spell attack rolls against any targets in that square, as long as you have at least one stack of Aim.
 
     | **Overwatch**
-    | You can make an attack of opportunity with a ranged or thrown weapon against any creature entering or exiting Zero In's target square. However, creatures can make a tactics- or perception-adjacent skill check to determine where you are currently aiming.
+    | You can make an attack of opportunity with a ranged weapon against any creature entering or exiting Zero In's target square. Creatures can make a tactics- or perception-adjacent skill check to determine where you are currently aiming.
+    | When spending Stamina to ready a ranged/spell attack for a creature crossing your target square, you gain +1 die to its attack roll, which does not stack with the attack roll bonus from Zero In.
 
   .. tab-item:: Rank 3
 
@@ -289,7 +290,7 @@ Arbalist
     | 6s rolled when you make a ranged attack are treated as 2 successes.
 
     | **Target Sweep**
-    | Squares adjacent to Zero In's target square also receive its bonuses, but are treated as if having -1 stack of Aim.
+    | Squares adjacent to Zero In's target square also receive its bonuses (except for Overwatch), but are treated as if having -1 stack of Aim.
 
 --------
 
