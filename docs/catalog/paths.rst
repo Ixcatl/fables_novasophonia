@@ -62,8 +62,8 @@ Cavalier
   .. tab-item:: Rank 2
 
     | **Battle Rhythm**
-    | During combat, when you take a dash or jump action, move while dodging, or use an ability that moves yourself, you gain 1 stack of Momentum. After initiating an attack or dodge action with Stamina, you may dedicate stacks of Momentum as if they were additional Stamina.
-    | Momentum can be stored up to a maximum of your Cavalier rank, and stacks fade at the end of your next turn after they are gained.
+    | During combat, when you take a dash or jump action, move while dodging, or use an ability that moves yourself, you gain 1 point of Momentum. After initiating an attack or dodge action with Stamina, you may dedicate points of Momentum as if they were additional Stamina.
+    | Momentum can be stored up to a maximum of your Cavalier rank, and points fade at the end of your next turn after they are gained.
 
   .. tab-item:: Rank 3
 
@@ -147,7 +147,7 @@ Rogue
   .. tab-item:: Rank 3
 
     | **Fighting Dirty**
-    | After successfully dealing damage to a target with a weapon, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect lasts until the beginning of your next turn.
+    | After successfully dealing damage to a target with a weapon, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a 1 point status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect expires at the beginning of your next turn.
 
     | *You learn another trap blueprint of any rarity.*
 
@@ -311,10 +311,11 @@ Bombardier
   .. tab-item:: Rank 2
 
     | **Controlled Environment**
-    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon (with an existing AoE + flask effect), you may increase its terrain effect radius by one. In this way, targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
+    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon, you may increase its terrain effect radius by one. In this way, targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
+    | Natural ranged weapons cannot benefit from this if they only affect a single target, or don't have a flask effect.
 
     | **Efficient Reagents**
-    | When crafting a flask, roll a d6. On a success, you make enough to fill a second flask for free.
+    | When crafting a flask, roll a d6. On a success, you make enough to fill a second flask at no cost beyond an additional container.
 
     | *You learn another two common or uncommon flask blueprints.*
 
