@@ -234,26 +234,24 @@ Ranger
     | **Heavy Shot**
     | When making a ranged/thrown attack, you may add 1 Stamina tax to gain +1 non-stacking :term:`favor` with that attack. This tax stacks with further attacks that turn as usual.
 
+  .. tab-item:: Rank 2
+
     | **Quick Nock**
     | When making a ranged/thrown attack, you can choose to ignore (not remove) 1 Stamina tax. You may only do so once per turn, and the attack contributes to tax as usual. If an attack costs Stamina tax to initiate (such as with a paired attack), that tax cannot be ignored.
-
-  .. tab-item:: Rank 2
 
     | **Rebound**
     | Once per round, should your ranged/thrown attack be dodged or parried, it can ricochet to a target adjacent to the first. The ricocheted attack inherits the same number of successes as the original, and is otherwise functionally identical. If the original target was adjacent to a wall, the ricochet may instead target them a second time. An attack cannot ricochet more than once.
 
-    | **???**
-    | You can choose to deal no damage with an attack to apply a debuff to an enemy which reduces accuracy. This move uses a flat success threshold of 2 rather than being defended against. Similar to Starfinder harrying fire. Heavy WIP?
-    | TODO
-
   .. tab-item:: Rank 3
 
-    | **???**
-    | The feature from Rank 2 gains the ability to also reduce defense. Only one of the two effects may be applied per turn.
-    | TODO
+
+    | **????????**
+    | You can choose to deal no damage with an attack to apply a debuff to an enemy which reduces accuracy. This move uses a flat success threshold of 2 rather than being defended against. Similar to Starfinder harrying fire. Heavy WIP?
+    | The feature gains the ability to also reduce defense. Only one of the two effects may be applied per turn.
+    | TODO. PROBABLY REMOVE OR TURN INTO WEAPON ARTS.
 
     | **Perfect Reflex**
-    | You do not trigger attacks of opportunity when making ranged/thrown attacks.
+    | You do not trigger attacks of opportunity when making ranged/thrown attacks. When adjacent to an enemy, you also gain +1 reroll to attack rolls with any ranged/thrown weapon against that enemy.
 
 --------
 
@@ -301,33 +299,33 @@ Bombardier
 
   .. tab-item:: Summary
 
-    *Prefix: "Volatile"*
+    *Prefix: "Crafty"*
 
   .. tab-item:: Rank 1
 
     | **Set Dressing**
-    | When you make a thrown or natural ranged attack that will not directly impact a creature or affect an occupied square, the attack is unaffected by Stamina tax, and does not increase it. You may also pair thrown flasks with any weapon.
+    | When you make a thrown or natural ranged attack (or use a hand pump) that will not directly impact a creature or affect an occupied square, the action is unaffected by Stamina tax and does not increase it. You may also pair thrown flasks with any weapon.
 
     | *You learn three flask blueprints of common or uncommon rarity.*
 
   .. tab-item:: Rank 2
 
     | **Controlled Environment**
-    | When you throw a flask, you may increase its terrain effect radius by one, targeted effects instead being applied as a Burst(1) AoE. Flasks thrown can ignore a number of allies or squares within their effect radius up to your Bombardier rank.
-    | Areas of effect from natural ranged weapons or hand pumps may also have their size increased by 1, and ignore a number of allies or squares up to your Bombardier Rank.
+    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon (with an existing AoE + flask effect), you may increase its terrain effect radius by one. Targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
 
     | **Efficient Reagents**
     | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in materials used may be refunded.
+    | REPLACE; NOT COMBAT FOCUSED
 
-    | *You learn another two new common or uncommon flask blueprints.*
+    | *You learn another two common or uncommon flask blueprints.*
 
   .. tab-item:: Rank 3
 
-    | **Chemical Admixture**
+    | **Crooked Alchemy**
     | While in possession of two non-rare flasks, you may combine them at any time. Choose one flask to be the "carrier" and another to be the "payload". Natural ranged weapons may act as a carrier.
     | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it applies to all tiles the carrier applies to, or the tiles of creatures the carrier affects.
 
-    | *You learn another two new flask blueprints of any rarity.*
+    | *You learn another two flask blueprints of any rarity.*
 
 --------
 
@@ -367,6 +365,7 @@ Arcanist
 
     | **Prudent Research**
     | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two failed dice on your research roll instead count as successes.
+    | REPLACE; NOT COMBAT FOCUSED
 
   .. tab-item:: Rank 3
 
