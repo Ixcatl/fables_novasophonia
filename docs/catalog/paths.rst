@@ -304,24 +304,23 @@ Bombardier
   .. tab-item:: Rank 1
 
     | **Set Dressing**
-    | When you make a thrown or natural ranged attack (or use a hand pump) that will not directly impact a creature or affect an occupied square, the action is unaffected by Stamina tax and does not increase it. You may also pair thrown flasks with any weapon.
+    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon, if the action will not directly impact a creature or affect an occupied square, it is unaffected by Stamina tax and does not increase it. You may also pair thrown flasks with any weapon.
 
     | *You learn three flask blueprints of common or uncommon rarity.*
 
   .. tab-item:: Rank 2
 
     | **Controlled Environment**
-    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon (with an existing AoE + flask effect), you may increase its terrain effect radius by one. Targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
+    | When you throw a flask, use a hand pump, or attack with a natural ranged weapon (with an existing AoE + flask effect), you may increase its terrain effect radius by one. In this way, targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
 
     | **Efficient Reagents**
-    | When crafting a flask, potion, or poison, roll a d6. On a success, up to 25 value in materials used may be refunded.
-    | REPLACE; NOT COMBAT FOCUSED
+    | When crafting a flask, roll a d6. On a success, you make enough to fill a second flask for free.
 
     | *You learn another two common or uncommon flask blueprints.*
 
   .. tab-item:: Rank 3
 
-    | **Crooked Alchemy**
+    | **Jury-Rigged Munitions**
     | While in possession of two non-rare flasks, you may combine them at any time. Choose one flask to be the "carrier" and another to be the "payload". Natural ranged weapons may act as a carrier.
     | Choose one of the payload's targeted or terrain effects. If the effect is targeted, it applies to all creatures the carrier's effects apply to. If the effect is terrain, it applies to all tiles the carrier applies to, or the tiles of creatures the carrier affects.
 
@@ -689,7 +688,7 @@ Abomination
 
         | **Anima Reaver**
         | You gain a modified version of the Hemophage trait. Replacing its normal Belly effects, you instead siphon 1 Anima from your victim if they have any, transferring it from them to you. 
-        | Using a focus action, you can also attempt an Insight check with 3 successes to draw 1 Anima from the corpse of an intelligent being in Touch range, once per corpse, regardless of how long ago they have died. This additionally gleans one very vague, hazy memory from the deceased.
+        | Using a focus action, you can also attempt an Insight check with 3 successes to draw 1 Anima from the corpse of an intelligent being in Touch range, once per corpse, regardless of how long ago they have died.
 
         | **Taste for Flesh**
         | You gain the Devourer (Vitality) trait, which also replenishes 5 Belly every time it triggers, but *consumption* is now a key word for your Ambitions, if you have them.
