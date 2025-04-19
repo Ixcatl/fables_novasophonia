@@ -402,7 +402,7 @@ Useful Items
     * - Hand Pump
       - Light
       - 50☼
-      - A portable contraption used to pump fluids into a container, or to expel them in a spray. When used to eject a flask, its contents affect a Line(2) AoE instead of being thrown. Terrain+ flasks affect a Cone(3) instead.
+      - A portable contraption used to pump fluids into a container, or to expel them in a spray. When wielded to eject a flask, its contents affect a Line(2) AoE instead of being thrown. Terrain+ flasks affect a Cone(3) instead. Attacks made with flasks through a hand pump are treated as ranged instead of thrown.
     * - Luminous Plant
       - Light
       - 5☼
