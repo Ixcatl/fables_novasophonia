@@ -312,7 +312,7 @@ Bombardier
 
     | **Controlled Environment**
     | When you throw a flask, use a hand pump, or attack with a natural ranged weapon, you may increase its terrain effect radius by one. In this way, targeted flasks are instead applied as a Burst(1) AoE. The resulting AoE may ignore a number of allies or squares within its effect radius up to your Bombardier rank.
-    | Natural ranged weapons cannot benefit from this if they only affect a single target, or don't have a flask effect.
+    | Natural ranged weapons cannot benefit from this if they only affect a single target.
 
     | **Efficient Reagents**
     | When crafting a flask, roll a d6. On a success, you make enough to fill a second flask at no cost beyond an additional container.
@@ -423,24 +423,40 @@ Thaumaturge
 Eidolon
 -----
 
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  In realms dominated by the soul, a warrior must push their own to its fullest.
+
 .. tab-set::
 
   .. tab-item:: Summary
 
     *Prefix: "Deep"*
 
+    Eidolons are unique mages who use Anima to bolster their martial skills. They can warp the laws of physics to learn many impossible weapon techniques.
+
+    Dev note: path has both spells and exclusive weapon arts, make sure to label the latter correctly
+
   .. tab-item:: Rank 1
 
-    | **Swoop**
-    | Your first dash or jump each round is performed for free. Additionally, you may now dash or jump one time in midair before landing.
+    | **Close the Distance**
+    | Your first dash/jump each round is performed for free. Additionally, you may now dash/jump one time in midair before landing.
 
   .. tab-item:: Rank 2
 
-    
+    | **Awoken Technique**
+    | When making any attack, dodging, or parrying, if you can dedicate additional Stamina as normal, you may dedicate Anima as if it were Stamina. Tax and the cost to initiate the action cannot be paid in Anima.
 
   .. tab-item:: Rank 3
 
-    
+    | **Limit Break**
+    | Every 3 points of Anima you dedicate through Awoken Technique gives an additional dedicated point for free.
+
+    | **Flicker**
+    | You may spend Anima instead of Stamina when dashing/jumping or withdrawing. Movement made in this way travels 1 additional square and may pass through occupied squares.
 
 --------
 
