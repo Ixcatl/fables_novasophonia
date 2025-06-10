@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Fables of Nova Sophonia: TTRPG Rulebook'
-copyright = '2023-2025 Ixcatl, derived from the work of HKRPG Team'
+copyright = 'Ixcatl 2023-2025, derived from the work of HKRPG Team'
 author = 'Ixcatl'
 
 release = '1.0'
@@ -62,7 +62,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme' # sphinx-rtd-theme==1.3.0rc1 sphinx==7.1.2
 # html_theme = 'sphinx_book_theme' # sphinx-book-theme==1.0.1 sphinx==6.2.1
-html_title = 'Us Who Remain: TTRPG Rulebook'
+html_title = 'Fables of Nova Sophonia'
 html_theme_options = {
     'display_version': False,
     'collapse_navigation': False,
