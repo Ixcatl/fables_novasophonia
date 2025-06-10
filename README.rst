@@ -1,6 +1,6 @@
-Documentation for the Us Who Remain TTRPG
+Documentation for the Fables of Nova Sophonia TTRPG
 =======================================
 
 Read it here:
 
-https://mouse-ttrpg.readthedocs.io/
+https://fables.readthedocs.io/
