@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Us Who Remain: TTRPG Rulebook'
-copyright = '2023-2024, by Ixcatl & HKRPG Team'
+project = 'Fables of Nova Sophonia: TTRPG Rulebook'
+copyright = '2023-2025 Ixcatl, derived from the work of HKRPG Team'
 author = 'Ixcatl'
 
 release = '1.0'
