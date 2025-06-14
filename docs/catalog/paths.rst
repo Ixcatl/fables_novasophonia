@@ -618,6 +618,44 @@ Conjurer
 
 --------
 
+Prophet
+-----
+
+.. tab-set::
+
+  .. tab-item:: Summary
+
+    *Prefix: "Fateful"*
+
+    Some mages of great wisdom grow familiar enough with the twin flow of Astra and Anima as to divine its passage. These Prophets learn to nudge fate in the right direction at the right time, for weal or for woe.
+
+  .. tab-item:: Rank 1
+
+    | **Ominous Designs**
+    | You gain access to a unique resource known as Omens, used as both its own pool and a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; after any roll is made and its successes calculated within your Sense range, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
+    | Every additional rank in Prophet grants you 2 maximum Omens. Foretelling again overwrites any unused Omens.
+
+  .. tab-item:: Rank 2
+
+    | **Author of Fate**
+    | After foretelling Omens as part of Ominous Designs, but before your rest ends, you may spend three Omens to write a fragment of Prophecy. It could come in a vision, a dream, or a similar flash of inspiration. Your Prophecy adopts a style of writing or design unique to you, albeit not entirely within your control. It may be scribed on any appropriate surface or stationery, magicked as a pane of shimmering glass in the air, or shared at will as a vision. If destroyed as a physical medium, your Prophecy fragments inexplicably resurface after some time.
+    | What the fragment of your Prophecy portrays is entirely at your GM's discretion. It is always at least somewhat important to your adventure as a whole, taking place at any point in your future. It may not be immediately comprehensible at the time of writing, whether through cryptic script or missing events. A piece of Prophecy without written text must have detailed imagery; a written Prophecy may have simpler imagery to accent it. Most importantly, your Prophecy is all but guaranteed to occur, and it must be delivered with such gravitas in mind.
+    | The second Prophecy you write reduces your maximum Omens by 1, and the third reduces your maximum Omens to half. You cannot write a fourth until you next level up, at which point all damage to your maximum Omens is removed.
+
+    | **Focused Omens**
+    | When casting any Prophet spell, you may spend any Omen to grant it +1 difficulty in modification. This can be done only once per spell. 
+
+  .. tab-item:: Rank 3
+
+    | **Flicker of Foresight**
+    | At the cost of one Omen, you may attempt to guess how many successes a check made against you will roll. If your guess is correct, all dice in your defending roll are changed to 6.
+
+    | **Prophecy Breaker**
+    | WIP?? might not even include???
+    | Should your party manage to irreversibly defy your own Prophecy at any point, any pieces of your Prophecy connected to that event are abruptly destroyed.
+
+--------
+
 Novel Paths
 ============
 These paths are unique in one or more ways, owing to complex mechanics, gimmicks with drawbacks, or more important story hooks. They still count as either martial or mystic, but are separated nonetheless for their more nuanced gameplay ramifications.
