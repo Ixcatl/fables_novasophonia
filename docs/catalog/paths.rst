@@ -636,11 +636,21 @@ Prophet
 
     A Prophet excels at preparation, divining the future from their Omens. Correctly predicting their adventure will reward them and their party greatly, and their personal Prophecy may lead the narrative to even grander heights.
 
+  .. tab-item:: Prophecy
+
+    Your Prophecy is an enigmatic and never-ending tale, patterned by the flow of Astra and interpreted by your deep understanding of such.
+
+    | The specific way in which you interpret your Prophecy could vary heavily; you might tune into the worldly movement of Astra or study the celestial bodies for their input. You only receive individual snippets or fragments of it at a time, which might come in the form of a vision, dream, breakthrough, or similar flash of inspiration.
+    | Your Prophecy adopts a style of writing or design entirely unique to you, albeit not fully within your control, as you enter a brief state of fugue while recording it. Said records may take the form of scripture on any appropriate surface or stationery, magicked as a pane of shimmering glass in the air, or shared at will as a vision. If a physical medium for the Prophecy is destroyed, the missing fragments inexplicably return to you after some time.
+    | What each fragment portrays is entirely at your GM's discretion. It is always at least somewhat important to your adventure as a whole, taking place at any point in your future. It may not be immediately comprehensible at the time of writing, whether through cryptic script or missing events. A piece of Prophecy without written text must have detailed imagery; a written Prophecy may have simpler imagery to accent it. Most importantly, your Prophecy is all but guaranteed to pass, and it must be delivered with such gravitas in mind.
+
+    Your recorded Prophecy precedes you, should you ever meet your end, though it will not return if destroyed. Furthermore, if your party or anyone else manages to irreversibly defy the Prophecy at any point, any recorded fragments made impossible by the event are altered or permanently destroyed.
+
   .. tab-item:: Rank 1
 
     | **Ominous Designs**
-    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; after any roll is made and its successes calculated within your Sense range, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
-    | Every additional rank in Prophet grants you 2 maximum Omens. Foretelling again overwrites any unused Omens.
+    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any roll is announced within your Sense range, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
+    | Every additional rank in Prophet grants you +2 maximum Omens. Foretelling again overwrites any unused Omens.
 
   .. tab-item:: Rank 2
 
@@ -649,9 +659,8 @@ Prophet
     | All single-use spells are lost the next time you foretell your Omens.
 
     | **Author of Fate**
-    | After foretelling a new set of Omens, but before your rest ends, you may spend three Omens to write a fragment of Prophecy. It could come in a vision, a dream, or a similar flash of inspiration. Your Prophecy adopts a style of writing or design unique to you, albeit not entirely within your control. It may be scribed on any appropriate surface or stationery, magicked as a pane of shimmering glass in the air, or shared at will as a vision. If destroyed as a physical medium, your Prophecy fragments inexplicably resurface after some time.
-    | What the fragment of your Prophecy portrays is entirely at your GM's discretion. It is always at least somewhat important to your adventure as a whole, taking place at any point in your future. It may not be immediately comprehensible at the time of writing, whether through cryptic script or missing events. A piece of Prophecy without written text must have detailed imagery; a written Prophecy may have simpler imagery to accent it. Most importantly, your Prophecy is all but guaranteed to occur, and it must be delivered with such gravitas in mind.
-    | The second piece of Prophecy you write reduces your maximum Omens by 1, and the third reduces your maximum Omens to half. You cannot write a fourth until you next level up, at which point all damage to your maximum Omens is removed.
+    | After foretelling a new set of Omens, but before your rest ends, you may spend three Omens to discover and record a new fragment of your Prophecy.
+    | Whil the first piece of Prophecy you write incurs no penalty, the second reduces your maximum Omens by 1, and the third reduces your maximum Omens to half. You cannot write a fourth until you next level up, at which point all damage to your maximum Omens is removed.
 
   .. tab-item:: Rank 3
 
@@ -661,7 +670,7 @@ Prophet
 
     | **Prophecy Breaker**
     | WIP?? might not even include???
-    | Should your party manage to irreversibly defy your own Prophecy at any point, any pieces of your Prophecy connected to that event are abruptly destroyed.
+    | TBD ligmaballs lmao
 
 --------
 
