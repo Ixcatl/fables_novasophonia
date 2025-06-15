@@ -621,34 +621,43 @@ Conjurer
 Prophet
 -----
 
+.. card::
+  :shadow: none
+  :class-card: sd-mx-4 sd-text-muted sd-font-italic sd-rounded-3
+  :class-body: sd-py-2
+
+  Some mages of great wisdom grow familiar enough with the twin flow of Astra and Anima as to divine its passage. These Prophets learn to nudge fate in the right direction at the right time, for weal or for woe.
+
 .. tab-set::
 
   .. tab-item:: Summary
 
     *Prefix: "Fateful"*
 
-    Some mages of great wisdom grow familiar enough with the twin flow of Astra and Anima as to divine its passage. These Prophets learn to nudge fate in the right direction at the right time, for weal or for woe.
+    A Prophet excels at preparation, divining the future from their Omens. Correctly predicting their adventure will reward them and their party greatly, and their personal Prophecy may lead the narrative to even grander heights.
 
   .. tab-item:: Rank 1
 
     | **Ominous Designs**
-    | You gain access to a unique resource known as Omens, used as both its own pool and a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; after any roll is made and its successes calculated within your Sense range, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
+    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; after any roll is made and its successes calculated within your Sense range, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
     | Every additional rank in Prophet grants you 2 maximum Omens. Foretelling again overwrites any unused Omens.
 
   .. tab-item:: Rank 2
 
-    | **Author of Fate**
-    | After foretelling Omens as part of Ominous Designs, but before your rest ends, you may spend three Omens to write a fragment of Prophecy. It could come in a vision, a dream, or a similar flash of inspiration. Your Prophecy adopts a style of writing or design unique to you, albeit not entirely within your control. It may be scribed on any appropriate surface or stationery, magicked as a pane of shimmering glass in the air, or shared at will as a vision. If destroyed as a physical medium, your Prophecy fragments inexplicably resurface after some time.
-    | What the fragment of your Prophecy portrays is entirely at your GM's discretion. It is always at least somewhat important to your adventure as a whole, taking place at any point in your future. It may not be immediately comprehensible at the time of writing, whether through cryptic script or missing events. A piece of Prophecy without written text must have detailed imagery; a written Prophecy may have simpler imagery to accent it. Most importantly, your Prophecy is all but guaranteed to occur, and it must be delivered with such gravitas in mind.
-    | The second Prophecy you write reduces your maximum Omens by 1, and the third reduces your maximum Omens to half. You cannot write a fourth until you next level up, at which point all damage to your maximum Omens is removed.
+    | **Precognitive Preparation**
+    | During any rest, choose a list of Omens with summed successes no more than your ranks in Prophet + 1. Omens with no successes act as 1 success instead. For every Omen chosen, spend it and freely prepare one spell from any path that you know, which may be cast as a single-use spell for no Anima cost, modified on preparation but not otherwise. The spell must have a difficulty equal to or less than the Omen's successes, including any modifiers you apply.
+    | All single-use spells are lost the next time you foretell your Omens.
 
-    | **Focused Omens**
-    | When casting any Prophet spell, you may spend any Omen to grant it +1 difficulty in modification. This can be done only once per spell. 
+    | **Author of Fate**
+    | After foretelling a new set of Omens, but before your rest ends, you may spend three Omens to write a fragment of Prophecy. It could come in a vision, a dream, or a similar flash of inspiration. Your Prophecy adopts a style of writing or design unique to you, albeit not entirely within your control. It may be scribed on any appropriate surface or stationery, magicked as a pane of shimmering glass in the air, or shared at will as a vision. If destroyed as a physical medium, your Prophecy fragments inexplicably resurface after some time.
+    | What the fragment of your Prophecy portrays is entirely at your GM's discretion. It is always at least somewhat important to your adventure as a whole, taking place at any point in your future. It may not be immediately comprehensible at the time of writing, whether through cryptic script or missing events. A piece of Prophecy without written text must have detailed imagery; a written Prophecy may have simpler imagery to accent it. Most importantly, your Prophecy is all but guaranteed to occur, and it must be delivered with such gravitas in mind.
+    | The second piece of Prophecy you write reduces your maximum Omens by 1, and the third reduces your maximum Omens to half. You cannot write a fourth until you next level up, at which point all damage to your maximum Omens is removed.
 
   .. tab-item:: Rank 3
 
-    | **Flicker of Foresight**
-    | At the cost of one Omen, you may attempt to guess how many successes a check made against you will roll. If your guess is correct, all dice in your defending roll are changed to 6.
+    | **Portentous Defense**
+    | When a roll is made against you but before results are shown, at the cost of one Omen, you may guess how many successes this roll has made. After you make your defending roll and both results are shown, if your guess is correct, all dice in your roll are changed to 6.
+    | You may use this ability to bolster either your defending roll as part of an opposed attribute check, or a dodge/parry made against an incoming attack.
 
     | **Prophecy Breaker**
     | WIP?? might not even include???
