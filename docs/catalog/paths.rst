@@ -649,7 +649,7 @@ Prophet
   .. tab-item:: Rank 1
 
     | **Ominous Designs**
-    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any roll is announced within your Sense range but before, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
+    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any detectable roll within Sight is made but before the results are revealed, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll.
     | Every additional rank in Prophet grants you +2 maximum Omens. Foretelling again overwrites any unused Omens.
 
   .. tab-item:: Rank 2
