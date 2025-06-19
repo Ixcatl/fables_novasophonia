@@ -649,7 +649,7 @@ Prophet
   .. tab-item:: Rank 1
 
     | **Ominous Designs**
-    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any detectable roll within Sight is made but before the results are revealed, an Omen may be spent to either add or remove an equal number of dice from that roll. Only one Omen may be applied to the same roll, and its successes may not be increased beyond what is normally possible.
+    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Each individual Omen is determined by an Insight check, adding your total ranks in Prophet as bonus dice. Record the number of successes from this check as one of your Omens; if any roll within Sense range is made known but not yet rolled, an Omen may be spent to either add or remove an equal number of dice from that roll. Only one Omen may be applied to the same roll.
     | Once during any rest, you can faintly foretell the near future, rolling 2 Omens with an additional 2 for every rank you have in Prophet. Foretelling again overwrites any unused Omens.
 
   .. tab-item:: Rank 2
@@ -668,9 +668,11 @@ Prophet
     | When a roll is made against you but before results are shown, at the cost of one Omen, you may guess how many successes this roll has made. After you make your defending roll and both results are shown, if your guess is correct, all dice in your roll are changed to 6.
     | You may use this ability to bolster either your defending roll as part of an opposed attribute check, or a dodge/parry made against an incoming attack.
 
+    | **Hand of Fate**
+    | When using an Omen to tweak a roll, if that Omen has 3 or more successes, you may add or remove a single success from the affected roll instead of any bonus dice.
+
     | **Prophecy Breaker**
-    | WIP?? might not even include???
-    | TBD ligmaballs lmao
+    | WIP and TBD?? might not even include???
 
 --------
 
