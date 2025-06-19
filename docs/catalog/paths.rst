@@ -649,14 +649,14 @@ Prophet
   .. tab-item:: Rank 1
 
     | **Ominous Designs**
-    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. Once during any rest, you can faintly foretell the near future, making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any detectable roll within Sight is made but before the results are revealed, an Omen may be spent to either add or remove its successes from that roll's final tally. Only one Omen may be applied to the same roll, and its successes may not be increased beyond what is normally possible.
-    | Every additional rank in Prophet grants you +2 maximum Omens. Foretelling again overwrites any unused Omens.
+    | You gain access to Omens, used both as their own pool and as a series of recorded numbers. making two separate Insight checks and adding your total ranks in Prophet as bonus dice to each. Record the number of successes from each respective check as your Omens; when any detectable roll within Sight is made but before the results are revealed, an Omen may be spent to either add or remove an equal number of dice from that roll. Only one Omen may be applied to the same roll, and its successes may not be increased beyond what is normally possible.
+    | Once during any rest, you can faintly foretell the near future, rolling 2 Omens with an additional 2 for every rank you have in Prophet. Foretelling again overwrites any unused Omens.
 
   .. tab-item:: Rank 2
 
     | **Precognitive Preparation**
     | During any rest, choose a list of Omens with summed successes no more than your ranks in Prophet + 1. Omens with no successes act as 1 success instead. For every Omen chosen, spend it and freely prepare one spell from any path that you know, which may be cast as a single-use spell for no Anima cost, modified on preparation but not otherwise. The spell must have a difficulty equal to or less than the Omen's successes, including any modifiers you apply.
-    | All single-use spells are lost the next time you foretell your Omens.
+    | All single-use spells are lost the next time you foretell your Omens or prepare spells in this way again.
 
     | **Author of Fate**
     | After foretelling a new set of Omens, but before your rest ends, you may spend three Omens to discover and record a new fragment of your Prophecy.
