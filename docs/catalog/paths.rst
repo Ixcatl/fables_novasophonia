@@ -21,7 +21,7 @@ Duelist
 
     *Prefix: "Noble"*
 
-    Duelists don't receive nearly as many specialized features as other paths, but what purpose they lack is compensated in general combat prowess.
+    Duelists are martial jacks-of-all-trades. A powerful combat prowess compensates for their lack of specialized purpose.
 
   .. tab-item:: Rank 1
 
@@ -31,7 +31,7 @@ Duelist
   .. tab-item:: Rank 2
 
     | **Battle Stance**
-    | When an enemy enters a square adjacent to you from a square not adjacent, they provoke an attack of opportunity.
+    | When an enemy enters a square adjacent to you from a square not adjacent, they provoke an attack of opportunity from you.
 
   .. tab-item:: Rank 3
 
@@ -99,7 +99,7 @@ Warrior
   .. tab-item:: Rank 1
 
     | **Power Attack**
-    | Any time you dedicate at least 3 Stamina to an attack or weapon art, it gains +1 base damage. This bonus is increased to +2 if the attack is made with a heavy weapon or club-type weapon. If performing an attack or art with an area of effect or multiple attacks, you must spend an additional 1 taxed Stamina to make it a power attack.
+    | Any time you dedicate at least 3 Stamina to an attack or weapon art, it gains +1 base damage. This bonus is increased to +2 if the attack is made with a heavy weapon or club-type weapon. If performing an attack or art with an area of effect or multiple attacks, you must spend 1 additional taxed Stamina to make it a power attack.
 
   .. tab-item:: Rank 2
 
@@ -133,14 +133,14 @@ Rogue
     | You may attack with melee weapons using Grace to hit instead of Might, but not with heavy weapons.
 
     | **Push and Pull**
-    | When you successfully risk damage with an attack, you may choose to risk 1 less damage. If you do, you may move the struck target one square in any direction, or two if using a heavy weapon.
+    | When you successfully risk any damage with an attack, you may choose to risk 1 less damage. Doing so, you may move the struck target one square in any direction, or two if using a heavy weapon.
 
     | *You learn two trap blueprints of common or uncommon rarity.*
 
   .. tab-item:: Rank 2
 
     | **Hair Trigger**
-    | You may deploy traps at a range of 3. When you set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will target the creature that triggered it, while those with an area of effect will still originate from the trap itself.
+    | You may toss traps to deploy them at a range of 3. When you set a trap, it can be given a more sensitive trigger, expanding its activation squares to the squares adjacent. A single target trap will affect the creature that triggered it, while those with an area of effect will still originate from the trap itself.
 
     | *You learn another trap blueprint of common or uncommon rarity.*
 
@@ -148,6 +148,9 @@ Rogue
 
     | **Fighting Dirty**
     | After successfully dealing damage to a target with a weapon, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a 1 point status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect expires at the beginning of your next turn.
+
+    | **Slayer**
+    | When making an attack with a melee weapon against an opponent without any natural or armor DR, or against an opponent affected by one of your traps since your last turn, 6s rolled are treated as two successes.
 
     | *You learn another trap blueprint of any rarity.*
 
