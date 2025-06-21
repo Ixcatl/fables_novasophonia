@@ -150,7 +150,7 @@ Rogue
     | After successfully dealing damage to a target with a weapon, or affecting them with any kind of flask or trap, you may use dirty tactics to inflict a 1 point status effect which lowers any one of the target's primary attributes by 1, or their Speed by 2. This effect expires at the beginning of your next turn.
 
     | **Slayer**
-    | When making an attack with a melee weapon against an opponent without any natural or armor DR, or against an opponent affected by one of your traps since your last turn, 6s rolled are treated as two successes.
+    | When making an attack with a melee weapon against an opponent with no DR, or an opponent affected by one of your traps since your last turn, 6s rolled are treated as two successes.
 
     | *You learn another trap blueprint of any rarity.*
 
