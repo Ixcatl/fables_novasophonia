@@ -392,12 +392,12 @@ Thaumaturge
 
     *Prefix: "Thaumetic"*
 
-    Thaumaturges derive strength from obscure geometry and sigils, granting powerful command over their magicks with good positioning and some luck.
+    Thaumaturges are stationary casters who rely heavily on teamwork and smart positioning. They derive strength from obscure geometry and sigils, granting powerful command over their magicks... with some luck.
 
   .. tab-item:: Rank 1
 
     | **Sacred Geometry**
-    | As a focus action costing 1 Stamina and 1 Anima, you may etch a ritual shape into the square beneath you. For larger characters, these *ley lines* encompass squares equal to your body size, and only function when standing within all of them. Your ley lines are unique to you and cannot be used by others; furthermore, you may only have one set of ley lines at a time. They do not have a set duration, but can be disrupted or destroyed by effects that create rough terrain.
+    | At the cost of 1 Stamina and 1 Anima, you may etch a ritual shape into the square beneath you. For larger characters, these *ley lines* encompass squares equal to your body size, and only function when standing within all of them. Your ley lines are unique to you and cannot be used by others; furthermore, you may only have one set of ley lines at a time. They do not have a set duration, but can be disrupted or destroyed by effects that create rough terrain.
     | While standing within your ley lines, you may choose to cast any spell as a focus action instead. When the focus resolves and the spell is cast, roll a number of dice equal to your ranks in the path used to cast the spell, or the spell's cost - 1, whichever is lower. You restore Anima equal to the successes of this roll.
 
   .. tab-item:: Rank 2
@@ -416,7 +416,7 @@ Thaumaturge
     | The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. If the first spell has an AoE, the total difficulty increases by 1; two AoE spells cannot be spliced together. As a rule of thumb, the damage/healing, duration, and unique effects of both component spells are modified individually; all other modifiers may be applied to the chimeric spell itself.
 
     | **Astral Projection**
-    | When you cast a spell with an AoE that would originate from your square, you may instead have it originate from any square within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
+    | While standing within your ley lines, when you cast a spell with an AoE that would originate from your square, you may instead have it originate from any square within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
 
     | **Font of Power**
     | While standing within your ley lines, if you cast a Thaumaturge spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell. Additionally, any chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
