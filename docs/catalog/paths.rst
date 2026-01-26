@@ -478,7 +478,7 @@ Reverie
     | You gain a Dream pool with a maximum of 5 points. As long as you have at least 1 Dream, you radiate an aura which increases your Charm by 0.5 per rank in Reverie. This aura is imperceptible to others unless they possess a Dream pool.
 
     | **Encore**
-    | When performing in front of a live audience, you gain Dreams equal to your successes. The same audience will not offer any Dreams more than once per rest.
+    | When performing in front of a live audience of at least one, you gain Dreams equal to your successes. The same audience will not offer any Dreams more than once per rest.
     | You also gain 1 Dream any time you disable a target's abilities, such as through immobilizing, stunning, or silencing.
 
   .. tab-item:: Rank 2
