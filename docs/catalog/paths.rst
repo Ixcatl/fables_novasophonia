@@ -441,7 +441,7 @@ Eidolon
 
     Eidolons are unique mages who use Anima to bolster their martial skills. They can warp the laws of physics to learn many impossible weapon techniques.
 
-    Dev note: path has both spells and exclusive weapon arts, make sure to label the latter correctly
+    Dev note: path has both spells and exclusive weapon arts, make sure to label the latter correctly (also add spirit themed abilities inspired by WotW?)
 
   .. tab-item:: Rank 1
 
@@ -474,7 +474,12 @@ Reverie
 
   .. tab-item:: Rank 1
 
-    
+    | **Divine Inspiration**
+    | You gain a Dream pool with a maximum of 5 points. As long as you have at least 1 Dream, you radiate an aura which increases your Charm by 0.5 per rank in Reverie. This aura is imperceptible to others unless they possess a Dream pool.
+
+    | **Encore**
+    | When performing in front of a live audience, you gain Dreams equal to your successes. The same audience will not offer any Dreams more than once per rest.
+    | You also gain 1 Dream any time you disable a target's abilities, such as through immobilizing, stunning, or silencing.
 
   .. tab-item:: Rank 2
 
