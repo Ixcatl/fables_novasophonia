@@ -474,20 +474,29 @@ Reverie
 
   .. tab-item:: Rank 1
 
-    | **Divine Inspiration**
+    | **Aspirant**
     | You gain a Dream pool with a maximum of 5 points. As long as you have at least 1 Dream, you radiate an aura which increases your Charm by 0.5 per rank in Reverie. This aura is imperceptible to others unless they possess a Dream pool.
 
-    | **Encore**
-    | When performing in front of a live audience of at least one, you gain Dreams equal to your successes. The same audience will not offer any Dreams more than once per rest.
-    | You also gain 1 Dream any time you disable a target's abilities, such as through immobilizing, stunning, or silencing.
+    | **Entertainer**
+    | When performing for a live audience, you gain Dreams equal to your successes. The same audience will not offer any Dreams more than once per rest.
+    | You also gain 1 Dream when you inflict a status effect against an opponent that disables their abilities, such as immobilizing, stunning, or silencing. Targets affected this way are Dream Drained, a 4 point status effect which prevents you from gaining further Dreams from them until it expires.
+
+    | **Inspired Spells**
+    | When you cast any spell, you may spend 1 Dream to add 1 difficulty in modification. A spell cannot be Inspired more than once.
 
   .. tab-item:: Rank 2
 
-    
+    | **Charisma Vacuum**
+    | At the cost of 1 Anima, you can attempt an opposed Insight check against a target within Close range. If successful, you link with the target and leech energy from them. Immediately and at the end of each of the target's turns, it loses 1 Anima and you gain 1 Anima. The link breaks if you take avoidable damage or attempt to make a new link, or if you or the target reach 0 Anima.
+    | You may strengthen the link by spending 1 Dream, causing it to drain 1 additional Anima per turn and reduce Dream Drained on the target by 1 point per turn. You cannot strengthen the same link twice.
+
+    | **Inspired Defense**
+    | When you or an ally within Sense range make a defensive action, you may spend 1 Dream to add +1 die to the roll. 
 
   .. tab-item:: Rank 3
 
-
+    | **Rousing Finale**
+    | Once per combat and only in combat, you may choose to reset your Dreams to 0, even if they are already at 0. After doing so, as a one time action when using Inspired Spells to enhance a spell, you can instead choose to spend all of your Dreams to add an equal number of dice to its corresponding attack or opposed check.
 
 --------
 
