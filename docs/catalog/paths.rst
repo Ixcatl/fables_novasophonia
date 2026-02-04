@@ -247,14 +247,8 @@ Ranger
 
   .. tab-item:: Rank 3
 
-
-    | **????????**
-    | You can choose to deal no damage with an attack to apply a debuff to an enemy which reduces accuracy. This move uses a flat success threshold of 2 rather than being defended against. Similar to Starfinder harrying fire. Heavy WIP?
-    | The feature gains the ability to also reduce defense. Only one of the two effects may be applied per turn.
-    | TODO. PROBABLY REMOVE OR TURN INTO WEAPON ARTS.
-
     | **Perfect Reflex**
-    | You do not trigger attacks of opportunity when making ranged/thrown attacks. When adjacent to an enemy, you also gain +1 reroll to attack rolls with any ranged/thrown weapon against that enemy.
+    | You do not trigger attacks of opportunity when making ranged/thrown attacks.
 
 --------
 
@@ -356,19 +350,18 @@ Arcanist
   .. tab-item:: Rank 1
 
     | **Astral Conduit**
-    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one destroys the old. While holding a conduit or carrying it on the Belt, you or a friendly adjacent character with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
+    | You may pour some of your Anima into an ordinary object, ossifying it and transforming it into an *astral conduit*. The conduit can store a maximum amount of Anima equal to your Arcanist rank. You may have only one astral conduit, and creating a new one leaves the old an inert husk. While holding a conduit or carrying it on the Belt, you or an adjacent ally with Arcanist ranks may spend 1 Stamina to draw any amount of Anima from it. As a focus action, you can deposit any amount of Anima into your existing conduit, or create a new one.
 
-    | **Sorcerous Casting**
-    | You may treat your attuned arcane focus as a weapon with the Sorcerous modifier, if it can be used as one. Talismans instead make your unarmed attacks and grapples Sorcerous.
+    | **Sorcerer's Touch**
+    | You may treat your attuned arcane focus as having the Sorcerous modifier, if it can be used as a weapon. Your unarmed attacks and grapples are also Sorcerous.
 
   .. tab-item:: Rank 2
 
     | **Mind Over Matter**
     | When you make an opposed Insight check either as part of a spell or ability, or to resist a spell or ability, you may dedicate Anima to that check as bonus dice.
 
-    | **Prudent Research**
-    | When performing research to learn a new spell, if you have access to a grimoire containing the spell, two failed dice on your research roll instead count as successes.
-    | REPLACE; NOT COMBAT FOCUSED
+    | **TBD**
+    | (WIP) can pause ritualized spells and come back later?
 
   .. tab-item:: Rank 3
 
@@ -392,7 +385,7 @@ Thaumaturge
 
     *Prefix: "Thaumetic"*
 
-    Thaumaturges are stationary casters who rely heavily on teamwork and smart positioning. They derive strength from obscure geometry and sigils, granting powerful command over their magicks... with some luck.
+    Thaumaturges are stationary casters who rely heavily on teamwork, smart positioning, and a fair dash of luck. They derive strength from obscure geometry and sigils, granting powerful command over their magicks.
 
   .. tab-item:: Rank 1
 
@@ -402,7 +395,7 @@ Thaumaturge
 
   .. tab-item:: Rank 2
 
-    | **Funneled Spells**
+    | **Spell Funnel**
     | You gain 1 Anima when you deal direct damage to one or more creatures with a spell. This effect may trigger only once per spell.
 
     | **Spatial Anchor**
@@ -414,12 +407,13 @@ Thaumaturge
     | **Controlled Chaos**
     | When attuning spells, you may combine two spells into one *chimeric spell*, merging their difficulty at a minimum of 2. The second spell's effect is additionally carried by the first, in a way arbitrated by the GM if necessary.
     | The second spell's path is considered the same as the first, but the chimeric spell's maximum casting difficulty is limited by the lower of the two. If the first spell has an AoE, the total difficulty increases by 1; two AoE spells cannot be spliced together. As a rule of thumb, the damage/healing, duration, and unique effects of both component spells are modified individually; all other modifiers may be applied to the chimeric spell itself.
+    | Any chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
 
     | **Astral Projection**
     | While standing within your ley lines, when you cast a spell with an AoE that would originate from your square, you may instead have it originate from any square within its initial area of effect. Spells cast this way retain the same direction and range with which they were cast originally.
 
     | **Font of Power**
-    | While standing within your ley lines, if you cast a Thaumaturge spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell. Additionally, any chimeric spells you cast as a focus action within your ley lines count as 2 path ranks higher for the sake of restoring Anima through Sacred Geometry.
+    | While standing within your ley lines, if you cast a Thaumaturge spell of 4 difficulty or greater, you receive 1 difficulty in free modification for that spell.
 
 --------
 
