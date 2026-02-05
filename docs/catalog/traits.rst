@@ -9,7 +9,7 @@ Character Traits
 
 Trained Sense
 ----------
-| *Mental*
+| *Physical*
 | *Trait value:* ``-4``
 | Through discipline, instinct, or necessity, you have learned to use another sense beyond sight to its fullest potential. Choose Acute Scent or Tremorsense as a free subtrait.
 
@@ -21,7 +21,7 @@ Desperado
 
 Kindred
 --------
-| *Mental*
+| *Mental, magic*
 | *Trait value:* ``-3``
 | *Must be taken by two characters simultaneously.*
 | You share a very similar soul with another individual, for better or worse, and are inextricably bound. You can draw from the Anima pools of one another at any time, though one may deny the other access.
@@ -29,7 +29,7 @@ Kindred
 
 Sorcerer
 --------
-| *Mental*
+| *Mental, magic*
 | *Trait value:* ``-3``
 | You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any prepared spells from that path without the help of an arcane focus. If you have 1 or no ranks in your chosen path, you may also cast its spells up to a difficulty of 3.
 | You must have one usable empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits which require a talisman, you are treated as always wielding a talisman.
@@ -52,25 +52,25 @@ Vocalist
 --------
 | *Physical*
 | *Trait value:* ``-1``
-| You've trained yourself to sing in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your singing style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current Scene.
+| You've trained yourself to sing in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your singing style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current scene.
 
 Gaunt
 --------
 | *Physical*
 | *Trait value:* ``0``
-| You are abnormally thin. You lose -1 Belt slot, and -1 Bulk.
+| You are abnormally thin. You have -1 Belt slot and -1 Bulk.
 
 Heavyset
 --------
 | *Physical*
 | *Trait value:* ``0``
-| You are exceptionally overweight. You have +1 Bulk and -1 Speed, but gain +1 Belt slot.
+| You are notably overweight. You have +1 Bulk and -1 Speed, but gain +1 Belt slot.
 
 Minor Flaw
 --------
 | *Physical/Mental*
 | *Trait value:* ``+1``
-| You have a small personal weakness, typically giving -1 die towards a particular use of a skill or attribute. Minor Flaw may be taken multiple times (and can stack on itself up to a -3 penalty), and can count as either a physical or mental trait.
+| You have a small personal weakness, typically featuring a -1 die penalty toward a particular use of a skill or attribute. Minor Flaw may be taken multiple times (and can stack on itself up to a -3 penalty), and can count as either a physical or mental trait.
 
 .. Tip::
   | This is an extremely malleable trait and is meant to be personal for each character. If you are a player, speak with your GM about designing your own flaws. Simple examples may include:
@@ -113,8 +113,8 @@ Armless
 ----------
 | *Physical*
 | *Trait value:* ``+10``
-| You have no arms, and so cannot wield anything.
-| Tasks relying on manual dexterity are immensely difficult for you. This difficulty can range from -1 to impossible, at GM discretion.
+| You have no arms, and thus cannot wield anything.
+| Tasks relying on manual dexterity are immensely difficult for you. This difficulty can range from -1 to impossible, at the GM's discretion.
 
 --------
 
@@ -175,23 +175,11 @@ Sharp Claws
 Mystical Traits
 ===============
 
-Anima Shivers
----------
-| *Physical, magic*
-| *Trait value:* ``-1``
-| You are capable of sensing the shifting dynamic of Astra and Anima, and always know when you are in the presence of powerful magic or wills. At GM discretion, you may have a vague idea of how powerful the source is on a successful Insight check, but cannot pinpoint the source with this alone.
-
 Manapot
 -------
 | *Physical, magic*
 | *Trait value:* ``-2``
 | When taking a Rest and regaining Anima, you may store excess Anima points up to your Insight score in a temporary "pool". Using 1 Stamina, you may return all of these points to your Anima pool, losing any which exceed your maximum Anima.
-
-Shifting Guise
--------------
-| *Physical, magic*
-| *Trait value:* ``-3``
-| You have innate access to a modified version of the Disguise spell. This spell does not need to be attuned, has a duration of Lifetime, and can be cast without cost, but can only be cast with a range of Self and does not benefit from its normal Essence feature.
 
 Wick Magic
 -------------
