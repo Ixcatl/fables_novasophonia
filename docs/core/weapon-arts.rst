@@ -1,5 +1,5 @@
 ***********
-Weapon Arts
+🔧 Weapon Arts
 ***********
 *Weapon arts* represent special combat techniques, often passed down through generations and honed into a recognizable form. (redo this line it kinda sucks)
 
@@ -24,9 +24,9 @@ Types of Weapon Arts
 
 Normal Arts
 -----------
-These weapon arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the quality of the weapon used. They do not contribute to Stamina tax, and do not have an extra cost from your current Stamina tax, but also cannot have additional Stamina dedicated as extra damage.
+These weapon arts are self-contained actions, which perform an attack with a weapon as part of their execution. They still benefit from the quality of the weapon used, and if used with a heavy weapon, you still receive a stack of Off-Balance for each attack performed as part of the art. They do not contribute to Stamina tax, and do not have an extra cost from your current Stamina tax, but also cannot have additional Stamina dedicated as extra dice.
 
-If used with a heavy weapon, you still receive a stack of Off-Balance for each attack performed as part of the art.
+If 
 
 Special Arts
 ------------
