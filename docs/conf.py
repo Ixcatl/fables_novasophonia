@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Fables of Nova Sophonia: TTRPG Rulebook'
-copyright = 'Ixcatl 2023-2025, derived from the work of HKRPG Team'
+copyright = 'HKRPG Team, from whom this work was derived, & Ixcatl 2023-2026'
 author = 'Ixcatl'
 
 release = '1.0'
