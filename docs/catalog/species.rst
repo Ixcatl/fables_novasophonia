@@ -33,8 +33,6 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
       Insight:  3
       
       Vitality: 7
-      Stamina: 3
-      Anima: 3
 
   .. grid-item::
 
@@ -87,8 +85,6 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
       Insight:  3
       
       Vitality: 6
-      Stamina: 3
-      Anima: 3
 
   .. grid-item::
 
@@ -242,8 +238,6 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
       Insight:  3
       
       Vitality: 7
-      Stamina: 3
-      Anima: 3
 
   .. grid-item::
 
@@ -296,8 +290,6 @@ Ophidian
       Insight:  2
       
       Vitality: 7
-      Stamina: 3
-      Anima: 3
 
   .. grid-item::
 
@@ -367,20 +359,16 @@ Piscis
 
 --------
 
-Outlanders
+Exotics
 ===========
 
-Hailing from the planar realms beyond, outlanders can vastly differ from the sophonts of the primordial world, not bound to conventional principles or locales.
+Hailing from the planar realms beyond, these unusual peoples can vastly differ from the sophonts of the primordial world, not bound to conventional principles or locales.
 
 --------
 
 Lumen
 ------
 <blurb TBD>
-
-.. dropdown:: Details...
-
-    <TBD>
 
 .. grid:: auto
   :gutter: 4
@@ -413,15 +401,32 @@ Lumen
 
     ::
 
-    +1 Charm/Fright
+    +1 Flex Charm/Fright
 
-| **Races**
-| aaaaaaaa: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
+.. tab-set::
 
-**Traits:** :ref:`catalog/traits:shifting guise`, :ref:`catalog/traits:anima shivers`, :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:resistant` (+1 :term:`holy <damage type: holy>`)
+  .. tab-item:: Dream Eater
+
+    | *Physical, magic*
+    | *Trait value:* ``-3``
+    | At the cost of 1 Anima, you can attempt to consume the dreams of a target who is sleeping during their rest. Make an opposed Insight check against your victim. Should you succeed, you gain 4 Anima, which rolls over into temporary Anima (lasting a number of rounds equal to your Insight) should you reach your limit.
+    | On waking, your target feels a strange emptiness deeper than a simple lack of dreaming. They gain no Anima from their rest, and they become immune to Dream Eater until their next rest.
+
+  .. tab-item:: Dreamguise
+
+    | *Physical, magic*
+    | *Trait value:* ``-3``
+    | You have innate access to a unique version of the Disguise spell, which you may cast at any time without attunement. This 3 difficulty spell has a duration of Lifetime, but it does not benefit from its normal Dream feature, nor can it be modified in any way.
+
+  .. tab-item:: Anima Shivers
+
+    | *Physical, magic*
+    | *Trait value:* ``-2``
+    | You are capable of sensing the shifting dynamic of Astra, and you always know when you are in the presence of powerful magic. At the GM's discretion, you may have a vague idea of how strong the source is on a successful Insight check, but you cannot pinpoint the source with this alone.
+
+  .. tab-item:: Common traits
+
+    :ref:`catalog/traits:extra arms`
 
 --------
 
