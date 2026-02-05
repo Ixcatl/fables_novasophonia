@@ -1,5 +1,5 @@
 **************
-Items
+🔧 Items
 **************
 Managing one's haul is an essential part of any adventurer's toolkit. Carefully weighing what supplies you need with the loot you want is a tightrope act played over the course of the entire campaign.
 
