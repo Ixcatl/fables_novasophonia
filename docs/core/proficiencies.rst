@@ -1,5 +1,5 @@
 *************
-Proficiencies
+🔧 Proficiencies
 *************
 A *proficiency* is similar to a job or background, encompassing the practical skills and talents you possess. Rather than preset skills to allocate points into, proficiencies consist of player-made keywords with nearly full creative freedom.
 
