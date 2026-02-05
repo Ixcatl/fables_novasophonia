@@ -1,5 +1,5 @@
 ***********
-Advancement & Levels
+🔧 Advancement & Levels
 ***********
 Throughout the party's journey, your encounters and experiences would naturally hone your skills. By hitting some major milestone in the campaign, your GM may reward you with a *level-up*. You may have conquered a powerful foe, pulled off a big heist, or survived another realm of existence; it's entirely up to interpretation and will vary heavily between parties.
 
