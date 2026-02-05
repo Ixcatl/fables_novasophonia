@@ -1,5 +1,5 @@
 ****************************
-Attributes & Pools
+🔧 Attributes & Pools
 ****************************
 Any being that breathes, walks, or talks features the same basic creature statistics.
 
