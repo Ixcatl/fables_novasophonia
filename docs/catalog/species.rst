@@ -378,7 +378,7 @@ Lumen
 
     ::
 
-      Might:  1
+      Might:  2
       Grace:  3
       Mettle: 2
       Insight:  4
