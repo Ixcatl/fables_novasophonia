@@ -1,5 +1,5 @@
 ******
-Basic Mechanics
+🔧 Basic Mechanics
 ******
 FoNS may have a veneer of a traditional fantasy RPG, but most of its mechanics are not shared with the likes of D&D or Pathfinder. It's important to understand these basics before learning the rest of the game.
 
