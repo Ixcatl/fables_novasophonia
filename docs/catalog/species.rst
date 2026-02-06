@@ -373,35 +373,72 @@ Lumen
 .. grid:: auto
   :gutter: 4
   :margin: 0 0 auto auto
-  
-  .. grid-item::
 
-    ::
+.. tab-set::
 
-      Might:  2
-      Grace:  3
-      Mettle: 2
-      Insight:  4
-      
-      Vitality: 5
+  .. tab-item:: Lumen
 
-  .. grid-item::
+      .. grid-item::
+    
+        ::
+    
+          Might:  2
+          Grace:  3
+          Mettle: 2
+          Insight:  4
+          
+          Vitality: 5
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  2
+          Fright: 1
+          
+          Speed:  7
+          Hunger: 16
+          Size: Small
+          Bulk: 3
+    
+      .. grid-item::
+    
+        ::
+    
+        +1 Flex Charm/Fright
 
-    ::
+  .. tab-item:: Stoutshell Lumen
 
-      Charm:  2
-      Fright: 1
-      
-      Speed:  7
-      Hunger: 16
-      Size: Small
-      Bulk: 3
+      .. grid-item::
+    
+        ::
+    
+          Might:  2
+          Grace:  2
+          Mettle: 3
+          Insight:  4
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+          
+          Speed:  6
+          Hunger: 20
+          Size: Average
+          Bulk: 5
+    
+      .. grid-item::
+    
+        ::
+    
+        +1 Flex Charm/Fright
 
-  .. grid-item::
 
-    ::
-
-    +1 Flex Charm/Fright
 
 .. tab-set::
 
