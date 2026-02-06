@@ -428,7 +428,7 @@ Lumen
           Fright: 1
           
           Speed:  6
-          Hunger: 20
+          Hunger: 22
           Size: Average
           Bulk: 5
     
