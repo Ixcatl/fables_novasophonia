@@ -430,7 +430,7 @@ Lumen
           Speed:  6
           Hunger: 22
           Size: Average
-          Bulk: 5
+          Bulk: 4
     
       .. grid-item::
     
