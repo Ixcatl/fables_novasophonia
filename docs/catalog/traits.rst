@@ -142,6 +142,12 @@ Resistant
 | If you suffer a negative status effect related to your resistance, you can roll ``x`` d6 to resist the status effect pool or duration, reducing it by the successes.
 | If specified in a creature's rulebook entry, ``x`` is signified by the number given with the trait. Otherwise, ``x`` defaults to +4.
 
+Reviled
+-------------
+| *Physical*
+| *Trait value:* ``+2``
+| Your species is infamous for one reason or another. When interacting with average Sophonts without a disguise, obscuring apparel or similar, they may treat you worse during social interactions.
+
 --------
 
 Physiological Traits
