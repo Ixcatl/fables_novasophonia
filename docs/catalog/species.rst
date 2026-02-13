@@ -352,27 +352,33 @@ Lumen
       :margin: 0 0 auto auto
 
       .. grid-item::
-    
-        Might:  2
-        Grace:  3
-        Mettle: 2
-        Insight:  4
 
-        Vitality: 5
+        ::
+
+          Might:  2
+          Grace:  3
+          Mettle: 2
+          Insight:  4
+
+          Vitality: 5
     
       .. grid-item::
-    
-        Charm:  2
-        Fright: 1
 
-        Speed:  7
-        Hunger: 16
-        Size: Small
-        Bulk: 3
+        ::
+
+          Charm:  2
+          Fright: 1
+
+          Speed:  7
+          Hunger: 16
+          Size: Small
+          Bulk: 3
     
       .. grid-item::
-    
-        +1 Flex Charm/Fright
+
+        ::
+
+          +1 Flex Charm/Fright
 
     :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`), :ref:`catalog/traits:reviled`
 
@@ -409,27 +415,33 @@ Lumen
       :margin: 0 0 auto auto
 
       .. grid-item::
-    
-        Might:  2
-        Grace:  2
-        Mettle: 3
-        Insight:  4
 
-        Vitality: 7
+        ::
+
+          Might:  2
+          Grace:  2
+          Mettle: 3
+          Insight:  4
+
+          Vitality: 7
     
       .. grid-item::
-    
-        Charm:  1
-        Fright: 1
 
-        Speed:  6
-        Hunger: 22
-        Size: Average
-        Bulk: 4
+        ::
+
+          Charm:  1
+          Fright: 1
+
+          Speed:  6
+          Hunger: 22
+          Size: Average
+          Bulk: 4
     
       .. grid-item::
-    
-        +1 Flex Charm/Fright
+
+        ::
+
+          +1 Flex Charm/Fright
 
     :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`), :ref:`catalog/traits:reviled`
 
