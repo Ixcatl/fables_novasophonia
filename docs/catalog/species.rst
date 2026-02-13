@@ -329,6 +329,11 @@ Piscis
 ------
 TBD TBD
 
+Drake
+------
+| *TBD blurb*
+| *Large intelligent mount lizards, swap between handedness and quadrupedal speed*
+
 --------
 
 Exotics
