@@ -321,41 +321,13 @@ Ophidian
 
 Poliwog
 ------
-<blurb TBD>
-
-.. dropdown:: Details...
-
-    <TBD>
-
-**<stat block TBD>**
-
-| **Races**
-| aaaaaaaa: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-
-**Traits:** TBD
+TBD TBD
 
 --------
 
 Piscis
 ------
-<blurb TBD>
-
-.. dropdown:: Details...
-
-    <TBD>
-
-**<stat block TBD>**
-
-| **Races**
-| aaaaaaaa: ``no modifiers``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-| aaaaaaaa: ``TBD``
-
-**Traits:** TBD
+TBD TBD
 
 --------
 
@@ -368,15 +340,16 @@ Hailing from the planar realms beyond, these unusual peoples can vastly differ f
 
 Lumen
 ------
-<blurb TBD>
-
-.. grid:: auto
-  :gutter: 4
-  :margin: 0 0 auto auto
+| *TBD blurb*
+| *Fey dream eaters with a penchant for blending in*
 
 .. tab-set::
 
   .. tab-item:: Lumen
+
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
 
       .. grid-item::
     
@@ -408,6 +381,10 @@ Lumen
         +1 Flex Charm/Fright
 
   .. tab-item:: Stoutshell Lumen
+
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
 
       .. grid-item::
     
@@ -476,7 +453,8 @@ Lumen
 
 Chimera
 ------
-<blurb TBD>
+| *TBD blurb*
+| *Creatures with deep mutative potential, unique between individuals*
 
 .. dropdown:: Details...
 
