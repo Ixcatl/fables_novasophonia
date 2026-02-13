@@ -353,8 +353,6 @@ Lumen
 
       .. grid-item::
     
-        ::
-    
           Might:  2
           Grace:  3
           Mettle: 2
@@ -363,8 +361,6 @@ Lumen
           Vitality: 5
     
       .. grid-item::
-    
-        ::
     
           Charm:  2
           Fright: 1
@@ -375,8 +371,6 @@ Lumen
           Bulk: 3
     
       .. grid-item::
-    
-        ::
     
         +1 Flex Charm/Fright
 
@@ -416,8 +410,6 @@ Lumen
 
       .. grid-item::
     
-        ::
-    
           Might:  2
           Grace:  2
           Mettle: 3
@@ -426,8 +418,6 @@ Lumen
           Vitality: 7
     
       .. grid-item::
-    
-        ::
     
           Charm:  1
           Fright: 1
@@ -438,8 +428,6 @@ Lumen
           Bulk: 4
     
       .. grid-item::
-    
-        ::
     
         +1 Flex Charm/Fright
 
