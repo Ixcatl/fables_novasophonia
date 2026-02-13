@@ -419,35 +419,37 @@ Lumen
 
 .. tab-set::
 
-  .. tab-item:: Dreamguise
+  .. tab-item:: Unique Traits
 
-    | *Physical, magic*
-    | *Trait value:* ``-4``
+    .. dropdown:: Dreamguise
 
-    | You have innate access to a unique version of the Disguise spell, which you may cast at any time without attunement. This 3 difficulty spell has a duration of Lifetime which you may dispel at any time, but it does not benefit from its normal Dream feature, nor can it be modified in any way.
+        | *Physical, magic*
+        | *Trait value:* ``-4``
+    
+        | You have innate access to a unique version of the Disguise spell, which you may cast at any time without attunement. This 3 difficulty spell has a duration of Lifetime which you may dispel at any time, but it does not benefit from its normal Dream feature, nor can it be modified in any way.
+    
+        | While in the realm of Fantasia or in the presence of a thin barrier between realms, you gain access to Dream Form. When casting Dreamguise, you may instead fully transform into any playable species, subspecies, and race. You inherit all of their attributes and traits as your own in their entirety, with the exception of *mental* or *magic* traits. These replace your own species and traits with the same exception. Any features gained through progression or external sources remain unchanged and immutable, including character traits.
+        | If Dreamguise is active while you are able to use Dream Form, you may transform into your current Disguise at no additional cost. Leaving Fantasia reverts you to your original species and converts your Dream Form into a Disguise.
 
-    | While in the realm of Fantasia or in the presence of a thin barrier between realms, you gain access to Dream Form. When casting Dreamguise, you may instead fully transform into any playable species, subspecies, and race. You inherit all of their attributes and traits as your own in their entirety, with the exception of *mental* or *magic* traits. These replace your own species and traits with the same exception. Any features gained through progression or external sources remain unchanged and immutable, including character traits.
-    | If Dreamguise is active while you are able to use Dream Form, you may transform into your current Disguise at no additional cost. Leaving Fantasia reverts you to your original species and converts your Dream Form into a Disguise.
+    .. dropdown:: Dream Eater
 
-  .. tab-item:: Dream Eater
+        | *Physical, magic*
+        | *Trait value:* ``-3``
+    
+        | Lumens are creatures deeply rooted in the realm of Fantasia and can feed on the dreams and desires of sleeping creatures.
+        | You may attempt to consume the dreams of any target who is sleeping during a rest. Make an opposed Insight check against your victim. Should you succeed, you gain 10 Belly and 3 Anima, which rolls over into temporary Anima (lasting a number of rounds equal to your Insight) should you reach your limit.
+        | Your target suffers -2 Anima, even if they did not gain any Anima through rest, and becomes immune to Dream Eater until their next rest. On waking, they feel a strange emptiness deeper than a simple lack of dreaming. On a failure, you instead wake your target in a bout of sudden nightmares.
 
-    | *Physical, magic*
-    | *Trait value:* ``-3``
+    .. dropdown:: Anima Shivers
 
-    | Lumens are creatures deeply rooted in the realm of Fantasia and can feed on the dreams and desires of sleeping creatures.
-    | You may attempt to consume the dreams of any target who is sleeping during a rest. Make an opposed Insight check against your victim. Should you succeed, you gain 10 Belly and 3 Anima, which rolls over into temporary Anima (lasting a number of rounds equal to your Insight) should you reach your limit.
-    | Your target suffers -2 Anima, even if they did not gain any Anima through rest, and becomes immune to Dream Eater until their next rest. On waking, they feel a strange emptiness deeper than a simple lack of dreaming. On a failure, you instead wake your target in a bout of sudden nightmares.
-
-  .. tab-item:: Anima Shivers
-
-    | *Physical*
-    | *Trait value:* ``-2``
-
-    | Your antennae sense the shifting dynamic of Astra and Anima, and you always know when you are in the presence of powerful magic. At the GM's discretion, you may have a vague idea of how strong the source is on a successful Insight check, but you cannot pinpoint the source with this alone.
-
-  .. tab-item:: Common traits
-
-    :ref:`catalog/traits:extra arms`
+        | *Physical*
+        | *Trait value:* ``-2``
+    
+        | Your antennae sense the shifting dynamic of Astra and Anima, and you always know when you are in the presence of powerful magic. At the GM's discretion, you may have a vague idea of how strong the source is on a successful Insight check, but you cannot pinpoint the source with this alone.
+    
+      .. tab-item:: Common Traits
+    
+        :ref:`catalog/traits:extra arms`
 
 --------
 
