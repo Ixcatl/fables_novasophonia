@@ -380,7 +380,7 @@ Lumen
     
         +1 Flex Charm/Fright
 
-    :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`)
+    :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`), :ref:`catalog/traits:reviled`
 
     .. dropdown:: Dreamguise
 
@@ -443,7 +443,7 @@ Lumen
     
         +1 Flex Charm/Fright
 
-    :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`)
+    :ref:`catalog/traits:extra arms`, :ref:`catalog/traits:vulnerability` (:term:`holy <damage type: holy>`), :ref:`catalog/traits:reviled`
 
     .. dropdown:: Dreamguise
 
