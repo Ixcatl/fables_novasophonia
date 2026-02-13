@@ -447,9 +447,9 @@ Lumen
     
         | Your antennae sense the shifting dynamic of Astra and Anima, and you always know when you are in the presence of powerful magic. At the GM's discretion, you may have a vague idea of how strong the source is on a successful Insight check, but you cannot pinpoint the source with this alone.
     
-      .. tab-item:: Common Traits
-    
-        :ref:`catalog/traits:extra arms`
+  .. tab-item:: Common Traits
+
+    :ref:`catalog/traits:extra arms`
 
 --------
 
