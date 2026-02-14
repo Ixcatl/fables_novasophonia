@@ -19,47 +19,196 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
 
     <TBD>
 
-.. grid:: auto
-  :gutter: 4
-  :margin: 0 0 auto auto
-  
-  .. grid-item::
+.. tab-set::
 
-    ::
+  .. tab-item:: Common Rat
 
-      Might:  3
-      Grace:  3
-      Mettle: 3
-      Insight:  3
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
       
-      Vitality: 7
+      .. grid-item::
+    
+        ::
+    
+          Might:  3
+          Grace:  3
+          Mettle: 3
+          Insight:  3
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
 
-  .. grid-item::
+    :ref:`catalog/traits:sharp claws`
 
-    ::
 
-      Charm:  1
-      Fright: 1
+  .. tab-item:: Coastal Rat
 
-      Speed:  6
-      Hunger: 10
-      Size: Average
-      Bulk: 4
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
+      
+      .. grid-item::
+    
+        ::
+    
+          Might:  4
+          Grace:  3
+          Mettle: 3
+          Insight:  2
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
 
-  .. grid-item::
+    :ref:`catalog/traits:sharp claws`
 
-    ::
 
-      +1.5 Charm/Fright
+  .. tab-item:: Roving Rat
 
-| **Races**
-| Common rat: ``no modifiers``
-| Coastal rat: ``+1 Might   -1 Insight``
-| Roving rat: ``+1 Grace   -1 Mettle``
-| Ashen rat: ``+1 Mettle   -1 Insight``
-| Fancy rat: ``+1 Insight   -1 Mettle``
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
+      
+      .. grid-item::
+    
+        ::
+    
+          Might:  3
+          Grace:  4
+          Mettle: 2
+          Insight:  3
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
 
-**Traits:** :ref:`catalog/traits:sharp claws`
+    :ref:`catalog/traits:sharp claws`
+
+
+  .. tab-item:: Ashen Rat
+
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
+      
+      .. grid-item::
+    
+        ::
+    
+          Might:  3
+          Grace:  3
+          Mettle: 4
+          Insight:  2
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
+
+    :ref:`catalog/traits:sharp claws`
+
+
+  .. tab-item:: Fancy Rat
+
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
+      
+      .. grid-item::
+    
+        ::
+    
+          Might:  3
+          Grace:  3
+          Mettle: 2
+          Insight:  4
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
+
+    :ref:`catalog/traits:sharp claws`
 
 --------
 
