@@ -15,14 +15,6 @@ Rat
 ------
 The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
 
-.. dropdown:: Details...
-
-    <TBD>
-
-.. tab-set::
-
-  .. tab-item:: Common Rat
-
     .. grid:: auto
       :gutter: 4
       :margin: 0 0 auto auto
@@ -56,158 +48,10 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
     
           +1.5 Flex Charm/Fright
 
+    | Rats are versatile and do not feature any races.
+    | You may choose to increase one of your four primary attributes by +1, but you must reduce a second primary attribute of your choice by -1.
+    
     When choosing your character traits, you gain 2 additional trait points to spend.
-
-  .. tab-item:: Coastal Rat
-
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
-      
-      .. grid-item::
-    
-        ::
-    
-          Might:  4
-          Grace:  3
-          Mettle: 3
-          Insight:  2
-          
-          Vitality: 7
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Flex Charm/Fright
-
-    When choosing your character traits, you gain 2 additional trait points to spend.
-
-
-  .. tab-item:: Roving Rat
-
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
-      
-      .. grid-item::
-    
-        ::
-    
-          Might:  3
-          Grace:  4
-          Mettle: 2
-          Insight:  3
-          
-          Vitality: 7
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Flex Charm/Fright
-
-    When choosing your character traits, you gain 2 additional trait points to spend.
-
-
-  .. tab-item:: Ashen Rat
-
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
-      
-      .. grid-item::
-    
-        ::
-    
-          Might:  3
-          Grace:  3
-          Mettle: 4
-          Insight:  2
-          
-          Vitality: 7
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Flex Charm/Fright
-
-    When choosing your character traits, you gain 2 additional trait points to spend.
-
-
-  .. tab-item:: Fancy Rat
-
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
-      
-      .. grid-item::
-    
-        ::
-    
-          Might:  3
-          Grace:  3
-          Mettle: 2
-          Insight:  4
-          
-          Vitality: 7
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Flex Charm/Fright
-
-    :ref:`catalog/traits:sharp claws`
 
 --------
 
@@ -262,9 +106,9 @@ A close cousin to the rat - hence the name - ratlings are smaller and more exagg
 
 --------
 
-Oscine
+Avis
 ------
-Tall and slender bird-people with a natural penchant for spellcraft, oscines dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
+Tall and slender bird-people with a natural penchant for spellcraft, avis dwell away from wider society to practice their arts, but are no strangers to life elsewhere should it beckon.
 
 .. dropdown:: Details...
 
@@ -315,7 +159,7 @@ Tall and slender bird-people with a natural penchant for spellcraft, oscines dwe
 
 Raptor
 ------
-A burly, imposing, infamously hardheaded species of avian, raptors have also garnered a reputation for oft appearing alongside their svelte oscine compatriots, not to mention their talents in many trades.
+A burly and imposing species of feathers and beaks, raptors have garnered a reputation for oft appearing alongside their svelte avis relatives, not to mention their talents in many trades.
 
 .. dropdown:: Details...
 
