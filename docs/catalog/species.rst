@@ -366,7 +366,7 @@ Drake
     
           +1 Flex Charm/Fright
 
-    (TBD common traits) Jaws, Claws, Large Stomach
+    (TBD common traits) Jaws, Claws, Large Stomach?
 
     .. dropdown:: Beast of Burden
 
@@ -380,7 +380,7 @@ Drake
         | *Physical*
         | *Trait value:* ``-4``
 
-        | At any time, you may choose to drop to a *quadrupedal stance*, gaining +6 Speed. You cannot hold any items in your hands while in this stance, but you gain +3 bonus dice on any roll made to resist getting knocked down or displaced. If the displacement does not offer a roll to resist, you instead roll 3 dice, ignoring the effect with 1 success.
+        | At any time, you may choose to drop to a *quadrupedal stance*, gaining +6 Speed. You cannot use or wield most items while in this stance, but you gain +3 bonus dice on any roll made to resist getting knocked down or displaced. If the displacement does not offer a roll to resist, you instead roll 3 dice, ignoring the effect with 1 success.
         | Returning to a *bipedal stance* costs 1 Stamina.
 
 --------
