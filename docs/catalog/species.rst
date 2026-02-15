@@ -13,51 +13,53 @@ Intelligent beings found all throughout the world of Nova Sophonia. Sophonts ten
 
 Rat
 ------
-The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
+The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations risen and fallen.
 
-.. grid:: auto
-  :gutter: 4
-  :margin: 0 0 auto auto
-  
-  .. grid-item::
+.. tab-set::
 
-    ::
+  .. tab-item:: Rat
 
-      Might:  3
-      Grace:  3
-      Mettle: 3
-      Insight:  3
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
       
-      Vitality: 7
+      .. grid-item::
+    
+        ::
+    
+          Might:  3
+          Grace:  3
+          Mettle: 3
+          Insight:  3
+          
+          Vitality: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 1
+    
+          Speed:  6
+          Hunger: 10
+          Size: Average
+          Bulk: 4
+    
+      .. grid-item::
+    
+        ::
+    
+          +1.5 Flex Charm/Fright
 
-  .. grid-item::
-
-    ::
-
-      Charm:  1
-      Fright: 1
-
-      Speed:  6
-      Hunger: 10
-      Size: Average
-      Bulk: 4
-
-  .. grid-item::
-
-    ::
-
-      +1.5 Flex Charm/Fright
-
-| Rats are versatile and do not feature any races.
-| You may choose to increase one of your four primary attributes by +1, but you must reduce a second primary attribute of your choice by -1.
-
-When choosing your character traits, you gain 2 additional trait points to spend.
+    | You may choose to increase one of your four primary attributes by +1, but you must reduce another primary attribute of your choice by -1.
+    | When choosing your character traits, you also gain 2 additional trait points to spend.
 
 --------
 
 Ratling
 ------
-A close cousin to the rat - hence the name - ratlings are smaller and more exaggerated in both proportions and disposition.
+A close cousin to the rat, ratlings are smaller and more exaggerated in both proportions and disposition. They have an uncanny knack for getting into
 
 .. dropdown:: Details...
 
@@ -159,7 +161,7 @@ Tall and slender bird-people with a natural penchant for spellcraft, avis dwell 
 
 Raptor
 ------
-A burly and imposing species of feathers and beaks, raptors have garnered a reputation for oft appearing alongside their svelte avis relatives, not to mention their talents in many trades.
+A burly and imposing species, raptors tread a strange crossroad between feather and scale. They have garnered a reputation for their talents in many physical trades.
 
 .. dropdown:: Details...
 
@@ -250,11 +252,11 @@ A steadfast reptilian people known for inhabiting the less habitable places in N
       +1.5 Charm/Fright
 
 | **Races**
-| Hobnob basilisk: ``-2 Hunger``   :ref:`catalog/traits:resistant` (+1 :term:`elemental <damage set: elemental>`)
-| Hill basilisk: ``+1 Might   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`cold <damage type: cold>`)
-| Sand basilisk: ``+1 Grace   -1 Might``   :ref:`catalog/traits:resistant` (+3 :term:`heat <damage type: heat>`)
-| Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistant` (+3 :term:`acid <damage type: acid>`)
-| Dusk basilisk: ``+1 Insight   -1 Might``   :ref:`catalog/traits:resistant` (+3 :term:`shock <damage type: shock>`)
+| Hobnob basilisk: ``-2 Hunger``   :ref:`catalog/traits:resistant` (1 :term:`elemental <damage set: elemental>`)
+| Hill basilisk: ``+1 Might   -1 Grace``   :ref:`catalog/traits:resistant` (3 :term:`cold <damage type: cold>`)
+| Sand basilisk: ``+1 Grace   -1 Might``   :ref:`catalog/traits:resistant` (3 :term:`heat <damage type: heat>`)
+| Crag basilisk: ``+1 Mettle   -1 Grace``   :ref:`catalog/traits:resistant` (3 :term:`acid <damage type: acid>`)
+| Dusk basilisk: ``+1 Insight   -1 Might``   :ref:`catalog/traits:resistant` (3 :term:`shock <damage type: shock>`)
 
 **Traits:** TBD
 
@@ -325,8 +327,61 @@ TBD TBD
 
 Drake
 ------
-| *TBD blurb*
-| *Large intelligent mount lizards, swap between handedness and quadrupedal speed*
+*TBD blurb*
+
+.. tab-set::
+
+  .. tab-item:: Drake
+
+    .. grid:: auto
+      :gutter: 4
+      :margin: 0 0 auto auto
+      
+      .. grid-item::
+    
+        ::
+    
+          Might:  4
+          Grace:  2
+          Mettle: 3
+          Insight:  3
+          
+          Vitality: 8
+    
+      .. grid-item::
+    
+        ::
+    
+          Charm:  1
+          Fright: 2
+    
+          Speed:  2
+          Hunger: 25
+          Size: Large
+          Bulk: 7
+    
+      .. grid-item::
+    
+        ::
+    
+          +1 Flex Charm/Fright
+
+    (TBD common traits) Jaws, Claws, Large Stomach
+
+    .. dropdown:: Beast of Burden
+
+        | *Physical*
+        | *Trait value:* ``-4``
+
+        | Your Load capacity is increased by 2. Additionally, you can carry other creatures as if they weighed 2 Bulk less.
+
+    .. dropdown:: Facultative Bipedalism
+
+        | *Physical*
+        | *Trait value:* ``-4``
+
+        | At any time, you may choose to drop to a *quadrupedal stance*, gaining +6 Speed. You cannot hold any items in your hands while in this stance, but you gain +3 bonus dice on any roll made to resist getting knocked down or displaced. If the displacement does not offer a roll to resist, you instead roll 3 dice, ignoring the effect with 1 success.
+        | Returning to a *bipedal stance* costs 1 Stamina.
 
 --------
 
@@ -429,7 +484,7 @@ Lumen
         ::
 
           Charm:  1
-          Fright: 1
+          Fright: 2
 
           Speed:  6
           Hunger: 22
