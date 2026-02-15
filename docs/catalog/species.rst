@@ -56,8 +56,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
     
           +1.5 Flex Charm/Fright
 
-    :ref:`catalog/traits:sharp claws`
-
+    When choosing your character traits, you gain 2 additional trait points to spend.
 
   .. tab-item:: Coastal Rat
 
@@ -94,7 +93,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
     
           +1.5 Flex Charm/Fright
 
-    :ref:`catalog/traits:sharp claws`
+    When choosing your character traits, you gain 2 additional trait points to spend.
 
 
   .. tab-item:: Roving Rat
@@ -132,7 +131,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
     
           +1.5 Flex Charm/Fright
 
-    :ref:`catalog/traits:sharp claws`
+    When choosing your character traits, you gain 2 additional trait points to spend.
 
 
   .. tab-item:: Ashen Rat
@@ -170,7 +169,7 @@ The common rat, one of the most adaptable sophonts in the known world. By their 
     
           +1.5 Flex Charm/Fright
 
-    :ref:`catalog/traits:sharp claws`
+    When choosing your character traits, you gain 2 additional trait points to spend.
 
 
   .. tab-item:: Fancy Rat
