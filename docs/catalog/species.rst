@@ -15,43 +15,43 @@ Rat
 ------
 The common rat, one of the most adaptable sophonts in the known world. By their apt paws have many civilizations been raised and felled.
 
-    .. grid:: auto
-      :gutter: 4
-      :margin: 0 0 auto auto
-      
-      .. grid-item::
-    
-        ::
-    
-          Might:  3
-          Grace:  3
-          Mettle: 3
-          Insight:  3
-          
-          Vitality: 7
-    
-      .. grid-item::
-    
-        ::
-    
-          Charm:  1
-          Fright: 1
-    
-          Speed:  6
-          Hunger: 10
-          Size: Average
-          Bulk: 4
-    
-      .. grid-item::
-    
-        ::
-    
-          +1.5 Flex Charm/Fright
+.. grid:: auto
+  :gutter: 4
+  :margin: 0 0 auto auto
+  
+  .. grid-item::
 
-    | Rats are versatile and do not feature any races.
-    | You may choose to increase one of your four primary attributes by +1, but you must reduce a second primary attribute of your choice by -1.
-    
-    When choosing your character traits, you gain 2 additional trait points to spend.
+    ::
+
+      Might:  3
+      Grace:  3
+      Mettle: 3
+      Insight:  3
+      
+      Vitality: 7
+
+  .. grid-item::
+
+    ::
+
+      Charm:  1
+      Fright: 1
+
+      Speed:  6
+      Hunger: 10
+      Size: Average
+      Bulk: 4
+
+  .. grid-item::
+
+    ::
+
+      +1.5 Flex Charm/Fright
+
+| Rats are versatile and do not feature any races.
+| You may choose to increase one of your four primary attributes by +1, but you must reduce a second primary attribute of your choice by -1.
+
+When choosing your character traits, you gain 2 additional trait points to spend.
 
 --------
 
