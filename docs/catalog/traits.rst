@@ -32,13 +32,19 @@ Sorcerer
 | *Mental, magic*
 | *Trait value:* ``-3``
 | You have a unique, innate magical gift. When you take this trait, choose one mystic path. You learn one spell from that path, and can cast any prepared spells from that path without the help of an arcane focus. If you have 1 or no ranks in your chosen path, you may also cast its spells up to a difficulty of 3.
-| You must have one usable empty hand to cast spells without an arcane focus. For the purposes of certain traits and benefits which require a talisman, you are treated as always wielding a talisman.
+| You must have one usable empty hand to cast spells without an arcane focus.
+
+Keen
+--------
+| *Mental*
+| *Trait value:* ``-2``
+| Your reactions are sharp in combat. You gain +2 bonus dice on initiative checks.
 
 Talented
 --------
 | *Mental*
 | *Trait value:* ``-2``
-| You have a penchant for a particular skill. When using that skill to add dice to a roll, one failed die is instead treated as a guaranteed success.
+| You have a penchant for one particular skill. When using that skill to add dice to a roll, one failed die is instead treated as a guaranteed success.
 | This trait may be taken multiple times, but never for the same skill.
 
 Wingman
@@ -48,11 +54,18 @@ Wingman
 | You get +1 die to hit a target that has been hit by an ally since your last turn.
 | Additionally, you gain +1 reroll to relevant rolls when crafting or performing a profession alongside another doing the same task.
 
+Presence
+--------
+| *Physical*
+| *Trait value:* ``-1``
+| You have a certain air about you, which may put others at ease or set them on edge. You increase either Charm or Fright by 1.
+| This trait can be taken twice.
+
 Vocalist
 --------
 | *Physical*
 | *Trait value:* ``-1``
-| You've trained yourself to sing in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your singing style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current scene.
+| You've trained yourself to use your voice in a distinctive way, capable of being heard over long distances. When this trait is chosen, define your vocal style as either *pleasant* or *haunting*. Treat your Charm or Fright, respectively, as 1 higher for interactions with others who have heard your performance in the current scene.
 
 Gaunt
 --------
@@ -79,6 +92,13 @@ Minor Flaw
   | **Lost tail**: *Physical.* -1 to acrobatics checks.
   | **Missing eye**: *Physical.* -1 to any checks relying on sight. +0.5 Fright.
   | **Compliant**: *Mental.* -1 to any check made against perceived authority. +0.5 Charm.
+
+
+Daydreamer
+--------
+| *Mental*
+| *Trait value:* ``+2``
+| You find your focus drifting beyond the present more often than you might like. You have a -2 die penalty on initiative checks.
 
 One Arm
 --------
