@@ -10,6 +10,8 @@ This is heavily WIP.
    :caption: Core Changes
    :hidden:
 
+   core/synopsis
+
 .. toctree::
    :caption: Addendum
    :hidden:
