@@ -1,5 +1,0 @@
-********
-Catalog: Trinket Effects
-********
-
---------
