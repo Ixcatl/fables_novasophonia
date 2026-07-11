@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Fables of Nova Sophonia: TTRPG Rulebook'
-copyright = 'HKRPG Team, from whom this work was derived, & Ixcatl 2023-2026'
+project = 'Fables of Nova Sophonia: A MotW Mutation'
+copyright = 'Ixcatl 2023-2026, based upon the work of genericgames.co.nz and apocalypse-world.com'
 author = 'Ixcatl'
 
 release = '1.0'
