@@ -32,7 +32,7 @@ details.sd-dropdown .sd-summary-up, details.sd-dropdown .sd-summary-down {
 }
 
 
-.rst-content footer {
+html.writer-html5 body.wy-body-for-nav div.wy-grid-for-nav section.wy-nav-content-wrap div.wy-nav-content div.rst-content footer {
   display: none !important;
 }
 
