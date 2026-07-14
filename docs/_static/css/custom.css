@@ -32,6 +32,11 @@ details.sd-dropdown .sd-summary-up, details.sd-dropdown .sd-summary-down {
 }
 
 
+.bottom-of-page {
+  visibility: hidden;
+}
+
+
 /* Fix missing line-wrapping with Sphinx-RTD theme */
 /* https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html */
 
