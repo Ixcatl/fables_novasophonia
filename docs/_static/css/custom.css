@@ -33,7 +33,7 @@ details.sd-dropdown .sd-summary-up, details.sd-dropdown .sd-summary-down {
 
 
 .rst-content footer {
-  visibility: hidden !important;
+  display: none !important;
 }
 
 
