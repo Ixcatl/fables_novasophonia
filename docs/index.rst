@@ -10,7 +10,7 @@ This is heavily WIP.
    :caption: Core Changes
    :hidden:
 
-   core/synopsis
+   core/groundwork
 
 .. toctree::
    :caption: Addendum
