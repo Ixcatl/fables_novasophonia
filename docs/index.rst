@@ -7,10 +7,10 @@ Welcome to the documentation page for **Fables of Nova Sophonia**, a tabletop ro
 This is heavily WIP.
 
 .. toctree::
-   :caption: Core Changes
+   :caption: Groundwork
    :hidden:
 
-   core/groundwork
+   core/getting_started
 
 .. toctree::
    :caption: Addendum
