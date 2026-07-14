@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Fables of Nova Sophonia: A PbtA TTRPG'
-copyright = 'Ixcatl 2023-2026, based upon the work of apocalypse-world.com & genericgames.co.nz'
+copyright = 'Ixcatl 2023-2026, based upon the work of apocalypse-world.com & derivatives'
 author = 'Ixcatl'
 
 release = '1.0'
