@@ -7,7 +7,7 @@ In an unfamiliar and far removed cosmos spins the marble that is Nova Sophonia: 
 The stories of these entangled cultures tell of their heroes kind and cruel, pious and timid, mighty and meek. Though you may not know it yet, *you are one of these heroes*. Others may pen your exploits, your story preserved forever in reverence, or shame, or fright. It's up to you to find out which.
 
 .. toctree::
-   :caption: Groundwork
+   :caption: How to Play
    :hidden:
 
    core/getting_started
