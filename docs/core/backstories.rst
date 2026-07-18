@@ -10,11 +10,11 @@ Backstories
 Destined
 ------
 
-:::{card} Test
-**Header**
-^^^
-Card content
-:::
+.. card::
+
+    **Header**
+    ^^^
+    Card content
 
 .. tab-set::
 
