@@ -11,6 +11,7 @@ The stories of these entangled cultures tell of their heroes kind and cruel, pio
    :hidden:
 
    core/getting_started
+   core/backstories
 
 .. toctree::
    :caption: Addendum
