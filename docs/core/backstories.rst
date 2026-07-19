@@ -11,6 +11,7 @@ Fatebound
 ------
 
 **Ratings modifier**, pick one:
+
 - no modifier
 - Ego +1, Reason -1
 - Might +1, Wyrd -1
@@ -19,10 +20,12 @@ Fatebound
 - Wyrd +1, Ego -1
 
 **Choose one of the following moves:**
+
 - **Destiny’s Plaything**: At the beginning of each chapter, roll +Weird to **see what is revealed about your immediate future**. On a 10+, the Narrator will reveal a useful detail about your coming agenda. On a 7-9 you get a vague hint about it. On a miss, something bad is going to happen to you.
 - **I’m Here For A Reason**: There’s something you are destined to do. Work out the details with the Narrator, based on your fate. You cannot die until it comes to pass. **If you die in play**, you must spend a Luck point. You will then, somehow, recover or be returned to life. Once your task is done (or you use up all your Luck), all bets are off.
 
 **Choose one of the following moves:**
+
 - (TBW)
 - **Dutiful**: When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) then mark experience. If it’s a heroic tag, take +1 forward.
 - **Warrior of Legend**: You have a special weapon you are destined to wield. Talk with the Keeper about what it should be, what tags it should have, and how it has and will fit into your story. Your weapon will always return to you after some time.
