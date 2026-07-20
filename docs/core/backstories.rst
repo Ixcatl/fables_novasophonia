@@ -20,12 +20,17 @@ Fatebearer
 - Reason +1, Might -1
 - Wyrd +1, Ego -1
 
-**Choose one of the following moves:**
+**Pick one of the following moves:**
 
-- **Cosmic Dice**: At the beginning of each chapter, roll +Wyrd to **see what is revealed about your immediate future**. On a 10+, the Narrator will reveal a useful detail. On a 7-9 you get a vague hint. On a miss, something bad is going to happen to you.
-- **A Fixed Point**: There’s something you are destined to do. Work out the details with the Narrator, based on your fate. You cannot die until it comes to pass. **If you die in play**, you must spend a Fate. You will then, somehow, recover or be returned to life. Once your task is done or you use up all your Fates, all bets are off.
+.. card:: Cosmic Dice
 
-**Choose one of the following moves:**
+    At the beginning of each chapter, roll +Wyrd to **see what is revealed about your immediate future**. On a 10+, the Narrator will reveal a useful detail. On a 7-9 you get a vague hint. On a miss, something bad is going to happen to you.
+
+.. card:: A Fixed Point
+
+    There’s something you are destined to do. Work out the details with the Narrator, based on your fate. You cannot die until it comes to pass. **If you die in play**, you must spend a Fate. You will then, somehow, recover or be returned to life. Once your task is done or you use up all your Fates, all bets are off.
+
+**... then another of these moves:**
 
 - (TBW)
 - **Dutiful**: When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) earn 1 EXP. If it’s a heroic tag, take +1 forward.
