@@ -2,6 +2,26 @@
 Backstories
 ***********
 
+######
+Part
+######
+
+******
+Chapter
+******
+
+Section
+======
+
+Subsection
+------
+
+Subsubsection
+^^^^^^
+
+Paragraph
+""""""
+
 .. Note::
   "Prefix" generally refers to either a character's second highest rank path or their second oldest path, and may be applied as a prefix to their primary path title purely for flavor if desired.
 
