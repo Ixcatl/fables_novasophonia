@@ -2,18 +2,6 @@
 Backstories
 ***********
 
-######
-Part
-######
-
-AGGA
-
-******
-Chapter
-******
-
-AGGA
-
 Section
 ======
 
@@ -29,7 +17,7 @@ Subsubsection
 
 AGGA
 
-Paragraph
+Subsubsubsection
 """"""
 
 AGGA
