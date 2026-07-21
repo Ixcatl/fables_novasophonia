@@ -7,6 +7,10 @@ Backstories
 Fatebearer
 ======
 
+    *Sample quote*
+
+    -- AGGA
+
 **Ratings modifier**; pick one:
 
 - no modifier
@@ -21,13 +25,13 @@ Fatebearer
 
 .. card:: Eight Lives
 
-    There’s something you are destined to do. Work out the details with the Narrator, based on your fate. You cannot die until it comes to pass. **If you die in play**, you must spend a Fate. You will then, somehow, recover or be returned to life. Once your task is done or you use up all your Fates, all bets are off.
+    The power of your prophecy pulls the strings just enough to keep you going; you cannot die until your fulfill your fated mission. **Any time you would die in play**, spend a Fate token (and take its consequence). You'll be left alive to recover safely... though that's the only aftermath you'll be spared. After you complete your prophecy or spend all your Fates, you're free game.
 
 **... then pick one of these moves:**
 
 .. card:: Sneak Peek
 
-    When the Narrator begins a new chapter and **you stop to ponder your near future**, roll +Wyrd. On a 10+, you have a pretty good hunch; the Narrator will offer you some valuable insight. On a 7-9 you get a vague hint.
+    When the Narrator begins a new chapter and **you stop to ponder your prophecy**, roll +Wyrd. On a 10+, you have a pretty good hunch; the Narrator will offer you some valuable insight. On a 7-9 you get a vague hint.
 
 .. card:: Warrior of Legend
 
