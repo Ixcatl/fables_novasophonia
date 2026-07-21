@@ -10,15 +10,19 @@ Part
 Chapter
 ******
 
+======
 Section
 ======
 
+------
 Subsection
 ------
 
+^^^^^^
 Subsubsection
 ^^^^^^
 
+""""""
 Paragraph
 """"""
 
