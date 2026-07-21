@@ -17,13 +17,13 @@ Fatebearer
 - Reason +1, Vigor -1
 - Wyrd +1, Ego -1
 
-**Pick one of these moves:**
+**You get this move:**
 
 .. card:: Eight Lives
 
     There’s something you are destined to do. Work out the details with the Narrator, based on your fate. You cannot die until it comes to pass. **If you die in play**, you must spend a Fate. You will then, somehow, recover or be returned to life. Once your task is done or you use up all your Fates, all bets are off.
 
-**... then another of these moves:**
+**... then pick one of these moves:**
 
 .. card:: Sneak Peek
 
