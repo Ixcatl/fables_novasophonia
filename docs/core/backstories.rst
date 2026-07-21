@@ -30,17 +30,20 @@ Fatebearer
 
 **... then pick one of these moves:**
 
-.. card:: Sneak Peek
+.. grid:: 2
+    :gutter: 1
 
-    When the Narrator begins a new chapter and **you stop to ponder your prophecy**, roll +Wyrd. On a 10+, you have a pretty good hunch; the Narrator will offer you some valuable insight. On a 7-9 you get a vague hint.
+    .. grid-item-card:: Sneak Peek
 
-.. card:: Warrior of Legend
+       When the Narrator begins a new chapter and **you stop to ponder your prophecy**, roll +Wyrd. On a 10+, you have a pretty good hunch; the Narrator will offer you some valuable insight. On a 7-9 you get a vague hint.
 
-    You have a special artifact you are destined to wield - a weapon, magic focus, or tool of some kind. Talk with the Narrator about what it should be, what tags it should have, and how it has and will fit into your story. Your artifact will always return to you after some time.
+    .. grid-item-card:: Warrior of Legend
 
-.. card:: Dutiful
+       You have a special artifact you are destined to wield - a weapon, magic focus, or tool of some kind. Talk with the Narrator about what it should be, what tags it should have, and how it has and will fit into your story. Your artifact will always return to you after some time.
 
-    When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) earn 1 EXP. If it’s a heroic tag, take +1 forward.
+    .. grid-item-card:: Dutiful
+
+       When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) earn 1 EXP. If it’s a heroic tag, take +1 forward.
 
 **Your Prophecy**: (See the Your Fate section in MotW's Chosen. more or less the same)
 
