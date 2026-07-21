@@ -23,10 +23,12 @@ Fatebearer
 
 **You get this move:**
 
-.. card:: Eight Lives
-    :width: 50%
+.. grid:: 2
+    :gutter: 1
 
-    The power of your prophecy pulls the strings just enough to keep you going; you cannot die until your fulfill your fated mission. **Any time you would die in play**, spend a Fate token (and take its consequence). You'll be left alive to recover safely... but that's the only aftermath you'll be spared. After you complete your prophecy or spend all your Fates, you're free game.
+    .. grid-item-card:: Eight Lives
+
+       The power of your prophecy pulls the strings just enough to keep you going; you cannot die until your fulfill your fated mission. **Any time you would die in play**, spend a Fate token (and take its consequence). You'll be left alive to recover safely... but that's the only aftermath you'll be spared. After you complete your prophecy or spend all your Fates, you're free game.
 
 **... then pick one of these moves:**
 
