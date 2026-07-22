@@ -98,3 +98,10 @@ Yokel (WIP)
     *Sample quote. The average person.*
 
 ----
+
+Mercenary (WIP)
+====
+
+    *Sample quote. TBW.*
+
+----
