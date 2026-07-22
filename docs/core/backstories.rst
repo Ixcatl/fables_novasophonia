@@ -27,12 +27,12 @@ Fatebearer (WIP)
 
        **When you spend a Fate token**, the consequences:
 
-       - N: *You will find something important to your prophecy, even if you might not know it then.*
-       - NE, NW: *You get lucky, and nothing more.*
-       - E: *Something bad will befall someone you care for.*
-       - W: *Good fortune will grace someone troublesome for you.*
-       - SE, SW: *A problem you have previously solved will rear its head once more.*
-       - S: *A major obstacle to your prophecy will come knocking at your door.*
+       - **N:** You will find something important to your prophecy, even if you might not know it then.
+       - **NE, NW:** You get lucky, and nothing more.
+       - **E:** Something bad will befall someone you care for.
+       - **W:** Good fortune will grace someone troublesome for you.
+       - **SE, SW:** A problem you have previously solved will rear its head once more.
+       - **S:** A major obstacle to your prophecy will come knocking at your door.
 
 **You get this move:**
 
@@ -74,6 +74,6 @@ Specialist (WIP)
 Scholar (WIP)
 ====
 
-    *Sample quote. Lets you get even more mileage out of your book choices.*
+    *Sample quote. Applies book smarts to the street. They're great sources of exposition.*
 
 ----
