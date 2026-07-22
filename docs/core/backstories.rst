@@ -1,25 +1,37 @@
-***********
+****
 Backstories
-***********
+****
 
-------
+----
 
 Fatebearer (WIP)
-======
+====
 
-    *Sample quote*
+    *Sample quote. The protagonist. Whips the story as much as the story whips them.*
 
-    -- AGGA
+.. grid:: 2
 
-**Ratings modifier**; pick one:
+    .. grid-item::
 
-- no modifier
-- Might +1, Wyrd -1
-- Vigor +1, Poise -1
-- Poise +1, Might -1
-- Ego +1, Reason -1
-- Reason +1, Vigor -1
-- Wyrd +1, Ego -1
+       **Ratings modifier**; pick one:
+
+       - no modifier
+       - Might +1, Wyrd -1
+       - Vigor +1, Poise -1
+       - Poise +1, Might -1
+       - Ego +1, Reason -1
+       - Reason +1, Vigor -1
+       - Wyrd +1, Ego -1
+
+    .. grid-item::
+
+       **Your Fate tokens:**
+
+       - N:
+       - NE, NW:
+       - E, W:
+       - SE, SW:
+       - S:
 
 **You get this move:**
 
@@ -49,4 +61,18 @@ Fatebearer (WIP)
 
 **Your Prophecy**: (See the Your Fate section in MotW's Chosen. more or less the same)
 
---------
+----
+
+Specialist (WIP)
+====
+
+    *Sample quote. A master of one or few skillbooks. They can take a variety of roles.*
+
+----
+
+Scholar (WIP)
+====
+
+    *Sample quote. Lets you get even more mileage out of your book choices.*
+
+----
