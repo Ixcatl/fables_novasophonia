@@ -67,7 +67,7 @@ Fatebearer (WIP)
 Specialist (WIP)
 ====
 
-    *Sample quote. A master of one or few skillbooks. They can take a variety of roles.*
+    *Sample quote. Master of one or few skillbooks. They can take a variety of roles.*
 
 ----
 
@@ -81,14 +81,14 @@ Scholar (WIP)
 Heathen (WIP)
 ====
 
-    *Sample quote. Masters of war and intimidation. Fueled by raw desires and muscle.*
+    *Sample quote. Magnate of war and intimidation. Fueled by raw desires and muscle.*
 
 ----
 
 Occultist (WIP)
 ====
 
-    *Sample quote. Masters of war and intimidation. Fueled by raw desires and muscle.*
+    *Sample quote. A secretive sort. Knows hidden ways to bend the world around them.*
 
 ----
 
