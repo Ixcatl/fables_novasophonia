@@ -25,13 +25,14 @@ Fatebearer (WIP)
 
     .. grid-item::
 
-       **Your Fate tokens:**
+       **When you spend a Fate token**, the consequences:
 
-       - N:
-       - NE, NW:
-       - E, W:
-       - SE, SW:
-       - S:
+       - N: *You will find something important to your prophecy, even if you might not know it then.*
+       - NE, NW: *You get lucky, and nothing more.*
+       - E: *Something bad will befall someone you care for.*
+       - W: *Good fortune will grace someone troublesome for you.*
+       - SE, SW: *A problem you have previously solved will rear its head once more.*
+       - S: *A major obstacle to your prophecy will come knocking at your door.*
 
 **You get this move:**
 
