@@ -74,6 +74,27 @@ Specialist (WIP)
 Scholar (WIP)
 ====
 
-    *Sample quote. Applies book smarts to the street. They're great sources of exposition.*
+    *Sample quote. Applies book smarts to the street. A great source of exposition.*
+
+----
+
+Heathen (WIP)
+====
+
+    *Sample quote. Masters of war and intimidation. Fueled by raw desires and muscle.*
+
+----
+
+Occultist (WIP)
+====
+
+    *Sample quote. Masters of war and intimidation. Fueled by raw desires and muscle.*
+
+----
+
+Yokel (WIP)
+====
+
+    *Sample quote. The average person.*
 
 ----
