@@ -105,3 +105,10 @@ Mercenary (WIP)
     *Sample quote. TBW.*
 
 ----
+
+Performer (WIP)
+====
+
+    *Sample quote. TBW.*
+
+----
