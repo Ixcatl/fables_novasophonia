@@ -55,10 +55,10 @@ Fatebearer (WIP)
        **Your suggested bonds.** Pick and fill in at least one, or write your own:
 
        - *"I've been ______'s companion long before I knew my destiny. They'll keep me grounded."*
-       - *"I need ______ to help me advance my prophecy."*
-       - *"______ is in danger.
+       - *"I need to help ______, and they need to help me."*
+       - *"______ is in danger. I'll try to protect them."*
        - *"______, or someone like them, is fated to betray me. I can't trust them."*
-       - *"______'s advice could help me in the days ahead."*
+       - *"I could learn a lot from ______'s advice."*
 
 **You get this move:**
 
