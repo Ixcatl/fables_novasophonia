@@ -4,6 +4,13 @@ Backstories
 
 ----
 
+Artisan (WIP)
+====
+
+    *Sample quote. Master of one or few skillbooks. They can take a variety of roles.*
+
+----
+
 Fatebearer (WIP)
 ====
 
@@ -64,38 +71,10 @@ Fatebearer (WIP)
 
 ----
 
-Specialist (WIP)
-====
-
-    *Sample quote. Master of one or few skillbooks. They can take a variety of roles.*
-
-----
-
-Scholar (WIP)
-====
-
-    *Sample quote. Applies book smarts to the street. A great source of exposition.*
-
-----
-
 Heathen (WIP)
 ====
 
     *Sample quote. Magnate of war and intimidation. Fueled by raw desires and muscle.*
-
-----
-
-Occultist (WIP)
-====
-
-    *Sample quote. A secretive sort. Knows hidden ways to bend the world around them.*
-
-----
-
-Yokel (WIP)
-====
-
-    *Sample quote. The average person.*
 
 ----
 
@@ -106,9 +85,30 @@ Mercenary (WIP)
 
 ----
 
+Occultist (WIP)
+====
+
+    *Sample quote. A secretive sort. Knows hidden ways to bend the world around them.*
+
+----
+
 Performer (WIP)
 ====
 
     *Sample quote. TBW.*
+
+----
+
+Scholar (WIP)
+====
+
+    *Sample quote. Applies book smarts to the street. A great source of exposition.*
+
+----
+
+Yokel (WIP)
+====
+
+    *Sample quote. The average person.*
 
 ----
