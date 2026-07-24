@@ -45,7 +45,10 @@ Fatebearer (WIP)
 
        **Your ambitions:**
 
-       - 
+       - **Seeker:** Fulfill a part of your prophecy.
+       - **Breaker:** Blatantly defy your prophecy.
+       - *(First free space.)*
+       - *(Second free space.)*
 
     .. grid-item::
 
