@@ -4,10 +4,17 @@ Backstories
 
 ----
 
+Apostle (WIP)
+====
+
+    *Sample quote. Disciple of a powerful being. Petitions magical aid and offers tribute in kind.*
+
+----
+
 Artisan (WIP)
 ====
 
-    *Sample quote. Master of one or few skillbooks. They can take a variety of roles.*
+    *Sample quote. Master of a given craft. Finds comfort outside of fights.*
 
 ----
 
