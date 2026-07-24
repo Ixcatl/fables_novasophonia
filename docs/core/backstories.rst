@@ -37,9 +37,25 @@ Fatebearer (WIP)
        - **N:** You will find something important to your prophecy, even if you might not know it then.
        - **NE, NW:** You get lucky, and nothing more.
        - **E:** Something bad will befall someone you care for.
-       - **W:** Good fortune will grace someone troublesome for you.
+       - **W:** Good fortune will grace a persistent foe.
        - **SE, SW:** A problem you have previously solved will rear its head once more.
-       - **S:** A major obstacle to your prophecy will come knocking at your door.
+       - **S:** A major (possibly unexpected) obstacle to your prophecy will come knocking at your door.
+
+    .. grid-item::
+
+       **Your ambitions:**
+
+       - 
+
+    .. grid-item::
+
+       **Your suggested bonds.** Pick and fill in at least one, or write your own:
+
+       - *"I've been ______'s companion long before I knew my destiny. They'll keep me grounded."*
+       - *"I need ______ to help me advance my prophecy."*
+       - *"______ is in danger.
+       - *"______, or someone like them, is fated to betray me. I can't trust them."*
+       - *"______'s advice could help me in the days ahead."*
 
 **You get this move:**
 
@@ -61,7 +77,7 @@ Fatebearer (WIP)
 
     .. grid-item-card:: Warrior of Legend
 
-       You have a special artifact you are destined to wield - a weapon, magic focus, or tool of some kind. Talk with the Narrator about what it should be, what tags it should have, and how it has and will fit into your story. Your artifact will always return to you after some time.
+       You have a special artifact you are destined to wield - a weapon, magic focus, or tool of some kind. Talk with the Narrator about what it should be, what tags it should have, and how it has and will fit into your story. Your artifact is tailor-made to fulfill your prophecy in whatever way it could, and it will always return to you after some time.
 
     .. grid-item-card:: Dutiful
 
