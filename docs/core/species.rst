@@ -70,7 +70,7 @@ Drake (WIP)
 Lumen (WIP)
 ====
 
-    *Sample quote. DETAIL ME.*
+    *Blurb here.*
 
 ----
 
