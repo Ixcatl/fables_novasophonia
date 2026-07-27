@@ -37,6 +37,8 @@ Fatebearer (WIP)
        - Reason +1, Vigor -1
        - Wyrd +1, Ego -1
 
+       You also get +8 Hit Points.
+
     .. grid-item::
 
        **When you spend a Fate token**, the consequences:
