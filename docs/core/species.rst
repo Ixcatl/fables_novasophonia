@@ -4,62 +4,86 @@ Species
 
 ----
 
-Fatebearer (WIP)
+Rat (WIP)
 ====
 
-    *Sample quote. The protagonist. Whips the story as much as the story whips them.*
+    *Sample quote. Widespread murid folk known for their exceptional adaptability. They live in almost any environment.*
 
-.. grid:: 2
+----
 
-    .. grid-item::
+Ratling (WIP)
+====
 
-       **Ratings modifier**; pick one:
+    *Sample quote. A close cousin to rats, stockier and more eccentric. They fit into more niches than their cousins.*
 
-       - no modifier
-       - Might +1, Wyrd -1
-       - Vigor +1, Poise -1
-       - Poise +1, Might -1
-       - Ego +1, Reason -1
-       - Reason +1, Vigor -1
-       - Wyrd +1, Ego -1
+----
 
-    .. grid-item::
+Avis (WIP)
+====
 
-       **When you spend a Fate token**, the consequences:
+    *Sample quote. Birdpeople.*
 
-       - **N:** You will find something important to your prophecy, even if you might not know it then.
-       - **NE, NW:** You get lucky, and nothing more.
-       - **E:** Something bad will befall someone you care for.
-       - **W:** Good fortune will grace someone troublesome for you.
-       - **SE, SW:** A problem you have previously solved will rear its head once more.
-       - **S:** A major obstacle to your prophecy will come knocking at your door.
+----
 
-**You get this move:**
+Raptor (WIP)
+====
 
-.. grid:: 2
-    :gutter: 1
+    *Sample quote. Stockier birdpeople.*
 
-    .. grid-item-card:: Eight Lives
+----
 
-       The power of your prophecy pulls the strings just enough to keep you going; you cannot die until your fulfill your fated mission. **Any time you would die in play**, spend a Fate token (and take its consequence). You'll be left alive to recover safely... but that's the only aftermath you'll be spared. After you complete your prophecy or spend all your Fates, you're free game.
+Basilisk (WIP)
+====
 
-**... then pick one of these moves:**
+    *Sample quote. Lizardpeople.*
 
-.. grid:: 2
-    :gutter: 1
+----
 
-    .. grid-item-card:: Sneak Peek
+Ophidian (WIP)
+====
 
-       When the Narrator begins a new chapter and **you stop to ponder your prophecy**, roll +Wyrd. On a 10+, you have a pretty good hunch; the Narrator will offer you some valuable insight. On a 7-9 you get a vague hint.
+    *Sample quote. Naga.*
 
-    .. grid-item-card:: Warrior of Legend
+----
 
-       You have a special artifact you are destined to wield - a weapon, magic focus, or tool of some kind. Talk with the Narrator about what it should be, what tags it should have, and how it has and will fit into your story. Your artifact will always return to you after some time.
+Poliwog (WIP)
+====
 
-    .. grid-item-card:: Dutiful
+    *Sample quote. Frogperson.*
 
-       When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) earn 1 EXP. If it’s a heroic tag, take +1 forward.
+----
 
-**Your Prophecy**: (See the Your Fate section in MotW's Chosen. more or less the same)
+Piscis (WIP)
+====
+
+    *Sample quote. Fishperson.*
+
+----
+
+Drake (WIP)
+====
+
+    *Sample quote. Quad dragons, fun stuff.*
+
+----
+
+Lumen (WIP)
+====
+
+    *Sample quote. DETAIL ME.*
+
+----
+
+Changeling (WIP)
+====
+
+    *Sample quote. Sons of chaos.*
+
+----
+
+Lezhy (WIP)
+====
+
+    *Sample quote. Sylvan protectors.*
 
 ----
