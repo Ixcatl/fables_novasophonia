@@ -89,18 +89,23 @@ Lumen (WIP)
 - -1 Might, 0 Vigor, 1 Poise, 1 Ego, 0 Reason, 2 Wyrd
 - -1 Might, -1 Vigor, -1 Poise, 0 Ego, 1 Reason, 3 Wyrd
 
-**Hit points:** 10
+**Hit points:** 12
 **Magic points:** 6
-**Damage die:** d4
+**Damage modifier:** 0
 
-**You get these moves:**
+**Take any of these moves:**
 
 .. grid:: 2
     :gutter: 1
 
     .. grid-item-card:: Half Pint
 
-       When **you use your small stature to your advantage** while defying danger, take +1.
+       When **you use your small stature to your advantage** while **defying danger**, take +1. If you take this move, pay -2 maximum HP and -1 damage modifier.
+
+**You get these moves:**
+
+.. grid:: 2
+    :gutter: 1
 
     .. grid-item-card:: Anima Shivers
 
@@ -112,7 +117,7 @@ Lumen (WIP)
 
     .. grid-item-card:: TBW
 
-       You are a creature born of powerful will; you naturally clash with others. When **you're affected by hostile holy magicks**, take -1 ongoing against any effects. If it's a damaging effect, you take an extra 2 damage.
+       You are a creature born of powerful will; you naturally clash with others. When **you're affected by hostile holy magicks**, take -1 ongoing against related effects. If it's a damaging effect, you take an extra 2 damage.
 
 **... then pick one of these moves:**
 
@@ -136,5 +141,12 @@ Lezhy (WIP)
 ====
 
     *Sample quote. Sylvan protectors.*
+
+----
+
+Ao (WIP)
+====
+
+    *Sample quote. Techno-slimepeople.*
 
 ----
