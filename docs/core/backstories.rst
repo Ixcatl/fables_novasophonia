@@ -37,8 +37,8 @@ Fatebearer (WIP)
        - Reason +1, Vigor -1
        - Wyrd +1, Ego -1
 
-       **Hit points modifier:** +4
-       **Damage die:** d8
+       | **Hit point modifier:** +4
+       | **Attack damage modifier:** +2
 
     .. grid-item::
 
